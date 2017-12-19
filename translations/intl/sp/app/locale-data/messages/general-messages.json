@@ -1,0 +1,462 @@
+[
+  {
+    "id": "app.general.abort",
+    "description": "abort/cancel button label",
+    "defaultMessage": "Abortar"
+  },
+  {
+    "id": "app.general.action",
+    "description": "action",
+    "defaultMessage": "Acci\u00f3n"
+  },
+  {
+    "id": "app.general.add",
+    "description": "add",
+    "defaultMessage": "A\u00f1adir"
+  },
+  {
+    "id": "app.general.addImage",
+    "description": "placeholder for image uploader component",
+    "defaultMessage": "Arrastrar y soltar para agregar una imagen."
+  },
+  {
+    "id": "app.general.addImageDragged",
+    "description": "message to show when user is dragging an image over",
+    "defaultMessage": "\u00a1Genial! Su\u00e9ltala ah\u00ed mismo"
+  },
+  {
+    "id": "app.general.addNewEntry",
+    "description": "tooltip for sidebar add entry button",
+    "defaultMessage": "Agregar una nueva entrada"
+  },
+  {
+    "id": "app.general.aeth",
+    "description": "aeth token",
+    "defaultMessage": "AETH"
+  },
+  {
+    "id": "app.general.amount",
+    "description": "currency amount",
+    "defaultMessage": "Cantidad"
+  },
+  {
+    "id": "app.general.akasha",
+    "description": "AKASHA",
+    "defaultMessage": "AKASHA"
+  },
+  {
+    "id": "app.general.back",
+    "description": "navigate back",
+    "defaultMessage": "Atr\u00e1s"
+  },
+  {
+    "id": "app.general.block",
+    "description": "block number",
+    "defaultMessage": "Bloquear"
+  },
+  {
+    "id": "app.general.cancel",
+    "description": "cancel button label",
+    "defaultMessage": "Cancelar"
+  },
+  {
+    "id": "app.general.chat",
+    "description": "tooltip for sidebar chat button",
+    "defaultMessage": "Chat"
+  },
+  {
+    "id": "app.general.chooseImage",
+    "description": "tooltip to show when user hovers image uploader component and no image selected",
+    "defaultMessage": "Escoger una imagen"
+  },
+  {
+    "id": "app.general.chooseAnotherImage",
+    "description": "tooltip to show when user hovers image uploader and an image is already selected",
+    "defaultMessage": "Escoger otra imagen"
+  },
+  {
+    "id": "app.general.close",
+    "description": "close",
+    "defaultMessage": "Cerrar"
+  },
+  {
+    "id": "app.general.collect",
+    "description": "collect",
+    "defaultMessage": "Recolectar"
+  },
+  {
+    "id": "app.general.collected",
+    "description": "collected",
+    "defaultMessage": "Recolectado"
+  },
+  {
+    "id": "app.general.comments",
+    "description": "entry comments",
+    "defaultMessage": "Comentarios"
+  },
+  {
+    "id": "app.general.confirm",
+    "description": "confirm button label",
+    "defaultMessage": "Confirmar"
+  },
+  {
+    "id": "app.general.copy",
+    "description": "copy",
+    "defaultMessage": "Copiar"
+  },
+  {
+    "id": "app.general.counter",
+    "description": "counter",
+    "defaultMessage": "Contador"
+  },
+  {
+    "id": "app.general.create",
+    "description": "Create button label",
+    "defaultMessage": "Crear"
+  },
+  {
+    "id": "app.general.created",
+    "description": "created",
+    "defaultMessage": "Creado"
+  },
+  {
+    "id": "app.general.cycling",
+    "description": "AETH cycling state",
+    "defaultMessage": "Ciclaje"
+  },
+  {
+    "id": "app.general.delete",
+    "description": "Delete something button label",
+    "defaultMessage": "Eliminar"
+  },
+  {
+    "id": "app.general.downloading",
+    "description": "downloading geth/IPFS service",
+    "defaultMessage": "Descargando"
+  },
+  {
+    "id": "app.general.edit",
+    "description": "Edit button label",
+    "defaultMessage": "Editar"
+  },
+  {
+    "id": "app.general.editProfile",
+    "description": "Edit profile button label",
+    "defaultMessage": "Editar perfil"
+  },
+  {
+    "id": "app.general.entries",
+    "description": "entries",
+    "defaultMessage": "Entradas"
+  },
+  {
+    "id": "app.general.essence",
+    "description": "essence",
+    "defaultMessage": "Esencia"
+  },
+  {
+    "id": "app.general.essenceTotalScore",
+    "description": "essence total score",
+    "defaultMessage": "Puntaje total de Esencia"
+  },
+  {
+    "id": "app.general.eth",
+    "description": "ether symbol",
+    "defaultMessage": "ETH"
+  },
+  {
+    "id": "app.general.ethereumAddress",
+    "description": "Placeholder for ethereum address field.",
+    "defaultMessage": "Direcci\u00f3n de Ethereum"
+  },
+  {
+    "id": "app.general.generatingPreview",
+    "description": "placeholder to show while an image preview is being generated",
+    "defaultMessage": "Generando vista previa"
+  },
+  {
+    "id": "app.general.gethServiceOff",
+    "description": "geth service is stopped",
+    "defaultMessage": "Servicio de GETH deshabilitado"
+  },
+  {
+    "id": "app.general.gethServiceOn",
+    "description": "geth service is started",
+    "defaultMessage": "Servicio de GETH habilitado"
+  },
+  {
+    "id": "app.general.help",
+    "description": "Help button label",
+    "defaultMessage": "Ayuda"
+  },
+  {
+    "id": "app.general.history",
+    "description": "transactions history",
+    "defaultMessage": "Historial"
+  },
+  {
+    "id": "app.general.hoursCount",
+    "description": "hours count",
+    "defaultMessage": "{hours, number} {hours, plural, one {hora} other {horas}}"
+  },
+  {
+    "id": "app.general.ipfsServiceOff",
+    "description": "IPFS service is stopped",
+    "defaultMessage": "Servicio de IPFS deshabilitado"
+  },
+  {
+    "id": "app.general.ipfsServiceOn",
+    "description": "IPFS service is started",
+    "defaultMessage": "Servicio de IPFS habilitado"
+  },
+  {
+    "id": "app.general.join",
+    "description": "join button label",
+    "defaultMessage": "Unirse"
+  },
+  {
+    "id": "app.general.karma",
+    "description": "karma",
+    "defaultMessage": "Karma"
+  },
+  {
+    "id": "app.general.karmaTotalScore",
+    "description": "karma total score",
+    "defaultMessage": "Puntaje total de Karma"
+  },
+  {
+    "id": "app.general.leave",
+    "description": "leave button label",
+    "defaultMessage": "Abandonar"
+  },
+  {
+    "id": "app.general.logs",
+    "description": "Services (geth/IPFS) logs",
+    "defaultMessage": "Registros"
+  },
+  {
+    "id": "app.general.logout",
+    "description": "Logout button label",
+    "defaultMessage": "Desconectarse"
+  },
+  {
+    "id": "app.general.mana",
+    "description": "mana",
+    "defaultMessage": "Mana"
+  },
+  {
+    "id": "app.general.manaBurned",
+    "description": "mana burned",
+    "defaultMessage": "Total de Mana quemado"
+  },
+  {
+    "id": "app.general.manafied",
+    "description": "AETH manafied/bonded state",
+    "defaultMessage": "Manaficado"
+  },
+  {
+    "id": "app.general.minutesCount",
+    "description": "short form of minutes count",
+    "defaultMessage": "{minutes, number} min"
+  },
+  {
+    "id": "app.general.next",
+    "description": "Label for Next button",
+    "defaultMessage": "Siguiente"
+  },
+  {
+    "id": "app.general.no",
+    "description": "no (for confirmations)",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "app.general.noPeersAvailable",
+    "description": "couldn't find any IPFS peers for a specific content",
+    "defaultMessage": "No hay pares disponibles"
+  },
+  {
+    "id": "app.general.notes",
+    "description": "notes",
+    "defaultMessage": "Notas"
+  },
+  {
+    "id": "app.general.notFound",
+    "description": "not found",
+    "defaultMessage": "No encontrado"
+  },
+  {
+    "id": "app.general.ok",
+    "description": "Ok",
+    "defaultMessage": "Ok"
+  },
+  {
+    "id": "app.general.pause",
+    "description": "pause button label",
+    "defaultMessage": "Pausa"
+  },
+  {
+    "id": "app.general.pending",
+    "description": "an action is pending",
+    "defaultMessage": "Pendiente"
+  },
+  {
+    "id": "app.general.processingImage",
+    "description": "Message to show while images are being precessed",
+    "defaultMessage": "Procesando imagen"
+  },
+  {
+    "id": "app.general.profileOverview",
+    "description": "tooltip for profile overview button",
+    "defaultMessage": "Vista general del perfil"
+  },
+  {
+    "id": "app.general.publish",
+    "description": "button label for publish action",
+    "defaultMessage": "Publicar"
+  },
+  {
+    "id": "app.general.refresh",
+    "description": "refresh/reload",
+    "defaultMessage": "Refrescar"
+  },
+  {
+    "id": "app.general.rename",
+    "description": "rename",
+    "defaultMessage": "Renombrar"
+  },
+  {
+    "id": "app.general.reply",
+    "description": "reply",
+    "defaultMessage": "Replicar"
+  },
+  {
+    "id": "app.general.reset",
+    "description": "Reset form",
+    "defaultMessage": "Resetear"
+  },
+  {
+    "id": "app.general.resume",
+    "description": "resume button label",
+    "defaultMessage": "Resumir"
+  },
+  {
+    "id": "app.general.retry",
+    "description": "Retry",
+    "defaultMessage": "Reintentar"
+  },
+  {
+    "id": "app.general.running",
+    "description": "service status",
+    "defaultMessage": "Corriendo"
+  },
+  {
+    "id": "app.general.save",
+    "description": "Save changes in a form",
+    "defaultMessage": "Guardar"
+  },
+  {
+    "id": "app.general.saveForLater",
+    "description": "Save for later (button label)",
+    "defaultMessage": "guardar para despu\u00e9s"
+  },
+  {
+    "id": "app.general.search",
+    "description": "tooltip for sidebar search button",
+    "defaultMessage": "Buscar"
+  },
+  {
+    "id": "app.general.send",
+    "description": "send button label",
+    "defaultMessage": "Enviar"
+  },
+  {
+    "id": "app.general.settings",
+    "description": "settings button label",
+    "defaultMessage": "Preferencias"
+  },
+  {
+    "id": "app.general.shift",
+    "description": "convert tokens",
+    "defaultMessage": "Cambiar"
+  },
+  {
+    "id": "app.general.skipStep",
+    "description": "label for skip button",
+    "defaultMessage": "Saltar este paso"
+  },
+  {
+    "id": "app.general.start",
+    "description": "start button label",
+    "defaultMessage": "Comenzar"
+  },
+  {
+    "id": "app.general.starting",
+    "description": "service status",
+    "defaultMessage": "Comenzando"
+  },
+  {
+    "id": "app.general.stopped",
+    "description": "service status",
+    "defaultMessage": "Detenido"
+  },
+  {
+    "id": "app.general.stream",
+    "description": "tooltip for sidebar stream button",
+    "defaultMessage": "Flujo"
+  },
+  {
+    "id": "app.general.submit",
+    "description": "submit button label",
+    "defaultMessage": "Entregar"
+  },
+  {
+    "id": "app.general.terms",
+    "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
+    "defaultMessage": "Al acceder crear su cuenta y al utilizar AKASHA, usted est\u00e1 accediendo a nuestros {termsLink}. Si no esta de acuerdo, no podr\u00e1 usar AKASHA."
+  },
+  {
+    "id": "app.general.termsOfService",
+    "description": "Terms of Service and Privacy Policy",
+    "defaultMessage": "T\u00e9rminos de Servicio y Pol\u00edtica de Privacidad"
+  },
+  {
+    "id": "app.general.transactionFailed",
+    "description": "transaction has failed",
+    "defaultMessage": "La transacci\u00f3n ha fallado"
+  },
+  {
+    "id": "app.general.transferable",
+    "description": "AETH transferable/free state",
+    "defaultMessage": "Transferible"
+  },
+  {
+    "id": "app.general.transform",
+    "description": "change the state of AETH tokens",
+    "defaultMessage": "Transformar"
+  },
+  {
+    "id": "app.general.update",
+    "description": "Update data",
+    "defaultMessage": "Actualizar"
+  },
+  {
+    "id": "app.general.upgrading",
+    "description": "Upgrading services",
+    "defaultMessage": "Actualizando"
+  },
+  {
+    "id": "app.general.vote",
+    "description": "Vote",
+    "defaultMessage": "Votar"
+  },
+  {
+    "id": "app.general.wallet",
+    "description": "wallet",
+    "defaultMessage": "Billetera"
+  },
+  {
+    "id": "app.general.yes",
+    "description": "yes (as a confirmation)",
+    "defaultMessage": "S\u00ed"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "app.notification.bondAethSuccess",
+    "description": "notification to be displayed when bond/manafy AETH transaction was mined",
+    "defaultMessage": "Ha manaficado {amount} de AETH exitosamente"
+  },
+  {
+    "id": "app.notification.cycleAethSuccess",
+    "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
+    "defaultMessage": "Ha ciclado {amount} de AETH exitosamente"
+  },
+  {
+    "id": "app.notification.freeAethSuccess",
+    "description": "notification to be displayed when collecting cycled AETH transaction was mined",
+    "defaultMessage": "Ha recolectado exitosamente su AETH ciclado"
+  },
+  {
+    "id": "app.notification.highlightSaveSuccess",
+    "description": "Notification to be displayed when a highlight has been saved",
+    "defaultMessage": "\u00a1El resalto ha sido guardado!"
+  },
+  {
+    "id": "app.notification.highlightSaveSuccessInputPlaceholder",
+    "description": "Placeholder for note input after highlight save",
+    "defaultMessage": "\u00bfQuiere escribir una nota?"
+  },
+  {
+    "id": "app.notification.updatingProfile",
+    "description": "Notification to be displayed when update profile transaction is sent",
+    "defaultMessage": "Su perfil se est\u00e1 actualizando ..."
+  },
+  {
+    "id": "app.notification.updateProfileSuccess",
+    "description": "Notification to be displayed when update profile transaction was mined",
+    "defaultMessage": "Su perfil ha sido actualizado exitosamente"
+  },
+  {
+    "id": "app.notification.followingProfile",
+    "description": "Notification to be displayed when follow transaction is sent",
+    "defaultMessage": "Siguiendo a {displayName} ..."
+  },
+  {
+    "id": "app.notification.followProfileSuccess",
+    "description": "Notification to be displayed when follow transaction was mined",
+    "defaultMessage": "Est\u00e1 ahora siguiendo a {displayName}"
+  },
+  {
+    "id": "app.notification.transformEssenceSuccess",
+    "description": "notification to be displayed when transform Essence transaction was mined",
+    "defaultMessage": "Ha transformado {amount} de Esencia exitosamente"
+  },
+  {
+    "id": "app.notification.unfollowingProfile",
+    "description": "Notification to be displayed when unfollow transaction is sent",
+    "defaultMessage": "Dejando de seguir a {displayName}"
+  },
+  {
+    "id": "app.notification.unfollowProfileSuccess",
+    "description": "Notification to be displayed when unfollow transaction was mined",
+    "defaultMessage": "Ya no se encuentra siguiendo a {displayName}"
+  },
+  {
+    "id": "app.notification.registerProfileSuccess",
+    "description": "Notification to be displayed when register profile transaction was mined",
+    "defaultMessage": "Su perfil ha sido actualizado exitosamente"
+  },
+  {
+    "id": "app.notification.publishCommentSuccess",
+    "description": "Notification to be displayed when publish comment transaction was mined",
+    "defaultMessage": "Ha publicado un comentario exitosamente"
+  },
+  {
+    "id": "app.notification.publishingEntry",
+    "description": "Notification for when entry is publishing",
+    "defaultMessage": "Publicando \"{title]\""
+  },
+  {
+    "id": "app.notification.publishingNewEntryVersion",
+    "description": "Notification for when a new entry version is publishing",
+    "defaultMessage": "Actualizando \"{title}\"."
+  },
+  {
+    "id": "app.notification.newVersionPublishedSuccessfully",
+    "description": "Notification for when a new version was published",
+    "defaultMessage": "Entrada actualizada exitosamente"
+  },
+  {
+    "id": "app.notification.draftPublishedSuccessfully",
+    "description": "Notification for when draft successfully registered/published",
+    "defaultMessage": "Entrada publicada exitosamente"
+  },
+  {
+    "id": "app.notification.claimSuccess",
+    "description": "Notification to be displayed when collect Essence transaction was mined",
+    "defaultMessage": "Ha recolectado Esencia por {entryTitle} exitosamente"
+  },
+  {
+    "id": "app.notification.claimVoteSuccess",
+    "description": "Notification to be displayed when collect Essence for vote transaction was mined",
+    "defaultMessage": "Ha recolectado Esencia por {entryTitle} exitosamente"
+  },
+  {
+    "id": "app.notification.downvotingEntry",
+    "description": "Notification to be displayed when entry downvote transaction is sent",
+    "defaultMessage": "Votando en contra de {entryTitle}"
+  },
+  {
+    "id": "app.notification.downvoteCommentSuccess",
+    "description": "Notification to be displayed when downvote comment transaction was mined",
+    "defaultMessage": "Ha votado en contra de un comentario exitosamente"
+  },
+  {
+    "id": "app.notification.downvoteEntrySuccess",
+    "description": "Notification to be displayed when downvote entry transaction was mined",
+    "defaultMessage": "Ha votado en contra de {entryTitle} exitosamente"
+  },
+  {
+    "id": "app.notification.upvotingEntry",
+    "description": "Notification to be displayed when entry upvote transaction is sent",
+    "defaultMessage": "Votando a favor de {entryTitle} ..."
+  },
+  {
+    "id": "app.notification.upvoteCommentSuccess",
+    "description": "Notification to be displayed when upvote comment transaction was mined",
+    "defaultMessage": "Ha votado a favor de un comentario exitosamente"
+  },
+  {
+    "id": "app.notification.upvoteEntrySuccess",
+    "description": "Notification to be displayed when upvote entry transaction was mined",
+    "defaultMessage": "Ha votado a favor de {entryTitle} exitosamente"
+  },
+  {
+    "id": "app.notification.publishingComment",
+    "description": "Notification to be displayed when comment publishing tx was sent",
+    "defaultMessage": "Publicanco comentario"
+  },
+  {
+    "id": "app.notification.commentPublishedSuccessfully",
+    "description": "Notification to be displayed when comment successfully published",
+    "defaultMessage": "Comentario publicado exitosamente"
+  },
+  {
+    "id": "app.notification.claiming",
+    "description": "Notification to be displayed when collect transaction is sent",
+    "defaultMessage": "Recolectando Esencia por {entryTitle} ..."
+  },
+  {
+    "id": "app.notification.draftSavedSuccessfully",
+    "description": "notification to show when draft was successfully saved",
+    "defaultMessage": "\u00a1Borrador guardado exitosamente!"
+  },
+  {
+    "id": "app.notification.draftDeletedSuccessfully",
+    "description": "notification to show when draft was successfully deleted",
+    "defaultMessage": "\u00a1Borrador eliminado exitosamente!"
+  },
+  {
+    "id": "app.notification.linkCopiedToClipboard",
+    "description": "notification to show when user copies profile link",
+    "defaultMessage": "Enlace copiado al pisapapeles"
+  },
+  {
+    "id": "app.notification.sendingTip",
+    "description": "Notification to be displayed when tip transaction is sent",
+    "defaultMessage": "Enviando propina a {displayName} ..."
+  },
+  {
+    "id": "app.notification.sendTipSuccess",
+    "description": "Notification to be displayed when tip transaction was successfully mined",
+    "defaultMessage": "Ha dado una propina a {displayName} exitosamente"
+  },
+  {
+    "id": "app.notification.notificationsEnabledSuccess",
+    "description": "message to be displayed when notifications were enabled for a specific user",
+    "defaultMessage": "Notificaciones habilitadas para {displayName}"
+  },
+  {
+    "id": "app.notification.notificationsDisabledSuccess",
+    "description": "message to be displayed when notifications were disabled for a specific user",
+    "defaultMessage": "Notificaciones deshabilitadas para {displayName}"
+  },
+  {
+    "id": "app.notification.backupSuccess",
+    "description": "message to display when the keystore backup was generated successfully",
+    "defaultMessage": "El respaldo fue generado en {path}"
+  },
+  {
+    "id": "app.notification.saveGethSettingsSuccess",
+    "description": "Geth settings successfully saved",
+    "defaultMessage": "Ha guardado sus preferencias exitosamente. Debe de reiniciar el servicio geth para que sus cambios puedan ser aplicados."
+  },
+  {
+    "id": "app.notification.saveIpfsSettingsSuccess",
+    "description": "IPFS settings successfully saved",
+    "defaultMessage": "Ha guardado sus preferencias exitosamente. Debe de reiniciar el servicio IPFS para que sus cambios puedan ser aplicados."
+  },
+  {
+    "id": "app.notification.setIpfsPortsSuccess",
+    "description": "IPFS ports successfully set",
+    "defaultMessage": "Ha establecido sus puertos de IPFS exitosamente. Debe de reiniciar el servicio IPFS para que sus cambios puedan ser aplicados."
+  },
+  {
+    "id": "app.notification.toggleDonationsSuccess",
+    "description": "toggle accepting donations/tips transaction was succesfully mined",
+    "defaultMessage": "Ha cambiado sus preferencias para propinas exitosamente"
+  },
+  {
+    "id": "app.notification.transferAethSuccess",
+    "description": "transfer AETH transaction was successfully mined",
+    "defaultMessage": "Ha transferido {tokenAmount} AETH a {displayName}"
+  },
+  {
+    "id": "app.notification.transferEthSuccess",
+    "description": "transfer ETH transaction was successfully mined",
+    "defaultMessage": "Ha transferido {value} ETH a {displayName} exitosamente"
+  },
+  {
+    "id": "app.notification.userSettingsSaveSuccess",
+    "description": "User settings successfully saved",
+    "defaultMessage": "Ha guardado sus preferencias personales exitosamente"
+  }
+]

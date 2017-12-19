@@ -1,0 +1,247 @@
+[
+  {
+    "id": "app.setup.authComplete",
+    "description": "title for complete profile setup page",
+    "defaultMessage": "\u00a1El proceso de autenticaci\u00f3n fue completado!"
+  },
+  {
+    "id": "app.setup.backup",
+    "description": "backup button label",
+    "defaultMessage": "Respaldar llaves"
+  },
+  {
+    "id": "app.setup.completeProfile",
+    "description": "description for profile complete setup page",
+    "defaultMessage": "\u00a1Para disfrutar de la experiencia completa, llene su perfil ahora!"
+  },
+  {
+    "id": "app.setup.createIdentity",
+    "description": "Create identity button label",
+    "defaultMessage": "Crear nueva identidad"
+  },
+  {
+    "id": "app.setup.gethDataDirPath",
+    "description": "geth datadir path field label",
+    "defaultMessage": "Directorio de Geth Datadir"
+  },
+  {
+    "id": "app.setup.gethIPCPath",
+    "description": "geth IPC path input placeholder",
+    "defaultMessage": "Direcci\u00f3n de Geth IPC"
+  },
+  {
+    "id": "app.setup.gethCacheSize",
+    "description": "geth cache size input placeholder",
+    "defaultMessage": "tama\u00f1o de cache de Geth"
+  },
+  {
+    "id": "app.setup.gethNetworkId",
+    "description": "geth network id placeholder",
+    "defaultMessage": "Id de la red Geth"
+  },
+  {
+    "id": "app.setup.importKeys",
+    "description": "Label for import keys button",
+    "defaultMessage": "Importar llaves"
+  },
+  {
+    "id": "app.setup.ipfsStoragePath",
+    "description": "IPFS input field label",
+    "defaultMessage": "Direcci\u00f3n del almacenaje IPFS"
+  },
+  {
+    "id": "app.setup.ipfsApiPort",
+    "description": "IPFS API port input field label",
+    "defaultMessage": "Puerto de la API de IPFS"
+  },
+  {
+    "id": "app.setup.ipfsGatewayPort",
+    "description": "IPFS gateway port input field label",
+    "defaultMessage": "Puerto del portal de IPFS"
+  },
+  {
+    "id": "app.setup.ipfsSwarmPort",
+    "description": "IPFS swarm port input field label",
+    "defaultMessage": "Puerto swarm de IPFS"
+  },
+  {
+    "id": "app.setup.configuration",
+    "description": "panel header for configuration page",
+    "defaultMessage": "Configuraci\u00f3n"
+  },
+  {
+    "id": "app.setup.lightSync",
+    "description": "geth light sync option",
+    "defaultMessage": "Sincronizaci\u00f3n ligera"
+  },
+  {
+    "id": "app.setup.newIdentitySubtitle",
+    "description": "subtitle for new identity page",
+    "defaultMessage": "Por favor introduzca su frase de acceso debajo"
+  },
+  {
+    "id": "app.setup.normalSync",
+    "description": "geth normal sync option",
+    "defaultMessage": "Sincronizaci\u00f3n normal"
+  },
+  {
+    "id": "app.setup.synchronization",
+    "description": "panel header for synchronization page",
+    "defaultMessage": "Sincronizaci\u00f3n"
+  },
+  {
+    "id": "app.setup.syncOptions",
+    "description": "title for synchronization options",
+    "defaultMessage": "Opciones de Sincronizaci\u00f3n"
+  },
+  {
+    "id": "app.setup.logDetails",
+    "description": "panel header for log details page",
+    "defaultMessage": "Detalles del registro"
+  },
+  {
+    "id": "app.setup.login",
+    "description": "title for login page",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "app.setup.welcomeBack",
+    "description": "auth page title",
+    "defaultMessage": "\u00a1Bienvenido de vuelta!"
+  },
+  {
+    "id": "app.setup.chooseIdentity",
+    "description": "subtitle for login page",
+    "defaultMessage": "Por favor seleccione una identidad con la cual conectarse"
+  },
+  {
+    "id": "app.setup.newIdentity",
+    "description": "panel header for new identity page",
+    "defaultMessage": "Crear una nueva identidad"
+  },
+  {
+    "id": "app.setup.interestedIn",
+    "description": "title for new identity interests page",
+    "defaultMessage": "\u00bfEn qu\u00e9 est\u00e1 interesado?"
+  },
+  {
+    "id": "app.setup.interestSuggestion",
+    "description": "description for new identity interests page",
+    "defaultMessage": "Le sugeriremos contenido incre\u00edble bas\u00e1ndonos en sus intereses."
+  },
+  {
+    "id": "app.setup.expressSetup",
+    "description": "Express setup option checkbox",
+    "defaultMessage": "Setup express"
+  },
+  {
+    "id": "app.setup.advancedSetup",
+    "description": "Advanced setup option checkbox",
+    "defaultMessage": "Avanzado"
+  },
+  {
+    "id": "app.setup.downloadingGeth",
+    "description": "message shown when geth is downloading",
+    "defaultMessage": "Descargando cliente Geth..."
+  },
+  {
+    "id": "app.setup.downloadingIpfs",
+    "description": "message shown when IPFS is downloading",
+    "defaultMessage": "Descargando cliente IPFS..."
+  },
+  {
+    "id": "app.setup.startingGeth",
+    "description": "message shown when Geth is starting",
+    "defaultMessage": "Inicializando cliente Geth..."
+  },
+  {
+    "id": "app.setup.upgradingGeth",
+    "description": "message shown when Geth is upgrading",
+    "defaultMessage": "Actualizando cliente Geth..."
+  },
+  {
+    "id": "app.setup.upgradingIpfs",
+    "description": "message shown when IPFS is upgrading",
+    "defaultMessage": "Actualizando cliente IPFS..."
+  },
+  {
+    "id": "app.setup.processing",
+    "description": "message shown when processing blocks",
+    "defaultMessage": "Procesando"
+  },
+  {
+    "id": "app.setup.synchronizing",
+    "description": "message shown when synchronizing with the blockchain",
+    "defaultMessage": "Sincronizando"
+  },
+  {
+    "id": "app.setup.syncStopped",
+    "description": "message shown when synchronization was stopped",
+    "defaultMessage": "La sincronizaci\u00f3n fue detenida"
+  },
+  {
+    "id": "app.setup.syncCompleted",
+    "description": "message shown when synchronization is completed",
+    "defaultMessage": "La sincronizaci\u00f3n fue completada"
+  },
+  {
+    "id": "app.setup.syncPaused",
+    "description": "message shown when synchronization is completed",
+    "defaultMessage": "La sincronizaci\u00f3n se encuentra detenida"
+  },
+  {
+    "id": "app.setup.onSyncStart",
+    "description": "Message to show when synchronizing",
+    "defaultMessage": "Su m\u00e1quina se est\u00e1 actualizando actualmente con la red mundial de Ethereum. Podra conectarse y disfrutar de la experiencia completa de AKASHA tan pronto que la actualizaci\u00f3n termine."
+  },
+  {
+    "id": "app.setup.afterSyncFinish",
+    "description": "Message to show after synchronization has finished",
+    "defaultMessage": "La sincronizaci\u00f3n se ha completado. El servicio IPFS necesita ser inicializado para poder continuar. Puede inicializarlo manualmente desde la barra de estatus en el m\u00e1stil o al dar click en SIGUIENTE para iniciarlo autom\u00e1ticamente."
+  },
+  {
+    "id": "app.setup.noProfilesFound",
+    "description": "placeholder message shown if no local profiles were found",
+    "defaultMessage": "No se encontraron perfiles. Cree una nueva identidad o importe una existente."
+  },
+  {
+    "id": "app.setup.findingPeers",
+    "description": "finding peers",
+    "defaultMessage": "Encontrando pares"
+  },
+  {
+    "id": "app.setup.launchingServices",
+    "description": "message to display when geth and IPFS services are about to start",
+    "defaultMessage": "Lanzando servicios"
+  },
+  {
+    "id": "app.setup.waitingForServices",
+    "description": "default message to display in sync status",
+    "defaultMessage": "Esperando a los servicios"
+  },
+  {
+    "id": "app.setup.waitingForGeth",
+    "description": "message to display when synchronization is in default state",
+    "defaultMessage": "Esperando al cliente geth"
+  },
+  {
+    "id": "app.setup.peerCount",
+    "description": "number of peers connected",
+    "defaultMessage": "{peerCount, number} {peerCount, plural, one {par} few {pares} many {pares} other {pares}}, {peerCount, plural, one {conectado} other {conectados}}"
+  },
+  {
+    "id": "app.setup.details",
+    "description": "details button label",
+    "defaultMessage": "detalles"
+  },
+  {
+    "id": "app.setup.gethStopped",
+    "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
+    "defaultMessage": "El servicio Geth no est\u00e1 funcionando. Por favor inicial\u00edcelo manualmente para poder recolectar sus perfiles."
+  },
+  {
+    "id": "app.setup.ipfsStopped",
+    "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
+    "defaultMessage": "El servicio de IPFS se encuentra detenido. Por favor inicial\u00edcelo manualmente para poder recolectar sus perfiles."
+  }
+]

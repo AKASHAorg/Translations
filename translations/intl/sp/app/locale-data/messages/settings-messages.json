@@ -1,0 +1,97 @@
+[
+  {
+    "id": "app.settings.chinese",
+    "description": "app language",
+    "defaultMessage": "Chino"
+  },
+  {
+    "id": "app.settings.darkTheme",
+    "description": "theme switch",
+    "defaultMessage": "Tema Oscuro"
+  },
+  {
+    "id": "app.settings.description",
+    "description": "Description for app settings",
+    "defaultMessage": "Customice sus preferencias de la aplicaci\u00f3n"
+  },
+  {
+    "id": "app.settings.english",
+    "description": "app language",
+    "defaultMessage": "Ingl\u00e9s"
+  },
+  {
+    "id": "app.settings.passphraseOptions",
+    "description": "title for profile passphrase options",
+    "defaultMessage": "Opciones de la frase de acceso"
+  },
+  {
+    "id": "app.settings.passphraseOptionsDescription",
+    "description": "description for profile passphrase options",
+    "defaultMessage": "Escoja cuando su contase\u00f1a sea requerida"
+  },
+  {
+    "id": "app.settings.licenseOptions",
+    "description": "title for profile default license options",
+    "defaultMessage": "Licencia default"
+  },
+  {
+    "id": "app.settings.licenseOptionsDescription",
+    "description": "description for default license options",
+    "defaultMessage": "Escoja la licencia por default para los art\u00edculos que publique"
+  },
+  {
+    "id": "app.settings.russian",
+    "description": "app language",
+    "defaultMessage": "Ruso"
+  },
+  {
+    "id": "app.settings.selectLanguage",
+    "description": "title for language selector",
+    "defaultMessage": "Escoja el Idioma"
+  },
+  {
+    "id": "app.settings.spanish",
+    "description": "app language",
+    "defaultMessage": "Espa\u00f1ol"
+  },
+  {
+    "id": "app.settings.theme",
+    "description": "theme switch title",
+    "defaultMessage": "Tema"
+  },
+  {
+    "id": "app.settings.tipsDescription",
+    "description": "description for profile tips options",
+    "defaultMessage": "Seleccione la opci\u00f3n para sus propinas"
+  },
+  {
+    "id": "app.settings.tipsOptions",
+    "description": "title for profile tips options",
+    "defaultMessage": "Opciones de propina"
+  },
+  {
+    "id": "app.settings.tipsInfo",
+    "description": "info for profile tips options",
+    "defaultMessage": "Cambiando esta opci\u00f3n involucrar\u00e1 enviar una transacci\u00f3n"
+  },
+  {
+    "id": "app.settings.tipsAccept",
+    "description": "label for profile tips option",
+    "defaultMessage": "Aceptar propinas"
+  },
+  {
+    "id": "app.settings.tipsDoNotAccept",
+    "description": "label for profile tips option",
+    "defaultMessage": "No aceptar propinas"
+  },
+  {
+    "id": "app.settings.title",
+    "description": "Title for app settings",
+    "defaultMessage": "Opciones de la aplicaci\u00f3n"
+  },
+  {
+    "id": "app.settings.update",
+    "description": "description for update buton",
+    "defaultMessage": "Opciones de actualizaciones"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "app.form.addressRequired",
+    "description": "error message for empty receiver input field",
+    "defaultMessage": "Debe especificar un nombre de usuario o una direcci\u00f3n de ethereum"
+  },
+  {
+    "id": "app.form.acceptTips",
+    "description": "label for accept tips switch (personal settings)",
+    "defaultMessage": "Aceptar propinas"
+  },
+  {
+    "id": "app.form.insufficientEth",
+    "description": "title for insufficient funds card",
+    "defaultMessage": "Disculpe, no tiene suficiente ether de prueba."
+  },
+  {
+    "id": "app.form.depositEth",
+    "description": "description for insufficient funds card",
+    "defaultMessage": "Necesita depositar ether de prueba para publicar su perfil."
+  },
+  {
+    "id": "app.form.aethAmount",
+    "description": "aeth amount input label",
+    "defaultMessage": "Cantidad de AETH"
+  },
+  {
+    "id": "app.form.amountRequired",
+    "description": "error message for empty amount input field",
+    "defaultMessage": "Cantidad es requerida"
+  },
+  {
+    "id": "app.form.ethAmount",
+    "description": "eth amount input label",
+    "defaultMessage": "Cantidad de ETH"
+  },
+  {
+    "id": "app.form.maxAethAmount",
+    "description": "maximum amount of AETH transferable",
+    "defaultMessage": "{aeth} AETH transferible"
+  },
+  {
+    "id": "app.form.maxAethAmountLabel",
+    "description": "label for maximum AETH amount input field",
+    "defaultMessage": "max. {balance}"
+  },
+  {
+    "id": "app.form.maxEssenceAmount",
+    "description": "maximum amount of Essence transformable",
+    "defaultMessage": "{essence} Esencia disponible"
+  },
+  {
+    "id": "app.form.maxEthAmount",
+    "description": "maximum amount of ETH transferable",
+    "defaultMessage": "{eth} ETH transferible"
+  },
+  {
+    "id": "app.form.maxManafiedAethAmount",
+    "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
+    "defaultMessage": "{manafied} AETH manaficado"
+  },
+  {
+    "id": "app.form.transformEssence",
+    "description": "title for transform essence form",
+    "defaultMessage": "Transformar Esencia"
+  },
+  {
+    "id": "app.form.transformEssenceDisclaimer",
+    "description": "disclaimer message for transforming Essence to AETH",
+    "defaultMessage": "{amount} de Esencia forjar\u00e1 {value} AETH nuevo en su cuenta."
+  },
+  {
+    "id": "app.form.transformEssenceMin",
+    "description": "disclaimer message for minimum amount of essence that can be transformed",
+    "defaultMessage": "Necesita transformar un m\u00ednimo de 1000 de Esencia"
+  },
+  {
+    "id": "app.form.transformManafiedDisclaimer",
+    "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+    "defaultMessage": "{amount} de AETH se ciclar\u00e1 de vuelta a AETH transferible en 7 d\u00edas. {amount} Mana no se regenerar\u00e1 de nuevo."
+  },
+  {
+    "id": "app.form.transformTransferableDisclaimer",
+    "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+    "defaultMessage": "{amount} de AETH generar\u00e1 {amount} de Mana cada 24 horas siempre y cuando se mantenga en este estado."
+  },
+  {
+    "id": "app.firstName",
+    "description": "Placeholder for first name input",
+    "defaultMessage": "Nombre"
+  },
+  {
+    "id": "app.lastName",
+    "description": "Placeholder for last name input",
+    "defaultMessage": "Apellido"
+  },
+  {
+    "id": "app.akashaId",
+    "description": "Placeholder for username (Akasha ID) input",
+    "defaultMessage": "Nombre de usuario"
+  },
+  {
+    "id": "app.form.ethereumAddress",
+    "description": "Placeholder for ethereum address input",
+    "defaultMessage": "Direcci\u00f3n de Ethereum"
+  },
+  {
+    "id": "app.form.from",
+    "description": "from",
+    "defaultMessage": "De"
+  },
+  {
+    "id": "app.form.passphrase",
+    "description": "label for passphrase input",
+    "defaultMessage": "Frase de acceso"
+  },
+  {
+    "id": "app.form.passphrasePlaceholder",
+    "description": "placeholder for passphrase input",
+    "defaultMessage": "Escriba su frase de acceso"
+  },
+  {
+    "id": "app.form.amountToShift",
+    "description": "label for shift amount slider",
+    "defaultMessage": "Por favor seleccione una cantidad a cambiar"
+  },
+  {
+    "id": "app.form.confirmPassphrase",
+    "description": "label for passphrase confirmation input",
+    "defaultMessage": "Confirme la frase de acceso"
+  },
+  {
+    "id": "app.form.forgeAeth",
+    "description": "transform Essence into new AETH",
+    "defaultMessage": "Forjar AETH"
+  },
+  {
+    "id": "app.form.freeAeth",
+    "description": "label for free AETH value",
+    "defaultMessage": "Liberar AETH"
+  },
+  {
+    "id": "app.form.manaTotalScore",
+    "description": "label for mana total score",
+    "defaultMessage": "Puntaje total de Mana"
+  },
+  {
+    "id": "app.inputField.name",
+    "description": "Placeholder for name input field",
+    "defaultMessage": "Nombre"
+  },
+  {
+    "id": "app.form.passphraseConfirmError",
+    "description": "Error message displayed when the given passphrases don't match",
+    "defaultMessage": "Las frases de acceso no concuerda. Por favor escr\u00edbalas de nuevo"
+  },
+  {
+    "id": "app.passphraseVerify",
+    "description": "Placeholder for passphrase verify input",
+    "defaultMessage": "Verifique su frase de acceso"
+  },
+  {
+    "id": "app.form.requiredError",
+    "description": "error message for required fields",
+    "defaultMessage": "Este campo es requerido"
+  },
+  {
+    "id": "app.form.shiftDown",
+    "description": "shift down",
+    "defaultMessage": "Shift abajo"
+  },
+  {
+    "id": "app.form.shiftDownMana",
+    "description": "title for shift down Mana form",
+    "defaultMessage": "Shift down Mana"
+  },
+  {
+    "id": "app.form.shiftDownManaHelp",
+    "description": "label for shift down Mana slider",
+    "defaultMessage": "{value} de Mana transformar\u00e1 {value} de AETH manaficado a AETH ciclado que puede ser recolectado en 7 d\u00edas."
+  },
+  {
+    "id": "app.form.shiftUp",
+    "description": "shift up",
+    "defaultMessage": "Shift up"
+  },
+  {
+    "id": "app.form.shiftUpMana",
+    "description": "title for shift up Mana form",
+    "defaultMessage": "Shift up Mana"
+  },
+  {
+    "id": "app.form.shiftUpManaHelp",
+    "description": "label for shift up mana slider",
+    "defaultMessage": "{value} de Mana manificar\u00e1 {value} de AETH transferible"
+  },
+  {
+    "id": "app.form.tips",
+    "description": "label for tips",
+    "defaultMessage": "PROPINAS"
+  },
+  {
+    "id": "app.inputField.title",
+    "description": "Placeholder for title input field",
+    "defaultMessage": "T\u00edtulo"
+  },
+  {
+    "id": "app.form.totalAethBalance",
+    "description": "label for total AETH balance",
+    "defaultMessage": "Balance total de AETH"
+  },
+  {
+    "id": "app.inputField.url",
+    "description": "Placeholder for url input field",
+    "defaultMessage": "URL"
+  },
+  {
+    "id": "app.form.voteWeightIntegerError",
+    "description": "Error displayed when vote weight is not an integer",
+    "defaultMessage": "El peso de un voto debe de ser un entero"
+  },
+  {
+    "id": "app.form.voteWeightRangeError",
+    "description": "Error displayed when vote weight is not between limits",
+    "defaultMessage": "El peso de un voto debe de estar entre {min} y {max}"
+  },
+  {
+    "id": "app.form.voteWeightRequired",
+    "description": "Error displayed when vote weight is not specified",
+    "defaultMessage": "El peso del voto es requerido"
+  },
+  {
+    "id": "app.form.voteWeightExtra",
+    "description": "extra information about the vote weight input",
+    "defaultMessage": "Defina un valor entre {min} y {max}"
+  },
+  {
+    "id": "app.form.notEnoughFunds",
+    "description": "Error displayed when a user does not have enough funds for an action",
+    "defaultMessage": "No tiene los suficientes fondos en su cuenta"
+  },
+  {
+    "id": "app.form.alphanumericError",
+    "description": "Error displayed when a tag contains invalid characters",
+    "defaultMessage": "Las etiquetas pueden contener solamente letras, n\u00fameros, y un gui\u00f3n ( - ) o gui\u00f3n bajo ( _ ) entre los caracteres."
+  },
+  {
+    "id": "app.form.selectOneOption",
+    "description": "Label for simple select field",
+    "defaultMessage": "Seleccione una opci\u00f3n"
+  },
+  {
+    "id": "app.form.tooLongError",
+    "description": "Error displayed when a tag contains more than 24 characters",
+    "defaultMessage": "Las etiquetas pueden tener un m\u00e1ximo de 24 caracteres."
+  },
+  {
+    "id": "app.form.tagAlreadyAdded",
+    "description": "Error displayed when trying to add a tag that already exists",
+    "defaultMessage": "La etiqueta {tag} ya fue a\u00f1adida"
+  },
+  {
+    "id": "app.form.rememberPassFor",
+    "description": "Label for checkbox to remember passphrase",
+    "defaultMessage": "Recordar mi frase de acceso con"
+  },
+  {
+    "id": "app.form.tipAmountError",
+    "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
+    "defaultMessage": "La cantidad debe de ser de al menos {minAmount} de AETH"
+  },
+  {
+    "id": "app.form.to",
+    "description": "to",
+    "defaultMessage": "A"
+  },
+  {
+    "id": "app.form.updateSettings",
+    "description": "label for update settings button",
+    "defaultMessage": "Actualizar preferencias"
+  }
+]
