@@ -155,6 +155,21 @@
     "defaultMessage": "Featured image"
   },
   {
+    "id": "app.entry.hiddenContent",
+    "description": "message for hidden content due to score lower than user's preferences",
+    "defaultMessage": "This content has a score lower than {score}."
+  },
+  {
+    "id": "app.entry.hiddenContent2",
+    "description": "message for hidden content due to score lower than user's preferences (part 2)",
+    "defaultMessage": "You can change this value from your"
+  },
+  {
+    "id": "app.entry.hiddenContent3",
+    "description": "message for hidden content due to score lower than user's preferences (part 3)",
+    "defaultMessage": "personal settings"
+  },
+  {
     "id": "app.entry.license",
     "description": "License label",
     "defaultMessage": "License"
@@ -280,6 +295,11 @@
     "defaultMessage": "Search for a tag"
   },
   {
+    "id": "app.entry.showAnyway",
+    "description": "button label for showing hidded content",
+    "defaultMessage": "Show anyway"
+  },
+  {
     "id": "app.entry.showLess",
     "description": "label for comment collapse button",
     "defaultMessage": "Collapse comment"
@@ -303,6 +323,11 @@
     "id": "app.entry.titleRequired",
     "description": "validation message in case of missing title field",
     "defaultMessage": "Title must not be empty"
+  },
+  {
+    "id": "app.entry.tooltipAuthor",
+    "description": "error message in case author cannot be resolved",
+    "defaultMessage": "Cannot resolve entry author"
   },
   {
     "id": "app.entry.upvote",

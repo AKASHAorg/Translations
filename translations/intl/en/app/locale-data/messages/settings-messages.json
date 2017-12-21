@@ -20,6 +20,26 @@
     "defaultMessage": "English"
   },
   {
+    "id": "app.settings.hideContent",
+    "description": "title for \"hide content\" settings",
+    "defaultMessage": "Hide content"
+  },
+  {
+    "id": "app.settings.hideContentDescription",
+    "description": "description for \"hide content\" settings",
+    "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
+  },
+  {
+    "id": "app.settings.hideCommentsLabel",
+    "description": "label for \"hide comments content\" checkbox",
+    "defaultMessage": "Hide comments with a score lower than"
+  },
+  {
+    "id": "app.settings.hideEntriesLabel",
+    "description": "label for \"hide entries content\" checkbox",
+    "defaultMessage": "Hide entries with a score lower than"
+  },
+  {
     "id": "app.settings.passphraseOptions",
     "description": "title for profile passphrase options",
     "defaultMessage": "Passphrase Options"

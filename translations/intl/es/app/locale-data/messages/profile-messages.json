@@ -127,7 +127,7 @@
   {
     "id": "app.profile.followersCount",
     "description": "number of followers",
-    "defaultMessage": "{followers, number} {followers, plural, one {seguidor} other {seguidores}}"
+    "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
   },
   {
     "id": "app.profile.following",
@@ -142,7 +142,7 @@
   {
     "id": "app.profile.followingsCount",
     "description": "number of followings",
-    "defaultMessage": "{followings, number} {followings, plural, one {siguiendo} other {siguiendo}}"
+    "defaultMessage": "{followings, number} {followings, plural, one {following} other {followings}}"
   },
   {
     "id": "app.profile.highlights",

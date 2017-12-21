@@ -200,6 +200,11 @@
     "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
   },
   {
+    "id": "app.settings.themeTips",
+    "description": "theme tips",
+    "defaultMessage": "Your theme will change after refreshing the app."
+  },
+  {
     "id": "app.notification.toggleDonationsSuccess",
     "description": "toggle accepting donations/tips transaction was succesfully mined",
     "defaultMessage": "You succesfully changed your tips settings"

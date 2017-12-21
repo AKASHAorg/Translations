@@ -227,7 +227,7 @@
   {
     "id": "app.setup.peerCount",
     "description": "number of peers connected",
-    "defaultMessage": "{peerCount, number} {peerCount, plural, one {par} few {pares} many {pares} other {pares}}, {peerCount, plural, one {conectado} other {conectados}}"
+    "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}}, {peerCount, plural, one {connected} other {connected}}"
   },
   {
     "id": "app.setup.details",

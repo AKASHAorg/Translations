@@ -185,6 +185,11 @@
     "defaultMessage": "Ethereum address"
   },
   {
+    "id": "app.general.forged",
+    "description": "new AETH created from Essence",
+    "defaultMessage": "Forged"
+  },
+  {
     "id": "app.general.generatingPreview",
     "description": "placeholder to show while an image preview is being generated",
     "defaultMessage": "Generating preview"
@@ -340,7 +345,17 @@
     "defaultMessage": "Publish"
   },
   {
+    "id": "app.general.publishing",
+    "description": "button label when draft is publishing",
+    "defaultMessage": "Publishing"
+  },
+  {
     "id": "app.general.received",
+    "description": "received",
+    "defaultMessage": "received"
+  },
+  {
+    "id": "app.general.receivedAmount",
     "description": "incoming transactions",
     "defaultMessage": "+{amount} {symbol} from"
   },
@@ -400,9 +415,49 @@
     "defaultMessage": "Send"
   },
   {
+    "id": "app.general.sent",
+    "description": "sent (past for send)",
+    "defaultMessage": "Sent"
+  },
+  {
     "id": "app.general.settings",
     "description": "settings button label",
     "defaultMessage": "Settings"
+  },
+  {
+    "id": "app.general.sidebarTooltipDashboard",
+    "description": "tooltip text for sidebar dashboard button",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "app.general.sidebarTooltipProfile",
+    "description": "tooltip text for sidebar profile button",
+    "defaultMessage": "My Profile"
+  },
+  {
+    "id": "app.general.sidebarTooltipCommunity",
+    "description": "tooltip text for sidebar community button",
+    "defaultMessage": "Community: coming soon"
+  },
+  {
+    "id": "app.general.sidebarTooltipSearch",
+    "description": "tooltip text for sidebar search button",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "app.general.sidebarTooltipChat",
+    "description": "tooltip text for sidebar chat button",
+    "defaultMessage": "Chat: coming soon"
+  },
+  {
+    "id": "app.general.sidebarTooltipDraftText",
+    "description": "tooltip text for sidebar draft text entry button",
+    "defaultMessage": "Text Entry"
+  },
+  {
+    "id": "app.general.sidebarTooltipDraftLink",
+    "description": "tooltip text for sidebar draft link entry button",
+    "defaultMessage": "Link Entry"
   },
   {
     "id": "app.general.shift",
@@ -473,6 +528,11 @@
     "id": "app.general.update",
     "description": "Update data",
     "defaultMessage": "Update"
+  },
+  {
+    "id": "app.general.updating",
+    "description": "button label when entry is updating",
+    "defaultMessage": "Updating"
   },
   {
     "id": "app.general.upgrading",

@@ -95,6 +95,11 @@
     "defaultMessage": "Are you sure you want to delete {name}?"
   },
   {
+    "id": "app.dashboard.firstDashboard",
+    "description": "the name for the first board",
+    "defaultMessage": "My board"
+  },
+  {
     "id": "app.dashboard.large",
     "description": "large column width",
     "defaultMessage": "Large"
