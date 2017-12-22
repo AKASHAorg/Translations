@@ -2,12 +2,12 @@
   {
     "id": "app.dashboard.addColumn",
     "description": "button label for adding a column to the board",
-    "defaultMessage": "Añadir columna"
+    "defaultMessage": "A\u00f1adir columna"
   },
   {
     "id": "app.dashboard.addNewColumn",
     "description": "panel title for adding a new column",
-    "defaultMessage": "Añadir columna"
+    "defaultMessage": "A\u00f1adir columna"
   },
   {
     "id": "app.dashboard.addNewColumnSubtitle",
@@ -42,7 +42,7 @@
   {
     "id": "app.dashboard.addNewTagColumnSubtitle",
     "description": "panel subtitle for adding a new tag column",
-    "defaultMessage": "Please choose a tag"
+    "defaultMessage": "Por favor escoja una etiqueta"
   },
   {
     "id": "app.list.addToNewDashboard",
@@ -52,7 +52,7 @@
   {
     "id": "app.dashboard.collection",
     "description": "label for collection column",
-    "defaultMessage": "Colección"
+    "defaultMessage": "Colecci\u00f3n"
   },
   {
     "id": "app.dashboard.columnStream",
@@ -82,12 +82,12 @@
   {
     "id": "app.dashboard.deleteColumnConfirmation",
     "description": "confirmation message for deleting a column",
-    "defaultMessage": "¿Está seguro de querer eliminar esta columna?"
+    "defaultMessage": "\u00bfEst\u00e1 seguro de querer eliminar esta columna?"
   },
   {
     "id": "app.dashboard.deleteDashboardConfirmation",
     "description": "confirmation message for deleting a board",
-    "defaultMessage": "¿Está seguro de querer eliminar a {name}?"
+    "defaultMessage": "\u00bfEst\u00e1 seguro de querer eliminar a {name}?"
   },
   {
     "id": "app.dashboard.large",
@@ -97,7 +97,7 @@
   {
     "id": "app.dashboard.latest",
     "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-    "defaultMessage": "Entradas más recientes"
+    "defaultMessage": "Entradas m\u00e1s recientes"
   },
   {
     "id": "app.dashboard.list",
@@ -142,7 +142,7 @@
   {
     "id": "app.dashboard.small",
     "description": "small column width",
-    "defaultMessage": "Pequeño"
+    "defaultMessage": "Peque\u00f1o"
   },
   {
     "id": "app.dashboard.stream",

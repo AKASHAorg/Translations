@@ -52,7 +52,7 @@
   {
     "id": "app.general.block",
     "description": "block number",
-    "defaultMessage": "Bloquear"
+    "defaultMessage": "Bloque"
   },
   {
     "id": "app.general.cancel",
@@ -197,7 +197,7 @@
   {
     "id": "app.general.hoursCount",
     "description": "hours count",
-    "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+    "defaultMessage": "{hours, number} {hours, plural, one {hora} other {horas}}"
   },
   {
     "id": "app.general.ipfsServiceOff",
@@ -412,7 +412,7 @@
   {
     "id": "app.general.terms",
     "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-    "defaultMessage": "Al acceder crear su cuenta y al utilizar AKASHA, usted est\u00e1 accediendo a nuestros {termsLink}. Si no esta de acuerdo, no podr\u00e1 usar AKASHA."
+    "defaultMessage": "Al acceder crear su cuenta y al utilizar AKASHA, usted est\u00e1 accediendo a nuestros {termsLink}. Si no est\u00e1 de acuerdo, no podr\u00e1 usar AKASHA."
   },
   {
     "id": "app.general.termsOfService",

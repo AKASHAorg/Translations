@@ -2,32 +2,32 @@
   {
     "id": "app.entry.allowedImageTypes",
     "description": "types of images allowed for upload",
-    "defaultMessage": "Imágenes JPG, GIF o PNG"
+    "defaultMessage": "Im\u00e1genes JPG, GIF o PNG"
   },
   {
     "id": "app.entry.alreadyDownvoted",
     "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-    "defaultMessage": "Usted votó en contra con peso {weight}"
+    "defaultMessage": "Usted vot\u00f3 en contra con peso {weight}"
   },
   {
     "id": "app.entry.alreadyUpvoted",
     "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-    "defaultMessage": "Usted votó a favor con peso {weight}"
+    "defaultMessage": "Usted vot\u00f3 a favor con peso {weight}"
   },
   {
     "id": "app.entry.articleEntryType",
     "description": "entry of type article",
-    "defaultMessage": "Entradas de artículo"
+    "defaultMessage": "Entradas de art\u00edculo"
   },
   {
     "id": "app.entry.cannotClaimEntry",
     "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-    "defaultMessage": "Sólo puede recolectar Esencia si su puntaje de entradas es positivo"
+    "defaultMessage": "S\u00f3lo puede recolectar Esencia si su puntaje de entradas es positivo"
   },
   {
     "id": "app.entry.cannotClaimVote",
     "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-    "defaultMessage": "Sólo puede recolectar Esencia si su voto está alineado con la mayoría (ejemplo, votaste a favor y su puntaje de entradas es positivo)"
+    "defaultMessage": "S\u00f3lo puede recolectar Esencia si su voto est\u00e1 alineado con la mayor\u00eda (ejemplo, vot\u00f3 a favor y su puntaje de entradas es positivo)"
   },
   {
     "id": "app.entry.collected",
@@ -42,7 +42,7 @@
   {
     "id": "app.entry.commentsCount",
     "description": "Number of comments",
-    "defaultMessage": "{count, number} {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+    "defaultMessage": "{count, number} {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
   },
   {
     "id": "app.entry.continueEditing",
@@ -67,12 +67,12 @@
   {
     "id": "app.entry.draftsCount",
     "description": "number of drafts",
-    "defaultMessage": "{count, number} {count, plural, one {draft} few {drafts} many {drafts} other {drafts}}"
+    "defaultMessage": "{count, number} {count, plural, one {borrador} few {borradores} many {borradores} other {borradores}}"
   },
   {
     "id": "app.entry.draftContentRequired",
     "description": "validation message for entry with no content",
-    "defaultMessage": "¡No puedes crear un artículo sin contenido!"
+    "defaultMessage": "\u00a1No puedes crear un art\u00edculo sin contenido!"
   },
   {
     "id": "app.entry.draftDelete",
@@ -107,17 +107,17 @@
   {
     "id": "app.entry.entriesCount",
     "description": "number of entries",
-    "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+    "defaultMessage": "{count, number} {count, plural, one {entrada} other {entradas}}"
   },
   {
     "id": "app.entry.oneTagRequired",
     "description": "Error message requiring at least one tag",
-    "defaultMessage": "Debes añadir al menos una etiqueta"
+    "defaultMessage": "Debes de a\u00f1adir al menos una etiqueta"
   },
   {
     "id": "app.entry.errorExcerptTooLong",
     "description": "Error message shown when excerpt is too long",
-    "defaultMessage": "El fragmento no debe de rebasar los 120 caracteres"
+    "defaultMessage": "El fragmento no debe rebasar los 120 caracteres"
   },
   {
     "id": "app.entry.excerpt",
@@ -142,17 +142,17 @@
   {
     "id": "app.entry.loadMoreReplies",
     "description": "label for load more replies button",
-    "defaultMessage": "Cargar más respuestas"
+    "defaultMessage": "Cargar m\u00e1s respuestas"
   },
   {
     "id": "app.entry.localVersion",
     "description": "label for local version of an entry",
-    "defaultMessage": "Versión local"
+    "defaultMessage": "Versi\u00f3n local"
   },
   {
     "id": "app.entry.newComments",
     "description": "Message to show when new comments were published",
-    "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+    "defaultMessage": "{count, number} new {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
   },
   {
     "id": "app.entry.noCommentsFound",
@@ -177,7 +177,7 @@
   {
     "id": "app.entry.olderVersion",
     "description": "entry subtitle for reading older versions",
-    "defaultMessage": "Está ahora leyendo una versión más vieja"
+    "defaultMessage": "Est\u00e1 ahora leyendo una versi\u00f3n m\u00e1s vieja"
   },
   {
     "id": "app.entry.originalVersion",
@@ -187,7 +187,7 @@
   {
     "id": "app.entry.publicDiscussion",
     "description": "entry comments section title",
-    "defaultMessage": "Discusión pública"
+    "defaultMessage": "Discusi\u00f3n p\u00fablica"
   },
   {
     "id": "app.entry.published",
@@ -197,22 +197,22 @@
   {
     "id": "app.entry.publishOptions",
     "description": "publish options panel title",
-    "defaultMessage": "Opciones de publicación"
+    "defaultMessage": "Opciones de publicaci\u00f3n"
   },
   {
     "id": "app.entry.readTime",
     "description": "estimated time to read an entry (e.g. 10 min read)",
-    "defaultMessage": "leído"
+    "defaultMessage": "le\u00eddo"
   },
   {
     "id": "app.entry.revertConfirmTitle",
     "description": "confirmation message when reverting a draft",
-    "defaultMessage": "¿Está seguro de querer revertir el borrador?"
+    "defaultMessage": "\u00bfEst\u00e1 seguro de querer revertir el borrador?"
   },
   {
     "id": "app.entry.saveHighlight",
     "description": "save highlight button label",
-    "defaultMessage": "Guardar resalto"
+    "defaultMessage": "Guardar resaltado"
   },
   {
     "id": "app.entry.score",
@@ -247,7 +247,7 @@
   {
     "id": "app.entry.titleRequired",
     "description": "validation message in case of missing title field",
-    "defaultMessage": "El título no debe de ser vacío"
+    "defaultMessage": "El t\u00edtulo no debe de ser vac\u00edo"
   },
   {
     "id": "app.entry.upvote",
@@ -257,7 +257,7 @@
   {
     "id": "app.entry.version",
     "description": "entry version",
-    "defaultMessage": "versión"
+    "defaultMessage": "versi\u00f3n"
   },
   {
     "id": "app.entry.versionHistory",
@@ -267,7 +267,7 @@
   {
     "id": "app.entry.versionNumber",
     "description": "label for version number",
-    "defaultMessage": "Versión {index}"
+    "defaultMessage": "Versi\u00f3n {index}"
   },
   {
     "id": "app.entry.votePending",
@@ -277,7 +277,7 @@
   {
     "id": "app.entry.votePercentage",
     "description": "vote percentage distribution between downvotes and upvotes",
-    "defaultMessage": "Votos a favor - {upvote}% · Votos en contra - {downvote}%"
+    "defaultMessage": "Votos a favor - {upvote}% \u00b7 Votos en contra - {downvote}%"
   },
   {
     "id": "app.entry.votingOwnComment",
@@ -287,17 +287,17 @@
   {
     "id": "app.entry.votingPeriod",
     "description": "voting period for an entry has ended",
-    "defaultMessage": "El periodo de votación ha culminado"
+    "defaultMessage": "El periodo de votaci\u00f3n ha culminado"
   },
   {
     "id": "app.entry.votingPeriodDisclaimer",
     "description": "disclaimer message for votes when voting period has ended",
-    "defaultMessage": "Los usuarios pueden votar aún en la entrada, pero el maná quemado para estos votos no puede ser recolectado por el autor o por los votantes."
+    "defaultMessage": "Los usuarios pueden votar a\u00fan en la entrada, pero el man\u00e1 quemado para estos votos no puede ser recolectado por el autor o por los votantes."
   },
   {
     "id": "app.entry.wordsCount",
     "description": "number of words in an entry",
-    "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+    "defaultMessage": "{words, number} {words, plural, one {palabra} few {palabras} many {palabras} other {palabras}}"
   },
   {
     "id": "app.entry.writeComment",

@@ -152,7 +152,7 @@
   {
     "id": "app.form.passphraseConfirmError",
     "description": "Error message displayed when the given passphrases don't match",
-    "defaultMessage": "Las frases de acceso no concuerda. Por favor escr\u00edbalas de nuevo"
+    "defaultMessage": "Las frases de acceso no concuerdan. Por favor escr\u00edbalas de nuevo"
   },
   {
     "id": "app.passphraseVerify",
@@ -167,12 +167,12 @@
   {
     "id": "app.form.shiftDown",
     "description": "shift down",
-    "defaultMessage": "Shift abajo"
+    "defaultMessage": "Convertir hacia abajo"
   },
   {
     "id": "app.form.shiftDownMana",
     "description": "title for shift down Mana form",
-    "defaultMessage": "Shift down Mana"
+    "defaultMessage": "Convertir Mana hacia abajo"
   },
   {
     "id": "app.form.shiftDownManaHelp",
@@ -182,12 +182,12 @@
   {
     "id": "app.form.shiftUp",
     "description": "shift up",
-    "defaultMessage": "Shift up"
+    "defaultMessage": "Convertir hacia arriba"
   },
   {
     "id": "app.form.shiftUpMana",
     "description": "title for shift up Mana form",
-    "defaultMessage": "Shift up Mana"
+    "defaultMessage": "Convertir Mana hacia arriba"
   },
   {
     "id": "app.form.shiftUpManaHelp",

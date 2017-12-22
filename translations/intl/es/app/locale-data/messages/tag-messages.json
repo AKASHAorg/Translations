@@ -2,7 +2,7 @@
   {
     "id": "app.tag.addTag",
     "description": "placeholder for tag editor field",
-    "defaultMessage": "#category..."
+    "defaultMessage": "#categor\u00eda"
   },
   {
     "id": "app.tag.addToDashboard",

@@ -2,7 +2,7 @@
   {
     "id": "app.search.noResults",
     "description": "message displayed when no results are found",
-    "defaultMessage": "No se encontraro resultados"
+    "defaultMessage": "No se encontraron resultados"
   },
   {
     "id": "app.search.searchSomething",
