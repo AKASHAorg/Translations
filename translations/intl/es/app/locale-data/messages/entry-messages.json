@@ -202,7 +202,7 @@
   {
     "id": "app.entry.readTime",
     "description": "estimated time to read an entry (e.g. 10 min read)",
-    "defaultMessage": "le\u00eddo"
+    "defaultMessage": "de lectura"
   },
   {
     "id": "app.entry.revertConfirmTitle",
