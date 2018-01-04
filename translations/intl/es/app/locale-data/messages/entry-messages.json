@@ -1,312 +1,397 @@
 [
-  {
-    "id": "app.entry.allowedImageTypes",
-    "description": "types of images allowed for upload",
-    "defaultMessage": "Im\u00e1genes JPG, GIF o PNG"
-  },
-  {
-    "id": "app.entry.alreadyDownvoted",
-    "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-    "defaultMessage": "Usted vot\u00f3 en contra con peso {weight}"
-  },
-  {
-    "id": "app.entry.alreadyUpvoted",
-    "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-    "defaultMessage": "Usted vot\u00f3 a favor con peso {weight}"
-  },
-  {
-    "id": "app.entry.articleEntryType",
-    "description": "entry of type article",
-    "defaultMessage": "Entradas de art\u00edculo"
-  },
-  {
-    "id": "app.entry.cannotClaimEntry",
-    "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-    "defaultMessage": "S\u00f3lo puede recolectar Esencia si su puntaje de entradas es positivo"
-  },
-  {
-    "id": "app.entry.cannotClaimVote",
-    "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-    "defaultMessage": "S\u00f3lo puede recolectar Esencia si su voto est\u00e1 alineado con la mayor\u00eda (ejemplo, vot\u00f3 a favor y su puntaje de entradas es positivo)"
-  },
-  {
-    "id": "app.entry.collected",
-    "description": "Essence was collected for an entry/vote",
-    "defaultMessage": "Esencia recolectada"
-  },
-  {
-    "id": "app.entry.collectEssence",
-    "description": "collect essence from a published entry or vote",
-    "defaultMessage": "Recolectar Esencia"
-  },
-  {
-    "id": "app.entry.commentsCount",
-    "description": "Number of comments",
-    "defaultMessage": "{count, number} {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
-  },
-  {
-    "id": "app.entry.continueEditing",
-    "description": "label for continue editing button",
-    "defaultMessage": "Continuar editando"
-  },
-  {
-    "id": "app.entry.downvote",
-    "description": "downvote button tooltip",
-    "defaultMessage": "Votar en contra"
-  },
-  {
-    "id": "app.entry.draft",
-    "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-    "defaultMessage": "Borrador"
-  },
-  {
-    "id": "app.entry.drafts",
-    "description": "drafts section title",
-    "defaultMessage": "Borradores"
-  },
-  {
-    "id": "app.entry.draftsCount",
-    "description": "number of drafts",
-    "defaultMessage": "{count, number} {count, plural, one {borrador} few {borradores} many {borradores} other {borradores}}"
-  },
-  {
-    "id": "app.entry.draftContentRequired",
-    "description": "validation message for entry with no content",
-    "defaultMessage": "\u00a1No puedes crear un art\u00edculo sin contenido!"
-  },
-  {
-    "id": "app.entry.draftDelete",
-    "description": "delete draft button label",
-    "defaultMessage": "Eliminar borrador"
-  },
-  {
-    "id": "app.entry.draftEdit",
-    "description": "edit draft button label",
-    "defaultMessage": "Editar borrador"
-  },
-  {
-    "id": "app.entry.draftSaved",
-    "description": "draft saved status message",
-    "defaultMessage": "Borrador guardado"
-  },
-  {
-    "id": "app.entry.draftSaving",
-    "description": "saving draft status message",
-    "defaultMessage": "Guardando borrador"
-  },
-  {
-    "id": "app.entry.draftSharePreview",
-    "description": "share preview link button label",
-    "defaultMessage": "Compartir enlace de vista previa"
-  },
-  {
-    "id": "app.entry.editEntry",
-    "description": "tooltip for Edit entry button",
-    "defaultMessage": "Editar entrada"
-  },
-  {
-    "id": "app.entry.entriesCount",
-    "description": "number of entries",
-    "defaultMessage": "{count, number} {count, plural, one {entrada} other {entradas}}"
-  },
-  {
-    "id": "app.entry.oneTagRequired",
-    "description": "Error message requiring at least one tag",
-    "defaultMessage": "Debes de a\u00f1adir al menos una etiqueta"
-  },
-  {
-    "id": "app.entry.errorExcerptTooLong",
-    "description": "Error message shown when excerpt is too long",
-    "defaultMessage": "El fragmento no debe rebasar los 120 caracteres"
-  },
-  {
-    "id": "app.entry.excerpt",
-    "description": "excerpts section title",
-    "defaultMessage": "fragmento"
-  },
-  {
-    "id": "app.entry.featuredImage",
-    "description": "featured image section title",
-    "defaultMessage": "Imagen destacada"
-  },
-  {
-    "id": "app.entry.license",
-    "description": "License label",
-    "defaultMessage": "Licencia"
-  },
-  {
-    "id": "app.entry.linkEntryType",
-    "description": "entry of type link",
-    "defaultMessage": "Entradas de enlace"
-  },
-  {
-    "id": "app.entry.loadMoreReplies",
-    "description": "label for load more replies button",
-    "defaultMessage": "Cargar m\u00e1s respuestas"
-  },
-  {
-    "id": "app.entry.localVersion",
-    "description": "label for local version of an entry",
-    "defaultMessage": "Versi\u00f3n local"
-  },
-  {
-    "id": "app.entry.newComments",
-    "description": "Message to show when new comments were published",
-    "defaultMessage": "{count, number} new {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
-  },
-  {
-    "id": "app.entry.noCommentsFound",
-    "description": "placeholder for empty comments list",
-    "defaultMessage": "No se encontraron comentarios"
-  },
-  {
-    "id": "app.entry.noEntries",
-    "description": "placeholder for empty entry list",
-    "defaultMessage": "No hay entradas"
-  },
-  {
-    "id": "app.entry.noNewEntries",
-    "description": "placeholder for empty latest entries list",
-    "defaultMessage": "No hay entradas nuevas"
-  },
-  {
-    "id": "app.entry.noVotes",
-    "description": "Placeholder for empty votes list",
-    "defaultMessage": "No hay votos"
-  },
-  {
-    "id": "app.entry.olderVersion",
-    "description": "entry subtitle for reading older versions",
-    "defaultMessage": "Est\u00e1 ahora leyendo una versi\u00f3n m\u00e1s vieja"
-  },
-  {
-    "id": "app.entry.originalVersion",
-    "description": "label for original version",
-    "defaultMessage": "Original"
-  },
-  {
-    "id": "app.entry.publicDiscussion",
-    "description": "entry comments section title",
-    "defaultMessage": "Discusi\u00f3n p\u00fablica"
-  },
-  {
-    "id": "app.entry.published",
-    "description": "published entry",
-    "defaultMessage": "Publicado"
-  },
-  {
-    "id": "app.entry.publishOptions",
-    "description": "publish options panel title",
-    "defaultMessage": "Opciones de publicaci\u00f3n"
-  },
-  {
-    "id": "app.entry.readTime",
-    "description": "estimated time to read an entry (e.g. 10 min read)",
-    "defaultMessage": "de lectura"
-  },
-  {
-    "id": "app.entry.revertConfirmTitle",
-    "description": "confirmation message when reverting a draft",
-    "defaultMessage": "\u00bfEst\u00e1 seguro de querer revertir el borrador?"
-  },
-  {
-    "id": "app.entry.saveHighlight",
-    "description": "save highlight button label",
-    "defaultMessage": "Guardar resaltado"
-  },
-  {
-    "id": "app.entry.score",
-    "description": "entry score",
-    "defaultMessage": "Puntaje"
-  },
-  {
-    "id": "app.entry.searchProfile",
-    "description": "placeholder for profile column",
-    "defaultMessage": "Buscar perfil"
-  },
-  {
-    "id": "app.entry.searchTag",
-    "description": "placeholder for tag column",
-    "defaultMessage": "Buscar etiqueta"
-  },
-  {
-    "id": "app.entry.showLess",
-    "description": "label for comment collapse button",
-    "defaultMessage": "Colapsar comentario"
-  },
-  {
-    "id": "app.entry.showMore",
-    "description": "label for comment expand button",
-    "defaultMessage": "Mostrar comentario completo"
-  },
-  {
-    "id": "app.entry.startComment",
-    "description": "button label for starting a comment from a highlight",
-    "defaultMessage": "Iniciar comentario"
-  },
-  {
-    "id": "app.entry.titleRequired",
-    "description": "validation message in case of missing title field",
-    "defaultMessage": "El t\u00edtulo no debe de ser vac\u00edo"
-  },
-  {
-    "id": "app.entry.upvote",
-    "description": "upvote button tooltip",
-    "defaultMessage": "Votar a favor"
-  },
-  {
-    "id": "app.entry.version",
-    "description": "entry version",
-    "defaultMessage": "versi\u00f3n"
-  },
-  {
-    "id": "app.entry.versionHistory",
-    "description": "version history dialog title",
-    "defaultMessage": "Historial de versiones"
-  },
-  {
-    "id": "app.entry.versionNumber",
-    "description": "label for version number",
-    "defaultMessage": "Versi\u00f3n {index}"
-  },
-  {
-    "id": "app.entry.votePending",
-    "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-    "defaultMessage": "Su voto se encuentra pendiente"
-  },
-  {
-    "id": "app.entry.votePercentage",
-    "description": "vote percentage distribution between downvotes and upvotes",
-    "defaultMessage": "Votos a favor - {upvote}% \u00b7 Votos en contra - {downvote}%"
-  },
-  {
-    "id": "app.entry.votingOwnComment",
-    "description": "tooltip for vote button for your own comment",
-    "defaultMessage": "No puedes votar por tu propio comentario"
-  },
-  {
-    "id": "app.entry.votingPeriod",
-    "description": "voting period for an entry has ended",
-    "defaultMessage": "El periodo de votaci\u00f3n ha culminado"
-  },
-  {
-    "id": "app.entry.votingPeriodDisclaimer",
-    "description": "disclaimer message for votes when voting period has ended",
-    "defaultMessage": "Los usuarios pueden votar a\u00fan en la entrada, pero el man\u00e1 quemado para estos votos no puede ser recolectado por el autor o por los votantes."
-  },
-  {
-    "id": "app.entry.wordsCount",
-    "description": "number of words in an entry",
-    "defaultMessage": "{words, number} {words, plural, one {palabra} few {palabras} many {palabras} other {palabras}}"
-  },
-  {
-    "id": "app.entry.writeComment",
-    "description": "input placeholder for writing a comment",
-    "defaultMessage": "Escribir un comentario"
-  },
-  {
-    "id": "app.entry.writeReplyTo",
-    "description": "placeholder for writing a reply to someone {name}",
-    "defaultMessage": "Escribir una respuesta a {name}"
-  }
+    {
+        "id": "app.entry.allowedImageTypes",
+        "description": "types of images allowed for upload",
+        "defaultMessage": "Imágenes JPG, GIF o PNG"
+    },
+    {
+        "id": "app.entry.alreadyDownvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already downvoted",
+        "defaultMessage": "Usted votó en contra con peso {weight}"
+    },
+    {
+        "id": "app.entry.alreadyUpvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already upvoted",
+        "defaultMessage": "Usted votó a favor con peso {weight}"
+    },
+    {
+        "id": "app.entry.articleEntryType",
+        "description": "entry of type article",
+        "defaultMessage": "Entradas de artículo"
+    },
+    {
+        "id": "app.entry.cannotClaimEntry",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
+        "defaultMessage": "Sólo puede recolectar Esencia si su puntaje de entradas es positivo"
+    },
+    {
+        "id": "app.entry.cannotClaimVote",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
+        "defaultMessage": "Sólo puede recolectar Esencia si su voto está alineado con la mayoría (ejemplo, votó a favor y su puntaje de entradas es positivo)"
+    },
+    {
+        "id": "app.entry.collected",
+        "description": "Essence was collected for an entry/vote",
+        "defaultMessage": "Esencia recolectada"
+    },
+    {
+        "id": "app.entry.collectEssence",
+        "description": "collect essence from a published entry or vote",
+        "defaultMessage": "Recolectar Esencia"
+    },
+    {
+        "id": "app.entry.commentsCount",
+        "description": "Number of comments",
+        "defaultMessage": "{count, number} {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
+    },
+    {
+        "id": "app.entry.continueEditing",
+        "description": "label for continue editing button",
+        "defaultMessage": "Continuar editando"
+    },
+    {
+        "id": "app.entry.downvote",
+        "description": "downvote button tooltip",
+        "defaultMessage": "Votar en contra"
+    },
+    {
+        "id": "app.entry.draft",
+        "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
+        "defaultMessage": "Borrador"
+    },
+    {
+        "id": "app.entry.drafts",
+        "description": "drafts section title",
+        "defaultMessage": "Borradores"
+    },
+    {
+        "id": "app.entry.draftsCount",
+        "description": "number of drafts",
+        "defaultMessage": "{count, number} {count, plural, one {borrador} few {borradores} many {borradores} other {borradores}}"
+    },
+    {
+        "id": "app.entry.draftContentRequired",
+        "description": "validation message for entry with no content",
+        "defaultMessage": "¡No puedes crear un artículo sin contenido!"
+    },
+    {
+        "id": "app.entry.draftDelete",
+        "description": "delete draft button label",
+        "defaultMessage": "Eliminar borrador"
+    },
+    {
+        "id": "app.entry.draftEdit",
+        "description": "edit draft button label",
+        "defaultMessage": "Editar borrador"
+    },
+    {
+        "id": "app.entry.draftSaved",
+        "description": "draft saved status message",
+        "defaultMessage": "Borrador guardado"
+    },
+    {
+        "id": "app.entry.draftSaving",
+        "description": "saving draft status message",
+        "defaultMessage": "Guardando borrador"
+    },
+    {
+        "id": "app.entry.draftSharePreview",
+        "description": "share preview link button label",
+        "defaultMessage": "Compartir enlace de vista previa"
+    },
+    {
+        "id": "app.entry.editEntry",
+        "description": "tooltip for Edit entry button",
+        "defaultMessage": "Editar entrada"
+    },
+    {
+        "id": "app.entry.entriesCount",
+        "description": "number of entries",
+        "defaultMessage": "{count, number} {count, plural, one {entrada} other {entradas}}"
+    },
+    {
+        "id": "app.entry.oneTagRequired",
+        "description": "Error message requiring at least one tag",
+        "defaultMessage": "Debes de añadir al menos una etiqueta"
+    },
+    {
+        "id": "app.entry.errorExcerptTooLong",
+        "description": "Error message shown when excerpt is too long",
+        "defaultMessage": "El fragmento no debe rebasar los 120 caracteres"
+    },
+    {
+        "id": "app.entry.excerpt",
+        "description": "excerpts section title",
+        "defaultMessage": "fragmento"
+    },
+    {
+        "id": "app.entry.featuredImage",
+        "description": "featured image section title",
+        "defaultMessage": "Imagen destacada"
+    },
+    {
+        "id": "app.entry.license",
+        "description": "License label",
+        "defaultMessage": "Licencia"
+    },
+    {
+        "id": "app.entry.linkEntryType",
+        "description": "entry of type link",
+        "defaultMessage": "Entradas de enlace"
+    },
+    {
+        "id": "app.entry.loadMoreReplies",
+        "description": "label for load more replies button",
+        "defaultMessage": "Cargar más respuestas"
+    },
+    {
+        "id": "app.entry.localVersion",
+        "description": "label for local version of an entry",
+        "defaultMessage": "Versión local"
+    },
+    {
+        "id": "app.entry.newComments",
+        "description": "Message to show when new comments were published",
+        "defaultMessage": "{count, number} new {count, plural, one {comentario} few {comentarios} many {comentarios} other {comentarios}}"
+    },
+    {
+        "id": "app.entry.noCommentsFound",
+        "description": "placeholder for empty comments list",
+        "defaultMessage": "No se encontraron comentarios"
+    },
+    {
+        "id": "app.entry.noEntries",
+        "description": "placeholder for empty entry list",
+        "defaultMessage": "No hay entradas"
+    },
+    {
+        "id": "app.entry.noNewEntries",
+        "description": "placeholder for empty latest entries list",
+        "defaultMessage": "No hay entradas nuevas"
+    },
+    {
+        "id": "app.entry.noVotes",
+        "description": "Placeholder for empty votes list",
+        "defaultMessage": "No hay votos"
+    },
+    {
+        "id": "app.entry.olderVersion",
+        "description": "entry subtitle for reading older versions",
+        "defaultMessage": "Está ahora leyendo una versión más vieja"
+    },
+    {
+        "id": "app.entry.originalVersion",
+        "description": "label for original version",
+        "defaultMessage": "Original"
+    },
+    {
+        "id": "app.entry.publicDiscussion",
+        "description": "entry comments section title",
+        "defaultMessage": "Discusión pública"
+    },
+    {
+        "id": "app.entry.published",
+        "description": "published entry",
+        "defaultMessage": "Publicado"
+    },
+    {
+        "id": "app.entry.publishOptions",
+        "description": "publish options panel title",
+        "defaultMessage": "Opciones de publicación"
+    },
+    {
+        "id": "app.entry.readTime",
+        "description": "estimated time to read an entry (e.g. 10 min read)",
+        "defaultMessage": "de lectura"
+    },
+    {
+        "id": "app.entry.revertConfirmTitle",
+        "description": "confirmation message when reverting a draft",
+        "defaultMessage": "¿Está seguro de querer revertir el borrador?"
+    },
+    {
+        "id": "app.entry.saveHighlight",
+        "description": "save highlight button label",
+        "defaultMessage": "Guardar resaltado"
+    },
+    {
+        "id": "app.entry.score",
+        "description": "entry score",
+        "defaultMessage": "Puntaje"
+    },
+    {
+        "id": "app.entry.searchProfile",
+        "description": "placeholder for profile column",
+        "defaultMessage": "Buscar perfil"
+    },
+    {
+        "id": "app.entry.searchTag",
+        "description": "placeholder for tag column",
+        "defaultMessage": "Buscar etiqueta"
+    },
+    {
+        "id": "app.entry.showLess",
+        "description": "label for comment collapse button",
+        "defaultMessage": "Colapsar comentario"
+    },
+    {
+        "id": "app.entry.showMore",
+        "description": "label for comment expand button",
+        "defaultMessage": "Mostrar comentario completo"
+    },
+    {
+        "id": "app.entry.startComment",
+        "description": "button label for starting a comment from a highlight",
+        "defaultMessage": "Iniciar comentario"
+    },
+    {
+        "id": "app.entry.titleRequired",
+        "description": "validation message in case of missing title field",
+        "defaultMessage": "El título no debe de ser vacío"
+    },
+    {
+        "id": "app.entry.upvote",
+        "description": "upvote button tooltip",
+        "defaultMessage": "Votar a favor"
+    },
+    {
+        "id": "app.entry.version",
+        "description": "entry version",
+        "defaultMessage": "versión"
+    },
+    {
+        "id": "app.entry.versionHistory",
+        "description": "version history dialog title",
+        "defaultMessage": "Historial de versiones"
+    },
+    {
+        "id": "app.entry.versionNumber",
+        "description": "label for version number",
+        "defaultMessage": "Versión {index}"
+    },
+    {
+        "id": "app.entry.votePending",
+        "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
+        "defaultMessage": "Su voto se encuentra pendiente"
+    },
+    {
+        "id": "app.entry.votePercentage",
+        "description": "vote percentage distribution between downvotes and upvotes",
+        "defaultMessage": "Votos a favor - {upvote}% · Votos en contra - {downvote}%"
+    },
+    {
+        "id": "app.entry.votingOwnComment",
+        "description": "tooltip for vote button for your own comment",
+        "defaultMessage": "No puedes votar por tu propio comentario"
+    },
+    {
+        "id": "app.entry.votingPeriod",
+        "description": "voting period for an entry has ended",
+        "defaultMessage": "El periodo de votación ha culminado"
+    },
+    {
+        "id": "app.entry.votingPeriodDisclaimer",
+        "description": "disclaimer message for votes when voting period has ended",
+        "defaultMessage": "Los usuarios pueden votar aún en la entrada, pero el maná quemado para estos votos no puede ser recolectado por el autor o por los votantes."
+    },
+    {
+        "id": "app.entry.wordsCount",
+        "description": "number of words in an entry",
+        "defaultMessage": "{words, number} {words, plural, one {palabra} few {palabras} many {palabras} other {palabras}}"
+    },
+    {
+        "id": "app.entry.writeComment",
+        "description": "input placeholder for writing a comment",
+        "defaultMessage": "Escribir un comentario"
+    },
+    {
+        "id": "app.entry.writeReplyTo",
+        "description": "placeholder for writing a reply to someone {name}",
+        "defaultMessage": "Escribir una respuesta a {name}"
+    },
+    {
+        "id": "app.entry.startComment",
+        "description": "button label for starting a comment from a highlight",
+        "defaultMessage": "Start comment"
+    },
+    {
+        "id": "app.entry.title",
+        "description": "placeholder for draft title input",
+        "defaultMessage": "Title"
+    },
+    {
+        "id": "app.entry.titleRequired",
+        "description": "validation message in case of missing title field",
+        "defaultMessage": "Title must not be empty"
+    },
+    {
+        "id": "app.entry.tooltipAuthor",
+        "description": "error message in case author cannot be resolved",
+        "defaultMessage": "Cannot resolve entry author"
+    },
+    {
+        "id": "app.entry.upvote",
+        "description": "upvote button tooltip",
+        "defaultMessage": "Upvote"
+    },
+    {
+        "id": "app.entry.version",
+        "description": "entry version",
+        "defaultMessage": "version"
+    },
+    {
+        "id": "app.entry.versionHistory",
+        "description": "version history dialog title",
+        "defaultMessage": "Version history"
+    },
+    {
+        "id": "app.entry.versionNumber",
+        "description": "label for version number",
+        "defaultMessage": "Version {index}"
+    },
+    {
+        "id": "app.entry.votePending",
+        "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
+        "defaultMessage": "Your vote is pending"
+    },
+    {
+        "id": "app.entry.votePercentage",
+        "description": "vote percentage distribution between downvotes and upvotes",
+        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+    },
+    {
+        "id": "app.entry.votingOwnComment",
+        "description": "tooltip for vote button for your own comment",
+        "defaultMessage": "You cannot vote your own comment"
+    },
+    {
+        "id": "app.entry.votingPeriod",
+        "description": "voting period for an entry has ended",
+        "defaultMessage": "The voting period has ended"
+    },
+    {
+        "id": "app.entry.votingPeriodDisclaimer",
+        "description": "disclaimer message for votes when voting period has ended",
+        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+    },
+    {
+        "id": "app.entry.websiteInfoFetchingError",
+        "description": "error shown when fetching website info failed",
+        "defaultMessage": "An error occured while trying to fetch website info"
+    },
+    {
+        "id": "app.entry.wordsCount",
+        "description": "number of words in an entry",
+        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+    },
+    {
+        "id": "app.entry.writeComment",
+        "description": "input placeholder for writing a comment",
+        "defaultMessage": "Write a comment"
+    },
+    {
+        "id": "app.entry.writeReplyTo",
+        "description": "placeholder for writing a reply to someone {name}",
+        "defaultMessage": "Write a reply to {name}"
+    }
 ]
