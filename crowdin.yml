@@ -1,0 +1,4 @@
+files:
+  - source: /translations/intl/en/app/locale-data/messages/*.json
+    translation: >-
+      /translations/intl/%two_letters_code%/app/locale-data/messages/%original_file_name%
