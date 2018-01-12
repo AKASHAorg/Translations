@@ -65,94 +65,109 @@
         "defaultMessage": "Crear un nuevo tablero"
     },
     {
+        "id": "app.dashboard.createDashboardFirst",
+        "description": "Tooltip message for add column button when there is no board created",
+        "defaultMessage": "Nombre del tablero"
+    },
+    {
+        "id": "app.dashboard.createOneNow",
+        "description": "button label for creating a new board",
+        "defaultMessage": "Create one now"
+    },
+    {
+        "id": "app.dashboard.createNew",
+        "description": "button label/tooltip for creating a new board",
+        "defaultMessage": "Create a new board"
+    },
+    {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Nombre del tablero"
+        "defaultMessage": "Board name"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "El nombre del tablero es requerido"
+        "defaultMessage": "Board name is required"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "Este tablero ya existe"
+        "defaultMessage": "This board already exists"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "¿Está seguro de querer eliminar esta columna?"
+        "defaultMessage": "Are you sure you want to delete this column?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "¿Está seguro de querer eliminar a {name}?"
+        "defaultMessage": "Are you sure you want to delete {name}?"
+    },
+    {
+        "id": "app.dashboard.firstDashboard",
+        "description": "the name for the first board",
+        "defaultMessage": "My board"
     },
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Grande"
+        "defaultMessage": "Large"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Entradas más recientes"
+        "defaultMessage": "Latest entries"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "Lista"
+        "defaultMessage": "List"
+    },
+    {
+        "id": "app.dashboard.listDeleted",
+        "description": "message displayed when the list used in a list column was deleted",
+        "defaultMessage": "This list was deleted. Please remove this column"
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "Mis tableros"
+        "defaultMessage": "My boards"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Escriba el nombre del tablero"
+        "defaultMessage": "Type board name"
+    },
+    {
+        "id": "app.dashboard.noDashboard",
+        "description": "placeholder message displayed when no boards were found",
+        "defaultMessage": "No boards found"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Vista previa de {listName}"
+        "defaultMessage": "Preview for {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Vista previa de {displayName}"
+        "defaultMessage": "Preview for {displayName}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Vista previa de #{tagName}"
+        "defaultMessage": "Preview for #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "Usuario"
+        "defaultMessage": "User"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Buscar tablero..."
-    },
-    {
-        "id": "app.dashboard.small",
-        "description": "small column width",
-        "defaultMessage": "Pequeño"
-    },
-    {
-        "id": "app.dashboard.stream",
-        "description": "label for following feed column",
-        "defaultMessage": "Novedades"
-    },
-    {
-        "id": "app.dashboard.tag",
-        "description": "label for tag column",
-        "defaultMessage": "Etiqueta"
+        "defaultMessage": "Search for a board..."
     },
     {
         "id": "app.dashboard.small",
