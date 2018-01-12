@@ -12,7 +12,7 @@
     {
         "id": "app.highlight.deleteHighlight",
         "description": "label for delete highlight button",
-        "defaultMessage": "Eliminar texto resaltado"
+        "defaultMessage": "¿Quiere eliminar el texto resaltado?"
     },
     {
         "id": "app.highlight.editNote",
@@ -22,7 +22,7 @@
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Editar nota"
+        "defaultMessage": "Comenzar una entrada"
     },
     {
         "id": "app.highlight.startEntry",
