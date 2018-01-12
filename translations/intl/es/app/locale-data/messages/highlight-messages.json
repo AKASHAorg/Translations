@@ -17,12 +17,12 @@
     {
         "id": "app.highlight.editNote",
         "description": "label for edit note button",
-        "defaultMessage": "Editar nota"
+        "defaultMessage": "Eliminar resalto"
     },
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Comenzar una entrada"
+        "defaultMessage": "Editar nota"
     },
     {
         "id": "app.highlight.startEntry",
