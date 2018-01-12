@@ -77,17 +77,17 @@
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} de AETH se ciclará de vuelta a AETH transferible en 7 días. {amount} Mana no se regenerará de nuevo."
+        "defaultMessage": "{manafied} AETH manaficado"
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} de AETH generará {amount} de Mana cada 24 horas siempre y cuando se mantenga en este estado."
+        "defaultMessage": "Transformar Esencia"
     },
     {
         "id": "app.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "Nombre"
+        "defaultMessage": "{amount} de Esencia forjará {value} AETH nuevo en su cuenta."
     },
     {
         "id": "app.lastName",
@@ -272,7 +272,7 @@
     {
         "id": "app.form.notEnoughMana",
         "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "No tiene los suficientes fondos en su cuenta"
+        "defaultMessage": "You don't have enough Mana for this action"
     },
     {
         "id": "app.form.alphanumericError",
