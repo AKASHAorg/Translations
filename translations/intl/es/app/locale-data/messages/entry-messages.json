@@ -32,17 +32,17 @@
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "¡No se pudo extraer información del sitio web! Por favor intente con otra dirección"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "No se pudo recuperar la información de licencia."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "agregue un subtítulo"
     },
     {
         "id": "app.entry.collected",
@@ -97,7 +97,7 @@
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "¿Está seguro de querer eliminar este borrador?"
     },
     {
         "id": "app.entry.draftEdit",
@@ -122,7 +122,7 @@
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Editado"
     },
     {
         "id": "app.entry.editEntry",
@@ -137,7 +137,7 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Ingrese una dirección, como www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
@@ -162,17 +162,17 @@
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "Este contenido tiene un puntaje menor a {score}."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Puede cambiar este valor desde su"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "configuración personal"
     },
     {
         "id": "app.entry.license",
