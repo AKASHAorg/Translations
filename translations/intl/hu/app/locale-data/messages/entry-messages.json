@@ -35,6 +35,11 @@
         "defaultMessage": "Cannot extract information from website! Please try another address"
     },
     {
+        "id": "app.entry.cannotRetrieveLicense",
+        "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
+        "defaultMessage": "Cannot retrieve licence info."
+    },
+    {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
         "defaultMessage": "add a caption"
@@ -225,9 +230,14 @@
         "defaultMessage": "No new entries"
     },
     {
+        "id": "app.entry.nothingToCollect",
+        "description": "explainer message for not being able to collect when balance is 0 Essence",
+        "defaultMessage": "There is no Essence to collect from this entry"
+    },
+    {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "No title"
+        "defaultMessage": "New draft"
     },
     {
         "id": "app.entry.noVotes",
@@ -243,6 +253,11 @@
         "id": "app.entry.originalVersion",
         "description": "label for original version",
         "defaultMessage": "Original"
+    },
+    {
+        "id": "app.entry.oneOfTheTagsCannotBeUsed",
+        "description": "cannot use a tag",
+        "defaultMessage": "One of the tags cannot be used!"
     },
     {
         "id": "app.entry.publicDiscussion",
@@ -313,6 +328,11 @@
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
         "defaultMessage": "Start comment"
+    },
+    {
+        "id": "app.entry.startANewDraft",
+        "description": "message to start a new draft",
+        "defaultMessage": "Create a draft now!"
     },
     {
         "id": "app.entry.title",
@@ -393,5 +413,10 @@
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
         "defaultMessage": "Write a reply to {name}"
+    },
+    {
+        "id": "app.entry.youHaveNoDrafts",
+        "description": "Message shown when all drafts are deleted",
+        "defaultMessage": "You have no drafts."
     }
 ]
