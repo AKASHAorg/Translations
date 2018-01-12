@@ -67,7 +67,7 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "Nombre del tablero"
+        "defaultMessage": "You must create a board first"
     },
     {
         "id": "app.dashboard.createOneNow",
