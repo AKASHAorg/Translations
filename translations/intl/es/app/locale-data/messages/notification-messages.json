@@ -60,164 +60,174 @@
         "defaultMessage": "Ya no se encuentra siguiendo a {displayName}"
     },
     {
+        "id": "app.notification.notEnoughEthers",
+        "description": "Notification to show when not enough ethers",
+        "defaultMessage": "You don`t have enough ethers."
+    },
+    {
+        "id": "app.notification.notEnoughEthOrMana",
+        "description": "Notification when not enough eth or mana",
+        "defaultMessage": "You don`t have enough ethers or mana."
+    },
+    {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Su perfil ha sido actualizado exitosamente"
+        "defaultMessage": "Highfives! Profile successfully registered!"
     },
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "Ha publicado un comentario exitosamente"
+        "defaultMessage": "You successfully published a comment"
     },
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publicando \"{title]\""
+        "defaultMessage": "Publishing \"{title}\"."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Actualizando \"{title}\"."
+        "defaultMessage": "Updating \"{title}\"."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entrada actualizada exitosamente"
+        "defaultMessage": "Entry \"{title}\" successfully updated."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Entrada publicada exitosamente"
+        "defaultMessage": "Draft \"{title}\" successfully published."
     },
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "Ha recolectado Esencia por {entryTitle} exitosamente"
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "Ha recolectado Esencia por {entryTitle} exitosamente"
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
     },
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Votando en contra de {entryTitle}"
+        "defaultMessage": "Downvoting {entryTitle} ..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "Ha votado en contra de un comentario exitosamente"
+        "defaultMessage": "You successfully downvoted a comment"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "Ha votado en contra de {entryTitle} exitosamente"
+        "defaultMessage": "You successfully downvoted {entryTitle}"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Votando a favor de {entryTitle} ..."
+        "defaultMessage": "Upvoting {entryTitle} ..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "Ha votado a favor de un comentario exitosamente"
+        "defaultMessage": "You successfully upvoted a comment"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "Ha votado a favor de {entryTitle} exitosamente"
+        "defaultMessage": "You successfully upvoted {entryTitle}"
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publicanco comentario"
+        "defaultMessage": "Publishing comment"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comentario publicado exitosamente"
+        "defaultMessage": "Comment published successfully"
     },
     {
         "id": "app.notification.claiming",
         "description": "Notification to be displayed when collect transaction is sent",
-        "defaultMessage": "Recolectando Esencia por {entryTitle} ..."
+        "defaultMessage": "Collecting Essence for {entryTitle} ..."
     },
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "¡Borrador guardado exitosamente!"
+        "defaultMessage": "Draft successfully saved!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "¡Borrador eliminado exitosamente!"
+        "defaultMessage": "Draft successfully deleted!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Enlace copiado al pisapapeles"
+        "defaultMessage": "Link copied to clipboard"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Enviando propina a {displayName} ..."
+        "defaultMessage": "Sending tip to {displayName} ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "Ha dado una propina a {displayName} exitosamente"
+        "defaultMessage": "You have successfully tipped {displayName}"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notificaciones habilitadas para {displayName}"
+        "defaultMessage": "Notifications enabled for {displayName}"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notificaciones deshabilitadas para {displayName}"
+        "defaultMessage": "Notifications disabled for {displayName}"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "El respaldo fue generado en {path}"
+        "defaultMessage": "Backup was generated at {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "Ha guardado sus preferencias exitosamente. Debe de reiniciar el servicio geth para que sus cambios puedan ser aplicados."
+        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "Ha guardado sus preferencias exitosamente. Debe de reiniciar el servicio IPFS para que sus cambios puedan ser aplicados."
+        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "Ha establecido sus puertos de IPFS exitosamente. Debe de reiniciar el servicio IPFS para que sus cambios puedan ser aplicados."
+        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+    },
+    {
+        "id": "app.settings.themeTips",
+        "description": "theme tips",
+        "defaultMessage": "Your theme will change after refreshing the app."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "Ha cambiado sus preferencias para propinas exitosamente"
+        "defaultMessage": "You succesfully changed your tips settings"
     },
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "Ha transferido {tokenAmount} AETH a {displayName}"
+        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "Ha transferido {value} ETH a {displayName} exitosamente"
-    },
-    {
-        "id": "app.notification.userSettingsSaveSuccess",
-        "description": "User settings successfully saved",
-        "defaultMessage": "Ha guardado sus preferencias personales exitosamente"
+        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
