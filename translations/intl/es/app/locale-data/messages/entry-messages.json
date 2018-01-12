@@ -32,7 +32,7 @@
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Esencia recolectada"
+        "defaultMessage": "Cannot extract information from website! Please try another address"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
@@ -287,27 +287,27 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "¿Está seguro de querer revertir el borrador?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Guardar resaltado"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Puntaje"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Buscar perfil"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Buscar etiqueta"
     },
     {
         "id": "app.entry.showAnyway",
@@ -317,17 +317,17 @@
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Colapsar comentario"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Mostrar comentario completo"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Iniciar comentario"
     },
     {
         "id": "app.entry.startANewDraft",
@@ -342,7 +342,7 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "El título no debe de ser vacío"
     },
     {
         "id": "app.entry.tooltipAuthor",
@@ -352,47 +352,47 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Votar a favor"
     },
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "versión"
     },
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Historial de versiones"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Versión {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Su voto se encuentra pendiente"
     },
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "Votos a favor - {upvote}% · Votos en contra - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "No puedes votar por tu propio comentario"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "El periodo de votación ha culminado"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Los usuarios pueden votar aún en la entrada, pero el maná quemado para estos votos no puede ser recolectado por el autor o por los votantes."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
@@ -402,17 +402,17 @@
     {
         "id": "app.entry.wordsCount",
         "description": "number of words in an entry",
-        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+        "defaultMessage": "{words, number} {words, plural, one {palabra} few {palabras} many {palabras} other {palabras}}"
     },
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Escribir un comentario"
     },
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Write a reply to {name}"
+        "defaultMessage": "Escribir una respuesta a {name}"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
