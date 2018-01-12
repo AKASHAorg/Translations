@@ -7,16 +7,16 @@
     {
         "id": "app.tag.addToDashboard",
         "description": "add tag to dashboard button",
-        "defaultMessage": "Agregar al tablero principal"
+        "defaultMessage": "¡Disculpe! No cuenta con suficiente karma como para crear etiquetas."
     },
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "¡Disculpe! No cuenta con suficiente karma como para crear etiquetas."
+        "defaultMessage": "Esta etiqueta no existe"
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "Esta etiqueta no existe"
+        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
     }
 ]
