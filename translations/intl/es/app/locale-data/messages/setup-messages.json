@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "¡El proceso de autenticación fue completado!"
+        "defaultMessage": "This is your new identity"
     },
     {
         "id": "app.setup.backup",
@@ -20,84 +20,109 @@
         "defaultMessage": "Crear nueva identidad"
     },
     {
+        "id": "app.setup.getStarted",
+        "description": "welcome subtitle when there are no profiles",
+        "defaultMessage": "Get started by creating a new identity!"
+    },
+    {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Directorio de Geth Datadir"
+        "defaultMessage": "Geth Datadir path"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Dirección de Geth IPC"
+        "defaultMessage": "Geth IPC path"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "tamaño de cache de Geth"
+        "defaultMessage": "Geth cache size"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Id de la red Geth"
+        "defaultMessage": "Geth network id"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Importar llaves"
+        "defaultMessage": "Import keys"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "Dirección del almacenaje IPFS"
+        "defaultMessage": "IPFS storage path"
+    },
+    {
+        "id": "app.setup.ipfsStoragePathInfo",
+        "description": "tooltip with extra information about the IPFS storage path",
+        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
     },
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "Puerto de la API de IPFS"
+        "defaultMessage": "IPFS API port"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "Puerto del portal de IPFS"
+        "defaultMessage": "IPFS gateway port"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "Puerto swarm de IPFS"
+        "defaultMessage": "IPFS swarm port"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuración"
+        "defaultMessage": "Configuration"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Sincronización ligera"
+        "defaultMessage": "Light sync"
+    },
+    {
+        "id": "app.setup.lightSyncDescription",
+        "description": "info when user selects light sync mode",
+        "defaultMessage": "..."
     },
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Por favor introduzca su frase de acceso debajo"
+        "defaultMessage": "Please enter your passphrase below"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Sincronización normal"
+        "defaultMessage": "Normal sync"
+    },
+    {
+        "id": "app.setup.normalSyncDescription",
+        "description": "info when user selects normal sync mode",
+        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+    },
+    {
+        "id": "app.setup.normalSyncDescriptionAlt",
+        "description": "more info",
+        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
     },
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Sincronización"
+        "defaultMessage": "Synchronization"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Opciones de Sincronización"
+        "defaultMessage": "Sync options"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Detalles del registro"
+        "defaultMessage": "Log details"
     },
     {
         "id": "app.setup.login",
@@ -105,144 +130,139 @@
         "defaultMessage": "Login"
     },
     {
-        "id": "app.setup.welcomeBack",
+        "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "¡Bienvenido de vuelta!"
+        "defaultMessage": "Welcome!"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Por favor seleccione una identidad con la cual conectarse"
+        "defaultMessage": "Please select one identity to login"
     },
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "Crear una nueva identidad"
+        "defaultMessage": "Create new identity"
     },
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "¿En qué está interesado?"
+        "defaultMessage": "What are you interested in?"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "Le sugeriremos contenido increíble basándonos en sus intereses."
+        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Setup express"
+        "defaultMessage": "Express setup"
+    },
+    {
+        "id": "app.setup.faucetPending",
+        "description": "message shown while faucet tx is pending",
+        "defaultMessage": "Thank you for playing!"
+    },
+    {
+        "id": "app.setup.faucetPending1",
+        "description": "message shown while faucet tx is pending",
+        "defaultMessage": "Here are some test ETH :)"
+    },
+    {
+        "id": "app.setup.faucetError",
+        "description": "message shown when faucet tx fails",
+        "defaultMessage": "Something went wrong :("
+    },
+    {
+        "id": "app.setup.faucetRetry",
+        "description": "message shown when faucet tx fails to allow user to retry the tx",
+        "defaultMessage": "Click here to retry"
+    },
+    {
+        "id": "app.setup.faucetSuccess",
+        "description": "message shown on faucet tx success",
+        "defaultMessage": "HoHoHoHo!"
+    },
+    {
+        "id": "app.setup.faucetSuccess1",
+        "description": "message shown on faucet tx success",
+        "defaultMessage": "You received test ETH!"
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Avanzado"
+        "defaultMessage": "Advanced"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Descargando cliente Geth..."
+        "defaultMessage": "Downloading Geth client..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Descargando cliente IPFS..."
+        "defaultMessage": "Downloading IPFS client..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Inicializando cliente Geth..."
+        "defaultMessage": "Starting Geth client..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Actualizando cliente Geth..."
+        "defaultMessage": "Upgrading Geth client..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Actualizando cliente IPFS..."
+        "defaultMessage": "Upgrading IPFS client..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Procesando"
+        "defaultMessage": "Processing"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Sincronizando"
+        "defaultMessage": "Synchronizing"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "La sincronización fue detenida"
+        "defaultMessage": "Synchronization was stopped"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "La sincronización fue completada"
+        "defaultMessage": "Synchronization completed"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "La sincronización se encuentra detenida"
+        "defaultMessage": "Synchronization is paused"
     },
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "Su máquina se está actualizando actualmente con la red mundial de Ethereum. Podra conectarse y disfrutar de la experiencia completa de AKASHA tan pronto que la actualización termine."
+        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "La sincronización se ha completado. El servicio IPFS necesita ser inicializado para poder continuar. Puede inicializarlo manualmente desde la barra de estatus en el mástil o al dar click en SIGUIENTE para iniciarlo automáticamente."
+        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "No se encontraron perfiles. Cree una nueva identidad o importe una existente."
+        "defaultMessage": "If you want to import an identity please see this link."
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Encontrando pares"
-    },
-    {
-        "id": "app.setup.launchingServices",
-        "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Lanzando servicios"
-    },
-    {
-        "id": "app.setup.waitingForServices",
-        "description": "default message to display in sync status",
-        "defaultMessage": "Esperando a los servicios"
-    },
-    {
-        "id": "app.setup.waitingForGeth",
-        "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Esperando al cliente geth"
-    },
-    {
-        "id": "app.setup.peerCount",
-        "description": "number of peers connected",
-        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}}, {peerCount, plural, one {connected} other {connected}}"
-    },
-    {
-        "id": "app.setup.details",
-        "description": "details button label",
-        "defaultMessage": "detalles"
-    },
-    {
-        "id": "app.setup.gethStopped",
-        "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "El servicio Geth no está funcionando. Por favor inicialícelo manualmente para poder recolectar sus perfiles."
-    },
-    {
-        "id": "app.setup.ipfsStopped",
-        "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "El servicio de IPFS se encuentra detenido. Por favor inicialícelo manualmente para poder recolectar sus perfiles."
+        "defaultMessage": "Finding peers"
     },
     {
         "id": "app.setup.launchingServices",
@@ -287,16 +307,16 @@
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requieres Manafied AETH (mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
     },
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo."
+        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
     }
 ]
