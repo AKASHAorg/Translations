@@ -100,9 +100,14 @@
         "defaultMessage": "Select your option for tips"
     },
     {
+        "id": "app.settings.tipsDisabled",
+        "description": "tooltip info for profile tips options when it is disabled",
+        "defaultMessage": "You need to register your profile before changing this option"
+    },
+    {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips Options"
+        "defaultMessage": "Tips options"
     },
     {
         "id": "app.settings.tipsInfo",
