@@ -35,9 +35,19 @@
         "defaultMessage": "Add new entry"
     },
     {
+        "id": "app.general.addTo",
+        "description": "add to",
+        "defaultMessage": "Add To"
+    },
+    {
         "id": "app.general.aeth",
         "description": "aeth token",
         "defaultMessage": "AETH"
+    },
+    {
+        "id": "app.general.akasha",
+        "description": "AKASHA",
+        "defaultMessage": "AKASHA"
     },
     {
         "id": "app.general.amount",
@@ -55,9 +65,9 @@
         "defaultMessage": "an entry vote"
     },
     {
-        "id": "app.general.akasha",
-        "description": "AKASHA",
-        "defaultMessage": "AKASHA"
+        "id": "app.general.appPreferences",
+        "description": "application settings/preferences",
+        "defaultMessage": "App preferences"
     },
     {
         "id": "app.general.back",
@@ -115,6 +125,11 @@
         "defaultMessage": "Confirm"
     },
     {
+        "id": "app.general.confirmedAtBlock",
+        "description": "transaction/action confirmed at block number x",
+        "defaultMessage": "Confirmed at block #{blockNr}"
+    },
+    {
         "id": "app.general.copy",
         "description": "copy",
         "defaultMessage": "Copy"
@@ -145,6 +160,11 @@
         "defaultMessage": "Delete"
     },
     {
+        "id": "app.general.done",
+        "description": "",
+        "defaultMessage": "Done"
+    },
+    {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
         "defaultMessage": "Downloading"
@@ -170,6 +190,11 @@
         "defaultMessage": "Essence"
     },
     {
+        "id": "app.general.essenceTotal",
+        "description": "popover title",
+        "defaultMessage": "Total Essence"
+    },
+    {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
         "defaultMessage": "Essence total score"
@@ -185,9 +210,19 @@
         "defaultMessage": "Ethereum address"
     },
     {
+        "id": "app.general.failedAtBlock",
+        "description": "transaction/action failed at block number x",
+        "defaultMessage": "Failed at block #{blockNr}"
+    },
+    {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
         "defaultMessage": "Forged"
+    },
+    {
+        "id": "app.general.forward",
+        "description": "forward",
+        "defaultMessage": "Forward"
     },
     {
         "id": "app.general.generatingPreview",
@@ -245,6 +280,11 @@
         "defaultMessage": "Karma total score"
     },
     {
+        "id": "app.general.learnMore",
+        "description": "",
+        "defaultMessage": "Learn More"
+    },
+    {
         "id": "app.general.leave",
         "description": "leave button label",
         "defaultMessage": "Leave"
@@ -268,6 +308,11 @@
         "id": "app.general.manaBurned",
         "description": "mana burned",
         "defaultMessage": "Total Mana burned"
+    },
+    {
+        "id": "app.general.manaPool",
+        "description": "mana pool",
+        "defaultMessage": "Mana Pool Info"
     },
     {
         "id": "app.general.manafied",
@@ -305,9 +350,19 @@
         "defaultMessage": "Not found"
     },
     {
+        "id": "app.general.notifications",
+        "description": "notifications",
+        "defaultMessage": "Notifications (coming soon)"
+    },
+    {
         "id": "app.general.ok",
         "description": "Ok",
         "defaultMessage": "Ok"
+    },
+    {
+        "id": "app.general.okTutorial",
+        "description": "Label for tutorial modal btn",
+        "defaultMessage": "Ok, Got It!"
     },
     {
         "id": "app.general.pause",
@@ -318,6 +373,11 @@
         "id": "app.general.pending",
         "description": "an action is pending",
         "defaultMessage": "Pending"
+    },
+    {
+        "id": "app.general.pendingConfirmation",
+        "description": "an action is pending confirmation",
+        "defaultMessage": "Pending confirmation"
     },
     {
         "id": "app.general.people",
@@ -390,6 +450,26 @@
         "defaultMessage": "Retry"
     },
     {
+        "id": "app.general.requestTestAEthers",
+        "description": "",
+        "defaultMessage": "Request AETHERS"
+    },
+    {
+        "id": "app.general.requestTestEthers",
+        "description": "button label to request test ethers",
+        "defaultMessage": "Request test ETH"
+    },
+    {
+        "id": "app.general.requestTestEthersTitle",
+        "description": "",
+        "defaultMessage": "Request Test Ethers!"
+    },
+    {
+        "id": "app.general.requestTestAEthersTitle",
+        "description": "",
+        "defaultMessage": "Request AKASHA Ethers!"
+    },
+    {
         "id": "app.general.running",
         "description": "service status",
         "defaultMessage": "Running"
@@ -408,6 +488,11 @@
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
         "defaultMessage": "Search"
+    },
+    {
+        "id": "app.general.seeOnEtherscan",
+        "description": "tooltip for link to etherscan for transaction details",
+        "defaultMessage": "See on Etherscan"
     },
     {
         "id": "app.general.send",
@@ -447,7 +532,7 @@
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat: coming soon"
+        "defaultMessage": "Chat (coming soon)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -525,6 +610,26 @@
         "defaultMessage": "Transform"
     },
     {
+        "id": "app.general.transformAethers",
+        "description": "manafy/lock aeth",
+        "defaultMessage": "Manafy AETH"
+    },
+    {
+        "id": "app.general.translate",
+        "description": "translate",
+        "defaultMessage": "Translate"
+    },
+    {
+        "id": "app.general.usernameFirst",
+        "description": "tooltip title for profile complete submit button",
+        "defaultMessage": "Please choose your username first!"
+    },
+    {
+        "id": "app.general.userSettings",
+        "description": "user settings menu item",
+        "defaultMessage": "User settings"
+    },
+    {
         "id": "app.general.update",
         "description": "Update data",
         "defaultMessage": "Update"
@@ -540,6 +645,11 @@
         "defaultMessage": "Upgrading"
     },
     {
+        "id": "app.general.viewProfile",
+        "description": "View profile",
+        "defaultMessage": "View profile"
+    },
+    {
         "id": "app.general.vote",
         "description": "Vote",
         "defaultMessage": "Vote"
@@ -548,6 +658,11 @@
         "id": "app.general.wallet",
         "description": "wallet",
         "defaultMessage": "Wallet"
+    },
+    {
+        "id": "app.general.wailting",
+        "description": "",
+        "defaultMessage": "Waiting"
     },
     {
         "id": "app.general.yes",
