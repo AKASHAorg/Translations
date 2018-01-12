@@ -67,7 +67,7 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Nombre del tablero test"
+        "defaultMessage": "Nombre del tablero"
     },
     {
         "id": "app.list.dashboardNameRequired",
