@@ -227,7 +227,7 @@
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "Error al intentar ciclar [amount} AETH"
+        "defaultMessage": "Error al intentar ciclar {amount} AETH"
     },
     {
         "id": "app.error.profileFreeAeth",
@@ -267,11 +267,11 @@
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "Error al intentar guardar sus preferencias"
+        "defaultMessage": "An error occured while updating your profile"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Error al intentar guardar sus preferencias"
     }
 ]
