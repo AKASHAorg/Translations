@@ -668,5 +668,70 @@
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
         "defaultMessage": "Sí"
+    },
+    {
+        "id": "app.general.comment",
+        "description": "entry comment",
+        "defaultMessage": "Comment"
+    },
+    {
+        "id": "app.general.publishEntries",
+        "description": "action title",
+        "defaultMessage": "Publish Entries"
+    },
+    {
+        "id": "app.general.karmaPopoverTooltip",
+        "description": "karmaPopoverTooltip",
+        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+    },
+    {
+        "id": "app.general.createTags",
+        "description": "Create tags action title",
+        "defaultMessage": "Create Tags"
+    },
+    {
+        "id": "app.general.karmaLeaderboard",
+        "description": "karma leaderboard title",
+        "defaultMessage": "Leaderboard Position"
+    },
+    {
+        "id": "app.general.karmaLevel",
+        "description": "karma level",
+        "defaultMessage": "Level {karmaLevel}"
+    },
+    {
+        "id": "app.general.karmaLevelInfo",
+        "description": "karma level info",
+        "defaultMessage": "At your current level you can:"
+    },
+    {
+        "id": "app.general.karmaScore",
+        "description": "karma score",
+        "defaultMessage": "{profileKarmaScore} Karma"
+    },
+    {
+        "id": "app.general.showMore",
+        "description": "button label",
+        "defaultMessage": "Show more"
+    },
+    {
+        "id": "app.general.noFollowings",
+        "description": "info when user is not following anyone",
+        "defaultMessage": "You are not following anyone."
+    },
+    {
+        "id": "app.general.sidebarEntryTypeArticle",
+        "description": "tooltip text for sidebar draft text entry button",
+        "defaultMessage": "Article"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeLink",
+        "description": "tooltip text for sidebar draft link entry button",
+        "defaultMessage": "Link"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeImage",
+        "description": "",
+        "defaultMessage": "Image"
     }
 ]
