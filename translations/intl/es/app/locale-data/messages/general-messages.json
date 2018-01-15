@@ -12,27 +12,27 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Añadir"
+        "defaultMessage": "a comment"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Arrastrar y soltar para agregar una imagen."
+        "defaultMessage": "Añadir"
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "¡Genial! Suéltala ahí mismo"
+        "defaultMessage": "Arrastrar y soltar para agregar una imagen."
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Agregar una nueva entrada"
+        "defaultMessage": "¡Genial! Suéltala ahí mismo"
     },
     {
         "id": "app.general.aeth",
         "description": "aeth token",
-        "defaultMessage": "AETH"
+        "defaultMessage": "Agregar una nueva entrada"
     },
     {
         "id": "app.general.addTo",
