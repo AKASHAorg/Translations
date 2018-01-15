@@ -22,82 +22,82 @@
     {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "Opciones de la frase de acceso"
+        "defaultMessage": "Hide content"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Escoja cuándo su contaseña sea requerida"
+        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
     },
     {
         "id": "app.settings.licenseOptions",
         "description": "title for profile default license options",
-        "defaultMessage": "Licencia default"
+        "defaultMessage": "Hide comments with a score lower than"
     },
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "Escoja la licencia por default para los artículos que publique"
+        "defaultMessage": "Hide entries with a score lower than"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Ruso"
+        "defaultMessage": "Opciones de la frase de acceso"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "Escoja el Idioma"
+        "defaultMessage": "Escoja cuándo su contaseña sea requerida"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Español"
+        "defaultMessage": "Publish Options"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "Tema"
+        "defaultMessage": "Escoja la licencia por default para los artículos que publique"
+    },
+    {
+        "id": "app.settings.tipsDescription",
+        "description": "description for profile tips options",
+        "defaultMessage": "Language"
+    },
+    {
+        "id": "app.settings.tipsOptions",
+        "description": "title for profile tips options",
+        "defaultMessage": "Light Theme"
+    },
+    {
+        "id": "app.settings.tipsInfo",
+        "description": "info for profile tips options",
+        "defaultMessage": "Ruso"
+    },
+    {
+        "id": "app.settings.tipsAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Escoja el Idioma"
+    },
+    {
+        "id": "app.settings.tipsDoNotAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Español"
+    },
+    {
+        "id": "app.settings.title",
+        "description": "Title for app settings",
+        "defaultMessage": "App Theme"
+    },
+    {
+        "id": "app.settings.update",
+        "description": "description for update buton",
+        "defaultMessage": "Customize the look of the Akasha workspace"
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
         "defaultMessage": "Seleccione la opción para sus propinas"
-    },
-    {
-        "id": "app.settings.tipsOptions",
-        "description": "title for profile tips options",
-        "defaultMessage": "Opciones de propina"
-    },
-    {
-        "id": "app.settings.tipsInfo",
-        "description": "info for profile tips options",
-        "defaultMessage": "Cambiando esta opción involucrará enviar una transacción"
-    },
-    {
-        "id": "app.settings.tipsAccept",
-        "description": "label for profile tips option",
-        "defaultMessage": "Aceptar propinas"
-    },
-    {
-        "id": "app.settings.tipsDoNotAccept",
-        "description": "label for profile tips option",
-        "defaultMessage": "No aceptar propinas"
-    },
-    {
-        "id": "app.settings.title",
-        "description": "Title for app settings",
-        "defaultMessage": "Opciones de la aplicación"
-    },
-    {
-        "id": "app.settings.update",
-        "description": "description for update buton",
-        "defaultMessage": "Opciones de actualizaciones"
-    },
-    {
-        "id": "app.settings.tipsDescription",
-        "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
     },
     {
         "id": "app.settings.tipsDisabled",
@@ -132,6 +132,6 @@
     {
         "id": "app.settings.update",
         "description": "description for update buton",
-        "defaultMessage": "Opciones de actualizaciones"
+        "defaultMessage": "Update Settings"
     }
 ]
