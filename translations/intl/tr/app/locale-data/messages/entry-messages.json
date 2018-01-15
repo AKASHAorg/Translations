@@ -418,5 +418,40 @@
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
         "defaultMessage": "You have no drafts."
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
+    },
+    {
+        "id": "",
+        "description": "",
+        "defaultMessage": ""
     }
 ]
