@@ -172,22 +172,22 @@
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Lists"
+        "defaultMessage": "Listas"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "My balance"
+        "defaultMessage": "Mi balance"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "My entries"
+        "defaultMessage": "Mis entradas"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "My profile"
+        "defaultMessage": "Mi perfil"
     },
     {
         "id": "app.profile.noPendingTransactions",
@@ -197,7 +197,7 @@
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles"
+        "defaultMessage": "No perfiles"
     },
     {
         "id": "app.profile.noTransactions",
@@ -207,62 +207,62 @@
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Overview"
+        "defaultMessage": "Vista general"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "Este nombre de usuario no existe"
     },
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Preferencias"
     },
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receive"
+        "defaultMessage": "Recibir"
     },
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Type a username or paste an ethereum address"
+        "defaultMessage": "Escriba un nombre de usuario o pegue una dirección de ethereum"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Rewards and goals"
+        "defaultMessage": "Recompensas y metas"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Save for later"
+        "defaultMessage": "Guardar para después"
     },
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Enviar"
     },
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Enviar propina"
     },
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Sending tip ..."
+        "defaultMessage": "Enviando propina ..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Send tip to {name}"
+        "defaultMessage": "Enviar propina a {name}"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "Enviar a"
     },
     {
         "id": "app.profile.sentTip",
@@ -272,27 +272,27 @@
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "Soporte"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "Apoyado"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "Apoyando"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Cantidad de propina"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Balance total"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -307,11 +307,11 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Dejar de seguir"
     },
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Su dirección de ethereum"
     }
 ]
