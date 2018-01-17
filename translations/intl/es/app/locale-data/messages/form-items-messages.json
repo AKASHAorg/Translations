@@ -2,7 +2,7 @@
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Acerca de mí"
     },
     {
         "id": "app.form.acceptTips",
@@ -17,7 +17,7 @@
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Escriba su nombre de usuario"
     },
     {
         "id": "app.form.aethAmount",
@@ -47,12 +47,12 @@
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "Escriba su nombre"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Escriba su apellido"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Seleccione la cantidad de Esencia para transformarse"
     },
     {
         "id": "app.form.amountToShift",
@@ -152,12 +152,12 @@
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "De Manaficado a Ciclaje"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "De Transferible a Manaficado"
     },
     {
         "id": "app.form.confirmPassphrase",
@@ -227,7 +227,7 @@
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH will generate {value} Mana"
+        "defaultMessage": "{value} AETH generará {value} de Mana"
     },
     {
         "id": "app.form.tips",
@@ -272,7 +272,7 @@
     {
         "id": "app.form.notEnoughMana",
         "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "You don't have enough Mana for this action"
+        "defaultMessage": "No tiene suficiente Mana para esta acción"
     },
     {
         "id": "app.form.alphanumericError",
