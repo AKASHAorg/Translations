@@ -67,12 +67,12 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Primero debe de crear un tablero"
     },
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "Crear uno ahora mismo"
     },
     {
         "id": "app.dashboard.createNew",
@@ -107,7 +107,7 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "My board"
+        "defaultMessage": "Mi tablero"
     },
     {
         "id": "app.dashboard.large",
@@ -127,7 +127,7 @@
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "Esta lista fue eliminada. Por favor elimine esta columna"
     },
     {
         "id": "app.dashboard.myBoards",
@@ -142,7 +142,7 @@
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "No se encontraron tableros"
     },
     {
         "id": "app.dashboard.previewList",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Buscar un tablero..."
     },
     {
         "id": "app.dashboard.small",
