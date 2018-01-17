@@ -12,7 +12,7 @@
     {
         "id": "app.tutorial.ethereumTitle",
         "description": "ethereum slide title",
-        "defaultMessage": "Powered By Ethereum"
+        "defaultMessage": "Impulsado por Ethereum"
     },
     {
         "id": "app.tutorial.ethereumContent",
@@ -27,16 +27,16 @@
     {
         "id": "app.tutorial.ipfsContent",
         "description": "ipfs slide content",
-        "defaultMessage": "Thanks to the Inter-Planetary File System (IPFS) we removed also the need\n                for servers to distribute and store your content. This allows users to circumvent\n                traditional censorship blockades and empowers people with real freedom of\n                expression."
+        "defaultMessage": "Gracias al Inter-Planetary File System (IPFS) eliminamos también la necesidad\n                de servidores para distribuir y almacenar su contenido. Esto permite a los usuarios a burlar\n                bloqueos tradicionales de censura y empodera a las personas con una verdadera\n                libertad de expresión."
     },
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "Hacia una Mejor Red en Servicio de la Humanidad"
     },
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "El futuro no es un lugar hacia el cual vamos sino un lugar al cual podemos\n                crear. Merecemos una mejor red y ahora tenemos las herramientas para hacer que suceda.\n                Juntos podemos crear un mundo donde la libertad de expresión en la red sea un derecho,\n                no un atractivo."
     }
 ]
