@@ -17,6 +17,6 @@
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
+        "defaultMessage": "¡Esta es una nueva etiqueta que no había sido creada por nadie anteriormente!"
     }
 ]
