@@ -17,12 +17,12 @@
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "Por favor cargue una imagen con un ratio de 2:1"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "Caracteres restantes:"
     },
     {
         "id": "app.profile.aboutMeTitle",
@@ -72,12 +72,12 @@
     {
         "id": "app.profile.karmaLevel",
         "description": "Karma level",
-        "defaultMessage": "Karma lvl {karmaLevel}"
+        "defaultMessage": "Karma nivel {karmaLevel}"
     },
     {
         "id": "app.profile.linksPlaceholder",
         "description": "Links placeholder text",
-        "defaultMessage": "Type or paste your link"
+        "defaultMessage": "Escriba o pegue su enlace"
     },
     {
         "id": "app.profile.linksTitle",
@@ -192,7 +192,7 @@
     {
         "id": "app.profile.noPendingTransactions",
         "description": "placeholder message for empty pending transactions log",
-        "defaultMessage": "You have no pending transactions"
+        "defaultMessage": "No tiene transacciones pendientes"
     },
     {
         "id": "app.entry.noProfiles",
@@ -202,7 +202,7 @@
     {
         "id": "app.profile.noTransactions",
         "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "You have no transactions"
+        "defaultMessage": "No tiene transacciones"
     },
     {
         "id": "app.profile.overview",
@@ -267,7 +267,7 @@
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "Enviar propina"
     },
     {
         "id": "app.profile.support",
@@ -297,12 +297,12 @@
     {
         "id": "app.profile.transactionsLog",
         "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
+        "defaultMessage": "Registro de Transacciones"
     },
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Sus interacciones dentro del blockchain"
     },
     {
         "id": "app.profile.unfollow",
