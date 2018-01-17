@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article entries"
+        "defaultMessage": "Article"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -182,7 +182,7 @@
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link entries"
+        "defaultMessage": "Link"
     },
     {
         "id": "app.entry.loadMoreReplies",
@@ -418,5 +418,40 @@
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
         "defaultMessage": "You have no drafts."
+    },
+    {
+        "id": "app.entry.draftAll",
+        "description": "all drafts",
+        "defaultMessage": "All Drafts"
+    },
+    {
+        "id": "app.entry.entriesAll",
+        "description": "",
+        "defaultMessage": "All Entries"
+    },
+    {
+        "id": "app.entry.publishedAll",
+        "description": "all published entries",
+        "defaultMessage": "All entries"
+    },
+    {
+        "id": "app.entry.draftEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "drafts"
+    },
+    {
+        "id": "app.entry.publishedEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "entries"
+    },
+    {
+        "id": "app.entry.gotoMyDrafts",
+        "description": "go to my drafts button label",
+        "defaultMessage": "Got to my drafts"
+    },
+    {
+        "id": "app.entry.myEntries",
+        "description": "my entries label title",
+        "defaultMessage": "My Entries"
     }
 ]
