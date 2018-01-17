@@ -2,7 +2,7 @@
     {
         "id": "app.list.addToNewList",
         "description": "title for new list form",
-        "defaultMessage": "Add to list"
+        "defaultMessage": "Agregar a la lista"
     },
     {
         "id": "app.list.createNew",
@@ -27,7 +27,7 @@
     {
         "id": "app.list.listNameRequired",
         "description": "error message for empty list name input",
-        "defaultMessage": "Edit this list"
+        "defaultMessage": "Editar lista"
     },
     {
         "id": "app.list.listNameUnique",
