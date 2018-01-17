@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Esta es su nueva identidad"
     },
     {
         "id": "app.setup.backup",
@@ -22,7 +22,7 @@
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "¡Comience creando una nueva identidad!"
     },
     {
         "id": "app.setup.gethDataDirPath",
@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Al cambiar esto se restablecerá su configuración y su contenido local de IPFS"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -102,12 +102,12 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+        "defaultMessage": "¡Enhorabuena, es usted un pionero sincronizándose con la red de prueba de Etherem! Recomendamos la Sincronización Normal con el setup Express, pero los más valientes también pueden escoger la (muy) experimental Sincronización Ligera."
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
+        "defaultMessage": "Recomendamos la Sincronización Normal con el setup Express. Los más valientes pueden también escoger la experimental Sincronización Ligera."
     },
     {
         "id": "app.setup.synchronization",
@@ -162,32 +162,32 @@
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "¡Gracias por jugar!"
     },
     {
         "id": "app.setup.faucetPending1",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Here are some test ETH :)"
+        "defaultMessage": "Tenga ETH de prueba :)"
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "Algo salió mal :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Dé click aquí para reintentar"
     },
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "HoHoHoHo!"
+        "defaultMessage": "¡Jo Jo Jo Jo!"
     },
     {
         "id": "app.setup.faucetSuccess1",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You received test ETH!"
+        "defaultMessage": "¡Ha recibido ETH de prueba!"
     },
     {
         "id": "app.setup.advancedSetup",
