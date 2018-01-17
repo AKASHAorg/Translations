@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artículo"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -182,7 +182,7 @@
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Enlace"
     },
     {
         "id": "app.entry.loadMoreReplies",
@@ -192,7 +192,7 @@
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Cargando borradores..."
     },
     {
         "id": "app.entry.localVersion",
@@ -202,7 +202,7 @@
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Asegúrese de abrir la dApp de AKASHA en la computadora desde la cual ha publicado."
     },
     {
         "id": "app.entry.newComments",
@@ -217,7 +217,7 @@
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "No se encontraron borradores con su criterio de búsqueda."
     },
     {
         "id": "app.entry.noEntries",
@@ -232,12 +232,12 @@
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "No hay Esencia para recoger de esta entrada"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Borrador nuevo"
     },
     {
         "id": "app.entry.noVotes",
@@ -257,7 +257,7 @@
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "¡Una de las etiquetas no puede ser utilizada!"
     },
     {
         "id": "app.entry.publicDiscussion",
@@ -282,7 +282,7 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Resolviendo hash ipfs..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
@@ -312,7 +312,7 @@
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Mostrar de todos modos"
     },
     {
         "id": "app.entry.showLess",
@@ -332,12 +332,12 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "¡Cree un borrador ahora!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Título"
     },
     {
         "id": "app.entry.titleRequired",
@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "No se puede resolver el autor de la entrada"
     },
     {
         "id": "app.entry.upvote",
@@ -397,7 +397,7 @@
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Error al intentar recolectar información de la página web"
     },
     {
         "id": "app.entry.wordsCount",
@@ -417,41 +417,41 @@
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "No tienes borradores."
     },
     {
         "id": "app.entry.draftAll",
-        "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "description": "todos los borradores",
+        "defaultMessage": "Todos los Borradores"
     },
     {
         "id": "app.entry.entriesAll",
         "description": "",
-        "defaultMessage": "All Entries"
+        "defaultMessage": "Todas las Entradas"
     },
     {
         "id": "app.entry.publishedAll",
-        "description": "all published entries",
-        "defaultMessage": "All entries"
+        "description": "todas las entradas publicadas",
+        "defaultMessage": "Todas las entradas"
     },
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "borradores"
     },
     {
         "id": "app.entry.publishedEntryCategory",
-        "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "description": "sufijo de tipo de entrada por categoría",
+        "defaultMessage": "entradas"
     },
     {
         "id": "app.entry.gotoMyDrafts",
-        "description": "go to my drafts button label",
-        "defaultMessage": "Got to my drafts"
+        "description": "ir a mis borradores",
+        "defaultMessage": "Ir a mis borradores"
     },
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Mis Publicaciones"
     }
 ]
