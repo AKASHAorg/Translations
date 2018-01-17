@@ -27,6 +27,6 @@
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Start an entry"
+        "defaultMessage": "Comenzar una entrada"
     }
 ]
