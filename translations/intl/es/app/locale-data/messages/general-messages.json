@@ -12,7 +12,7 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "a comment"
+        "defaultMessage": "un comentario"
     },
     {
         "id": "app.general.addImage",
@@ -37,7 +37,7 @@
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Agregar a"
     },
     {
         "id": "app.general.aeth",
@@ -57,17 +57,17 @@
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "una entrada"
     },
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "un voto de entrada"
     },
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Preferencias de la Aplicación"
     },
     {
         "id": "app.general.back",
@@ -127,7 +127,7 @@
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Confirmado en el bloque #{blockNr}"
     },
     {
         "id": "app.general.copy",
@@ -162,7 +162,7 @@
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Hecho"
     },
     {
         "id": "app.general.downloading",
@@ -192,7 +192,7 @@
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "Esencia Total"
     },
     {
         "id": "app.general.essenceTotalScore",
@@ -212,17 +212,17 @@
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "Fallo en el bloque #{blockNr}"
     },
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "Forjado"
     },
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "Adelante"
     },
     {
         "id": "app.general.generatingPreview",
@@ -282,7 +282,7 @@
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "Ver más"
     },
     {
         "id": "app.general.leave",
@@ -312,7 +312,7 @@
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana Pool Info"
+        "defaultMessage": "Información de la Reserva de Mana"
     },
     {
         "id": "app.general.manafied",
@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications (coming soon)"
+        "defaultMessage": "Notificaciones (proximamente)"
     },
     {
         "id": "app.general.ok",
@@ -362,7 +362,7 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "¡Okay, entendido!"
     },
     {
         "id": "app.general.pause",
@@ -377,17 +377,17 @@
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Confirmación pendiente"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Personas"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Vista previa"
     },
     {
         "id": "app.general.processingImage",
@@ -407,17 +407,17 @@
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "Publishing"
+        "defaultMessage": "Publicando"
     },
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "recibido"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "+{amount} {symbol} de"
     },
     {
         "id": "app.general.refresh",
@@ -452,17 +452,17 @@
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "Solicitar AETHERS"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Solicitar ETH de prueba"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "¡Solicitar Ethers de prueba!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
