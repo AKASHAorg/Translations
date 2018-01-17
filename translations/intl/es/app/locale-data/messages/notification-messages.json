@@ -62,17 +62,17 @@
     {
         "id": "app.notification.notEnoughEthers",
         "description": "Notification to show when not enough ethers",
-        "defaultMessage": "You don`t have enough ethers."
+        "defaultMessage": "No tiene suficiente ether."
     },
     {
         "id": "app.notification.notEnoughEthOrMana",
         "description": "Notification when not enough eth or mana",
-        "defaultMessage": "You don`t have enough ethers or mana."
+        "defaultMessage": "No tiene suficiente ether o mana."
     },
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "¡Felicidades! El perfil se ha registrado exitosamente"
     },
     {
         "id": "app.notification.publishCommentSuccess",
@@ -92,12 +92,12 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "Entrada \"{title}\" actualizada exitosamente."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "Se ha publicado el borrador \"{title}\" exitosamente."
     },
     {
         "id": "app.notification.claimSuccess",
