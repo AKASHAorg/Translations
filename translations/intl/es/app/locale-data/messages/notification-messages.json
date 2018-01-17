@@ -212,7 +212,7 @@
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "Su tema será cambiado después de refrescar la aplicación."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
