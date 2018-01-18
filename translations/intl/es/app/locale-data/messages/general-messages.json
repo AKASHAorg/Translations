@@ -467,7 +467,7 @@
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "¡Solicitar Ethers de AKASHA!"
     },
     {
         "id": "app.general.running",
@@ -492,7 +492,7 @@
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Ver en Etherscan"
     },
     {
         "id": "app.general.send",
@@ -502,7 +502,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Enviado"
     },
     {
         "id": "app.general.settings",
@@ -512,37 +512,37 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "Tablero"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Mi Perfil"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Comunidad: proximamente"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Buscar"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Chat (proximamente)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Text Entry"
+        "defaultMessage": "Entrada de Texto"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link Entry"
+        "defaultMessage": "Entrada de Enlace"
     },
     {
         "id": "app.general.shift",
@@ -582,7 +582,7 @@
     {
         "id": "app.general.tags",
         "description": "tags",
-        "defaultMessage": "Tags"
+        "defaultMessage": "Etiquetas"
     },
     {
         "id": "app.general.terms",
@@ -612,22 +612,22 @@
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
+        "defaultMessage": "Manaficar AETH"
     },
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "Traducir"
     },
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "¡Por favor elija primero su nombre de usuario!"
     },
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Preferencias de usuario"
     },
     {
         "id": "app.general.update",
@@ -637,7 +637,7 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Actualizando"
     },
     {
         "id": "app.general.upgrading",
@@ -647,7 +647,7 @@
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "Ver perfil"
     },
     {
         "id": "app.general.vote",
@@ -662,7 +662,7 @@
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "Esperando"
     },
     {
         "id": "app.general.yes",
@@ -671,38 +671,38 @@
     },
     {
         "id": "app.general.comment",
-        "description": "entry comment",
-        "defaultMessage": "Comment"
+        "description": "comentario de entrada",
+        "defaultMessage": "Comentar"
     },
     {
         "id": "app.general.publishEntries",
-        "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "description": "título de acción",
+        "defaultMessage": "Publicar Entradas"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Su Karma incrementerá cuando recolecte Esencia."
     },
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Crear Etiquetas"
     },
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Leaderboard Position"
+        "defaultMessage": "Posición en el Marcador"
     },
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "Nivel {karmaLevel}"
     },
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "En su nivel actual puede:"
     },
     {
         "id": "app.general.karmaScore",
@@ -712,26 +712,26 @@
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "Ver más"
     },
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "No está siguiendo a nadie."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artículo"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "Enlace"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Imagen"
     }
 ]
