@@ -22,12 +22,12 @@
     {
         "id": "app.akasha.terms.privacyBody",
         "description": "privacy section content",
-        "defaultMessage": "5 Your privacy is very important to us which distinguishes AKASHA from any known Social Media Network. We designed AKASHA in a way that you remain in control of how you share your data with others. AKASHA will not collect and use your content and information for any other purposes than chosen by you."
+        "defaultMessage": "5 Sizin güvenliğiniz bilinen diğer Sosyal Medya Ağlarından farklı olarak biz AKASHA için çok önemlidir. Biz AKASHA'yı bir bakıma diğerleriyle birlikte sizin verilerinizi paylaşmanızı kontrol altına alacağınız şekilde tasarladık. AKASHA sizin tarafınızdan seçilmiş olanlar dışında sizin bilgi ve içeriklerinizi herhangi başka bir amaç için kullanmayacak ve toplamayacaktır."
     },
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Sharing Your Content and Information"
+        "defaultMessage": "2. Bilgi ve içeriklerinizin paylaşımı"
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
