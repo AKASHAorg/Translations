@@ -2,17 +2,17 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "输入数量"
     },
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "PROFILE PICTURE"
+        "defaultMessage": "个人图片"
     },
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "COVER PHOTO"
+        "defaultMessage": "封面照片"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
@@ -27,17 +27,17 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "关于我"
     },
     {
         "id": "app.profile.collectEssence",
         "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "收集精气"
     },
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "联系方式"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
