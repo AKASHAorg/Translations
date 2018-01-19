@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "4. Kayıt ve Kimlik"
     },
     {
         "id": "app.akasha.terms.registrationBody",
