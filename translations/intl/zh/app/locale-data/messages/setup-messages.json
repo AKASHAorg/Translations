@@ -97,12 +97,12 @@
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "常规同步"
     },
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+        "defaultMessage": "恭喜您，您是与以太坊测试网络同步的先驱！我们建议用快速设置以启用常规同步，但敢于尝鲜的人也可以选择（非常）实验性的轻量同步！:)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
