@@ -62,12 +62,12 @@
     {
         "id": "app.akasha.terms.paymentOfFeesBody",
         "description": "payment of fees section content",
-        "defaultMessage": "14 When creating an Identity, you will be provided with an Ethereum Address (Ethereum Identity Key) to which you will need to make a transfer of a small amount of Ether (ETH). Whenever your usage of AKASHA is subject to the payment of a fee, this fee – after you have provided your consent in each individual case – will be withdrawn from your Ethereum Identity Key Balance. The amount of ETH on your Ethereum Identity Key Balance remains in your control and may be withdrawn any time."
+        "defaultMessage": "14 Bir Kimlik oluşturulduğunda, küçük bir miktar Ether (ETH) değişimi yapmaya ihtiyaç duyacağınız bir Ethereum Adresi(Ethereum Kimli Anahtarı) ile birlikte almış olacaksınız. Sizin AKASHA kullanımınızda bir ücret ödemesi konusu olduğunda, bu ücret her kişisel dosyanızda onayınızla sağlanmasından sonra Ethereum Kimlik Anahtar Bakiyenizden çekilmiş olacaktır. ETH'nin miktarı sizin kontrolünüzde olan Ethereum Kimlik Anahtar Bakiyenizden ve herhangi bir zamanda çekilmiş olabilir."
     },
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "6. Reklam"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
