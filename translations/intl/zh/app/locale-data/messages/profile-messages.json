@@ -42,17 +42,17 @@
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Amount available {amount} AETH"
+        "defaultMessage": "可用数量 {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling complete"
+        "defaultMessage": "轮回完成"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No Cycling AETH pending"
+        "defaultMessage": "没有待轮回的 AETH"
     },
     {
         "id": "app.profile.cyclingProcess",
@@ -62,12 +62,12 @@
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Edit Profile Information"
+        "defaultMessage": "编辑个人信息"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Type something about you"
+        "defaultMessage": "写一些与你有关的东西"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -82,112 +82,112 @@
     {
         "id": "app.profile.linksTitle",
         "description": "Links section title",
-        "defaultMessage": "LINKS"
+        "defaultMessage": "链接"
     },
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "Add a new link"
+        "defaultMessage": "添加新链接"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "remove link"
+        "defaultMessage": "移除链接"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Other crypto addresses"
+        "defaultMessage": "其他加密地址"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "Add cryptocurrency address"
+        "defaultMessage": "添加加密货币地址"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "Cryptocurrency name"
+        "defaultMessage": "加密货币名称"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "Cryptocurrency address"
+        "defaultMessage": "加密货币地址"
     },
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "Register Profile"
+        "defaultMessage": "注册个人资料"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "Remove cryptocurrency link"
+        "defaultMessage": "移除加密货币链接"
     },
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Entries"
+        "defaultMessage": "条目"
     },
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "关注"
     },
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "Update Profile"
+        "defaultMessage": "更新个人资料"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Followers"
+        "defaultMessage": "关注者"
     },
     {
         "id": "app.profile.followersCount",
         "description": "number of followers",
-        "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
+        "defaultMessage": "{followers, number} {followers, plural, one {关注者} other {关注者}}"
     },
     {
         "id": "app.profile.following",
         "description": "following an user",
-        "defaultMessage": "Following"
+        "defaultMessage": "关注"
     },
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "Following"
+        "defaultMessage": "关注"
     },
     {
         "id": "app.profile.followingsCount",
         "description": "number of followings",
-        "defaultMessage": "{followings, number} {followings, plural, one {following} other {followings}}"
+        "defaultMessage": "{followings, number} {followings, plural, one {关注} other {关注}}"
     },
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "Highlights"
+        "defaultMessage": "重点"
     },
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Lists"
+        "defaultMessage": "列表"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "My balance"
+        "defaultMessage": "我的余额"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "My entries"
+        "defaultMessage": "我的条目"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "My profile"
+        "defaultMessage": "我的个人资料"
     },
     {
         "id": "app.profile.noPendingTransactions",
@@ -197,7 +197,7 @@
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles"
+        "defaultMessage": "无个人资料"
     },
     {
         "id": "app.profile.noTransactions",
@@ -212,17 +212,17 @@
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "此用户名不存在"
     },
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Settings"
+        "defaultMessage": "设置"
     },
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receive"
+        "defaultMessage": "接收"
     },
     {
         "id": "app.profile.receiverPlaceholder",
