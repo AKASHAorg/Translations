@@ -2,87 +2,87 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "这是您的新身份"
     },
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "备份密钥"
     },
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "立即完善您的个人资料，以享受完整体验！"
     },
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "创建新身份"
     },
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "从创建一个新的身份开始"
     },
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Geth 数据文件夹路径"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Geth IPC 路径"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Geth 缓存大小"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Geth 网络 id"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "导入密钥"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "IPFS 存储路径"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "更改此设置将重置您的配置和本地 IPFS 内容"
     },
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "IPFS API 端口"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPFS 网关端口"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "IPFS 群端口"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "配置"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "轻量同步"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -92,7 +92,7 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "请在下面输入您的密码"
     },
     {
         "id": "app.setup.normalSync",
