@@ -82,12 +82,12 @@
     {
         "id": "app.akasha.terms.noWarrantyBody",
         "description": "no warranty section content",
-        "defaultMessage": "16 You understand and expressly accept that there is no warranty whatsoever regarding the availability, functionality, and/or the success of AKASHA and the Ethereum Identity Key , expressed or implied, to the extent permitted by law, and that the Pre-Alpha release of AKASHA is used at the sole risk of yourself on an “as is” and “under development” basis and without, to the extent permitted by law, any warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose;"
+        "defaultMessage": "AKASHA'nın ve Ethereum Kimlik Anahtarı'nın yasalar tarafından izin verildiği ölçüde ifade veya ima edilen mevcudiyeti, işlevselliği ve / veya başarısı ile ilgili hiçbir garantinin bulunmadığını ve AKASHA'nın Alpha öncesi sürümünün \"olduğu gibi\" ve \"geliştirme aşamasında\" olarak kendinizin tüm risk altında ve hukukun izin verdiği ölçüde, herhangi bir garantiyi, ancak bunlarla sınırlı olmamak üzere, isim ve ima edilen garantileri de içeren ancak bunlarla sınırlı olmaksızın, satılabilirlik veya belirli bir amaca uygunluk;"
     },
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. Şifre / Girişi aç"
     },
     {
         "id": "app.akasha.terms.passwordBody",
