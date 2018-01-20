@@ -12,12 +12,12 @@
     {
         "id": "app.akasha.terms.preface",
         "description": "AKASHA`s terms preface",
-        "defaultMessage": "1 AKASHA is a next-generation social blogging network powered by a new kind of computer known as Ethereum and the Inter Planetary File System.\n            2 By using AKASHA and creating an AKASHA Identity or a Profile Smart Contract, you confirm to have carefully reviewed and to fully understand and agree to the terms and conditions set forth in this document (the “Terms”).\n            3 Because the current version of AKASHA is a Pre-Alpha-Release only, we may ask you to review and accept new or supplemental terms that apply to your interaction with AKASHA and newly introduced functionalities in the future.\n            4 Prior to installing AKAHSA, please ensure that you have downloaded the .zip file by using the pre-alpha invites directly sent out by AKASHA. Unpacking / installing any other files may involve substantial security risks."
+        "defaultMessage": "1 AKASHA on seuraavan sukupolven sosiaalinen blogiverkosto joka käyttää Ethereum sekä IPFS (Inter Planetary File System) tietojärjestelmää hyödykseen.\n2 Käyttämällä AKASHA verkostoa sekä luomalla AKASHA indentiteetin tai Smart profiilin, vahvistat että olet lukenut sekä ymmärtänyt ja hyväksyt käyttöehdot jotka on vahvistettu dokumentissa (\"käyttöehdot”).\n3 AKASHAN nykyinen versio on PRE-ALPHA versio, jonka vuoksi voimme myöhemmässä vaiheessa pyytää lukemaan sekä hyväksymään uusia lisäyksiä käyttöehtoihimme koskien verkostoa ja sen käyttöä sekä lisättyä omaisuuksia.\n4 Ennen AKASHA sovelluksen asentamista, varmista että olet ladannut .zip tiedoston käyttämällä AKASHAN lähettämää pre-alpha kutsua. Tiedostojen purkaminen/asentaminen joita ei ole lähetetty AKASHAN toimesta voi sisältää huomattavia tietoturvariskejä."
     },
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1. Yksityisyys"
     },
     {
         "id": "app.akasha.terms.privacyBody",
