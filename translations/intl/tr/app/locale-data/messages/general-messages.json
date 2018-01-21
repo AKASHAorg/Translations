@@ -422,7 +422,7 @@
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Yenile"
     },
     {
         "id": "app.general.rename",
@@ -432,12 +432,12 @@
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Yanıt"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "Sıfırla"
     },
     {
         "id": "app.general.resume",
@@ -447,7 +447,7 @@
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Tekrar dene"
     },
     {
         "id": "app.general.requestTestAEthers",
@@ -472,22 +472,22 @@
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "Running"
+        "defaultMessage": "Çalışıyor"
     },
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Kaydet"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "sonraya sakla"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Ara"
     },
     {
         "id": "app.general.seeOnEtherscan",
@@ -502,7 +502,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Gönderilen"
     },
     {
         "id": "app.general.settings",
@@ -532,7 +532,7 @@
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Sohbet (yakında)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -567,7 +567,7 @@
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "Durduruldu"
     },
     {
         "id": "app.general.stream",
@@ -577,7 +577,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "Gönder"
     },
     {
         "id": "app.general.tags",
@@ -617,7 +617,7 @@
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "Çevir"
     },
     {
         "id": "app.general.usernameFirst",
@@ -662,12 +662,12 @@
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "Bekleniyor"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "Evet"
     },
     {
         "id": "app.general.comment",
