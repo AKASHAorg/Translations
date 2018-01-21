@@ -2,7 +2,7 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Sütun ekle"
     },
     {
         "id": "app.dashboard.addNewColumn",
@@ -12,7 +12,7 @@
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "Lütfen bir sütun tipi seçin"
     },
     {
         "id": "app.dashboard.addNewListColumn",
@@ -22,22 +22,22 @@
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "Lütfen bir liste seçin"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "Kullanıcı sütunu"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "Lütfen bir kullanıcı seçin"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "Etiket sütunu"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
