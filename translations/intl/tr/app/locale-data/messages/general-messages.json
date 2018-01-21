@@ -122,7 +122,7 @@
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Onayla"
     },
     {
         "id": "app.general.confirmedAtBlock",
@@ -132,7 +132,7 @@
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Kopyala"
     },
     {
         "id": "app.general.counter",
@@ -142,12 +142,12 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Oluştur"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Oluşturuldu"
     },
     {
         "id": "app.general.cycling",
@@ -157,7 +157,7 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Sil"
     },
     {
         "id": "app.general.done",
@@ -167,7 +167,7 @@
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Indiriliyor"
     },
     {
         "id": "app.general.edit",
@@ -242,7 +242,7 @@
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Yardım"
     },
     {
         "id": "app.general.history",
@@ -267,7 +267,7 @@
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Katıl"
     },
     {
         "id": "app.general.karma",
@@ -287,12 +287,12 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Ayrıl"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "Kayıtlar"
     },
     {
         "id": "app.general.logout",
@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications (coming soon)"
+        "defaultMessage": "Bildirimler (yakında)"
     },
     {
         "id": "app.general.ok",
@@ -362,12 +362,12 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "Tamam anladım!"
     },
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Pause"
+        "defaultMessage": "Duraklat"
     },
     {
         "id": "app.general.pending",
@@ -377,12 +377,12 @@
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Onay bekleniyor"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "İnsanlar"
     },
     {
         "id": "app.general.preview",
@@ -442,7 +442,7 @@
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "Devam et"
     },
     {
         "id": "app.general.retry",
@@ -512,7 +512,7 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "Gösterge paneli"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
@@ -522,7 +522,7 @@
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Topluluk: yakında"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
@@ -647,17 +647,17 @@
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "Profili Görüntüle"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "Oy"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "Cüzdan"
     },
     {
         "id": "app.general.wailting",
