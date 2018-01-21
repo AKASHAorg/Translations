@@ -7,7 +7,7 @@
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Bir kullanıcı adı veya ethereum adresi belirtmelisiniz"
     },
     {
         "id": "app.form.acceptTips",
@@ -47,12 +47,12 @@
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "İlk adınızı yazın"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Soyadınızı yazın"
     },
     {
         "id": "app.form.maxAethAmount",
@@ -172,7 +172,7 @@
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "Bedava AETH"
     },
     {
         "id": "app.form.manaTotalScore",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "Toplam AETH bakiyesi"
     },
     {
         "id": "app.form.url",
@@ -287,7 +287,7 @@
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "Etiketler maksimum 24 karakter içerebilir."
     },
     {
         "id": "app.form.tagAlreadyAdded",
