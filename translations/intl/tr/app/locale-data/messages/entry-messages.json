@@ -32,12 +32,12 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Web sitesinden bilgiler çıkarılamıyor! Lütfen başka bir adres deneyin"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Lisans bilgisi alınamıyor."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
@@ -257,7 +257,7 @@
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Etiketlerden biri kullanılamaz!"
     },
     {
         "id": "app.entry.publicDiscussion",
@@ -422,7 +422,7 @@
     {
         "id": "app.entry.draftAll",
         "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "defaultMessage": "Tüm Taslaklar"
     },
     {
         "id": "app.entry.entriesAll",
@@ -431,8 +431,8 @@
     },
     {
         "id": "app.entry.publishedAll",
-        "description": "all published entries",
-        "defaultMessage": "All entries"
+        "description": "tüm yayınlanmış girdiler",
+        "defaultMessage": "Bütün girdiler"
     },
     {
         "id": "app.entry.draftEntryCategory",
@@ -451,7 +451,7 @@
     },
     {
         "id": "app.entry.myEntries",
-        "description": "my entries label title",
+        "description": "girdilerim etiket başlığı",
         "defaultMessage": "Girdilerim"
     }
 ]
