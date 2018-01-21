@@ -172,7 +172,7 @@
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "kişisel ayarlar"
     },
     {
         "id": "app.entry.license",
@@ -452,6 +452,6 @@
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Girdilerim"
     }
 ]
