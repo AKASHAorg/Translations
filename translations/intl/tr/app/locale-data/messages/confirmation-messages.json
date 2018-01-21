@@ -12,12 +12,12 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Lütfen Essence toplamak istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Topla"
     },
     {
         "id": "app.confirmations.claimVote",
@@ -32,12 +32,12 @@
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Lütfen bu yorumu yayınlamak istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Lütfen bu yorumu downvote yapmak istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
@@ -47,7 +47,7 @@
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Yorum"
     },
     {
         "id": "app.confirmations.commentUpvote",
