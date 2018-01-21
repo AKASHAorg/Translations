@@ -137,7 +137,7 @@
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Parolanızı yazın"
     },
     {
         "id": "app.form.amountToForge",
