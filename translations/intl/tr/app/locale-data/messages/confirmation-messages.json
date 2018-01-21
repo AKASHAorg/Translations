@@ -52,7 +52,7 @@
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Lütfen bu yorumu upvote yapmak istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
@@ -72,12 +72,12 @@
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "Lütfen bu taslağı yayınlamak istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "Taslağı yayınla"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
@@ -87,7 +87,7 @@
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "Girdiyi güncelle"
     },
     {
         "id": "app.confirmations.entryDownvote",
@@ -142,17 +142,17 @@
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "Profili kaydet"
     },
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "Lütfen profilinizi güncellemek istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "Profili Güncelle"
     },
     {
         "id": "app.confirmations.sendTip",
@@ -172,7 +172,7 @@
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "Etiket oluştur"
     },
     {
         "id": "app.confirmation.toggleDonations",
@@ -182,7 +182,7 @@
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "İpucu ayarlarını değiştir"
     },
     {
         "id": "app.confirmation.transferAeth",
@@ -202,7 +202,7 @@
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "ETH transfer et"
     },
     {
         "id": "app.confirmations.transformEssence",
@@ -212,7 +212,7 @@
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Essence dönüştür"
     },
     {
         "id": "app.confirmations.unfollow",
@@ -222,6 +222,6 @@
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Takibi bırak"
     }
 ]
