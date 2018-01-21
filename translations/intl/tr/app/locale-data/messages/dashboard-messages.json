@@ -42,22 +42,22 @@
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "Lütfen bir etiket seçin"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Panoya ekle"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Yeni bir pano oluştur"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "Koleksiyon"
     },
     {
         "id": "app.dashboard.columnStream",
@@ -67,12 +67,12 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Önce bir pano oluşturmalısınız"
     },
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "Şimdi bir tane oluştur"
     },
     {
         "id": "app.dashboard.createNew",
@@ -82,17 +82,17 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Pano ismi"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "Pano ismi gereklidir"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "Bu pano zaten var"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
@@ -107,22 +107,22 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "My board"
+        "defaultMessage": "Panom"
     },
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Large"
+        "defaultMessage": "Geniş"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "Son girdiler"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "Liste"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -132,7 +132,7 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "Panolarım"
     },
     {
         "id": "app.dashboard.namePlaceholder",
@@ -147,32 +147,32 @@
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "{listName} için önizleme"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "{displayName} için önizleme"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "#{TagName} için ön izleme"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "Kullanıcı"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Bir pano arayın..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Küçük"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,6 +182,6 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "Etiket"
     }
 ]
