@@ -202,12 +202,12 @@
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Azalt"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Mana Havuzunu Azalt"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,12 +217,12 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Arttır"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Mana Havuzunu Artır"
     },
     {
         "id": "app.form.shiftUpManaHelp",
