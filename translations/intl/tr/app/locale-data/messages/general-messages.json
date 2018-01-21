@@ -7,7 +7,7 @@
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "Eylem"
     },
     {
         "id": "app.general.aComment",
@@ -17,12 +17,12 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Ekle"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Bir resim eklemek için sürükle ve bırak."
     },
     {
         "id": "app.general.addImageDragged",
@@ -32,7 +32,7 @@
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Yeni girdi ekle"
     },
     {
         "id": "app.general.addTo",
@@ -347,7 +347,7 @@
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Bulunamadı"
     },
     {
         "id": "app.general.notifications",
@@ -622,7 +622,7 @@
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "Lütfen önce kullanıcı adınızı seçiniz!"
     },
     {
         "id": "app.general.userSettings",
@@ -637,7 +637,7 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Güncelleniyor"
     },
     {
         "id": "app.general.upgrading",
@@ -671,7 +671,7 @@
     },
     {
         "id": "app.general.comment",
-        "description": "entry comment",
+        "description": "girdi yorumu",
         "defaultMessage": "Comment"
     },
     {
@@ -686,13 +686,13 @@
     },
     {
         "id": "app.general.createTags",
-        "description": "Create tags action title",
+        "description": "Etiketleri oluştur eylem başlığı",
         "defaultMessage": "Create Tags"
     },
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Leaderboard Position"
+        "defaultMessage": "Liderlik Pozisyonu"
     },
     {
         "id": "app.general.karmaLevel",
@@ -702,7 +702,7 @@
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "Mevcut seviyenizde şunları yapabilirsiniz:"
     },
     {
         "id": "app.general.karmaScore",
@@ -711,13 +711,13 @@
     },
     {
         "id": "app.general.showMore",
-        "description": "button label",
-        "defaultMessage": "Show more"
+        "description": "düğme etiketi",
+        "defaultMessage": "Daha fazla göster"
     },
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "Kimseyi takip etmiyorsun."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
@@ -732,6 +732,6 @@
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Resim"
     }
 ]
