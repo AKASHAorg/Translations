@@ -2,27 +2,27 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Çince"
     },
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "Dark Theme"
+        "defaultMessage": "Koyu tema"
     },
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app settings"
+        "defaultMessage": "Uygulama ayarlarınızı özelleştirin"
     },
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "İngilizce"
     },
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "Hide content"
+        "defaultMessage": "İçeriği gizle"
     },
     {
         "id": "app.settings.hideContentDescription",
