@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Bu yeni kimliğiniz"
     },
     {
         "id": "app.setup.backup",
@@ -77,7 +77,7 @@
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "Yapılandırma"
     },
     {
         "id": "app.setup.lightSync",
@@ -132,12 +132,12 @@
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "Hoşgeldiniz!"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "Lütfen giriş yapmak için bir kimlik seçin"
     },
     {
         "id": "app.setup.newIdentity",
@@ -147,7 +147,7 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "Ne ile ilgileniyorsunuz?"
     },
     {
         "id": "app.setup.interestSuggestion",
@@ -157,12 +157,12 @@
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Hızlı kurulum"
     },
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "Oynadığınız için teşekkürler!"
     },
     {
         "id": "app.setup.faucetPending1",
@@ -177,7 +177,7 @@
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Tekrar denemek için buraya tıklayın"
     },
     {
         "id": "app.setup.faucetSuccess",
