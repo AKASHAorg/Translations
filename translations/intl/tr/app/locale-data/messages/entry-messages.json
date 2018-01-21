@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "JPG, GIF veya PNG resimleri"
     },
     {
         "id": "app.entry.alreadyDownvoted",
@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Makale"
     },
     {
         "id": "app.entry.cannotClaimEntry",
