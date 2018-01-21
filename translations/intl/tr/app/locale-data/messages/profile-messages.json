@@ -302,7 +302,7 @@
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Blok zinciriyle olan etkileşimleriniz"
     },
     {
         "id": "app.profile.unfollow",
@@ -312,6 +312,6 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Ethereum adresiniz"
     }
 ]
