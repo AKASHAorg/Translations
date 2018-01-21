@@ -42,7 +42,7 @@
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "bir başlık ekle"
     },
     {
         "id": "app.entry.collected",
@@ -187,7 +187,7 @@
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Daha çok cevap yükle"
     },
     {
         "id": "app.entry.loadingDrafts",
@@ -322,7 +322,7 @@
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Tüm yorumları göster"
     },
     {
         "id": "app.entry.startComment",
