@@ -127,7 +127,7 @@
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Hata kodu {errorCode}"
     },
     {
         "id": "app.error.fatalError",
@@ -137,7 +137,7 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "Genel ayarlarınız alınırken bir hata oluştu"
     },
     {
         "id": "app.error.gethGetOptions",
@@ -152,7 +152,7 @@
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "Senkronizasyon durumu alınırken bir hata oluştu"
     },
     {
         "id": "app.error.gethSaveSettings",
@@ -167,12 +167,12 @@
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Geth hizmeti başlatılamadı"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Geth hizmeti durdurulamadı"
     },
     {
         "id": "app.error.ipfsGetConfig",
@@ -217,7 +217,7 @@
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Beklenmeyen hata"
     },
     {
         "id": "app.error.profileBondAeth",
