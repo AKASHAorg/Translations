@@ -27,7 +27,7 @@
     {
         "id": "app.list.editList",
         "description": "title for edit list popover",
-        "defaultMessage": "Edit this list"
+        "defaultMessage": "Bu listeyi düzenle"
     },
     {
         "id": "app.list.listName",
