@@ -37,12 +37,12 @@
     {
         "id": "app.settings.hideEntriesLabel",
         "description": "label for \"hide entries content\" checkbox",
-        "defaultMessage": "Hide entries with a score lower than"
+        "defaultMessage": "Daha düşük skorlu girdileri gizle"
     },
     {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "Passphrase Options"
+        "defaultMessage": "Parola seçenekleri"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
@@ -62,52 +62,52 @@
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "Dil"
     },
     {
         "id": "app.settings.lightTheme",
         "description": "theme switch",
-        "defaultMessage": "Light Theme"
+        "defaultMessage": "Açık Tema"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Rusça"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "SELECT LANGUAGE"
+        "defaultMessage": "Dil seçin"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "İspanyol"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "App Theme"
+        "defaultMessage": "Uygulama Teması"
     },
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "Customize the look of the Akasha workspace"
+        "defaultMessage": "Akasha çalışma alanının görünümünü özelleştirin"
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
+        "defaultMessage": "İpuçları için seçeneklerinizi seçin"
     },
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "Bu seçeneği değiştirmeden önce profilinizi kaydettirmeniz gerekiyor"
     },
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "İpucu seçenekleri"
     },
     {
         "id": "app.settings.tipsInfo",
@@ -117,7 +117,7 @@
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "İpuçlarını kabul et"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
