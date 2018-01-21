@@ -47,6 +47,6 @@
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Bu kanal geçicidir, mesajlar yayınlar yayınlandıktan sonra 24 saat içinde kaybolur"
     }
 ]
