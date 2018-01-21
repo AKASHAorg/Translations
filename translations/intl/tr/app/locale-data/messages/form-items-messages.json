@@ -17,7 +17,7 @@
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Kullanıcı adınızı yazın"
     },
     {
         "id": "app.form.insufficientEth",
@@ -187,17 +187,17 @@
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Parolalar eşleşmiyor. Lütfen parolanızı tekrar yazınız"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Parolayı doğrula"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Bu alan gereklidir"
     },
     {
         "id": "app.form.shiftDown",
