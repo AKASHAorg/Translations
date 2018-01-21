@@ -32,7 +32,7 @@
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Kanal adı küçük harfli alfanümerik karakterle başlamalıdır"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
