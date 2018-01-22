@@ -397,7 +397,7 @@
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Web sitesi bilgisi getirilmeye çalışılırken bir hata oluştu"
     },
     {
         "id": "app.entry.wordsCount",
