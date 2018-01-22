@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Dönüştürülecek Essence miktarını seçin"
     },
     {
         "id": "app.form.amountToShift",
@@ -252,12 +252,12 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Vote weight must be an integer"
+        "defaultMessage": "Oy ağırlığı bir tamsayı olmalıdır"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Vote weight must be between {min} and {max}"
+        "defaultMessage": "Oy ağırlığı {min} ve {max} arasında olmalıdır"
     },
     {
         "id": "app.form.voteWeightRequired",
