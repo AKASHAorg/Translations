@@ -117,7 +117,7 @@
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "在目录中获取条目时出错"
     },
     {
         "id": "app.error.entryUpvote",
@@ -242,7 +242,7 @@
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "获取个人资料列表时出错"
     },
     {
         "id": "app.error.profileToggleDonations",
