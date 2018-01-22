@@ -676,8 +676,8 @@
     },
     {
         "id": "app.general.publishEntries",
-        "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "description": "eylem başlığı",
+        "defaultMessage": "Girdileri Yayınla"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
