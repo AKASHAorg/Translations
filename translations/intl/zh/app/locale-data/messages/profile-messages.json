@@ -167,12 +167,12 @@
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "重点"
+        "defaultMessage": "精粹"
     },
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "列表"
+        "defaultMessage": "目录"
     },
     {
         "id": "app.profile.myBalance",
