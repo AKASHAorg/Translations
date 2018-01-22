@@ -107,17 +107,17 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Ilk isim"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Soyadı"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Kullanıcı adı"
     },
     {
         "id": "app.form.ethereumAddress",
@@ -132,7 +132,7 @@
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Parola"
     },
     {
         "id": "app.form.passphrasePlaceholder",
@@ -162,7 +162,7 @@
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Parolayı onayla"
     },
     {
         "id": "app.form.forgeAeth",
@@ -177,12 +177,12 @@
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Mana Toplam Skor"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "İsim"
     },
     {
         "id": "app.form.passphraseConfirmError",
@@ -282,7 +282,7 @@
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "Bir seçenek seçin"
     },
     {
         "id": "app.form.tooLongError",
@@ -292,12 +292,12 @@
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "Etiket {tag} zaten eklenmiş"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "Için parolamı hatırla"
     },
     {
         "id": "app.form.tipAmountError",
