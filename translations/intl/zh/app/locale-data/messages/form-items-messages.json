@@ -87,7 +87,7 @@
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{amount} Essence will forge {value} new AETH in your balance."
+        "defaultMessage": "{amount} 精气将提炼出 {value} 新的 AETH。"
     },
     {
         "id": "app.form.transformEssenceMin",
