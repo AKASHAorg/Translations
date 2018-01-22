@@ -192,7 +192,7 @@
     {
         "id": "app.profile.noPendingTransactions",
         "description": "placeholder message for empty pending transactions log",
-        "defaultMessage": "You have no pending transactions"
+        "defaultMessage": "Bekleyen işleminiz yok"
     },
     {
         "id": "app.entry.noProfiles",
@@ -227,12 +227,12 @@
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Type a username or paste an ethereum address"
+        "defaultMessage": "Bir kullanıcı adı yazın veya bir ethereum adresi yapıştırın"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Rewards and goals"
+        "defaultMessage": "Ödüller ve hedefler"
     },
     {
         "id": "app.profile.saveForLater",
