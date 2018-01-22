@@ -47,7 +47,7 @@
     {
         "id": "app.list.namePlaceholder",
         "description": "placeholder for list name input",
-        "defaultMessage": "Type list name"
+        "defaultMessage": "Liste adını yazın"
     },
     {
         "id": "app.list.searchForList",
