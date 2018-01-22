@@ -2,51 +2,51 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Suosikki kanavat"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "Viimeksi nähdyt kanavat"
     },
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Liity kanavalle"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "Kanavan nimi"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Kirjoita jotain kivaa ja paina \"Enter\" lähettääksesi viesti"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "Kanavan nimen ei pitäisi olla tyhjä"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Kanavan nimen on alettava pienillä kirjainmerkeillä"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Vain pienet aakkosnumeeriset merkit, viivat (-) ja alaviivat (_) sallittu"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Kanavan nimessä saa olla enintään 32 merkkiä"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Tämä kanava on lyhytaikainen, viestit häviävät 24 tunnin kuluttua julkaisemisesta"
     }
 ]
