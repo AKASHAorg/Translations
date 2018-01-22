@@ -217,7 +217,7 @@
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "已提炼"
     },
     {
         "id": "app.general.forward",
@@ -312,7 +312,7 @@
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "法力池信息"
+        "defaultMessage": "法力汇集信息"
     },
     {
         "id": "app.general.manafied",
