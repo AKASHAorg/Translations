@@ -12,7 +12,7 @@
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Lütfen aşağıdaki satırları kopyalayın ve {githubLink} üzerinden yeni bir konu oluşturun."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
@@ -52,7 +52,7 @@
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "Panonuz silinirken bir hata oluştu"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
@@ -97,7 +97,7 @@
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "{entryTitle} için Essence toplanırken bir hata oluştu"
     },
     {
         "id": "app.error.entryClaimVote",
@@ -122,7 +122,7 @@
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "{entryTitle} upvote edilirken bir hata oluştu"
     },
     {
         "id": "app.error.errorNotificationTitle",
