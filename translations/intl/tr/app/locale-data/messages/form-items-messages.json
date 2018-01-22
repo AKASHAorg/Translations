@@ -72,7 +72,7 @@
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} Transfer edilebilir ETH"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -92,7 +92,7 @@
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "En az 1000 Essence dönüştürmeniz gerekiyor"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
