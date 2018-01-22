@@ -77,7 +77,7 @@
     {
         "id": "app.profile.linksPlaceholder",
         "description": "Links placeholder text",
-        "defaultMessage": "Type or paste your link"
+        "defaultMessage": "Bağlantınızı yazın veya yapıştırın"
     },
     {
         "id": "app.profile.linksTitle",
