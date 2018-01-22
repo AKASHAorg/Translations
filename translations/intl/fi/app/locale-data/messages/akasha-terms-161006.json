@@ -92,12 +92,12 @@
     {
         "id": "app.akasha.terms.passwordBody",
         "description": "password section content",
-        "defaultMessage": "17    As part of creating your identity, you will need to provide a password. The password will be used to access AKASHA and make use of your Ethereum Identity Key Balance. You must keep this password safe and may not share it with anybody.\n            18    When logging in you have an option to create a secure “authentication hash/token” for a amount of time in your choice, which allows you to securely sign transactions while logged in without having to reintroduce your password each time you post, comment or vote on something (Open Login Function). When the selected time period expires, you will be prompted to reintroduce your password. Please assure that you do not leave your AKASHA access device unattended after having chosen the Open Login Function.z"
+        "defaultMessage": "17 Osana henkilöllisyytesi luomista, sinun on annettava salasana. Salasanaa käytetään AKASHA palveluun sisäänkirjautumiseen sekä Ethereum Identiteetti osoitteen saldo -ominaisuuden käyttämiseen. Sinun on pidettävä salasana turvassa ja et saa jakaa sitä kenenkään kanssa.\n             18 Kirjautuessasi sisään, sinulla on mahdollisuus luoda turvattu \"koodi (hash / token)\" haluamallesi ajanjaksolle, jonka avulla voit turvallisesti allekirjoittaa tapahtumat ollessasi sisäänkirjautuneena ilman salasanan kirjoittamista joka kerta, kun julkaiset, kommentoit tai äänestä jotain (Open Login Function). Kun valittu ajanjakso päättyy, sinua kehotetaan palauttamaan salasanasi uudelleen. Varmista, ettet jätä AKASHA -käyttölaitettasi vartioimatta sen jälkeen, kun olet valinnut Open Login -toiminnon."
     },
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. Risks"
+        "defaultMessage": "9 Riskit"
     },
     {
         "id": "app.akasha.terms.risksBody",
