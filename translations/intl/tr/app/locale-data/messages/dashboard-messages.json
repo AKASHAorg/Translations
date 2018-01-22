@@ -127,7 +127,7 @@
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "Bu liste silindi. Lütfen bu sütunu kaldırın"
     },
     {
         "id": "app.dashboard.myBoards",
@@ -142,7 +142,7 @@
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "Pano bulunamadı"
     },
     {
         "id": "app.dashboard.previewList",
