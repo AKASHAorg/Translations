@@ -147,7 +147,7 @@
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "Alıntı 120 karakterden uzun olmamalı"
     },
     {
         "id": "app.entry.excerpt",
@@ -162,7 +162,7 @@
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "Bu içerik {skor} değerinden daha düşük bir skora sahip."
     },
     {
         "id": "app.entry.hiddenContent2",
@@ -182,7 +182,7 @@
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Bağlantı"
     },
     {
         "id": "app.entry.loadMoreReplies",
@@ -217,7 +217,7 @@
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Arama kriterleriniz ile eşleşen taslak bulunamadı."
     },
     {
         "id": "app.entry.noEntries",
