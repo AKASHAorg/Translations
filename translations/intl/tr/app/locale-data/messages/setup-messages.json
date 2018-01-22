@@ -117,7 +117,7 @@
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "Senkronizasyon seçenekleri"
     },
     {
         "id": "app.setup.logDetails",
