@@ -17,17 +17,17 @@
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "Ayrıca bu hata ile ilgili zaten açılmış sorun olup olmadığını kontrol edin!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "Yedekleme oluşturması başarısız oldu. Yeniden deneyin"
     },
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Bir yorumu eksi oylama sırasında bir hata oluştu"
     },
     {
         "id": "app.error.commentsPublish",
@@ -37,17 +37,17 @@
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Bir yorumu artı oylama sırasında bir hata oluştu"
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Yeni panonun kaydedilmesi sırasında bir hata oluştu"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Yeni sütunun kaydedilmesi sırasında bir hata oluştu"
     },
     {
         "id": "app.error.dashboardDelete",
@@ -57,7 +57,7 @@
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Sütununuzun silinmesi sırasında bir hata oluştu"
     },
     {
         "id": "app.error.dashboardGetActive",
