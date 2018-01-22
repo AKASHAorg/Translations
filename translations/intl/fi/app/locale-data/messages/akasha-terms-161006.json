@@ -72,22 +72,22 @@
     {
         "id": "app.akasha.terms.advertisementBody",
         "description": "advertisement section content",
-        "defaultMessage": "15 AKASHA shall remain free from any advertising and other commercial or sponsored content. In order to help us do that, you agree to refrain from using AKASHA for advertising purposes."
+        "defaultMessage": "15 AKASHA verkosto pysyy markkinoinnista sekä muusta kaupallisesta sekä sponsoroidusta sisällöstä vapaana. Mahdollistaaksemme tämän, suostut ja pidättäydyt käyttämästä AKASHA verkostoa markkinointi tarkoituksiin."
     },
     {
         "id": "app.akasha.terms.noWarrantyTitle",
         "description": "no warranty section title",
-        "defaultMessage": "7. No warranty"
+        "defaultMessage": "7 Ei takuuta"
     },
     {
         "id": "app.akasha.terms.noWarrantyBody",
         "description": "no warranty section content",
-        "defaultMessage": "16 You understand and expressly accept that there is no warranty whatsoever regarding the availability, functionality, and/or the success of AKASHA and the Ethereum Identity Key , expressed or implied, to the extent permitted by law, and that the Pre-Alpha release of AKASHA is used at the sole risk of yourself on an “as is” and “under development” basis and without, to the extent permitted by law, any warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose;"
+        "defaultMessage": "16 Ymmärrät ja hyväksyt nimenomaisesti, että AKASHA: n ja Ethereum Identiteeti -avaimen saatavuudesta, toiminnallisuudesta ja / tai menestyksestä ei ole minkäänlaista takuuta, ilmaistuna tai epäsuorasti lain sallimissa rajoissa. Ja että Pre-Alpha-julkaisu AKASHA Palvelua käytetään yksin omalla vastuullaan \"sellaisenaan\" ja \"kehitteillä\" ilman lain sallimaa laajuutta, minkäänlaisia takuita, mukaan lukien, mutta ei rajoittuen, takuuehdot tai epäsuorat takuut , myyntikelpoisuus tai sopivuus tiettyyn tarkoitukseen;"
     },
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. Salasana / Avoin kirjautuminen"
     },
     {
         "id": "app.akasha.terms.passwordBody",
