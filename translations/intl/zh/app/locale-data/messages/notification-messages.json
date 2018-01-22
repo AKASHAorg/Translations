@@ -17,7 +17,7 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "此精粹已保存！"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
