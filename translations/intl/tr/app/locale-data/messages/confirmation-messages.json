@@ -67,7 +67,7 @@
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Döngü"
+        "defaultMessage": "Cycle"
     },
     {
         "id": "app.confirmations.draftPublish",
