@@ -32,7 +32,7 @@
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "Yorum yayınlanırken bir hata oluştu"
     },
     {
         "id": "app.error.commentsUpvote",
@@ -82,7 +82,7 @@
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Bu taslaktaki son değişiklikler kaydedilemiyor"
     },
     {
         "id": "app.error.draftPublish",
