@@ -17,12 +17,12 @@
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "目录栏"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "请选择一个目录"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
@@ -122,12 +122,12 @@
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "目录"
     },
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "此目录已删除。请移除栏"
     },
     {
         "id": "app.dashboard.myBoards",
@@ -147,7 +147,7 @@
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "预览 {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
