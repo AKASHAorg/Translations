@@ -167,7 +167,7 @@
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "提炼 AETH"
     },
     {
         "id": "app.form.freeAeth",
