@@ -52,7 +52,7 @@
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Harap konfirmasi bahwa anda ingin untuk upvote komentar ini."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
@@ -62,37 +62,37 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "Harap konfirmasi bahwa anda ingin siklus {amount} AETH"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "Siklus"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "Harap konfirmasi bahwa anda ingin mempublikasikan konsep ini."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "Mempublikasikan konsep"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "Harap konfirmasi bahwa anda ingin untuk memperbarui entri ini."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "Memperbarui entri"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "Harap konfirmasi bahwa anda ingin untuk downvote entri ini."
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
