@@ -72,7 +72,7 @@
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "Highfives! Profil başarıyla kayıtlı!"
     },
     {
         "id": "app.notification.publishCommentSuccess",
@@ -232,6 +232,6 @@
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "Kişisel ayarlarınızı başarıyla kaydettiğiniz"
     }
 ]
