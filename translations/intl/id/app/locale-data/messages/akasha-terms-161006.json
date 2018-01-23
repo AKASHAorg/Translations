@@ -72,12 +72,12 @@
     {
         "id": "app.akasha.terms.advertisementBody",
         "description": "advertisement section content",
-        "defaultMessage": "15 AKASHA shall remain free from any advertising and other commercial or sponsored content. In order to help us do that, you agree to refrain from using AKASHA for advertising purposes."
+        "defaultMessage": "15 AKASHA akan tetap bebas dari setiap iklan dan konten komersial atau sponsor lainnya. Untuk membantu kami melakukan itu, anda setuju untuk tidak menggunakan AKASHA untuk tujuan periklanan."
     },
     {
         "id": "app.akasha.terms.noWarrantyTitle",
         "description": "no warranty section title",
-        "defaultMessage": "7. No warranty"
+        "defaultMessage": "7. Tidak ada garansi"
     },
     {
         "id": "app.akasha.terms.noWarrantyBody",
