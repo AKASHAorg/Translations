@@ -72,12 +72,12 @@
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "Buatlah sekarang"
     },
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Buatlah sebuah papan baru"
     },
     {
         "id": "app.dashboard.dashboardName",
@@ -137,32 +137,32 @@
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "Tuliskan papan nama"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "Tidak ada papan yang ditemukan"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "Prantinjau untuk {listname}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "Pratinjau untuk {displayname}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "Pratinjau untuk #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "Pengguna"
     },
     {
         "id": "app.dashboard.searchForBoard",
@@ -172,7 +172,7 @@
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Kecil"
     },
     {
         "id": "app.dashboard.stream",
