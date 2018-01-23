@@ -2,12 +2,12 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Über mich"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Du musst einen Benutzernamen oder eine Ethereum-Adresse angeben"
     },
     {
         "id": "app.form.acceptTips",
@@ -17,22 +17,22 @@
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Geben Sie Ihren Benutzernamen ein"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Sorry, du hast nicht genügend Test-Ether!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "Du musst Test-Ether einzahlen, um dein Profil zu veröffentlichen."
     },
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "AETH Menge"
     },
     {
         "id": "app.form.amountRequired",
@@ -42,7 +42,7 @@
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "ETH Menge"
     },
     {
         "id": "app.form.firstNamePlaceholder",
@@ -107,32 +107,32 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Vorname"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Nachname"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Benutzername"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Ethereum-Adresse"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "Von"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Passwort"
     },
     {
         "id": "app.form.passphrasePlaceholder",
