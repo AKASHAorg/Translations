@@ -7,7 +7,7 @@
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "Neueste Kanäle"
     },
     {
         "id": "app.chat.joinChannel",
@@ -27,26 +27,26 @@
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "Name des Kanals darf nicht leer sein"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Name des Kanals muss mit einem kleingeschriebenen, alphanumerischen Zeichen beginnen"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Nur kleingeschriebene alphanumerische Zeichen, Bindestriche (-) und Unterstriche (_) erlaubt"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Name des Kanals darf nicht länger als 32 Zeichen sein"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Dieser Kanal ist vergänglich, Nachrichten werden 24 Stunden nach ihrer Veröffentlichung verschwinden"
     }
 ]
