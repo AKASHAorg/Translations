@@ -37,22 +37,22 @@
     {
         "id": "app.list.listNameRequired",
         "description": "error message for empty list name input",
-        "defaultMessage": "List name is required"
+        "defaultMessage": "Daftar nama diperlukan"
     },
     {
         "id": "app.list.listNameUnique",
         "description": "unique error message for list name input",
-        "defaultMessage": "This list already exists"
+        "defaultMessage": "Daftar ini sudah ada"
     },
     {
         "id": "app.list.namePlaceholder",
         "description": "placeholder for list name input",
-        "defaultMessage": "Type list name"
+        "defaultMessage": "Ketiklah daftar nama"
     },
     {
         "id": "app.list.searchForList",
         "description": "placeholder for list search input",
-        "defaultMessage": "Search for a list..."
+        "defaultMessage": "Mencari daftar..."
     },
     {
         "id": "app.list.shortDescription",
