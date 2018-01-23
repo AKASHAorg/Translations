@@ -12,12 +12,12 @@
     {
         "id": "app.akasha.terms.preface",
         "description": "AKASHA`s terms preface",
-        "defaultMessage": "1 AKASHA is a next-generation social blogging network powered by a new kind of computer known as Ethereum and the Inter Planetary File System.\n            2 By using AKASHA and creating an AKASHA Identity or a Profile Smart Contract, you confirm to have carefully reviewed and to fully understand and agree to the terms and conditions set forth in this document (the “Terms”).\n            3 Because the current version of AKASHA is a Pre-Alpha-Release only, we may ask you to review and accept new or supplemental terms that apply to your interaction with AKASHA and newly introduced functionalities in the future.\n            4 Prior to installing AKAHSA, please ensure that you have downloaded the .zip file by using the pre-alpha invites directly sent out by AKASHA. Unpacking / installing any other files may involve substantial security risks."
+        "defaultMessage": "1 AKASHA adalah jaringan blogging sosial generasi selanjutnya yang didukung oleh jenis komputer baru yang dikenal sebagai Ethereum dan Antar Planet File Sistem.            2 Dengan menggunakan AKASHA dan  membuat identitas AKASHA atau kontrak profil pintar, anda memastikan untuk meninjau  secara hati-hati dan memahami secara seksama dan menyetujui persyaratan dan ketentuan yang tercantum dalam dokumen ini (\"Persyaratan\").            3 karena versi AKASHA pada saat ini hanya merupakan Pre-Alpha release saja, kami mungkin  meminta anda untuk meninjau dan menerima persyaratan baru atau tambahan persyaratan yang berlaku untuk interaksi anda dengan AKASHA dan kegunaan yang  baru diperkenalkan di masa depan.            4 Sebelum menginstal AKASHA, harap pastikan bahwa anda telah mendownload  file .zip dengan menggunakan undangan pre-alpha yang langsung dikirim oleh AKASHA. Mengekstrak / memasang file lainnya mungkin mengundang resiko keamanan yang tinggi."
     },
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1. Pribadi"
     },
     {
         "id": "app.akasha.terms.privacyBody",
