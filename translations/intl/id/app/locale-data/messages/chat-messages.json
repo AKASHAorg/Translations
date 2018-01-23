@@ -2,7 +2,7 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Saluran Berbintang"
     },
     {
         "id": "app.chat.recentChannels",
