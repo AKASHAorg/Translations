@@ -2,32 +2,32 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Tambahkan kolom"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Tambahkan kolom"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "Silahkan pilih jenis kolom"
     },
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "Daftar kolom"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "Silahkan pilih daftar"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "Kolom pengguna"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
@@ -52,12 +52,12 @@
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Buatlah sebuah papan baru"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "Koleksi"
     },
     {
         "id": "app.dashboard.columnStream",
@@ -67,7 +67,7 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Anda harus membuat sebuah papan baru"
     },
     {
         "id": "app.dashboard.createOneNow",
