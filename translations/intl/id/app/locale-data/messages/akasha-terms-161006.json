@@ -32,12 +32,12 @@
     {
         "id": "app.akasha.terms.sharingYourContentBody",
         "description": "content of sharing your content section",
-        "defaultMessage": "6 You own all of the content and information you post on AKASHA. AKASHA allows you to control your content and how it is shared through your AKASHA settings.\n            7 For content that is covered by intellectual property rights, like photos, text and videos (IP Content), you have the possibility to choose between different Licence Options (covering a spectrum from all rights reserved to no rights reserved) allowing you the specify how and under what conditions your content may be used by others.\n            8 By publishing your IP Content on AKASHA, you grant AKASHA non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use the IP content for the purpose of its publication on AKASHA and subject to the conditions specified by you in the Licence Options.\n            9 You are aware that AKASHA is a decentralized application and that, consequently, content published on AKASHA is not under control of any legal entity or private individual. Accordingly, you may not fully delete any content published from the AKASHA Platform. When you remove content, your content is only delisted and harder to find for others. However, you understand that removed content persist without any time limitation and may still be available to others.\n            10 When you publish content using the setting “No rights reserved” in the License Option, it means that you are allowing everyone to access and use that content, to associate it with you (i.e., your name and profile picture) and that you wave all your copyrights and related rights to this content."
+        "defaultMessage": "6  Anda memiliki semua konten dan informasi yang anda publikasikan di AKASHA. AKASHA memungkinkan anda mengendalikan konten anda dan bagaimana cara berbagi melalui pengaturan AKASHA anda.            7 Untuk konten yang tercakup dalam hak kekayaan intelektual, seperti foto, teks dan video (Konten IP), anda memiliki kemungkinan untuk memilih antara Pilihan Lisensi yang berbeda (mencakup spektrum dari semua hak yang dilindungi hak cipta) yang memungkinkan anda menentukan bagaimana dan dalam kondisi apa konten anda yang mungkin digunakan oleh orang lain.            8 Dengan menerbitkan Konten IP anda di AKASHA, anda memberikan AKASHA yang tidak eksklusif, dapat dipindahtangankan, sub lisensi, bebas royalti, di seluruh dunia untuk menggunakan konten IP untuk tujuan penerbitannya di AKASHA dan tunduk pada persyaratan yang anda tentukan di Opsi Lisensi.            9 Anda sadar bahwa AKASHA adalah aplikasi terdesentralisasi dan bahwa, akibatnya, konten yang dipublikasikan di AKASHA tidak terkendali atas badan hukum atau individu pribadi manapun. Dengan demikian, anda mungkin tidak sepenuhnya menghapus konten yang dipublikasikan dari Platform AKASHA. ketika  anda menghapus konten, konten anda hanya akan dihapus dan sulit ditemukan untuk orang lain. Namun, anda memahami bahwa konten yang dihapus tetap ada tanpa batasan waktu dan mungkin masih tersedia untuk orang lain.            10  Saat anda mempublikasikan konten menggunakan pengaturan \"Tidak ada hak milik\" dalam Opsi Lisensi, ini berarti anda mengizinkan setiap orang mengakses dan menggunakan konten tersebut, untuk mengaitkannya dengan anda (misalnya, nama dan gambar profil anda) dan anda melambaikan semua hak cipta dan hak terkait konten ini.\n ."
     },
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. No unlawful activities and content"
+        "defaultMessage": "3. Tidak ada aktivitas dan konten yang tidak sah\n "
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "4. Pendaftaran dan Identitas"
     },
     {
         "id": "app.akasha.terms.registrationBody",
@@ -57,7 +57,7 @@
     {
         "id": "app.akasha.terms.paymentOfFeesTitle",
         "description": "payment of fees section title",
-        "defaultMessage": "5. Payment of Fees"
+        "defaultMessage": "5. Pembayaran biaya"
     },
     {
         "id": "app.akasha.terms.paymentOfFeesBody",
@@ -67,7 +67,7 @@
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "6. Iklan"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
