@@ -2,7 +2,7 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Markierte Kanäle"
     },
     {
         "id": "app.chat.recentChannels",
@@ -12,17 +12,17 @@
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Kanal beitreten"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "Name des Kanals"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Schreibe etwas Nettes und drücke \"Enter\", um es abzusenden"
     },
     {
         "id": "app.chat.emptyChannelInputError",
