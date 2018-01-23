@@ -2,7 +2,7 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "Bitte bestätige, dass du {amount} AETH in Mana umwandeln möchtest"
     },
     {
         "id": "app.confirmations.bondAethTitle",
@@ -12,7 +12,7 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Bitte bestätige, dass du Essence einsammeln möchtest."
     },
     {
         "id": "app.confirmations.claimTitle",
@@ -22,7 +22,7 @@
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Bitte bestätige, dass du Essence einsammeln möchtest."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
@@ -32,7 +32,7 @@
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Bitte bestätige, dass du diesen Kommentar veröffentlichen möchtest."
     },
     {
         "id": "app.confirmations.commentDownvote",
