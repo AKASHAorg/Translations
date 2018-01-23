@@ -32,22 +32,22 @@
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "Silahkan pilih pengguna"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "Kolom tag"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "Silahkan pilih sebuah tag"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Tambahkan ke forum"
     },
     {
         "id": "app.list.addToNewDashboard",
@@ -102,12 +102,12 @@
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "Are you sure you want to delete {name}?"
+        "defaultMessage": "Apakah anda yakin ingin menghapus {name}?"
     },
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "My board"
+        "defaultMessage": "Papan saya"
     },
     {
         "id": "app.dashboard.large",
@@ -117,22 +117,22 @@
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "Entri terbaru"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "Daftar"
     },
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "Daftar ini sudah dihapus, Silahkan hapus kolom ini"
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "Papan saya"
     },
     {
         "id": "app.dashboard.namePlaceholder",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Mencari sebuah papan..."
     },
     {
         "id": "app.dashboard.small",
