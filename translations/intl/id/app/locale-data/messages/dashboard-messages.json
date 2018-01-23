@@ -62,7 +62,7 @@
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Feed berikut"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -112,7 +112,7 @@
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Large"
+        "defaultMessage": "Besar"
     },
     {
         "id": "app.dashboard.latest",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Feed berikut"
     },
     {
         "id": "app.dashboard.tag",
