@@ -47,7 +47,7 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choose when your password is requested"
+        "defaultMessage": "Parolanızın ne zaman isteneceğini seçin"
     },
     {
         "id": "app.settings.licenseOptions",
