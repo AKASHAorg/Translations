@@ -52,7 +52,7 @@
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Buatlah sebuah papan baru"
+        "defaultMessage": "Buatlah sebuah forum baru"
     },
     {
         "id": "app.dashboard.collection",
@@ -67,7 +67,7 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "Anda harus membuat sebuah papan baru"
+        "defaultMessage": "Anda harus membuat sebuah forum terlebih dahulu"
     },
     {
         "id": "app.dashboard.createOneNow",
@@ -77,27 +77,27 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Buatlah sebuah papan baru"
+        "defaultMessage": "Buatlah sebuah forum baru"
     },
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Nama forum"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "Nama forum dibutuhkan"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "Forum ini sudah ada"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "Are you sure you want to delete this column?"
+        "defaultMessage": "Apakah anda yakin ingin menghapus kolom ini?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
@@ -107,7 +107,7 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "Papan saya"
+        "defaultMessage": "Forum saya"
     },
     {
         "id": "app.dashboard.large",
@@ -132,17 +132,17 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "Papan saya"
+        "defaultMessage": "Forum saya"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Tuliskan papan nama"
+        "defaultMessage": "Tuliskan nama forum"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "Tidak ada papan yang ditemukan"
+        "defaultMessage": "Tidak ada forum yang ditemukan"
     },
     {
         "id": "app.dashboard.previewList",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Mencari sebuah papan..."
+        "defaultMessage": "Mencari sebuah forum..."
     },
     {
         "id": "app.dashboard.small",
