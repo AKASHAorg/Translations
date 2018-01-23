@@ -52,7 +52,7 @@
     {
         "id": "app.settings.licenseOptions",
         "description": "title for profile default license options",
-        "defaultMessage": "Publish Options"
+        "defaultMessage": "Yayınlama Seçenekleri"
     },
     {
         "id": "app.settings.licenseOptionsDescription",
