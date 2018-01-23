@@ -2,12 +2,12 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Hata bildir"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Geri bildirimin için teşekkür ederiz!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
@@ -17,12 +17,12 @@
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "Ayrıca bu hatayla ilgili zaten açılmış herhangi bir sorun olup olmadığını kontrol edin!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "Yedekleme üretimi başarısız oldu. Tekrar deneyin"
     },
     {
         "id": "app.error.commentsDownvote",
@@ -42,12 +42,12 @@
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Yeni pano kaydedilirken bir hata oluştu"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Yeni sütun kaydedilirken bir hata oluştu"
     },
     {
         "id": "app.error.dashboardDelete",
@@ -57,7 +57,7 @@
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Sütununuz silinirken bir hata oluştu"
     },
     {
         "id": "app.error.dashboardGetActive",
@@ -242,7 +242,7 @@
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "Profiller listesini alırken bir hata oluştu"
     },
     {
         "id": "app.error.profileToggleDonations",
@@ -252,26 +252,26 @@
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "{tokenAmount} AETH aktarılırken bir hata oluştu"
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "{value} ETH aktarılırken bir hata oluştu"
     },
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "{amount} öz dönüştürülürken bir hata oluştu"
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Profiliniz güncellenirken bir hata oluştu"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Ayarlarınız kaydedilirken bir hata oluştu"
     }
 ]
