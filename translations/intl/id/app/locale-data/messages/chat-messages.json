@@ -12,7 +12,7 @@
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Bergabunglah dengan saluran"
     },
     {
         "id": "app.chat.channelName",
@@ -42,11 +42,11 @@
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Nama saluran tidak boleh lebih dari 32 karakter"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Saluran ini tidak kekal, pesan akan hilang 24 jam sejak penerbitan"
     }
 ]
