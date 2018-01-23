@@ -7,7 +7,7 @@
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafy"
+        "defaultMessage": "In Mana umwandeln"
     },
     {
         "id": "app.confirmations.claim",
@@ -17,7 +17,7 @@
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Einsammeln"
     },
     {
         "id": "app.confirmations.claimVote",
@@ -27,7 +27,7 @@
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Einsammeln"
     },
     {
         "id": "app.confirmations.comment",
@@ -37,27 +37,27 @@
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Bitte bestätige, dass du diesen Kommentar negativ bewerten möchtest."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Negativ bewerten"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Kommentieren"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Bitte bestätige, dass du diesen Kommentar positiv bewerten möchtest."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Positiv bewerten"
     },
     {
         "id": "app.confirmations.cycleAeth",
@@ -72,52 +72,52 @@
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "Bitte bestätige, dass du diesen Entwurft veröffentlichen möchtest."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "Entwurf veröffentlichen"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "Bitte bestätige, dass du diesen Beitrag updaten möchtest."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "Eintrag updaten"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "Bitte bestätige, dass du diesen Eintrag negativ bewerten möchtest."
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Negativ bewerten"
     },
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "Bitte bestätige, dass du diesen Eintrag positiv bewerten möchtest."
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Positiv bewerten"
     },
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "Bitte bestätige, dass du {displayName} folgen möchtest."
     },
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Folgen"
     },
     {
         "id": "app.confirmations.freeAeth",
@@ -127,7 +127,7 @@
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Einsammeln"
     },
     {
         "id": "app.confirmations.passphrase",
@@ -142,7 +142,7 @@
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "Profil registrieren"
     },
     {
         "id": "app.confirmations.profileUpdate",
