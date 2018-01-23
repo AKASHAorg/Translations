@@ -37,7 +37,7 @@
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Harap konfirmasi bahawa anda ingin untuk downvote komentar ini."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
@@ -47,7 +47,7 @@
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Komentar"
     },
     {
         "id": "app.confirmations.commentUpvote",
