@@ -2,37 +2,37 @@
     {
         "id": "app.list.addToList",
         "description": "tooltip for add to list button",
-        "defaultMessage": "Add to list"
+        "defaultMessage": "Tambahkan ke daftar"
     },
     {
         "id": "app.list.addToNewList",
         "description": "title for new list form",
-        "defaultMessage": "Add to a new list"
+        "defaultMessage": "Tambahkan ke daftar baru"
     },
     {
         "id": "app.list.createNew",
         "description": "create new list button label",
-        "defaultMessage": "Create a new list"
+        "defaultMessage": "Buatlah daftar baru"
     },
     {
         "id": "app.list.descriptionPlaceholder",
         "description": "placeholder for list description input",
-        "defaultMessage": "Add a short description"
+        "defaultMessage": "Tambahkan deskripsi singkat"
     },
     {
         "id": "app.list.deleteList",
         "description": "delete list confirmation text",
-        "defaultMessage": "Are you sure you want to delete this list?"
+        "defaultMessage": "Apakah anda yakin untuk menghapus daftar ini?"
     },
     {
         "id": "app.list.editList",
         "description": "title for edit list popover",
-        "defaultMessage": "Edit this list"
+        "defaultMessage": "Editlah daftar ini"
     },
     {
         "id": "app.list.listName",
         "description": "label for list name input",
-        "defaultMessage": "List name"
+        "defaultMessage": "Daftar nama"
     },
     {
         "id": "app.list.listNameRequired",
