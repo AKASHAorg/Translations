@@ -82,12 +82,12 @@
     {
         "id": "app.akasha.terms.noWarrantyBody",
         "description": "no warranty section content",
-        "defaultMessage": "16 You understand and expressly accept that there is no warranty whatsoever regarding the availability, functionality, and/or the success of AKASHA and the Ethereum Identity Key , expressed or implied, to the extent permitted by law, and that the Pre-Alpha release of AKASHA is used at the sole risk of yourself on an “as is” and “under development” basis and without, to the extent permitted by law, any warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose;"
+        "defaultMessage": "16 Anda mengerti dan tegas menerima bahwa tidak ada garansi apapun mengenai ketersediaan, kegunaan, dan/atau keberhasilan AKASHA dan kunci identitas Ethereum, tersurat maupun tersirat, sejauh yang diizinkan oleh hukum, dan bahwa peluncuran Pre-Alpha release dari AKASHA digunakan hanya atas resiko anda sendiri pada \"sebagaimana adanya\" dan \"dalam pengembangan\" dasar dan tanpa, sejauh diizinkan oleh hukum, setiap jaminan dalam bentuk apapun, termasuk, namun tidak terbatas untuk, jaminan judul atau jaminan tersirat, dapat diperjualbelikan atau kesesuaian untuk tujuan tertentu;"
     },
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. password / open login"
     },
     {
         "id": "app.akasha.terms.passwordBody",
@@ -97,7 +97,7 @@
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. Risks"
+        "defaultMessage": "9. Resiko"
     },
     {
         "id": "app.akasha.terms.risksBody",
@@ -107,17 +107,17 @@
     {
         "id": "app.akasha.terms.taxationTitle",
         "description": "taxation section title",
-        "defaultMessage": "10. Taxation"
+        "defaultMessage": "10. Perpajakan"
     },
     {
         "id": "app.akasha.terms.taxationBody",
         "description": "taxation section content",
-        "defaultMessage": "20 You bear the sole responsibility to determine if any action or transaction related to AKASHA have tax implications for yourself."
+        "defaultMessage": "20 Anda bertanggung jawab penuh untuk menentukan jika setiap tindakan atau transaksi yang berhubungan dengan AKASHA memiliki implikasi pajak untuk diri sendiri."
     },
     {
         "id": "app.akasha.terms.noLiabilityTitle",
         "description": "no liability section title",
-        "defaultMessage": "11. No Liability"
+        "defaultMessage": "11. Tidak ada kewajiban"
     },
     {
         "id": "app.akasha.terms.noLiabilityBody",
