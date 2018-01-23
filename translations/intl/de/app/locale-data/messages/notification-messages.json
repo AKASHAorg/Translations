@@ -2,7 +2,7 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "You successfully manafied {amount} AETH"
+        "defaultMessage": "Du hast erfolgreich {amount} AETH in Mana umgewandelt"
     },
     {
         "id": "app.notification.cycleAethSuccess",
@@ -17,32 +17,32 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "Das Highlight wurde gespeichert!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Do you want to type a note?"
+        "defaultMessage": "Möchtest du eine Notiz schreiben?"
     },
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Your profile is updating ..."
+        "defaultMessage": "Dein Profil wird aktualisiert..."
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Your profile was successfully updated"
+        "defaultMessage": "Dein Profil wurde erfolgreich aktualisiert"
     },
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Following {displayName} ..."
+        "defaultMessage": "Folge {displayName} ..."
     },
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "You are now following {displayName}"
+        "defaultMessage": "Du folgst jetzt {displayName}"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
