@@ -102,7 +102,7 @@
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "{entryTitle} için Essence toplanırken bir hata oluştu"
     },
     {
         "id": "app.error.entryDownvote",
@@ -227,12 +227,12 @@
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "An error occured while cycling {amount} AETH"
+        "defaultMessage": "{amount} AETH dönüştürülürken bir hata oluştu"
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "An error occured while collecting your cycled AETH"
+        "defaultMessage": "Dönüştürülen AETH'nizi toplarken bir hata oluştu"
     },
     {
         "id": "app.error.profileGetLocal",
