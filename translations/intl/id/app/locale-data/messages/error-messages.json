@@ -82,17 +82,17 @@
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Tidak bisa menyimpan perubahan terbaru dari konsep ini"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penerbitan konsep anda"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mencoba mengambil entri anda. Hanya menampilkan konsep lokal"
     },
     {
         "id": "app.error.entryClaim",
