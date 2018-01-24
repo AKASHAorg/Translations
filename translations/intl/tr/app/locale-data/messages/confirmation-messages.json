@@ -2,7 +2,7 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "Lütfen manafy {amount} AETH istediğinizi doğrulayın"
     },
     {
         "id": "app.confirmations.bondAethTitle",
