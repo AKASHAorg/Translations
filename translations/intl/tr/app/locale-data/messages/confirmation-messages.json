@@ -97,7 +97,7 @@
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Eksilemek"
     },
     {
         "id": "app.confirmations.entryUpvote",
@@ -197,7 +197,7 @@
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "Lütfen {value} ETH'yi {displayName}'e transfer etmek istediğinizi onaylayın."
     },
     {
         "id": "app.confirmation.transferEthTitle",
@@ -207,7 +207,7 @@
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "Lütfen {amount} Essence dönüştürmek istediğinizi onaylayın"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
@@ -217,7 +217,7 @@
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "Lütfen {displayName}'i takip etmekten vazgeçmek istediğinizi onaylayın."
     },
     {
         "id": "app.confirmations.unfollowTitle",
