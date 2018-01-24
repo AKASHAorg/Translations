@@ -267,7 +267,7 @@
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Error al intentar actualizar su perfil"
     },
     {
         "id": "app.error.saveGeneralSettings",
