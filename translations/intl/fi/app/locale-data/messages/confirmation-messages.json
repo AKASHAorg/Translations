@@ -117,72 +117,72 @@
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Seuraa"
     },
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "Vahvista että haluat kerätä kierrätetyt AETHIT"
     },
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Kerää"
     },
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "Syötä salasana jatkaaksesi prosessia."
     },
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "Vahvista että haluat rekisteröidä profiilin."
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "Rekisteröi profiili"
     },
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "Vahvista että haluat päivittää profiilin."
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "Päivitä profiili"
     },
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Vahvista että haluat lähettää tippiä {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Lähetä tippiä"
     },
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "Vavhista että haluat luoda #{value}."
     },
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "Luo tagi"
     },
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "Vahvista että haluat vaihtaa tippi asetukset."
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "Vaihda tippi asetukset"
     },
     {
         "id": "app.confirmation.transferAeth",
