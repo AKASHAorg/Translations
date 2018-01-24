@@ -142,32 +142,32 @@
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pilihan servis geth"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pilihan layanan geth"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan status servis geth"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "Sebuah kesalan terjadi ketika mendapatkan sinkronisasi status"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan setelan geth anda"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pengaturan geth anda"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Layanan geth tidak bisa dimulai"
     },
     {
         "id": "app.error.gethStop",
