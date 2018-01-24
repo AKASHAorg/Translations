@@ -357,7 +357,7 @@
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "versi"
     },
     {
         "id": "app.entry.versionHistory",
@@ -397,7 +397,7 @@
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Terjadi kesalahan saat mencoba mengambil info situs web"
     },
     {
         "id": "app.entry.wordsCount",
@@ -407,7 +407,7 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Tulis komen"
     },
     {
         "id": "app.entry.writeReplyTo",
