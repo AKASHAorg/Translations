@@ -187,41 +187,41 @@
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "Vahvista että haluat lähettää {tokenAmount} AETHIA {displayName}."
     },
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "Lähetä AETHIA"
     },
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "Vahvista että haluat lähettää {value} Etheriä {displayName}."
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "Lähetä ETH"
     },
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "Vahvista että haluat muuttaa {amount} Essenceä"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Muuta Essence"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "Vahvista että haluat lopettaa {displayName} seuraamisen."
     },
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Älä seuraa"
     }
 ]
