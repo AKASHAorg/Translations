@@ -97,22 +97,22 @@
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mengumpulkan Intisari untuk {entryTitle}"
     },
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika pengumpulan Intisari untuk {entryTitle}"
     },
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika downvoting {entryTitle}"
     },
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan data entry"
     },
     {
         "id": "app.error.entryListIterator",
