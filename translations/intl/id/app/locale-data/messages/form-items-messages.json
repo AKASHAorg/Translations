@@ -17,7 +17,7 @@
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Ketik nama pengguna Anda"
+        "defaultMessage": "Ketik nama pengguna anda"
     },
     {
         "id": "app.form.insufficientEth",
@@ -47,12 +47,12 @@
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "Ketik nama depan anda"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Ketik nama belakang anda"
     },
     {
         "id": "app.form.maxAethAmount",
@@ -107,12 +107,12 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Nama depan"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Nama belakang"
     },
     {
         "id": "app.form.akashaId",
@@ -127,7 +127,7 @@
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "Dari"
     },
     {
         "id": "app.form.passphrase",
@@ -237,7 +237,7 @@
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "Title"
+        "defaultMessage": "Judul"
     },
     {
         "id": "app.form.totalAethBalance",
