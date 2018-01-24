@@ -117,17 +117,17 @@
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan entri dalam daftar"
     },
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika upvoting {entryTitle}"
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Kode salah {errorCode}"
     },
     {
         "id": "app.error.fatalError",
