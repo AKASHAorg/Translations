@@ -27,57 +27,57 @@
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika downvoting komentar"
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penerbitan komentar"
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika upvoting komentar"
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan forum baru"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan kolom baru"
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penghapusan forum anda"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penghapusan kolom anda"
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan forum yang aktif"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan forum anda"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan forum aktif anda"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mengupdate kolom anda"
     },
     {
         "id": "app.error.draftAutosave",
