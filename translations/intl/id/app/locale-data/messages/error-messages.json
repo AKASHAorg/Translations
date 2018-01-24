@@ -137,12 +137,12 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pengaturan umum anda"
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pilihan servis geth"
     },
     {
         "id": "app.error.gethGetStatus",
