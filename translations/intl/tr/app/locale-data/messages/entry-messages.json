@@ -262,7 +262,7 @@
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Genel tartışma"
     },
     {
         "id": "app.entry.published",
@@ -272,7 +272,7 @@
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Yayınlama seçenekleri"
     },
     {
         "id": "app.entry.readTime",
