@@ -37,12 +37,12 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Miktar gereklidir"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "ETH miktarı"
     },
     {
         "id": "app.form.firstNamePlaceholder",
@@ -57,17 +57,17 @@
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "{aeth} Transfer edilebilir AETH"
     },
     {
         "id": "app.form.maxAethAmountLabel",
         "description": "label for maximum AETH amount input field",
-        "defaultMessage": "max. {balance}"
+        "defaultMessage": "maksimum {balance}"
     },
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "{essence} Essence mevcut"
     },
     {
         "id": "app.form.maxEthAmount",
@@ -82,12 +82,12 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Essence Dönüştür"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{amount} Essence will forge {value} new AETH in your balance."
+        "defaultMessage": "{amount} Essence, bakiyenizde {value} yeni AETH yapacak."
     },
     {
         "id": "app.form.transformEssenceMin",
