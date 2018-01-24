@@ -682,12 +682,12 @@
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Her Essence topladığınızda Karmanız yükselecektir."
     },
     {
         "id": "app.general.createTags",
         "description": "Etiketleri oluştur eylem başlığı",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Etiket Oluştur"
     },
     {
         "id": "app.general.karmaLeaderboard",
