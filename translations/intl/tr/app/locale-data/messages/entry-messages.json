@@ -27,7 +27,7 @@
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Yalnızca, oyunuz çoğunluk ile uyuşuyorsa Essence toplayabilirsiniz (örneğin artı oy kullandınız ve girdi skoru pozitifse)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
@@ -47,12 +47,12 @@
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Essence toplandı"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Essence Topla"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Düzenlemeye devam et"
     },
     {
         "id": "app.entry.downvote",
@@ -72,12 +72,12 @@
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Draft"
+        "defaultMessage": "Taslak"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "Taslaklar"
     },
     {
         "id": "app.entry.draftsCount",
@@ -87,47 +87,47 @@
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "You can't create an article without content!"
+        "defaultMessage": "İçerik olmadan bir makale oluşturamazsınız!"
     },
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "Taslağı sil"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "Bu taslağı silmek istediğinizden emin misiniz?"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "Taslağı düzenle"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "Taslak kaydedildi"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "Taslak kaydediliyor"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "Önizleme bağlantısını paylaş"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Düzenlendi"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "Girdiyi düzenle"
     },
     {
         "id": "app.entry.entriesCount",
