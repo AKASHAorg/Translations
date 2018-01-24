@@ -72,7 +72,7 @@
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "Kembali"
     },
     {
         "id": "app.general.block",
@@ -82,7 +82,7 @@
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "Batal"
     },
     {
         "id": "app.general.chat",
@@ -92,7 +92,7 @@
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "Pilih sebuah gambar"
     },
     {
         "id": "app.general.chooseAnotherImage",
