@@ -17,7 +17,7 @@
     {
         "id": "app.validator.invalidCharacters",
         "description": "When a field does not start with a letter or contains invalid characters",
-        "defaultMessage": "must start with a letter and only contain valid characters"
+        "defaultMessage": "harus dimulai dengan huruf dan hanya berisi karakter yang valid"
     },
     {
         "id": "app.validator.passphraseNotMatching",
@@ -27,7 +27,7 @@
     {
         "id": "app.validator.lowercase",
         "description": "only lowercase letters",
-        "defaultMessage": "should contain only lowercase letters"
+        "defaultMessage": "hanya boleh berisi huruf kecil"
     },
     {
         "id": "app.validator.akashaIdExists",
@@ -37,7 +37,7 @@
     {
         "id": "app.validator.akashaIdNotValid",
         "description": "When the akashaId is not valid",
-        "defaultMessage": "Only lowercase alphanumeric characters allowed"
+        "defaultMessage": "Hanya karakter alfanumerik huruf kecil yang diperbolehkan"
     },
     {
         "id": "app.validator.validAddress",
@@ -47,6 +47,6 @@
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "Kutipan dapat memiliki maks. 120 karakter"
     }
 ]
