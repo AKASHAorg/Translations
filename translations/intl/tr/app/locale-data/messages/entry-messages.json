@@ -7,12 +7,12 @@
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "You downvoted with weight {weight}"
+        "defaultMessage": "{weight} değerinde eksi oy attınız"
     },
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "{weight} değerinde artı oy attınız"
     },
     {
         "id": "app.entry.articleEntryType",
@@ -22,7 +22,7 @@
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "Yalnızca girdinizin skoru pozitifse Essence toplayabilirsiniz"
     },
     {
         "id": "app.entry.cannotClaimVote",
