@@ -62,57 +62,57 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "Vahvista että haluat kierrättää {amount} AETHIA"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "Kierrätä"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "Vahvista että haluat julkaista tämän luonnoksen."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "Julkaista luonnos"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "Vahvista että haluat päivittää tämän kohdan."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "Päivitä kohta"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "Vahvista että haluat äänestää tämän kohdan alespäin."
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Äänestä alaspäin"
     },
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "Vahvista että haluat äänestää tämän kohdan ylöspäin."
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Äänestä ylöspäin"
     },
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "Vahvista että haluat seurata {displayName}."
     },
     {
         "id": "app.confirmations.followTitle",
