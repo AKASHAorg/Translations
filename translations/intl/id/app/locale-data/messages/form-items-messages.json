@@ -7,17 +7,17 @@
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Anda harus menentukan nama pengguna atau alamat ethereum"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Menerima tip"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Ketik nama pengguna Anda"
     },
     {
         "id": "app.form.insufficientEth",
@@ -37,12 +37,12 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Jumlah yang dibutuhkan"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "Jumlah ETH"
     },
     {
         "id": "app.form.firstNamePlaceholder",
