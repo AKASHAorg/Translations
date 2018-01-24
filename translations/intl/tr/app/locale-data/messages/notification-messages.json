@@ -92,12 +92,12 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "\"{title}\" girdisi başarılı bir şekilde güncellendi."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "\"{title}\" taslağı başarılı bir şekilde yayınlandı."
     },
     {
         "id": "app.notification.claimSuccess",
@@ -107,7 +107,7 @@
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "{entryTitle} için Essence'i başarılı bir şekilde topladın"
     },
     {
         "id": "app.notification.downvotingEntry",
@@ -117,7 +117,7 @@
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "Bir yorumu başarılı bir şekilde eksilediniz"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
@@ -172,7 +172,7 @@
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "{displayName}'e bahşiş gönderiliyor ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
@@ -182,12 +182,12 @@
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "{displayName} için bildirimler etkinleştirildi"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "{displayName} için bildirimler devre dışı bırakıldı"
     },
     {
         "id": "app.notification.backupSuccess",
