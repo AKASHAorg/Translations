@@ -27,12 +27,12 @@
     {
         "id": "app.settings.hideContentDescription",
         "description": "description for \"hide content\" settings",
-        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
+        "defaultMessage": "Pilih jika anda tidak ingin melihat konten dengan skor lebih rendah dari nilai tertentu"
     },
     {
         "id": "app.settings.hideCommentsLabel",
         "description": "label for \"hide comments content\" checkbox",
-        "defaultMessage": "Hide comments with a score lower than"
+        "defaultMessage": "Sembunyikan komentar dengan skor lebih rendah dari"
     },
     {
         "id": "app.settings.hideEntriesLabel",
@@ -102,7 +102,7 @@
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "Anda perlu mendaftarkan profil anda sebelum mengubah opsi ini"
     },
     {
         "id": "app.settings.tipsOptions",
@@ -112,7 +112,7 @@
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "Mengubah opsi ini akan melibatkan pengiriman transaksi"
     },
     {
         "id": "app.settings.tipsAccept",
@@ -122,7 +122,7 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "Jangan terima tip"
     },
     {
         "id": "app.settings.title",
