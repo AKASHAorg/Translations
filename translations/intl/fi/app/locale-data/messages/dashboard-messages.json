@@ -2,67 +2,67 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Lisää sarake"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Lisää sarake"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "Valitse sarakkeen malli"
     },
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "Luettelo sarake"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "Valitse lista"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "Käyttäjä sarake"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "Valitse käyttäjä"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "Merkitse sarake"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "Valitse tagi"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Lisää seinälle"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Luo uusi seinä"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "Kokoelma"
     },
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Seurattava virta"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
