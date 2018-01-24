@@ -392,7 +392,7 @@
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Kullanıcılar hala girdiyi oylayabilir fakat bu oylar için harcanan mana yazar veya oylayanlar tarafından toplanamaz."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
@@ -442,7 +442,7 @@
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "defaultMessage": "girdiler"
     },
     {
         "id": "app.entry.gotoMyDrafts",
