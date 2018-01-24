@@ -2,7 +2,7 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Hakkımda"
     },
     {
         "id": "app.form.addressRequired",
@@ -12,7 +12,7 @@
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Bahşişleri kabul et"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
@@ -22,12 +22,12 @@
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Üzgünüz, yeterli sayıda test ether'iniz yok!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "Profilinizi yayınlamak için test ether'i yatırmanız gerekmekte."
     },
     {
         "id": "app.form.aethAmount",
