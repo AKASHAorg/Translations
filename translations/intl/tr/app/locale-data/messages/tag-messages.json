@@ -2,21 +2,21 @@
     {
         "id": "app.tag.addTag",
         "description": "placeholder for tag editor field",
-        "defaultMessage": "#category..."
+        "defaultMessage": "#kategori..."
     },
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Sorry! You don't have enough karma to create tags."
+        "defaultMessage": "Üzgünüm! Etiket oluşturmak için yeterli karmaya sahip değilsiniz."
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This tag doesn't exist"
+        "defaultMessage": "Bu etiket mevcut değil"
     },
     {
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
-        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
+        "defaultMessage": "Bu daha önce hiç kimse tarafından oluşturulmamış yeni bir etikettir!"
     }
 ]
