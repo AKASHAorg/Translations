@@ -12,7 +12,7 @@
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Untuk menikmati pengalaman penuh, lengkapi profil anda sekarang!"
     },
     {
         "id": "app.setup.createIdentity",
@@ -22,7 +22,7 @@
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "Mulai dengan membuat identitas baru!"
     },
     {
         "id": "app.setup.gethDataDirPath",
@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Mengubah ini akan mengatur ulang konfigurasi anda dan konten IPFS lokal anda"
     },
     {
         "id": "app.setup.ipfsApiPort",
