@@ -132,7 +132,7 @@
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Kesalahan fatal"
     },
     {
         "id": "app.error.generalSettings",
