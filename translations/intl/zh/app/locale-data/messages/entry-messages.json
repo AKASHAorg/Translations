@@ -112,112 +112,112 @@
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "草稿保存中"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "共享预览链接"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "已编辑"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "编辑条目"
     },
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+        "defaultMessage": "{count, number} {count, plural, one {条目} other {条目}}"
     },
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "输入网址，比如 www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "您必须至少添加一个标签"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "摘要必须少于120个字符"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "摘录"
     },
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Featured image"
+        "defaultMessage": "特色图片"
     },
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "此内容的分数低于 {score}。"
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "您可以在个人设置修改这个值"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "。"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "许可证"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "链接"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "加载更多回复"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "草稿加载中..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "本地版本"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "确保在您发布过的计算机上打开 AKASHA。"
     },
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} 新{count, plural, one {评论} few {评论} many {评论} other {评论}}"
     },
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments found"
+        "defaultMessage": "没有评论"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "找不到与您的搜索条件匹配的草稿。"
     },
     {
         "id": "app.entry.noEntries",
