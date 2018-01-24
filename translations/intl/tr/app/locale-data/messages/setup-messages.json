@@ -12,12 +12,12 @@
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Tam deneyimin keyfini çıkarmak için, şimdi profilinizi tamamlayın!"
     },
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Yeni kimlik oluştur"
     },
     {
         "id": "app.setup.getStarted",
@@ -47,7 +47,7 @@
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Anahtarları içe aktar"
     },
     {
         "id": "app.setup.ipfsStoragePath",
@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Bunu değiştirmek, yapılandırmanızı ve yerel IPFS içeriğinizi sıfırlayacaktır"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -167,7 +167,7 @@
     {
         "id": "app.setup.faucetPending1",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Here are some test ETH :)"
+        "defaultMessage": "İşte biraz test ETH'si :)"
     },
     {
         "id": "app.setup.faucetError",
@@ -192,37 +192,37 @@
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Gelişmiş"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Geth istemcisi indiriliyor..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "IPFS istemcisi indiriliyor..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Geth istemcisi başlatılıyor..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Geth istemcisi yükseltiliyor..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "IPFS istemcisi yükseltiliyor..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "İşleniyor"
     },
     {
         "id": "app.setup.synchronizing",
@@ -247,17 +247,17 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "Senkronizasyon tamamlanır tamamlanmaz giriş yapabilecek ve tam deneyimin keyfini çıkarabileceksiniz! Sizi diğer tarafta bekliyoruz! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
+        "defaultMessage": "Senkronizasyon tamamlandı. Devam etmek için IPFS hizmetinin yeniden başlatılması \n                        gerekiyor. Başlıktaki durum çubuğundan manüel olarak başlatabilirsiniz\n                        veya otomatik olarak başlatmak için İLERİ tıklayın."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "If you want to import an identity please see this link."
+        "defaultMessage": "Eğer bir kimliği içe aktarmak istiyorsanız lütfen bu bağlantıya bakın."
     },
     {
         "id": "app.setup.findingPeers",
@@ -272,12 +272,12 @@
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "Hizmetler bekleniyor"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "Geth istemcisi bekleniyor"
     },
     {
         "id": "app.setup.peerCount",
