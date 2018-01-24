@@ -192,12 +192,12 @@
     {
         "id": "app.profile.noPendingTransactions",
         "description": "placeholder message for empty pending transactions log",
-        "defaultMessage": "You have no pending transactions"
+        "defaultMessage": "Anda tidak memiliki transaksi yang tertunda"
     },
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles"
+        "defaultMessage": "Tidak ada profil"
     },
     {
         "id": "app.profile.noTransactions",
@@ -227,7 +227,7 @@
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Type a username or paste an ethereum address"
+        "defaultMessage": "Ketik nama pengguna atau tempel alamat ethereum"
     },
     {
         "id": "app.profile.rewardsAndGoals",
@@ -237,12 +237,12 @@
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Save for later"
+        "defaultMessage": "Simpan untuk nanti"
     },
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Kirim"
     },
     {
         "id": "app.profile.sendTip",
