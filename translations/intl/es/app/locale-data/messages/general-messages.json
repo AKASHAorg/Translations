@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notificaciones (proximamente)"
+        "defaultMessage": "Notificaciones (próximamente)"
     },
     {
         "id": "app.general.ok",
@@ -522,7 +522,7 @@
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Comunidad: proximamente"
+        "defaultMessage": "Comunidad: próximamente"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
