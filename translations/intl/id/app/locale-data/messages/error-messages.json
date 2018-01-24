@@ -247,12 +247,12 @@
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "Kesalahan terjadi saat perubahan setelan tips"
     },
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "Terjadi kesalahan ketika mentransfer {tokenAmount} AETH"
     },
     {
         "id": "app.error.profileTransferEth",
