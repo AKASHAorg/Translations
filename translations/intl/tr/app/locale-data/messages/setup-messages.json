@@ -287,17 +287,17 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "ayrıntılar"
     },
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Geth hizmeti çalışmıyor. Profillerinizi getirmek için lütfen manüel olarak\n                        başlatın."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "IPFS hizmeti durdu. Profillerinizi getirmek için lütfen manüel olarak\n                        başlatın."
     },
     {
         "id": "app.setup.tutorialTitle",
