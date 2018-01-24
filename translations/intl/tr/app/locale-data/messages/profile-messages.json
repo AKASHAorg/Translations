@@ -2,72 +2,72 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "Bir miktar girin"
     },
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "PROFILE PICTURE"
+        "defaultMessage": "PROFİL RESMİ"
     },
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "COVER PHOTO"
+        "defaultMessage": "KAPAK FOTOĞRAFI"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "Lütfen 2:1 oranında bir resim yükleyin"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "Kalan Karakter:"
     },
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "Hakkımda"
     },
     {
         "id": "app.profile.collectEssence",
         "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Essence Topla"
     },
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "Kişiler"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Amount available {amount} AETH"
+        "defaultMessage": "Mevcut miktar {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling complete"
+        "defaultMessage": "Dönüştürme tamamlandı"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No Cycling AETH pending"
+        "defaultMessage": "Bekleyen AETH dönüştürme yok"
     },
     {
         "id": "app.profile.cyclingProcess",
         "description": "cycling process in progress",
-        "defaultMessage": "Cycling process"
+        "defaultMessage": "Dönüştürme işlemi"
     },
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Edit Profile Information"
+        "defaultMessage": "Profil Bilgilerini Düzenle"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Type something about you"
+        "defaultMessage": "Kendiniz hakkında bir şeyler yazın"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -82,67 +82,67 @@
     {
         "id": "app.profile.linksTitle",
         "description": "Links section title",
-        "defaultMessage": "LINKS"
+        "defaultMessage": "BAĞLANTILAR"
     },
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "Add a new link"
+        "defaultMessage": "Yeni bir bağlantı ekle"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "remove link"
+        "defaultMessage": "bağlantıyı kaldır"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Other crypto addresses"
+        "defaultMessage": "Diğer kripto adresleri"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "Add cryptocurrency address"
+        "defaultMessage": "Kripta para birimi adresi ekle"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "Cryptocurrency name"
+        "defaultMessage": "Kripto para birimi adı"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "Cryptocurrency address"
+        "defaultMessage": "Kripto para birimi adresi"
     },
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "Register Profile"
+        "defaultMessage": "Profil Kaydet"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "Remove cryptocurrency link"
+        "defaultMessage": "Kripto para birimi bağlantısını kaldır"
     },
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Girdiler"
     },
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Takip et"
     },
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "Update Profile"
+        "defaultMessage": "Profili Güncelle"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Followers"
+        "defaultMessage": "Takipçiler"
     },
     {
         "id": "app.profile.followersCount",
@@ -172,17 +172,17 @@
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Lists"
+        "defaultMessage": "Listeler"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "My balance"
+        "defaultMessage": "Bakiyem"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "My entries"
+        "defaultMessage": "Girdilerim"
     },
     {
         "id": "app.profile.myProfile",
@@ -202,27 +202,27 @@
     {
         "id": "app.profile.noTransactions",
         "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "You have no transactions"
+        "defaultMessage": "İşleminiz yok"
     },
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Overview"
+        "defaultMessage": "Genel bakış"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "Bu kullanıcı adı mevcut değil"
     },
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Ayarlar"
     },
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receive"
+        "defaultMessage": "Al"
     },
     {
         "id": "app.profile.receiverPlaceholder",
@@ -237,27 +237,27 @@
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Save for later"
+        "defaultMessage": "Sonraya sakla"
     },
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Gönder"
     },
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Bahşiş gönder"
     },
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Sending tip ..."
+        "defaultMessage": "Bahşiş gönderiliyor ..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Send tip to {name}"
+        "defaultMessage": "{name}'e bahşiş gönder"
     },
     {
         "id": "app.profile.sendTo",
