@@ -212,12 +212,12 @@
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "Tema Anda akan berubah setelah menyegarkan app."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "You succesfully changed your tips settings"
+        "defaultMessage": "Anda berhasil mengubah pengaturan tip anda"
     },
     {
         "id": "app.notification.transferAethSuccess",
@@ -232,6 +232,6 @@
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "Anda telah berhasil menyimpan pengaturan pribadi anda"
     }
 ]
