@@ -32,7 +32,7 @@
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "AETH miktarı"
     },
     {
         "id": "app.form.amountRequired",
