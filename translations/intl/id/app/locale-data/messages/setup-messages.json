@@ -152,7 +152,7 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Kami akan menyarankan hal yang luar biasa untuk dibaca berdasarkan minat anda."
     },
     {
         "id": "app.setup.expressSetup",
@@ -162,7 +162,7 @@
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "Terimakasih telah bermain!"
     },
     {
         "id": "app.setup.faucetPending1",
@@ -317,6 +317,6 @@
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
+        "defaultMessage": "Sebagai alternatif, Anda bisa klik pada sidebar Mana indikator di sebelah foto avatar anda dan pilih Shift up."
     }
 ]
