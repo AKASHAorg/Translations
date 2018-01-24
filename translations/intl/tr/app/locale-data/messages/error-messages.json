@@ -27,7 +27,7 @@
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Yoruma eksi oy verilirkern bir hata meydana geldi"
     },
     {
         "id": "app.error.commentsPublish",
@@ -37,7 +37,7 @@
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Bir yoruma destek oyu verilirken bir hata meydana geldi"
     },
     {
         "id": "app.error.dashboardAdd",
@@ -77,7 +77,7 @@
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "Sütununu güncellerken bir hata meydana geldi"
     },
     {
         "id": "app.error.draftAutosave",
@@ -107,7 +107,7 @@
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "{entryTitle} eksi oy verilirken bir hata meydana geldi"
     },
     {
         "id": "app.error.entryGetFull",
@@ -237,7 +237,7 @@
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "Yerel profiller getirilirken bir hata meydana geldi"
     },
     {
         "id": "app.error.profileGetList",
@@ -247,7 +247,7 @@
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "Bahşiş ayarlarınızı değiştirirken bir hata meydana geldi"
     },
     {
         "id": "app.error.profileTransferAeth",
