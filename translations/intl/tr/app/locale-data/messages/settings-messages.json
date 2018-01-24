@@ -27,7 +27,7 @@
     {
         "id": "app.settings.hideContentDescription",
         "description": "description for \"hide content\" settings",
-        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
+        "defaultMessage": "Eğer belirli bir değerden daha düşük bir skora sahip içerikleri görmek istemiyorsanız, seçin"
     },
     {
         "id": "app.settings.hideCommentsLabel",
