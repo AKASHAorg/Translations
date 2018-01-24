@@ -137,12 +137,12 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Bir adres girin. örneğin www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "En az bir etiket eklemelisiniz"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
@@ -157,7 +157,7 @@
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Featured image"
+        "defaultMessage": "Öne Çıkan Resim"
     },
     {
         "id": "app.entry.hiddenContent",
@@ -177,7 +177,7 @@
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "Lisans"
     },
     {
         "id": "app.entry.linkEntryType",
@@ -192,17 +192,17 @@
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Taslaklar yükleniyor..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Yerel sürüm"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "AKASHA dApp'ı paylaştığınız bilgisayarda açtığınızdan emin olun."
     },
     {
         "id": "app.entry.newComments",
@@ -212,7 +212,7 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments found"
+        "defaultMessage": "Yorum bulunamadı"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
@@ -222,27 +222,27 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "Girdi yok"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Yeni girdi yok"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Bu girdiden toplanacak Essence yok"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Yeni taslak"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Oy yok"
     },
     {
         "id": "app.entry.olderVersion",
@@ -287,7 +287,7 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Bu taslağı eski haline geri getirmek istediğinize emin misiniz?"
     },
     {
         "id": "app.entry.saveHighlight",
