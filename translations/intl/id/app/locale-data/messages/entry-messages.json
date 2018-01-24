@@ -247,7 +247,7 @@
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "Anda sekarang menampilkan yang lebih lama"
     },
     {
         "id": "app.entry.originalVersion",
@@ -342,7 +342,7 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Judul tidak boleh kosong"
     },
     {
         "id": "app.entry.tooltipAuthor",
