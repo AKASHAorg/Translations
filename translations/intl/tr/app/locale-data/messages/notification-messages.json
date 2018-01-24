@@ -197,7 +197,7 @@
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "Ayarlarınızı başarılı bir şekilde kaydettiniz. Değişikliklerinizin uygulanması için geth hizmetini yeniden başlatmanız gerekir."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
@@ -222,12 +222,12 @@
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "{tokenAmount} AETH'yi başarılı bir şekilde {displayName}'e transfer ettiniz"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "{value} ETH'yi {displayName}'e başarılı bir şekilde transfer ettiniz"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
