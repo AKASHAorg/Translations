@@ -292,7 +292,7 @@
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "保存精粹"
+        "defaultMessage": "Save highlight"
     },
     {
         "id": "app.entry.score",
