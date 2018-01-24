@@ -122,7 +122,7 @@
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Disunting"
     },
     {
         "id": "app.entry.editEntry",
@@ -217,7 +217,7 @@
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Tidak ada konsep yang ditemukan yang cocok dengan kriteria pencarian anda."
     },
     {
         "id": "app.entry.noEntries",
@@ -237,7 +237,7 @@
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Konsep baru"
     },
     {
         "id": "app.entry.noVotes",
@@ -252,32 +252,32 @@
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Original"
+        "defaultMessage": "Asli"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Salah satu yang ditandai tidak bisa digunakan!"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Diskusi umum"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Diterbitkan"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Pilihan penerbit"
     },
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "baca"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
@@ -287,7 +287,7 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Apakah anda yakin ingin memulihkan konsep ini?"
     },
     {
         "id": "app.entry.saveHighlight",
@@ -302,7 +302,7 @@
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Mencari sebuah profil"
     },
     {
         "id": "app.entry.searchTag",
@@ -317,7 +317,7 @@
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Komen yang rusak"
     },
     {
         "id": "app.entry.showMore",
