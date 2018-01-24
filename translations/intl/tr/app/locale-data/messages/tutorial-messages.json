@@ -37,6 +37,6 @@
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "Gelecek, gideceğimiz bir yer değildir fakat bizim oluşturacağımız bir yerdir.\n                Daha iyi bir web hak ediyoruz ve şimdi bunun olmasını sağlayacak araçlarımız var.\n                Birlikte, web üzerinde ifade özgürlüğünün bir özellik değil, bir hak olduğu bir dünya oluşturabiliriz."
     }
 ]
