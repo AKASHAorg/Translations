@@ -12,7 +12,7 @@
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "bir yorum"
     },
     {
         "id": "app.general.add",
@@ -27,7 +27,7 @@
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "Harika! Sadece buraya bırakın!"
     },
     {
         "id": "app.general.addNewEntry",
@@ -52,7 +52,7 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Miktar"
     },
     {
         "id": "app.general.anEntry",
@@ -227,7 +227,7 @@
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Önizleme oluşturuluyor"
     },
     {
         "id": "app.general.gethServiceOff",
@@ -307,12 +307,12 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Toplam harcanan Mana"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana Pool Info"
+        "defaultMessage": "Mana havuzu bilgisi"
     },
     {
         "id": "app.general.manafied",
@@ -337,7 +337,7 @@
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Uygun eş yok"
     },
     {
         "id": "app.general.notes",
@@ -492,12 +492,12 @@
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Etherscan'da görüntünle"
     },
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Gönder"
     },
     {
         "id": "app.general.sent",
@@ -507,7 +507,7 @@
     {
         "id": "app.general.settings",
         "description": "settings button label",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Ayarlar"
     },
     {
         "id": "app.general.sidebarTooltipDashboard",
@@ -517,7 +517,7 @@
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Profilim"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
@@ -587,7 +587,7 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "Hesabınızı oluşturmaya ve AKASHA kullanmaya devam ederek, \n                         bizim {termsLink}'ı kabul ediyorsunuz. Kabul etmezseniz\n                         AKASHA'yı kullanamazsınız."
     },
     {
         "id": "app.general.termsOfService",
@@ -627,12 +627,12 @@
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Kullanıcı ayarları"
     },
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Güncelle"
     },
     {
         "id": "app.general.updating",
@@ -642,7 +642,7 @@
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "Yükseltiliyor"
     },
     {
         "id": "app.general.viewProfile",
@@ -672,7 +672,7 @@
     {
         "id": "app.general.comment",
         "description": "girdi yorumu",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Yorum"
     },
     {
         "id": "app.general.publishEntries",
