@@ -7,7 +7,7 @@
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "PROFILE PICTURE"
+        "defaultMessage": "PROFIL-BILD"
     },
     {
         "id": "app.profile.backgroundImageTitle",
@@ -17,17 +17,17 @@
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "Bitte lade ein Bild mit einem Seitenverhältnis von 2:1 hoch"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "Zeichen übrig:"
     },
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "Über mich"
     },
     {
         "id": "app.profile.collectEssence",
@@ -37,7 +37,7 @@
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "Kontakte"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
