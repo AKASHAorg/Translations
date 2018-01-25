@@ -27,7 +27,7 @@
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "チャンネル名は入力必須項目です。"
+        "defaultMessage": "チャンネル名は空白には出来ません。"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
