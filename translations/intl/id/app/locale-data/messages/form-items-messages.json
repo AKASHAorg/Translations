@@ -117,7 +117,7 @@
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Nama pengguna"
     },
     {
         "id": "app.form.ethereumAddress",
@@ -182,7 +182,7 @@
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nama"
     },
     {
         "id": "app.form.passphraseConfirmError",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "Total saldo AETH"
     },
     {
         "id": "app.form.url",
