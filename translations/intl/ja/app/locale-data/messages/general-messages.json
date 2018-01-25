@@ -12,32 +12,32 @@
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "コメント"
     },
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "追加"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "ドラッグ ＆ドロップしてイメージを追加"
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "クール! ここにドロップ!"
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "新しい投稿を追加"
     },
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "～に追加"
     },
     {
         "id": "app.general.aeth",
@@ -47,17 +47,17 @@
     {
         "id": "app.general.akasha",
         "description": "AKASHA",
-        "defaultMessage": "AKASHA"
+        "defaultMessage": "アカシャ"
     },
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "数量"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "エントリー"
     },
     {
         "id": "app.general.anEntryVote",
