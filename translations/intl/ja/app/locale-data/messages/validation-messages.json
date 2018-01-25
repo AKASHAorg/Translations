@@ -2,7 +2,7 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "field is required"
+        "defaultMessage": "入力必須項目です。"
     },
     {
         "id": "app.validator.min",
@@ -22,27 +22,27 @@
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Oups! Passphrase verification is different than first one!"
+        "defaultMessage": "パスフレーズが一致しません。"
     },
     {
         "id": "app.validator.lowercase",
         "description": "only lowercase letters",
-        "defaultMessage": "should contain only lowercase letters"
+        "defaultMessage": "小文字だけで入力してください。"
     },
     {
         "id": "app.validator.akashaIdExists",
         "description": "When the chosen username was already registered",
-        "defaultMessage": "Username already registered!"
+        "defaultMessage": "ユーザー名が既に登録されています！"
     },
     {
         "id": "app.validator.akashaIdNotValid",
         "description": "When the akashaId is not valid",
-        "defaultMessage": "Only lowercase alphanumeric characters allowed"
+        "defaultMessage": "英数字の小文字のみ使用してください。"
     },
     {
         "id": "app.validator.validAddress",
         "description": "A valid address (URL) is required",
-        "defaultMessage": "must be a valid address"
+        "defaultMessage": "有効なアドレスでなければなりません。"
     },
     {
         "id": "app.validator.maxExcerptLength",
