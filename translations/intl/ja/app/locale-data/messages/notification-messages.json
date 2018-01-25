@@ -177,37 +177,37 @@
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "{displayName} にチップしました"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "{displayName} が有効になっている通知"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "{displayName} で無効になっている通知"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "{path} で生成されたバックアップ"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "あなたの設定は保存されました。あなたの変更を適用するためgeth                        を再起動して下さい。"
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "あなたの設定は保存されました。あなたの変更を適用するためIPFS                        を再起動して下さい。"
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "あなたのIPFS portsは設定されました。あなたの変更を適用するためIPFS                        を再起動して下さい。"
     },
     {
         "id": "app.settings.themeTips",
@@ -217,7 +217,7 @@
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "You succesfully changed your tips settings"
+        "defaultMessage": "チップ設定を変更しました"
     },
     {
         "id": "app.notification.transferAethSuccess",
