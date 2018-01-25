@@ -12,12 +12,12 @@
     {
         "id": "app.akasha.terms.preface",
         "description": "AKASHA`s terms preface",
-        "defaultMessage": "1 AKASHA is a next-generation social blogging network powered by a new kind of computer known as Ethereum and the Inter Planetary File System.\n            2 By using AKASHA and creating an AKASHA Identity or a Profile Smart Contract, you confirm to have carefully reviewed and to fully understand and agree to the terms and conditions set forth in this document (the “Terms”).\n            3 Because the current version of AKASHA is a Pre-Alpha-Release only, we may ask you to review and accept new or supplemental terms that apply to your interaction with AKASHA and newly introduced functionalities in the future.\n            4 Prior to installing AKAHSA, please ensure that you have downloaded the .zip file by using the pre-alpha invites directly sent out by AKASHA. Unpacking / installing any other files may involve substantial security risks."
+        "defaultMessage": "1 AKASHA ay isang sunod-na-henerasyon ng sosyal blogging na network na pinapagana gamit ang bagong uri ng kompyuter na kilala bilang Ethereum at ang Inter Planetary ng Sistema ng File.\n            2 Sa paggamit ng AKASHA at paggawa ng Pagkakakilanlan ng AKASHA o ang Matalinong Kontrata ng Profile, ikaw ay kumumpirma na maingat na sumuri at buong maunawaan at sumang-ayon sa mga tuntunin at kondisyon na na-set pasulong sa dokumentong ito (mga \"Tuntunin\").\n            3 Dahil ang kasalukuyang bersyon ng AKASHA ay isang Pre-Alpha-Release lamang, maari kaming magpakiusap sa iyo na sumuri at magtanggap ng bago o suplemental na tuntunin na magagamit sa iyong interaksyon sa AKASHA at sa bagong napakilalang mga functionality sa hinaharap.\n            4 Bago mag-install ng AKASHA, mangyari lamang na siguraduhin na ikaw ay nakapag-download ng .zip na dokumento gamit ang pre-alpha na imbitasyon na diretchong ipinadala ng AKASHA. Ang Pag-alis ng laman/ Pag-install ng kahit anong mga dokumento ay maaring magdawit ng substansyal na mga panganib sa seguridad."
     },
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1. Pagkapribado"
     },
     {
         "id": "app.akasha.terms.privacyBody",
