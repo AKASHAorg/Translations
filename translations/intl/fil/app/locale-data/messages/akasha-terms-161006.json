@@ -22,7 +22,7 @@
     {
         "id": "app.akasha.terms.privacyBody",
         "description": "privacy section content",
-        "defaultMessage": "5 Ang iyong pagkapribado ay napaka-importante sa amin na nagbubukod tangi sa AKASHA sa ibang mga sikat na Network sa Sosyal Media. Dinesenyo namin ang AKASHA sa paraan na iyong mapanatiling kontrolado kung paano mo mabahagi ang iyong datos sa iba. Ang AKASHA ay hindi magkokolekta at gagamit ng iyong mga kontento at impormasyon sa kahit anong mga sadya maliban na lamang sa mga pinili mo."
+        "defaultMessage": "5 Ang iyong pagkapribado ay napaka-importante sa amin na nagbubukod tangi sa AKASHA sa ibang mga sikat na Network sa Sosyal Media. Dinesenyo namin ang AKASHA sa paraan na iyong mapanatiling kontrolado kung paano mo mabahagi ang iyong datos sa iba. Ang AKASHA ay hindi magkokolekta at gagamit ng iyong mga nilalaman at impormasyon sa kahit anong mga sadya maliban na lamang sa mga pinili mo."
     },
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
