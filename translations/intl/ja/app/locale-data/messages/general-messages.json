@@ -492,7 +492,7 @@
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Etherscan を参照する"
     },
     {
         "id": "app.general.send",
@@ -562,7 +562,7 @@
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "スタート中"
     },
     {
         "id": "app.general.stopped",
@@ -572,7 +572,7 @@
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "Stream"
+        "defaultMessage": "ストリーム"
     },
     {
         "id": "app.general.submit",
