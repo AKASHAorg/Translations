@@ -92,7 +92,7 @@
     {
         "id": "app.akasha.terms.passwordBody",
         "description": "password section content",
-        "defaultMessage": "17    As part of creating your identity, you will need to provide a password. The password will be used to access AKASHA and make use of your Ethereum Identity Key Balance. You must keep this password safe and may not share it with anybody.\n            18    When logging in you have an option to create a secure “authentication hash/token” for a amount of time in your choice, which allows you to securely sign transactions while logged in without having to reintroduce your password each time you post, comment or vote on something (Open Login Function). When the selected time period expires, you will be prompted to reintroduce your password. Please assure that you do not leave your AKASHA access device unattended after having chosen the Open Login Function.z"
+        "defaultMessage": "17    Nilang kabilang sa paggawa ng iyong identidad, kailangan mo'ng magbigay ng password. Ang password ay magagamit sa pagpasok ng AKASHA at mabigyang gamit ang iyong Balanse sa Susi sa Identidad ng Ethereum. Kailangan mo'ng ipanatili ang password na ligtas at hindi maaring mabahagi ito sa kahit sino.\n            18    Kapag maglog-in ikaw ay mayroong pagpipilian na gumawa ng ligtas na \"autentikasyong hash/token\" sa loob ng napili mong oras, na magpapahintulot sa iyo na maingat na mapirmahan ang mga transaksyon habang naka-login kahit hindi magpapakilala ng iyong password sa bawat oras na ikaw magpost, magkomento, o magvote ng kahit ano (Bukas na Paglogin na Function). Kapag ang napiling panahon ng oras ay ma-expire, ikaw ay maalisto na magpapakilala ng password. Marapat lamang na siguraduhin na hindi mo iiiwan ang iyong AKASHA nga access device na walang nakabantay pagkatapos makapili ng Bukas na Paglogin na Function.z"
     },
     {
         "id": "app.akasha.terms.risksTitle",
@@ -107,17 +107,17 @@
     {
         "id": "app.akasha.terms.taxationTitle",
         "description": "taxation section title",
-        "defaultMessage": "10. Taxation"
+        "defaultMessage": "10. Taksasyon"
     },
     {
         "id": "app.akasha.terms.taxationBody",
         "description": "taxation section content",
-        "defaultMessage": "20 You bear the sole responsibility to determine if any action or transaction related to AKASHA have tax implications for yourself."
+        "defaultMessage": "20 Ikaw ay nagtataglay ng tanging responsibilidad upang matukoy kung ang kahit anong akson o transaksyon na kaugnay sa AKASHA ay may mga implikasyon sa tax para sa iyong sarili."
     },
     {
         "id": "app.akasha.terms.noLiabilityTitle",
         "description": "no liability section title",
-        "defaultMessage": "11. No Liability"
+        "defaultMessage": "11. Walang Pananagutan"
     },
     {
         "id": "app.akasha.terms.noLiabilityBody",
@@ -127,11 +127,11 @@
     {
         "id": "app.akasha.terms.miscTitle",
         "description": "miscellaneous section title",
-        "defaultMessage": "12. Miscellaneous"
+        "defaultMessage": "12. Sari't sari"
     },
     {
         "id": "app.akasha.terms.miscBody",
         "description": "miscellaneous section content",
-        "defaultMessage": "24 You agree that if any portion of these Terms is found illegal or unenforceable, in whole or in part, such provision shall, as to such jurisdiction, be ineffective solely to the extent of such determination of invalidity or unenforceability without affecting the validity      or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of the Terms, which shall continue to be in full force and effect.\n            25 The applicable law is Swiss law. Any dispute arising out of or in connection with AKASHA\n            shall be finally settled by the ordinary courts of the registered domicile of the defendant."
+        "defaultMessage": "24 Ikaw ay sumasangayon na kung mayroon kahit anong porsyon sa mga Mga Tuntunin na nakikita bilang ilegal o hindi maganapan, sa kabuuan or parte, ang nasabing probisyon ay dapat, sa nasabing jurisdiksyon, ay natatanging inepektibo sa layo ng nasabing determinasyon ng pagka-imbalido o hindi mapaganapan ng hindi ma-aapektuhan ang kabuluhan      o pagpapaganap nito o sa kahit anong paraan o jurisdiksyon at ng hindi maapektuhan ang natitirang mga probisyon sa Mga Tuntunin, na dapat na magpapatuloy bilang buong pwersa at epeketo.\n            25 Ang akmang batas ay ang Swiss na batas. Kahit anong pagmamatwiran na lilitaw palabas ng o sa koneksyon ng AKASHA\n            ay dapat na maayos sa wakas sa pamamagitan ng ordinaryong mga korte ng rehistradong domisil ng nasasakdal."
     }
 ]
