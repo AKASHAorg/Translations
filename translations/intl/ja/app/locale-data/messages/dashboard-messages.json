@@ -57,7 +57,7 @@
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "コレクション"
     },
     {
         "id": "app.dashboard.columnStream",
