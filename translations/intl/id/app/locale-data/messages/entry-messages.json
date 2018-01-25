@@ -322,7 +322,7 @@
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Tampilkan komentar penuh"
     },
     {
         "id": "app.entry.startComment",
@@ -407,7 +407,7 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Tulis komen"
+        "defaultMessage": "Write a comment"
     },
     {
         "id": "app.entry.writeReplyTo",
