@@ -197,7 +197,7 @@
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Bagian ini diperlukan"
     },
     {
         "id": "app.form.shiftDown",
@@ -217,7 +217,7 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Meningkat"
     },
     {
         "id": "app.form.shiftUpMana",
