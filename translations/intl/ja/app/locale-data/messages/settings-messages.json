@@ -37,7 +37,7 @@
     {
         "id": "app.settings.hideEntriesLabel",
         "description": "label for \"hide entries content\" checkbox",
-        "defaultMessage": "～よりスコアの低いエントリーを非表示する"
+        "defaultMessage": "～よりスコアの低い投稿を非表示する"
     },
     {
         "id": "app.settings.passphraseOptions",
