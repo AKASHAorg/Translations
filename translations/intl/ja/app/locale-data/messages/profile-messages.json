@@ -92,37 +92,37 @@
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "remove link"
+        "defaultMessage": "リンク先の解除"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Other crypto addresses"
+        "defaultMessage": "他の仮想通貨のアドレス"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "Add cryptocurrency address"
+        "defaultMessage": "仮想通貨のアドレス追加"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "Cryptocurrency name"
+        "defaultMessage": "仮想通貨名"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "Cryptocurrency address"
+        "defaultMessage": "仮想通貨のアドレス"
     },
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "Register Profile"
+        "defaultMessage": "プロフィール登録"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "Remove cryptocurrency link"
+        "defaultMessage": "仮想通貨のリンクを削除します。"
     },
     {
         "id": "app.profile.entries",
@@ -132,17 +132,17 @@
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "フォローする"
     },
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "Update Profile"
+        "defaultMessage": "プロフィールの更新"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Followers"
+        "defaultMessage": "フォロワー"
     },
     {
         "id": "app.profile.followersCount",
