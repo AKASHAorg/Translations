@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "JPG、GIF、または PNG の画像"
     },
     {
         "id": "app.entry.alreadyDownvoted",
@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "記事"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -52,7 +52,7 @@
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "エッセンスを集める"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,12 +62,12 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "編集を続ける"
     },
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "反対票"
     },
     {
         "id": "app.entry.draft",
@@ -107,7 +107,7 @@
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "保存した下書き"
     },
     {
         "id": "app.entry.draftSaving",
@@ -122,7 +122,7 @@
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "編集済み"
     },
     {
         "id": "app.entry.editEntry",
