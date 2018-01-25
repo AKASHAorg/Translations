@@ -57,7 +57,7 @@
     {
         "id": "app.akasha.terms.paymentOfFeesTitle",
         "description": "payment of fees section title",
-        "defaultMessage": "5. Payment of Fees"
+        "defaultMessage": "料金"
     },
     {
         "id": "app.akasha.terms.paymentOfFeesBody",
@@ -87,7 +87,7 @@
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "パスワード/ログイン"
     },
     {
         "id": "app.akasha.terms.passwordBody",
@@ -97,7 +97,7 @@
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. Risks"
+        "defaultMessage": "9. リスク"
     },
     {
         "id": "app.akasha.terms.risksBody",
@@ -107,7 +107,7 @@
     {
         "id": "app.akasha.terms.taxationTitle",
         "description": "taxation section title",
-        "defaultMessage": "10. Taxation"
+        "defaultMessage": "10. 課税"
     },
     {
         "id": "app.akasha.terms.taxationBody",
