@@ -17,7 +17,7 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Tambahkan"
     },
     {
         "id": "app.general.addImage",
@@ -52,7 +52,7 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Jumlah"
     },
     {
         "id": "app.general.anEntry",
@@ -87,7 +87,7 @@
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "Obrolan"
     },
     {
         "id": "app.general.chooseImage",
@@ -142,12 +142,12 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Membuat"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Dibuat"
     },
     {
         "id": "app.general.cycling",
@@ -222,7 +222,7 @@
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "Meneruskan"
     },
     {
         "id": "app.general.generatingPreview",
@@ -287,7 +287,7 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Meninggalkan"
     },
     {
         "id": "app.general.logs",
@@ -342,7 +342,7 @@
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "Notes"
+        "defaultMessage": "Catatan"
     },
     {
         "id": "app.general.notFound",
@@ -452,7 +452,7 @@
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "Meminta AETHERS"
     },
     {
         "id": "app.general.requestTestEthers",
