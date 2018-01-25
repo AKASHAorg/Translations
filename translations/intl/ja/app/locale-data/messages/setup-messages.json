@@ -2,12 +2,12 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "あなたの新しいIDです。"
     },
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "バックアップキー"
     },
     {
         "id": "app.setup.completeProfile",
