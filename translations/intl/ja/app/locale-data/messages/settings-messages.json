@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app settings"
+        "defaultMessage": "アプリの設定をカスタマイズする"
     },
     {
         "id": "app.settings.english",
@@ -32,17 +32,17 @@
     {
         "id": "app.settings.hideCommentsLabel",
         "description": "label for \"hide comments content\" checkbox",
-        "defaultMessage": "～より低いスコアのコメントを表示しない"
+        "defaultMessage": "～より低いスコアのコメントを非表示する"
     },
     {
         "id": "app.settings.hideEntriesLabel",
         "description": "label for \"hide entries content\" checkbox",
-        "defaultMessage": "Hide entries with a score lower than"
+        "defaultMessage": "～よりスコアの低いエントリーを非表示する"
     },
     {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "Passphrase Options"
+        "defaultMessage": "パスフレーズのオプション"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
@@ -62,7 +62,7 @@
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "言語"
     },
     {
         "id": "app.settings.lightTheme",
@@ -72,62 +72,62 @@
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "ロシア語"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "SELECT LANGUAGE"
+        "defaultMessage": "言語の選択"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "スペイン語"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "App Theme"
+        "defaultMessage": "アプリのテーマ"
     },
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "Customize the look of the Akasha workspace"
+        "defaultMessage": "アカシャ ワークスペースをカスタマイズ"
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
+        "defaultMessage": "チップのオプションを選択する"
     },
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "このオプションを変更する前にあなたのプロフィールを登録する必要があります。"
     },
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "チップ　オプション"
     },
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "このオプションを変更するにはトランザクションを送信する必要があります。"
     },
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "チップを受け取る"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "チップを受け取らない"
     },
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App settings"
+        "defaultMessage": "アプリの設定"
     },
     {
         "id": "app.settings.update",
