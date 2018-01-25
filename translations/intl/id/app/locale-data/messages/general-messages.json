@@ -662,7 +662,7 @@
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "Menunggu"
     },
     {
         "id": "app.general.yes",
