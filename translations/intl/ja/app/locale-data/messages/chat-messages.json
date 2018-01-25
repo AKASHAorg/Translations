@@ -12,12 +12,12 @@
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "チャネルに参加する"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "チャンネル名"
     },
     {
         "id": "app.chat.inputPlaceholder",
