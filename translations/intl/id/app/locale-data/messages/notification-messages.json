@@ -27,12 +27,12 @@
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Your profile is updating ..."
+        "defaultMessage": "Profil anda sedang diperbarui ..."
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Your profile was successfully updated"
+        "defaultMessage": "Profil anda telah berhasil diperbarui"
     },
     {
         "id": "app.notification.followingProfile",
