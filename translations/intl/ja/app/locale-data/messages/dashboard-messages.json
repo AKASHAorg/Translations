@@ -27,7 +27,7 @@
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "ユーザーの記事"
+        "defaultMessage": "ユーザーのコラム"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
@@ -62,7 +62,7 @@
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "フィードを購読中"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -87,7 +87,7 @@
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "掲示板の名前は入力必須項目です。"
+        "defaultMessage": "掲示板の名前は入力必須です。"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
@@ -127,7 +127,7 @@
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "このリストは削除されました。このコラムを削除してください。"
+        "defaultMessage": "このリストは削除されました。コラムを削除してください。"
     },
     {
         "id": "app.dashboard.myBoards",
@@ -152,7 +152,7 @@
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "{displayName} のプレビュー"
     },
     {
         "id": "app.dashboard.previewTag",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "フィードを購読中"
     },
     {
         "id": "app.dashboard.tag",
