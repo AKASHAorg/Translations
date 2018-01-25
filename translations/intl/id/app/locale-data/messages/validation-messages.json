@@ -42,11 +42,11 @@
     {
         "id": "app.validator.validAddress",
         "description": "A valid address (URL) is required",
-        "defaultMessage": "must be a valid address"
+        "defaultMessage": "harus alamat yang valid"
     },
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "Kutipan dapat memiliki maks. 120 karakter"
+        "defaultMessage": "The excerpts can have max. 120 characters"
     }
 ]
