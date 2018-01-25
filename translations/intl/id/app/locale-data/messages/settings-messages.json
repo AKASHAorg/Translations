@@ -92,7 +92,7 @@
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "Customize the look of the Akasha workspace"
+        "defaultMessage": "Sesuaikan tampilan ruang kerja Akasha"
     },
     {
         "id": "app.settings.tipsDescription",
