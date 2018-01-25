@@ -272,6 +272,6 @@
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Terjadi sebuah kesalahan saat menyimpan pengaturan anda"
     }
 ]
