@@ -2,7 +2,7 @@
     {
         "id": "app.highlight.addYourNotes",
         "description": "placeholder for highlight notes textarea",
-        "defaultMessage": "Add your notes here"
+        "defaultMessage": "Tambahkan catatan anda di sini"
     },
     {
         "id": "app.highlight.addNote",
