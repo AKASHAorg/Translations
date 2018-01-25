@@ -702,7 +702,7 @@
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "Pada tingkat anda saat ini anda dapat:"
     },
     {
         "id": "app.general.karmaScore",
@@ -717,12 +717,12 @@
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "Anda tidak mengikuti siapa pun."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikel"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
@@ -732,6 +732,6 @@
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Gambar"
     }
 ]
