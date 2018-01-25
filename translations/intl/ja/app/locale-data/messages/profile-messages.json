@@ -62,7 +62,7 @@
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "プロファイルの編集"
+        "defaultMessage": "プロフィールの編集"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
@@ -77,7 +77,7 @@
     {
         "id": "app.profile.linksPlaceholder",
         "description": "Links placeholder text",
-        "defaultMessage": "あなたのリンクを入力する。もしくは貼り付ける"
+        "defaultMessage": "あなたのリンクを入力するか貼り付けてください"
     },
     {
         "id": "app.profile.linksTitle",
@@ -202,7 +202,7 @@
     {
         "id": "app.profile.noTransactions",
         "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "保留中のトランザクションはありません。"
+        "defaultMessage": "トランザクションはありません。"
     },
     {
         "id": "app.profile.overview",
