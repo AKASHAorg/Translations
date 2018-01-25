@@ -82,12 +82,12 @@
     {
         "id": "app.akasha.terms.noWarrantyBody",
         "description": "no warranty section content",
-        "defaultMessage": "16 You understand and expressly accept that there is no warranty whatsoever regarding the availability, functionality, and/or the success of AKASHA and the Ethereum Identity Key , expressed or implied, to the extent permitted by law, and that the Pre-Alpha release of AKASHA is used at the sole risk of yourself on an “as is” and “under development” basis and without, to the extent permitted by law, any warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose;"
+        "defaultMessage": "16 Nauunawaan mo at hayag na tanggap na mayroong walang warranty o kahit anong patungkol sa kakayahang magamit, pag-andar, at/o sa tagumpay ng AKASHA at ng Susi sa Identidad ng Ethereum , ipinapahayag o ipinahihiwatig, sa lawak na pinahihintulutan ng batas, at nang sa Pre-Alpha release ng AKASHA ay magamit sa tanging sapalaran ng iyong sarili sa isang \"ganyan lang\" at \"ilalim ng paggawa\" na basehan at walang, sa lawak na pinahihintulutan ng batas, ay mga warranty sa kahit anong uri, kasali, at hindi limitado sa, mga warranty ng titulo o mga ipinakahulugang warranty, pagpapangalakal o husto sa partikular na layunin;"
     },
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. Password / Buksan ang Login"
     },
     {
         "id": "app.akasha.terms.passwordBody",
