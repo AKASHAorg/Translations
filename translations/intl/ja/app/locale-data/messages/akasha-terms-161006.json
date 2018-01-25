@@ -67,7 +67,7 @@
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "広告"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
@@ -77,7 +77,7 @@
     {
         "id": "app.akasha.terms.noWarrantyTitle",
         "description": "no warranty section title",
-        "defaultMessage": "7. No warranty"
+        "defaultMessage": "無保証"
     },
     {
         "id": "app.akasha.terms.noWarrantyBody",
