@@ -17,12 +17,12 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "ハイライトが保存されました。"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Do you want to type a note?"
+        "defaultMessage": "メモを入力しますか。"
     },
     {
         "id": "app.notification.updatingProfile",
@@ -77,7 +77,7 @@
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "You successfully published a comment"
+        "defaultMessage": "正常にコメントを公開しました"
     },
     {
         "id": "app.notification.publishingEntry",
@@ -92,12 +92,12 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "エントリー「{title}」が正常に更新されました。"
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "下書き「{title}」が正常に公開されました。"
     },
     {
         "id": "app.notification.claimSuccess",
@@ -147,7 +147,7 @@
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comment published successfully"
+        "defaultMessage": "正常にコメントされました"
     },
     {
         "id": "app.notification.claiming",
@@ -157,22 +157,22 @@
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "下書きが正常に保存されました!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "下書きが削除されました!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "リンク先をクリップボードにコピーする"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "{displayName} にチップを送る ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
