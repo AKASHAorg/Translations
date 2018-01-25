@@ -397,7 +397,7 @@
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "ウェブサイトの情報を取得中にエラーが発生しました"
     },
     {
         "id": "app.entry.wordsCount",
