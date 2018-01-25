@@ -2,37 +2,37 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Mga i-starred na chanel"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "Mga sariwang chanel"
     },
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Sumali sa chanel"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "Pangalan ng Chanel"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Magsulat ng kahit anong mabuti at pinduting ang \"Enter\" upang mapadala ito"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "Ang pangalan ng chanel ay hindi dapat walang laman"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Ang pangalan ng chanel ay dapat magsisimula sa maliit na alphanumerik na karakter"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
