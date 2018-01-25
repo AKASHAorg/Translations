@@ -277,7 +277,7 @@
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "読む"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
@@ -297,7 +297,7 @@
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "スコア"
     },
     {
         "id": "app.entry.searchProfile",
@@ -332,17 +332,17 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "今すぐ下書きを作成!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "タイトル"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "タイトルは入力必須です。"
     },
     {
         "id": "app.entry.tooltipAuthor",
@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "賛成"
     },
     {
         "id": "app.entry.version",
