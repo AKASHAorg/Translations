@@ -22,7 +22,7 @@
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "何か素敵なことを書いて”Enter\"を押して送信"
+        "defaultMessage": "何か素敵なことを書いて”Enter\"を押して送信してください"
     },
     {
         "id": "app.chat.emptyChannelInputError",
@@ -32,7 +32,7 @@
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "チャンネル名の最初の文字は英数字の小文字で入力して下さい。"
+        "defaultMessage": "チャンネル名の最初の文字は英数字の小文字で入力してください。"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
@@ -42,7 +42,7 @@
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "チャンネル名は 32 文字以下にして下さい。"
+        "defaultMessage": "チャンネル名は 32 文字以下にしてください。"
     },
     {
         "id": "app.chat.channelDisclaimer",
