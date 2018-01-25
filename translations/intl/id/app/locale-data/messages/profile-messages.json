@@ -2,7 +2,7 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "Ketik sebuah jumlah"
     },
     {
         "id": "app.profile.avatarTitle",
