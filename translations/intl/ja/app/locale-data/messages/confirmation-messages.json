@@ -42,12 +42,12 @@
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "反対票"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "コメント"
     },
     {
         "id": "app.confirmations.commentUpvote",
@@ -57,7 +57,7 @@
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "賛成"
     },
     {
         "id": "app.confirmations.cycleAeth",
@@ -77,7 +77,7 @@
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "下書きを公開"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
@@ -87,7 +87,7 @@
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "投稿を更新"
     },
     {
         "id": "app.confirmations.entryDownvote",
@@ -97,7 +97,7 @@
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "反対"
     },
     {
         "id": "app.confirmations.entryUpvote",
@@ -107,7 +107,7 @@
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "賛成票"
     },
     {
         "id": "app.confirmations.follow",
@@ -117,7 +117,7 @@
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "フォロー"
     },
     {
         "id": "app.confirmations.freeAeth",
@@ -127,7 +127,7 @@
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "集める"
     },
     {
         "id": "app.confirmations.passphrase",
