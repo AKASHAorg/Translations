@@ -2,7 +2,7 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "数量を入力"
     },
     {
         "id": "app.profile.avatarTitle",
@@ -27,12 +27,12 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "自己紹介"
     },
     {
         "id": "app.profile.collectEssence",
         "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "エッセンスを集める"
     },
     {
         "id": "app.profile.contacts",
@@ -42,7 +42,7 @@
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Amount available {amount} AETH"
+        "defaultMessage": "使用可能な {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
@@ -67,12 +67,12 @@
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Type something about you"
+        "defaultMessage": "あなたについて何か入力してください"
     },
     {
         "id": "app.profile.karmaLevel",
         "description": "Karma level",
-        "defaultMessage": "Karma lvl {karmaLevel}"
+        "defaultMessage": "カルマ lvl {karmaLevel}"
     },
     {
         "id": "app.profile.linksPlaceholder",
@@ -127,7 +127,7 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Entries"
+        "defaultMessage": "エントリー"
     },
     {
         "id": "app.profile.follow",
