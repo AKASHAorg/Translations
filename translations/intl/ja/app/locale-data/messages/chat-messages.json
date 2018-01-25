@@ -22,7 +22,7 @@
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "何か素敵なことを書いて”Enter\"を押して送信"
     },
     {
         "id": "app.chat.emptyChannelInputError",
