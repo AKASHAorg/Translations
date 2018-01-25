@@ -417,47 +417,47 @@
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "から {amount}{symbol}"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "リフレッシュ"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "ユーザー名の変更"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "返信"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "リセット"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "再開"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "再試行する"
     },
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "AETHERSをリクエストする"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "テスト用ETHをリクエストする"
     },
     {
         "id": "app.general.requestTestEthersTitle",
