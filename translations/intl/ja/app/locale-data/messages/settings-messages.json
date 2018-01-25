@@ -27,7 +27,7 @@
     {
         "id": "app.settings.hideContentDescription",
         "description": "description for \"hide content\" settings",
-        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
+        "defaultMessage": "もし特定のスコアより低いコンテンツを見たくない場合選択してください。"
     },
     {
         "id": "app.settings.hideCommentsLabel",
@@ -47,7 +47,7 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choose when your password is requested"
+        "defaultMessage": "あなたのパスワードが要求された場合選択してください"
     },
     {
         "id": "app.settings.licenseOptions",
@@ -122,7 +122,7 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "チップを受け取らない"
+        "defaultMessage": "チップを拒否する"
     },
     {
         "id": "app.settings.title",
@@ -132,6 +132,6 @@
     {
         "id": "app.settings.update",
         "description": "description for update buton",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "アップデート設定"
     }
 ]
