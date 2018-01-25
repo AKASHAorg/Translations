@@ -17,7 +17,7 @@
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "集める"
     },
     {
         "id": "app.confirmations.claimVote",
@@ -27,7 +27,7 @@
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "集める"
     },
     {
         "id": "app.confirmations.comment",
@@ -142,7 +142,7 @@
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "プロフィール登録"
     },
     {
         "id": "app.confirmations.profileUpdate",
@@ -152,7 +152,7 @@
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "プロフィールの更新"
     },
     {
         "id": "app.confirmations.sendTip",
@@ -162,7 +162,7 @@
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "チップを送る"
     },
     {
         "id": "app.confirmations.createTag",
@@ -172,7 +172,7 @@
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "タグを作成"
     },
     {
         "id": "app.confirmation.toggleDonations",
@@ -182,7 +182,7 @@
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "チップのオプションを変更"
     },
     {
         "id": "app.confirmation.transferAeth",
@@ -192,7 +192,7 @@
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "AETHを送金"
     },
     {
         "id": "app.confirmation.transferEth",
@@ -202,7 +202,7 @@
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "ETHを送る"
     },
     {
         "id": "app.confirmations.transformEssence",
@@ -222,6 +222,6 @@
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "フォローを解除"
     }
 ]
