@@ -2,7 +2,7 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "私について"
     },
     {
         "id": "app.form.addressRequired",
@@ -12,12 +12,12 @@
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "チップを受け取る"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "あなたのユーザー名を入力してください。"
     },
     {
         "id": "app.form.insufficientEth",
@@ -47,12 +47,12 @@
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "あなたの名を入力してください。"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "あなたの姓を入力してください。"
     },
     {
         "id": "app.form.maxAethAmount",
@@ -107,37 +107,37 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "名"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "姓"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "ユーザー名"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "イーサリアムアドレス"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "差出人"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "パスフレーズ"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "あなたのパスフレーズを入力してください。"
     },
     {
         "id": "app.form.amountToForge",
@@ -162,7 +162,7 @@
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "パスフレーズの確認"
     },
     {
         "id": "app.form.forgeAeth",
@@ -182,12 +182,12 @@
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "名前"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "パスフレーズが一致しません。もう一度パスフレーズを入力してください。"
     },
     {
         "id": "app.form.passphraseVerify",
@@ -197,12 +197,12 @@
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "入力必須項目です。"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "減少"
     },
     {
         "id": "app.form.shiftDownMana",
@@ -217,7 +217,7 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "増加"
     },
     {
         "id": "app.form.shiftUpMana",
@@ -232,12 +232,12 @@
     {
         "id": "app.form.tips",
         "description": "label for tips",
-        "defaultMessage": "TIPS"
+        "defaultMessage": "チップ"
     },
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "Title"
+        "defaultMessage": "タイトル"
     },
     {
         "id": "app.form.totalAethBalance",
@@ -307,7 +307,7 @@
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "宛先"
     },
     {
         "id": "app.form.updateSettings",
