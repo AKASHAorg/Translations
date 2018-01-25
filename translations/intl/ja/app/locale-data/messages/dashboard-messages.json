@@ -47,12 +47,12 @@
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "掲示板に追加"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "新しい掲示板を作成する"
     },
     {
         "id": "app.dashboard.collection",
@@ -127,27 +127,27 @@
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "このリストは削除されました。このコラムを削除してください。"
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "私の掲示板"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "掲示板の名前を入力"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "掲示板が見つかりません"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "{listName} のプレビュー"
     },
     {
         "id": "app.dashboard.previewProfile",
