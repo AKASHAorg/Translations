@@ -142,7 +142,7 @@
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "Anda harus menambahkan setidaknya satu tag"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
@@ -167,7 +167,7 @@
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Anda dapat mengubah nilai ini dari anda"
     },
     {
         "id": "app.entry.hiddenContent3",
@@ -222,12 +222,12 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "Tidak ada entri"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Tidak ada entri baru"
     },
     {
         "id": "app.entry.nothingToCollect",
@@ -297,7 +297,7 @@
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Skor"
     },
     {
         "id": "app.entry.searchProfile",
