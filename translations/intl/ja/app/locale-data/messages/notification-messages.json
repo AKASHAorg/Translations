@@ -27,22 +27,22 @@
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Your profile is updating ..."
+        "defaultMessage": "プロフィールを更新しています"
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Your profile was successfully updated"
+        "defaultMessage": "あなたのプロフィールが正常に更新されました"
     },
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Following {displayName} ..."
+        "defaultMessage": "フォロー中 {displayName}"
     },
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "You are now following {displayName}"
+        "defaultMessage": "{displayName} をフォローしています"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
@@ -52,12 +52,12 @@
     {
         "id": "app.notification.unfollowingProfile",
         "description": "Notification to be displayed when unfollow transaction is sent",
-        "defaultMessage": "Unfollowing {displayName} ..."
+        "defaultMessage": "フォロー解除 {displayName}"
     },
     {
         "id": "app.notification.unfollowProfileSuccess",
         "description": "Notification to be displayed when unfollow transaction was mined",
-        "defaultMessage": "You are not following {displayName} anymore"
+        "defaultMessage": "{displayName} をフォローしていません"
     },
     {
         "id": "app.notification.notEnoughEthers",
@@ -72,7 +72,7 @@
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "おめでとう! プロフィールが正常に登録されました"
     },
     {
         "id": "app.notification.publishCommentSuccess",
@@ -87,7 +87,7 @@
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Updating \"{title}\"."
+        "defaultMessage": "「{title}」を更新しています。"
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
