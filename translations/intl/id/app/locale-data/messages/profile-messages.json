@@ -17,12 +17,12 @@
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "Silahkan unggah gambar dengan rasio 2:1"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "Karakter tersisa:"
     },
     {
         "id": "app.profile.aboutMeTitle",
@@ -67,7 +67,7 @@
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Type something about you"
+        "defaultMessage": "Ketik sesuatu tentang anda"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -202,7 +202,7 @@
     {
         "id": "app.profile.noTransactions",
         "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "You have no transactions"
+        "defaultMessage": "Anda tidak memiliki transaksi"
     },
     {
         "id": "app.profile.overview",
@@ -212,12 +212,12 @@
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "Nama pengguna ini tidak ada"
     },
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Pengaturan"
     },
     {
         "id": "app.profile.receive",
