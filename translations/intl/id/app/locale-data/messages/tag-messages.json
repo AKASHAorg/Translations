@@ -12,7 +12,7 @@
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This tag doesn't exist"
+        "defaultMessage": "Tag ini tidak ada"
     },
     {
         "id": "app.tag.tagNotCreated",
