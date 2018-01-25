@@ -17,12 +17,12 @@
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "写真 (2：１の比率) をアップロードしてください。"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "残り文字数"
     },
     {
         "id": "app.profile.aboutMeTitle",
@@ -37,7 +37,7 @@
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "連絡先"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
@@ -62,7 +62,7 @@
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Edit Profile Information"
+        "defaultMessage": "プロファイルの編集"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
@@ -82,12 +82,12 @@
     {
         "id": "app.profile.linksTitle",
         "description": "Links section title",
-        "defaultMessage": "LINKS"
+        "defaultMessage": "リンク"
     },
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "Add a new link"
+        "defaultMessage": "リンク先の追加"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
