@@ -277,7 +277,7 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "カルマの合計スコア"
+        "defaultMessage": "カルマのトータルスコア"
     },
     {
         "id": "app.general.learnMore",
@@ -302,17 +302,17 @@
     {
         "id": "app.general.mana",
         "description": "mana",
-        "defaultMessage": "マナ"
+        "defaultMessage": "Mana"
     },
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "バーンされたマナの総数"
+        "defaultMessage": "バーンされたManaの総数"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "マナ　プール情報"
+        "defaultMessage": "Mana　プール情報"
     },
     {
         "id": "app.general.manafied",
@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "通知 (近日公開)"
+        "defaultMessage": "通知 (もうすぐ)"
     },
     {
         "id": "app.general.ok",
@@ -482,7 +482,7 @@
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "後で保存する。"
+        "defaultMessage": "後で保存する"
     },
     {
         "id": "app.general.search",
@@ -522,7 +522,7 @@
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "コミュニティ: 近日公開予定"
+        "defaultMessage": "コミュニティ: もうすぐ公開"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
@@ -532,7 +532,7 @@
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "チャット (近日公開)"
+        "defaultMessage": "チャット (もうすぐ公開)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -577,7 +577,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "送信"
+        "defaultMessage": "Submit"
     },
     {
         "id": "app.general.tags",
@@ -687,7 +687,7 @@
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "タグの作成"
+        "defaultMessage": "タグを作成"
     },
     {
         "id": "app.general.karmaLeaderboard",
