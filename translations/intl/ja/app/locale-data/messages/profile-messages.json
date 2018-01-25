@@ -257,22 +257,22 @@
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Send tip to {name}"
+        "defaultMessage": "{name} にチップを送る"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "チップを送る"
     },
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "送信済みチップ"
     },
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "サポート"
     },
     {
         "id": "app.profile.supported",
@@ -287,12 +287,12 @@
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "チップの金額"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "残高"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -307,11 +307,11 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "フォローを解除する。"
     },
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "あなたのイーサリアムアドレス"
     }
 ]
