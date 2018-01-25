@@ -2,12 +2,12 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "中国語"
     },
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "Dark Theme"
+        "defaultMessage": "暗いテーマ"
     },
     {
         "id": "app.settings.description",
@@ -17,12 +17,12 @@
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "英語"
     },
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "Hide content"
+        "defaultMessage": "コンテンツを非表示する"
     },
     {
         "id": "app.settings.hideContentDescription",
@@ -32,7 +32,7 @@
     {
         "id": "app.settings.hideCommentsLabel",
         "description": "label for \"hide comments content\" checkbox",
-        "defaultMessage": "Hide comments with a score lower than"
+        "defaultMessage": "～より低いスコアのコメントを表示しない"
     },
     {
         "id": "app.settings.hideEntriesLabel",
