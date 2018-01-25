@@ -7,7 +7,7 @@
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "Dark Theme"
+        "defaultMessage": "Tema gelap"
     },
     {
         "id": "app.settings.description",
@@ -22,7 +22,7 @@
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "Hide content"
+        "defaultMessage": "Sembunyikan konten"
     },
     {
         "id": "app.settings.hideContentDescription",
@@ -47,7 +47,7 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choose when your password is requested"
+        "defaultMessage": "Pilih kapan kata sandi anda diminta"
     },
     {
         "id": "app.settings.licenseOptions",
@@ -62,7 +62,7 @@
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "Bahasa"
     },
     {
         "id": "app.settings.lightTheme",
