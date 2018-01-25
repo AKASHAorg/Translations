@@ -2,12 +2,12 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "中止"
     },
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "アクション"
     },
     {
         "id": "app.general.aComment",
@@ -137,7 +137,7 @@
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "カウンター"
     },
     {
         "id": "app.general.create",
@@ -217,7 +217,7 @@
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "鍛造"
     },
     {
         "id": "app.general.forward",
@@ -337,7 +337,7 @@
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "接続可能なピアがありません"
     },
     {
         "id": "app.general.notes",
@@ -377,7 +377,7 @@
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "保留中の承認"
     },
     {
         "id": "app.general.people",
@@ -397,7 +397,7 @@
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "プロフィールの概要"
     },
     {
         "id": "app.general.publish",
@@ -452,22 +452,22 @@
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "AETHERSをリクエストする"
+        "defaultMessage": "AETHERSをリクエスト"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "テスト用ETHをリクエストする"
+        "defaultMessage": "テスト用ETHをリクエスト"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "テスト用Etherをリクエストする。"
+        "defaultMessage": "テスト用Etherください！"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "テスト用AKASHA Etherをリクエストする"
+        "defaultMessage": "テスト用AKASHA Etherをください！"
     },
     {
         "id": "app.general.running",
