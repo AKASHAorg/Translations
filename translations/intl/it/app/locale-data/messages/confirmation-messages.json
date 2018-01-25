@@ -2,7 +2,7 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "Conferma che vuoi manafy {amount} AETH"
     },
     {
         "id": "app.confirmations.bondAethTitle",
@@ -12,42 +12,42 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Si prega di confermare che si desidera raccogliere l'essenza."
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Raccogliere"
     },
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Si prega di confermare che si desidera raccogliere l'essenza."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Raccogliere"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Si prega di confermare che si desidera pubblicare questo commento."
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Si prega di confermare che si vuole votare sotto questo commento."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Vota sotto"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Commento"
     },
     {
         "id": "app.confirmations.commentUpvote",
