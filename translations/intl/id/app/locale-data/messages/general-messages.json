@@ -7,7 +7,7 @@
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "Tindakan"
     },
     {
         "id": "app.general.aComment",
@@ -32,7 +32,7 @@
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Tambahkan entri baru"
     },
     {
         "id": "app.general.addTo",
@@ -57,7 +57,7 @@
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "sebuah entri"
     },
     {
         "id": "app.general.anEntryVote",
@@ -162,7 +162,7 @@
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Selesai"
     },
     {
         "id": "app.general.downloading",
