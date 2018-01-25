@@ -222,16 +222,16 @@
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "{displayName} に {tokenAmount} AETH を送金しました"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "{displayName} に {value} ETH を送金しました"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "個人設定は保存されました"
     }
 ]
