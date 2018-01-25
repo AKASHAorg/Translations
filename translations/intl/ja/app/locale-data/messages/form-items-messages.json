@@ -17,7 +17,7 @@
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "あなたのユーザー名を入力してください。"
+        "defaultMessage": "あなたのユーザー名を入力してください"
     },
     {
         "id": "app.form.insufficientEth",
@@ -32,7 +32,7 @@
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "AETH残高"
     },
     {
         "id": "app.form.amountRequired",
@@ -42,17 +42,17 @@
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "ETH残高"
     },
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "あなたの名を入力してください。"
+        "defaultMessage": "あなたの名を入力してください"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "あなたの姓を入力してください。"
+        "defaultMessage": "あなたの姓を入力してください"
     },
     {
         "id": "app.form.maxAethAmount",
@@ -72,7 +72,7 @@
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} ETH　送金可能"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -82,7 +82,7 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "エッセンスを変換"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
@@ -92,7 +92,7 @@
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "最低1000エッセンス変換する必要があります"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
@@ -137,7 +137,7 @@
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "あなたのパスフレーズを入力してください。"
+        "defaultMessage": "あなたのパスフレーズを入力してください"
     },
     {
         "id": "app.form.amountToForge",
@@ -197,7 +197,7 @@
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "入力必須項目です。"
+        "defaultMessage": "入力必須です。"
     },
     {
         "id": "app.form.shiftDown",
