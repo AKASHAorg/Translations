@@ -27,7 +27,7 @@
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "クール! ここにドロップ!"
+        "defaultMessage": "クール! ここにドロップしてください!"
     },
     {
         "id": "app.general.addNewEntry",
@@ -92,7 +92,7 @@
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "画像を選択する。"
+        "defaultMessage": "画像を選択する"
     },
     {
         "id": "app.general.chooseAnotherImage",
@@ -162,7 +162,7 @@
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "完成"
+        "defaultMessage": "完了"
     },
     {
         "id": "app.general.downloading",
@@ -182,7 +182,7 @@
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "エントリー"
+        "defaultMessage": "投稿"
     },
     {
         "id": "app.general.essence",
