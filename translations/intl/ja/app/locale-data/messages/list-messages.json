@@ -47,16 +47,16 @@
     {
         "id": "app.list.namePlaceholder",
         "description": "placeholder for list name input",
-        "defaultMessage": "Type list name"
+        "defaultMessage": "リスト名を入力"
     },
     {
         "id": "app.list.searchForList",
         "description": "placeholder for list search input",
-        "defaultMessage": "Search for a list..."
+        "defaultMessage": "リストを検索"
     },
     {
         "id": "app.list.shortDescription",
         "description": "label for list description input",
-        "defaultMessage": "Short description"
+        "defaultMessage": "簡単な説明"
     }
 ]
