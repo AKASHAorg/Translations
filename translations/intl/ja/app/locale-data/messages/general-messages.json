@@ -62,7 +62,7 @@
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "エントリー投票"
+        "defaultMessage": "投稿投票"
     },
     {
         "id": "app.general.appPreferences",
