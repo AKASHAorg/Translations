@@ -77,7 +77,7 @@
     {
         "id": "app.profile.linksPlaceholder",
         "description": "Links placeholder text",
-        "defaultMessage": "Type or paste your link"
+        "defaultMessage": "あなたのリンクを入力する。もしくは貼り付ける"
     },
     {
         "id": "app.profile.linksTitle",
@@ -127,7 +127,7 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "エントリー"
+        "defaultMessage": "投稿"
     },
     {
         "id": "app.profile.follow",
@@ -182,7 +182,7 @@
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "My entries"
+        "defaultMessage": "私のエントリー"
     },
     {
         "id": "app.profile.myProfile",
@@ -207,7 +207,7 @@
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Overview"
+        "defaultMessage": "概要"
     },
     {
         "id": "app.profile.profileDoesntExist",
@@ -252,7 +252,7 @@
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Sending tip ..."
+        "defaultMessage": "チップを送る ..."
     },
     {
         "id": "app.profile.sendTipTo",
@@ -277,7 +277,7 @@
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "サポートされています"
     },
     {
         "id": "app.profile.supporting",
@@ -297,7 +297,7 @@
     {
         "id": "app.profile.transactionsLog",
         "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
+        "defaultMessage": "トランザクション ログ"
     },
     {
         "id": "app.profile.transactionsLogSubtitle",
