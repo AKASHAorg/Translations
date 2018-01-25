@@ -367,22 +367,22 @@
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Pause"
+        "defaultMessage": "Jeda"
     },
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "Tertunda"
     },
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Konfirmasi tertunda"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Orang-orang"
     },
     {
         "id": "app.general.preview",
@@ -412,7 +412,7 @@
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "diterima"
     },
     {
         "id": "app.general.receivedAmount",
@@ -422,7 +422,7 @@
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Menyegarkan"
     },
     {
         "id": "app.general.rename",
@@ -627,7 +627,7 @@
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Pengaturan pengguna"
     },
     {
         "id": "app.general.update",
