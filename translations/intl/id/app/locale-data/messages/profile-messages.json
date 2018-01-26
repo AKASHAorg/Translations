@@ -7,7 +7,7 @@
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "PROFILE PICTURE"
+        "defaultMessage": "FOTO PROFIL"
     },
     {
         "id": "app.profile.backgroundImageTitle",
