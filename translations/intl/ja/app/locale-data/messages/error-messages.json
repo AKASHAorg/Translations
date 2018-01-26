@@ -12,7 +12,7 @@
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "次のラインをコピーして {githubLink} に新しい議論すべき話題を作成してください"
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
