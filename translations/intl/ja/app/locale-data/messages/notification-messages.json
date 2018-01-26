@@ -62,12 +62,12 @@
     {
         "id": "app.notification.notEnoughEthers",
         "description": "Notification to show when not enough ethers",
-        "defaultMessage": "You don`t have enough ethers."
+        "defaultMessage": "十分なEtherがありません"
     },
     {
         "id": "app.notification.notEnoughEthOrMana",
         "description": "Notification when not enough eth or mana",
-        "defaultMessage": "You don`t have enough ethers or mana."
+        "defaultMessage": "十分なEtherもしくはManaがありません"
     },
     {
         "id": "app.notification.registerProfileSuccess",
@@ -82,7 +82,7 @@
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publishing \"{title}\"."
+        "defaultMessage": "\"{title}\" 公開中"
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
@@ -112,7 +112,7 @@
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "{entryTitle} 反対"
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
@@ -127,7 +127,7 @@
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "{entryTitle} 賛成"
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
@@ -142,7 +142,7 @@
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publishing comment"
+        "defaultMessage": "公開中コメント"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
