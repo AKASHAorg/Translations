@@ -7,7 +7,7 @@
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "ユーザー名かイーサリアムアドレスを指定してください"
     },
     {
         "id": "app.form.acceptTips",
@@ -22,7 +22,7 @@
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "ごめんなさい! テスト用Etherが足りません！"
     },
     {
         "id": "app.form.depositEth",
