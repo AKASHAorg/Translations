@@ -2,7 +2,7 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "お気に入りチャンネル"
+        "defaultMessage": "スター付きチャンネル"
     },
     {
         "id": "app.chat.recentChannels",
