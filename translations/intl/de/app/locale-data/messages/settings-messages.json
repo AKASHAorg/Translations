@@ -17,12 +17,12 @@
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "Englisch"
     },
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "Hide content"
+        "defaultMessage": "Inhalt verbergen"
     },
     {
         "id": "app.settings.hideContentDescription",
@@ -62,7 +62,7 @@
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "Sprache"
     },
     {
         "id": "app.settings.lightTheme",
@@ -72,7 +72,7 @@
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Russisch"
     },
     {
         "id": "app.settings.selectLanguage",
@@ -82,7 +82,7 @@
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "Spanisch"
     },
     {
         "id": "app.settings.theme",
@@ -127,11 +127,11 @@
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App settings"
+        "defaultMessage": "App-Einstellungen"
     },
     {
         "id": "app.settings.update",
         "description": "description for update buton",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Einstellungen aktualisieren"
     }
 ]
