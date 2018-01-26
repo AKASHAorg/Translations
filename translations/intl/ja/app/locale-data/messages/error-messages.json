@@ -22,7 +22,7 @@
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "バックアップの生成に失敗しました。もう一度やり直してください"
     },
     {
         "id": "app.error.commentsDownvote",
@@ -32,7 +32,7 @@
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "コメントを公開中にエラーが発生しました"
     },
     {
         "id": "app.error.commentsUpvote",
@@ -42,57 +42,57 @@
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "新しいボードの保存中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "新しいコラムを保存中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "あなたの掲示板を削除中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "あなたのコラムを削除中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "アクティブボードを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "あなたの掲示板を取得中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "あなたのアクティブボードの保存中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "あなたのコラムを更新中にエラーが発生しました"
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "このドラフトの最新の変更を保存できません"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "下書きを公開中にエラーが発生しました"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "あなたの投稿を取得中にエラーが発生しました。ローカルの下書きのみが表示されています"
     },
     {
         "id": "app.error.entryClaim",
@@ -107,32 +107,32 @@
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "{entryTitle} にDownvoting中にエラーが発生しました"
     },
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "投稿のデータを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "リスト内の投稿を取得中にエラーが発生しました"
     },
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "{entryTitle} にUpvoting中にエラーが発生しました"
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "エラーコード {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "フェイタルエラー"
     },
     {
         "id": "app.error.generalSettings",
