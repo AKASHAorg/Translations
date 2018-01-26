@@ -37,7 +37,7 @@
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "～に追加"
+        "defaultMessage": "追加"
     },
     {
         "id": "app.general.aeth",
@@ -107,12 +107,12 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "集める"
+        "defaultMessage": "獲得"
     },
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "集めたもの"
+        "defaultMessage": "獲得済み"
     },
     {
         "id": "app.general.comments",
