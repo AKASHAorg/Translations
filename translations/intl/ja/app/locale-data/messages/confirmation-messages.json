@@ -32,12 +32,12 @@
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "このコメントを公開することを確認してください。"
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "このコメントに反対に投票することを確認してください。"
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
