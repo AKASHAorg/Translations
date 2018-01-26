@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "JPG, GIF oder PNG-Bilder"
     },
     {
         "id": "app.entry.alreadyDownvoted",
@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikel"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -42,7 +42,7 @@
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "hinzufügen einer Beschriftung"
     },
     {
         "id": "app.entry.collected",
@@ -107,7 +107,7 @@
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "Entwurf gespeichert"
     },
     {
         "id": "app.entry.draftSaving",
@@ -122,7 +122,7 @@
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Bearbeitet"
     },
     {
         "id": "app.entry.editEntry",
