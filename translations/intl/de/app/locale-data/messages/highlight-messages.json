@@ -2,31 +2,31 @@
     {
         "id": "app.highlight.addYourNotes",
         "description": "placeholder for highlight notes textarea",
-        "defaultMessage": "Add your notes here"
+        "defaultMessage": "Füge hier deine Notizen ein"
     },
     {
         "id": "app.highlight.addNote",
         "description": "label for add note button",
-        "defaultMessage": "Add note"
+        "defaultMessage": "Notiz hinzufügen"
     },
     {
         "id": "app.highlight.delete",
         "description": "content for delete highlight modal",
-        "defaultMessage": "Do you want to delete this highlight?"
+        "defaultMessage": "Möchtest du dieses Highlight löschen?"
     },
     {
         "id": "app.highlight.deleteHighlight",
         "description": "label for delete highlight button",
-        "defaultMessage": "Delete highlight"
+        "defaultMessage": "Highlight löschen"
     },
     {
         "id": "app.highlight.editNote",
         "description": "label for edit note button",
-        "defaultMessage": "Edit note"
+        "defaultMessage": "Notiz editieren"
     },
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Start an entry"
+        "defaultMessage": "Eintrag beginnen"
     }
 ]
