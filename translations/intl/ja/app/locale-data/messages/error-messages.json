@@ -157,67 +157,67 @@
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "あなたのgeth設定を保存中にエラーが発生しました"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "あなたのgeth設定を取得中にエラーが発生しました"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Geth serviceを開始することが出来ませんでした"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Geth serviceを停止できませんでした"
     },
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "An error occurred while getting IPFS service config"
+        "defaultMessage": "IPFS service configを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "An error occurred while getting IPFS service ports"
+        "defaultMessage": "IPFS service portsを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "An error occurred while saving your IPFS settings"
+        "defaultMessage": "あなたのIPFS設定を保存中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsSetPorts",
         "description": "ipfs set ports error message",
-        "defaultMessage": "An error occurred while setting ipfs service ports"
+        "defaultMessage": "IPFS service portsを設定中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "An error occurred while getting your IPFS settings"
+        "defaultMessage": "あなたのIPFS settingsを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "IPFS serviceを開始できませんでした"
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "An error occurred while getting IPFS service status"
+        "defaultMessage": "IPFS service statusを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "IPFS service サービスを停止できませんでした"
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "予期しないエラー"
     },
     {
         "id": "app.error.profileBondAeth",
