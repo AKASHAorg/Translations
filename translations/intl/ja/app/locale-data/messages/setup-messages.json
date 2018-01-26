@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "この変更を行うとあなたのconfigurationとlocal IPFS contentがリセットされます"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -107,7 +107,7 @@
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
+        "defaultMessage": "私たちはNormal Sync with the Express setupを推奨します。勇気のある方はexperimental Light Syncをどうぞ！！"
     },
     {
         "id": "app.setup.synchronization",
@@ -162,7 +162,7 @@
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "プレイしてくれてありがとう！"
     },
     {
         "id": "app.setup.faucetPending1",
