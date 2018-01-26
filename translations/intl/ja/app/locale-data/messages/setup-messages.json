@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "あなたの新しいIDです。"
+        "defaultMessage": "あなたの新しいIDです"
     },
     {
         "id": "app.setup.backup",
@@ -12,7 +12,7 @@
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "あなたのプロフィールを入力して、すべての機能を利用し新しい世界を楽しんでください。"
+        "defaultMessage": "あなたのプロフィールを入力して、すべての機能を利用し新しい世界を楽しんでください！"
     },
     {
         "id": "app.setup.createIdentity",
@@ -47,7 +47,7 @@
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Keyをインポートする。"
+        "defaultMessage": "Keyをインポート"
     },
     {
         "id": "app.setup.ipfsStoragePath",
@@ -182,7 +182,7 @@
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "HoHoHoHo!"
+        "defaultMessage": "ほほほほ～！"
     },
     {
         "id": "app.setup.faucetSuccess1",
@@ -312,7 +312,7 @@
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "このdapp(分散型アプリケーション) を使用するには Manafied AETH (Mana) が必要です。\n画面右上にあるあなたのAETH balanceの\"Transform tab\"の中にある\"Manafy\"を選択するとManaを入手できます。"
     },
     {
         "id": "app.setup.tutorialManaAlt",
