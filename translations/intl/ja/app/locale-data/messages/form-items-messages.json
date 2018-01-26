@@ -177,7 +177,7 @@
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Mana 合計スコア"
     },
     {
         "id": "app.form.name",
@@ -192,7 +192,7 @@
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "パスフレーズを認証"
     },
     {
         "id": "app.form.requiredError",
@@ -202,12 +202,12 @@
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "減少"
+        "defaultMessage": "減る"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Manaプールが減少"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,12 +217,12 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "増加"
+        "defaultMessage": "増える"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Manaプールが増加"
     },
     {
         "id": "app.form.shiftUpManaHelp",
@@ -232,12 +232,12 @@
     {
         "id": "app.form.tips",
         "description": "label for tips",
-        "defaultMessage": "チップ"
+        "defaultMessage": "TIPS"
     },
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "タイトル"
+        "defaultMessage": "題名"
     },
     {
         "id": "app.form.totalAethBalance",
