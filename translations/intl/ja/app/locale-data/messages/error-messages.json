@@ -137,22 +137,22 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "全般設定を取得中にエラーが発生しました"
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "Geth serviceオプションを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "Geth serviceステータスを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "同期ステータスを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.gethSaveSettings",
