@@ -17,12 +17,12 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "ハイライトが保存されました。"
+        "defaultMessage": "ハイライトが保存されました"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "メモを入力しますか。"
+        "defaultMessage": "メモを入力しますか"
     },
     {
         "id": "app.notification.updatingProfile",
@@ -37,12 +37,12 @@
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "フォロー中 {displayName}"
+        "defaultMessage": "{displayName} をフォロー中"
     },
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "{displayName} をフォローしています"
+        "defaultMessage": "{displayName} をフォロー中"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
@@ -52,7 +52,7 @@
     {
         "id": "app.notification.unfollowingProfile",
         "description": "Notification to be displayed when unfollow transaction is sent",
-        "defaultMessage": "フォロー解除 {displayName}"
+        "defaultMessage": "{displayName} をフォロー解除"
     },
     {
         "id": "app.notification.unfollowProfileSuccess",
@@ -92,12 +92,12 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "エントリー「{title}」が正常に更新されました。"
+        "defaultMessage": "エントリー「{title}」が正常に更新されました"
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "下書き「{title}」が正常に公開されました。"
+        "defaultMessage": "下書き「{title}」が正常に公開されました"
     },
     {
         "id": "app.notification.claimSuccess",
@@ -117,12 +117,12 @@
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "コメントに反対投票しました"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "{entryTitle} に反対投票しました"
     },
     {
         "id": "app.notification.upvotingEntry",
@@ -132,12 +132,12 @@
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "You successfully upvoted a comment"
+        "defaultMessage": "コメントに賛成票を入れました"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "You successfully upvoted {entryTitle}"
+        "defaultMessage": "{entryTitle} に賛成票入れました"
     },
     {
         "id": "app.notification.publishingComment",
@@ -172,7 +172,7 @@
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "{displayName} にチップを送る ..."
+        "defaultMessage": "{displayName} にチップを送金中 ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
@@ -212,7 +212,7 @@
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "アプリをリフレッシュ後にテーマが変更します"
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
