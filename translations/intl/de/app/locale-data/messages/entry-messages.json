@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Weiter bearbeiten"
     },
     {
         "id": "app.entry.downvote",
@@ -127,7 +127,7 @@
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "Eintrag bearbeiten"
     },
     {
         "id": "app.entry.entriesCount",
