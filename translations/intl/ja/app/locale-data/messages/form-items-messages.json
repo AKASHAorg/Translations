@@ -57,7 +57,7 @@
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "送金可能額 {aeth} AETH"
     },
     {
         "id": "app.form.maxAethAmountLabel",
@@ -67,7 +67,7 @@
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "使用可能 {essence} エッセンス"
     },
     {
         "id": "app.form.maxEthAmount",
@@ -77,7 +77,7 @@
     {
         "id": "app.form.maxManafiedAethAmount",
         "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
-        "defaultMessage": "{manafied} Manafied AETH"
+        "defaultMessage": "{manafied} マナファイド AETH"
     },
     {
         "id": "app.form.transformEssence",
@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "変換するエッセンスの数量を選択してください"
     },
     {
         "id": "app.form.amountToShift",
@@ -177,7 +177,7 @@
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana 合計スコア"
+        "defaultMessage": "マナトータルスコア"
     },
     {
         "id": "app.form.name",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "合計残高　AETH"
+        "defaultMessage": "合計残高AETH"
     },
     {
         "id": "app.form.url",
