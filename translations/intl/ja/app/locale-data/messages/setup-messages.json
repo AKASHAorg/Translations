@@ -277,7 +277,7 @@
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "Geth clientを待機中"
     },
     {
         "id": "app.setup.peerCount",
@@ -287,7 +287,7 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "詳細"
     },
     {
         "id": "app.setup.gethStopped",
@@ -302,12 +302,12 @@
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "A few tips before you get started"
+        "defaultMessage": "始める前のアドバイス"
     },
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "このdapp(分散型アプリケーション) はテスト用のETH\"Ether\"のみを使用しています。\nあなたのイーサリアムをin-dappアドレスに送金しないようにしてください。"
     },
     {
         "id": "app.setup.tutorialMana",
