@@ -172,7 +172,7 @@
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "無料AETH"
     },
     {
         "id": "app.form.manaTotalScore",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "合計残高　AETH"
     },
     {
         "id": "app.form.url",
@@ -272,7 +272,7 @@
     {
         "id": "app.form.notEnoughMana",
         "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "You don't have enough Mana for this action"
+        "defaultMessage": "このアクションに必要なマナがありません"
     },
     {
         "id": "app.form.alphanumericError",
@@ -282,17 +282,17 @@
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "オプションを１つ選択してください"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "タグは最大２４文字までです。"
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "タグ {tag} は既に追加されています"
     },
     {
         "id": "app.form.rememberPassFor",
@@ -302,7 +302,7 @@
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "defaultMessage": "残高が最低 {minAmount} AETH必要です"
     },
     {
         "id": "app.form.to",
@@ -312,6 +312,6 @@
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "アップデート設定"
     }
 ]
