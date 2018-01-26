@@ -2,7 +2,7 @@
     {
         "id": "app.search.noResults",
         "description": "message displayed when no results are found",
-        "defaultMessage": "見つかりませんでした。"
+        "defaultMessage": "見つかりませんでした"
     },
     {
         "id": "app.search.searchSomething",
