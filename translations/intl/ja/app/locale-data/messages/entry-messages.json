@@ -52,7 +52,7 @@
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "エッセンスを集める"
+        "defaultMessage": "エッセンス獲得"
     },
     {
         "id": "app.entry.commentsCount",
@@ -67,7 +67,7 @@
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "反対票"
+        "defaultMessage": "反対"
     },
     {
         "id": "app.entry.draft",
@@ -97,7 +97,7 @@
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "この下書きを削除してもよろしいですか。"
+        "defaultMessage": "この下書きを削除してもよろしいですか"
     },
     {
         "id": "app.entry.draftEdit",
@@ -142,12 +142,12 @@
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "少なくとも 1 つのタグを追加する必要があります。"
+        "defaultMessage": "少なくとも 1 つのタグを追加する必要があります"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "抜粋は１２０文字以下にしてください。"
+        "defaultMessage": "抜粋は１２０文字以下にしてください"
     },
     {
         "id": "app.entry.excerpt",
@@ -162,7 +162,7 @@
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "このコンテンツは、{score} よりも低いスコアです。"
+        "defaultMessage": "このコンテンツは、{score} よりも低いスコアです"
     },
     {
         "id": "app.entry.hiddenContent2",
@@ -222,12 +222,12 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "投稿がありません。"
+        "defaultMessage": "投稿がありません"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "新しい投稿がありません。"
+        "defaultMessage": "新しい投稿がありません"
     },
     {
         "id": "app.entry.nothingToCollect",
@@ -242,7 +242,7 @@
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "票がありません。"
+        "defaultMessage": "票がありません"
     },
     {
         "id": "app.entry.olderVersion",
@@ -277,7 +277,7 @@
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "読む"
+        "defaultMessage": "既読"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
@@ -342,7 +342,7 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "タイトルは入力必須です。"
+        "defaultMessage": "タイトルは入力必須です"
     },
     {
         "id": "app.entry.tooltipAuthor",
