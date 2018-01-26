@@ -12,7 +12,7 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "エッセンスを集めることを確認してください。"
     },
     {
         "id": "app.confirmations.claimTitle",
@@ -22,7 +22,7 @@
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "エッセンスを集めることを確認してください。"
     },
     {
         "id": "app.confirmations.claimVoteTitle",
@@ -62,17 +62,17 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "{amount} AETHを循環させることを確認してください。"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "循環"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "この下書きを公開することを確認してください。"
+        "defaultMessage": "この下書きを公開することを確認してください"
     },
     {
         "id": "app.confirmations.draftPublishTitle",
@@ -82,7 +82,7 @@
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "この投稿を更新することを確認してください。"
+        "defaultMessage": "この投稿を更新することを確認してください"
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
@@ -92,7 +92,7 @@
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "この投稿に反対票を入れることを確認ください。"
+        "defaultMessage": "この投稿に反対票を入れることを確認してください"
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
@@ -102,7 +102,7 @@
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "この投稿に賛成することを確認ください。"
+        "defaultMessage": "この投稿に賛成票を入れることを確認してください"
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
@@ -112,7 +112,7 @@
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "{displayName} をフォローすることを確認してください"
     },
     {
         "id": "app.confirmations.followTitle",
@@ -132,12 +132,12 @@
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "このプロセスを続行するためパスフレーズを入力してください"
     },
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "あなたのプロフィールを登録することを確認してください"
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
@@ -147,7 +147,7 @@
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "あなたのプロフィールを更新することを確認してください"
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "{displayName} にチップを送金することを確認してください"
     },
     {
         "id": "app.confirmations.sendTipTitle",
@@ -167,7 +167,7 @@
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "#{value} を作成することを確認してください"
     },
     {
         "id": "app.confirmations.tagCreateTitle",
@@ -177,7 +177,7 @@
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "チップの設定を変更することを確認してください"
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
@@ -187,7 +187,7 @@
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "{tokenAmount} AETHを {displayName} に送金することを確認してください"
     },
     {
         "id": "app.confirmation.transferAethTitle",
