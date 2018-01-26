@@ -12,7 +12,7 @@
     {
         "id": "app.highlight.delete",
         "description": "content for delete highlight modal",
-        "defaultMessage": "このハイライトを削除しますか。"
+        "defaultMessage": "このハイライトを削除しますか"
     },
     {
         "id": "app.highlight.deleteHighlight",
