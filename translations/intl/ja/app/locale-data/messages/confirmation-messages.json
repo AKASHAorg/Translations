@@ -37,7 +37,7 @@
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "このコメントに反対に投票することを確認してください。"
+        "defaultMessage": "このコメントに反対投票することを確認してください。"
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
@@ -52,7 +52,7 @@
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "このコメントに賛成票を入れることを確認してください。"
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
@@ -72,7 +72,7 @@
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "この下書きを公開することを確認してください。"
     },
     {
         "id": "app.confirmations.draftPublishTitle",
@@ -82,7 +82,7 @@
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "この投稿を更新することを確認してください。"
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
@@ -92,7 +92,7 @@
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "この投稿に反対票を入れることを確認ください。"
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
@@ -102,7 +102,7 @@
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "この投稿に賛成することを確認ください。"
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
