@@ -112,7 +112,7 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "Synchronisation"
     },
     {
         "id": "app.setup.syncOptions",
@@ -122,17 +122,17 @@
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "Anmeldedetails"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "Anmeldung"
     },
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "Willkommen!"
     },
     {
         "id": "app.setup.chooseIdentity",
@@ -227,22 +227,22 @@
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "Synchronisieren"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Synchronization was stopped"
+        "defaultMessage": "Die Synchronisation wurde unterbrochen"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization completed"
+        "defaultMessage": "Die Synchronisation ist abgeschlossen"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization is paused"
+        "defaultMessage": "Die Synchronisation wurde pausiert"
     },
     {
         "id": "app.setup.onSyncStart",
