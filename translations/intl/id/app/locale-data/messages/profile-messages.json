@@ -12,7 +12,7 @@
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "COVER PHOTO"
+        "defaultMessage": "FOTO SAMPUL"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
@@ -27,42 +27,42 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "Tentang saya"
     },
     {
         "id": "app.profile.collectEssence",
         "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Mengumpulkan esensi"
     },
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "Kontak"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Amount available {amount} AETH"
+        "defaultMessage": "Jumlah yang tersedia {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling complete"
+        "defaultMessage": "Cycling selesai"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No Cycling AETH pending"
+        "defaultMessage": "Tidak ada Cycling AETH yang tertunda"
     },
     {
         "id": "app.profile.cyclingProcess",
         "description": "cycling process in progress",
-        "defaultMessage": "Cycling process"
+        "defaultMessage": "Proses Cycling"
     },
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Edit Profile Information"
+        "defaultMessage": "Mengedit Informasi Profil"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
