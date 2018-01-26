@@ -92,17 +92,17 @@
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "Entwurf verwerfen"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "Bist du sicher, dass du diesen Entwurf löschen möchtest?"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "Entwurf bearbeiten"
     },
     {
         "id": "app.entry.draftSaved",
@@ -112,12 +112,12 @@
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "Entwurf speichern"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "Vorschau-Link teilen"
     },
     {
         "id": "app.entry.edited",
@@ -137,22 +137,22 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Geben Sie eine Adresse ein. Z.B. www.Akasha.World"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "Sie müssen mindestens ein Stichwort hinzufügen"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "Der Auszug darf nicht länger als 120 Zeichen lang sein"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "auszug"
     },
     {
         "id": "app.entry.featuredImage",
@@ -172,7 +172,7 @@
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "persönliche Einstellungen"
     },
     {
         "id": "app.entry.license",
@@ -222,12 +222,12 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "Keine Einträge"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Keine neuen Einträge"
     },
     {
         "id": "app.entry.nothingToCollect",
