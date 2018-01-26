@@ -222,42 +222,42 @@
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "An error occured while manafying {amount} AETH"
+        "defaultMessage": "{amount} AETHをマナファイング中にエラーが発生しました"
     },
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "An error occured while cycling {amount} AETH"
+        "defaultMessage": "{amount} AETHをサイクリング中にエラーが発生しました"
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "An error occured while collecting your cycled AETH"
+        "defaultMessage": "あなたのcycled AETHをコレクト中にエラーが発生しました"
     },
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "ローカルプロファイルを取得中にエラーが発生しました"
     },
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "プロファイルの一覧を取得中にエラーが発生しました"
     },
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "あなたのチップ設定を変更中にエラーが発生しました"
     },
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "{tokenAmount} AETHを送金中にエラーが発生しました"
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "{value} ETHを送金中にエラーが発生しました"
     },
     {
         "id": "app.error.profileTransformEssence",
@@ -267,11 +267,11 @@
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "あなたのプロフィールを更新中にエラーが発生しました"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "あなたの設定を保存中にエラーが発生しました"
     }
 ]
