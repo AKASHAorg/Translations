@@ -247,7 +247,7 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "同期が完了するとすぐにログインできます。そしてAKASHAを使って今まで体験したことのない素晴らしい経験ができます! 楽しんでください！！！ 私たちは向こう側で待っています! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
@@ -257,22 +257,22 @@
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "If you want to import an identity please see this link."
+        "defaultMessage": "IDをインポートする際はこのリンクを参照してください"
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "ピアを見つける"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "サービスを起動"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "サービスを待機中"
     },
     {
         "id": "app.setup.waitingForGeth",
