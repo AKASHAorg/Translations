@@ -12,7 +12,7 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "エッセンスを集めることを確認してください。"
+        "defaultMessage": "エッセンスを集めることを確認してください"
     },
     {
         "id": "app.confirmations.claimTitle",
@@ -22,7 +22,7 @@
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "エッセンスを集めることを確認してください。"
+        "defaultMessage": "エッセンスを集めることを確認してください"
     },
     {
         "id": "app.confirmations.claimVoteTitle",
@@ -37,7 +37,7 @@
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "このコメントに反対投票することを確認してください。"
+        "defaultMessage": "このコメントに反対票を投じることを確認してください"
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
@@ -62,7 +62,7 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "{amount} AETHを循環させることを確認してください。"
+        "defaultMessage": "{amount} AETHを循環させることを確認してください"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
@@ -102,7 +102,7 @@
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "この投稿に賛成票を入れることを確認してください"
+        "defaultMessage": "この投稿に賛成票を入れることを確認してください。"
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
@@ -197,7 +197,7 @@
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "{displayName} に {value} ETHを送金することを確認してください"
     },
     {
         "id": "app.confirmation.transferEthTitle",
@@ -207,17 +207,17 @@
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "{amount} エッセンスを変換することを確認ください。"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "エッセンスを変換"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "{displayName} のフォローを解除することを確認ください。"
     },
     {
         "id": "app.confirmations.unfollowTitle",
