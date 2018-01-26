@@ -42,12 +42,12 @@
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "解説を追加"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "獲得済みエッセンス"
     },
     {
         "id": "app.entry.collectEssence",
@@ -137,7 +137,7 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "アドレスを入力する。例）www.akasha.world"
+        "defaultMessage": "アドレスを入力する 例）www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
@@ -197,7 +197,7 @@
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "ローカル バージョン"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
@@ -247,7 +247,7 @@
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "あなたは古いのを閲覧中です"
     },
     {
         "id": "app.entry.originalVersion",
@@ -262,17 +262,17 @@
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "公開議論"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "公開済み"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "意見を公開"
     },
     {
         "id": "app.entry.readTime",
@@ -282,12 +282,12 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Ipfs ハッシュを解決中..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "この下書きを元に戻しますか"
     },
     {
         "id": "app.entry.saveHighlight",
@@ -312,7 +312,7 @@
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "表示する"
     },
     {
         "id": "app.entry.showLess",
@@ -337,12 +337,12 @@
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "タイトル"
+        "defaultMessage": "題名"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "タイトルは入力必須です"
+        "defaultMessage": "題名は入力必須です"
     },
     {
         "id": "app.entry.tooltipAuthor",
@@ -367,12 +367,12 @@
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "バージョン {index}"
+        "defaultMessage": "Ver. {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "あなたの投票が保留中です。"
+        "defaultMessage": "あなたの投票が保留中です"
     },
     {
         "id": "app.entry.votePercentage",
@@ -382,12 +382,12 @@
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "あなた自身のコメントに投票することは出来ません。"
+        "defaultMessage": "あなた自身のコメントに投票することは出来ません"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "投票期間は終了しました。"
+        "defaultMessage": "投票期間は終了しました"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
@@ -417,7 +417,7 @@
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "下書きがありません。"
+        "defaultMessage": "下書きがありません"
     },
     {
         "id": "app.entry.draftAll",
@@ -442,7 +442,7 @@
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "投稿"
+        "defaultMessage": "エントリー"
     },
     {
         "id": "app.entry.gotoMyDrafts",
