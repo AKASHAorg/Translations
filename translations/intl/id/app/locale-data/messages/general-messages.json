@@ -2,7 +2,7 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Batal"
     },
     {
         "id": "app.general.action",
@@ -12,7 +12,7 @@
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "komentar"
     },
     {
         "id": "app.general.add",
