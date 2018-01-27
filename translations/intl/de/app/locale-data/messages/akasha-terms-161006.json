@@ -17,7 +17,7 @@
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1. Datenschutz"
     },
     {
         "id": "app.akasha.terms.privacyBody",
@@ -27,7 +27,7 @@
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Sharing Your Content and Information"
+        "defaultMessage": "2. Teilen Ihrer Inhalte und Informationen"
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
@@ -37,7 +37,7 @@
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. No unlawful activities and content"
+        "defaultMessage": "3. Keine unrechtmäßigen Aktivitäten und Inhalte"
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
@@ -47,12 +47,12 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "4. Anmeldung und Identität"
     },
     {
         "id": "app.akasha.terms.registrationBody",
         "description": "registration and identity section content",
-        "defaultMessage": "13 AKASHA is all about privacy. You may create an Identity using the credentials of your choice or maintain multiple Identities. However, as AKASHA runs on the Ethereum Platform, the use of AKASHA involves certain payments. Accordingly, you will not use AKASHA if you are under 13 years old."
+        "defaultMessage": "Bei AKASHA geht es um Privatsphäre. Sie können eine Identität mit Informationen Ihrer Wahl erstellen oder mehrere Identitäten führen. Da AKASHA jedoch auf der Ethereum-Plattform aufbaut, sind auch bestimmte Zahlungsprozesse involviert. Dementsprechend werden Sie AKASHA nicht nutzen, wenn Sie jünger sind als 13 Jahre."
     },
     {
         "id": "app.akasha.terms.paymentOfFeesTitle",
@@ -77,7 +77,7 @@
     {
         "id": "app.akasha.terms.noWarrantyTitle",
         "description": "no warranty section title",
-        "defaultMessage": "7. No warranty"
+        "defaultMessage": "7. Keine Garantien"
     },
     {
         "id": "app.akasha.terms.noWarrantyBody",
@@ -87,7 +87,7 @@
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. Passwort / Login öffnen"
     },
     {
         "id": "app.akasha.terms.passwordBody",
@@ -97,7 +97,7 @@
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. Risks"
+        "defaultMessage": "9. Risiken"
     },
     {
         "id": "app.akasha.terms.risksBody",
@@ -107,12 +107,12 @@
     {
         "id": "app.akasha.terms.taxationTitle",
         "description": "taxation section title",
-        "defaultMessage": "10. Taxation"
+        "defaultMessage": "10. Steuererhebung"
     },
     {
         "id": "app.akasha.terms.taxationBody",
         "description": "taxation section content",
-        "defaultMessage": "20 You bear the sole responsibility to determine if any action or transaction related to AKASHA have tax implications for yourself."
+        "defaultMessage": "20 Es ist allein Ihre Aufgabe, herauszufinden, ob jegliche Aktionen oder Transaktionen in Verbindung mit AKASHA steuerliche Auswirkungen auf Sie hat."
     },
     {
         "id": "app.akasha.terms.noLiabilityTitle",
@@ -127,7 +127,7 @@
     {
         "id": "app.akasha.terms.miscTitle",
         "description": "miscellaneous section title",
-        "defaultMessage": "12. Miscellaneous"
+        "defaultMessage": "12. Sonstiges"
     },
     {
         "id": "app.akasha.terms.miscBody",
