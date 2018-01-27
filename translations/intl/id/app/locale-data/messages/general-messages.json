@@ -22,12 +22,12 @@
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Tarik dan letakkan ke penambahan gambar."
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "Keren! Letakkan saja disini!"
     },
     {
         "id": "app.general.addNewEntry",
@@ -37,7 +37,7 @@
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Tambah ke"
     },
     {
         "id": "app.general.aeth",
@@ -62,12 +62,12 @@
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "masukkan suara"
     },
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Pilihan aplikasi"
     },
     {
         "id": "app.general.back",
@@ -97,17 +97,17 @@
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "Memilih gambar lain"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "Tutup"
     },
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Koleksi"
     },
     {
         "id": "app.general.collected",
@@ -117,12 +117,12 @@
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Komentar"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Memastikan"
     },
     {
         "id": "app.general.confirmedAtBlock",
