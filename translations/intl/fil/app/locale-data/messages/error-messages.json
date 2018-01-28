@@ -172,87 +172,87 @@
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Maaaring hindi mapipigilan ang serbisyo ng Geth"
     },
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "An error occurred while getting IPFS service config"
+        "defaultMessage": "May naganap na error habang kinukuha ang inaayos ang serbisyo sa IFPS"
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "An error occurred while getting IPFS service ports"
+        "defaultMessage": "May naganap na error habang kinukuha ang IPFS service ports"
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "An error occurred while saving your IPFS settings"
+        "defaultMessage": "May naganap na error habang kinukuha ang mga setting sa IPFS"
     },
     {
         "id": "app.error.ipfsSetPorts",
         "description": "ipfs set ports error message",
-        "defaultMessage": "An error occurred while setting ipfs service ports"
+        "defaultMessage": "May naganap na error habang nagseset ng ipfs service ports"
     },
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "An error occurred while getting your IPFS settings"
+        "defaultMessage": "May naganap na error habang kinukuha ang mga settings sa IPFS"
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "Maaaring hindi magsimula ang serbisyo ng IFPS"
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "An error occurred while getting IPFS service status"
+        "defaultMessage": "May naganap na error habang kinukuha ang katayuan ng serbisyo sa IPFS"
     },
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "Maaaring hindi mapipigilan ang serbisyo ng IPFS"
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Hindi inaasahang mali"
     },
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "An error occured while manafying {amount} AETH"
+        "defaultMessage": "May naganap na error habang nagmanafying {amount} AETH"
     },
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "An error occured while cycling {amount} AETH"
+        "defaultMessage": "May naganap na errong habang umiikoy ang {amount} AETH"
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "An error occured while collecting your cycled AETH"
+        "defaultMessage": "May naganap na error habang kinokolekta ang pinaikot na AETH"
     },
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "May naganap na error habang kinukuha ang mga lokal na profile"
     },
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "May naganap na error habang kinukuha ang listahan ng mga profile"
     },
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "May naganap na error habang binabago ang iyong mga setting ng mga tip"
     },
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "May naganap na error habang nililipat ang {tokenAmount} AETH"
     },
     {
         "id": "app.error.profileTransferEth",
