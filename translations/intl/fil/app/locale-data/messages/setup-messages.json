@@ -2,17 +2,17 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Ito ang iyong bagong pagkakakilanlan"
     },
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Backup na mga susi"
     },
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Para matamasa ang boung karanasan, kumpletohin ang itong profile ngayon!"
     },
     {
         "id": "app.setup.createIdentity",
