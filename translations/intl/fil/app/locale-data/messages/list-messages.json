@@ -2,7 +2,7 @@
     {
         "id": "app.list.addToList",
         "description": "tooltip for add to list button",
-        "defaultMessage": "Add to list"
+        "defaultMessage": "Idagdag sa listahan"
     },
     {
         "id": "app.list.addToNewList",
