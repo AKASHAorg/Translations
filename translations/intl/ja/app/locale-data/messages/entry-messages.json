@@ -32,12 +32,12 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Webサイトから情報を抽出することはできません! 別のアドレスをお試しください。"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "ライセンス情報が検索できません"
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
