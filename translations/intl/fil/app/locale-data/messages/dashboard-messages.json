@@ -107,7 +107,7 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "Iyong board"
+        "defaultMessage": "Aking board"
     },
     {
         "id": "app.dashboard.large",
@@ -122,42 +122,42 @@
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "Listahan"
     },
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "Ang listahan na ito ay tinanggal na. Mangyaring alisin ang kolum na ito"
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "Aking mga board"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "I-type ang pangalan ng board"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "Walang mga board na natagpuan"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "I-preview para sa {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "I-preview para sa {displayName}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "I-priview para sa #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
@@ -167,17 +167,17 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Maghana para sa isang board..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Maliit"
     },
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Ang sumusunod na feed"
     },
     {
         "id": "app.dashboard.tag",
