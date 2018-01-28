@@ -7,12 +7,12 @@
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Magdagdag ng hanay"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "Mangyaring pumili ng uri ng hanay"
     },
     {
         "id": "app.dashboard.addNewListColumn",
