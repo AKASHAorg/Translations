@@ -97,77 +97,77 @@
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "May naganap na error habang kinokolekta ang Essence para sa {entryTitle}"
     },
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "May naganap na error habang konokolekta ang Essence para sa {entryTitle}"
     },
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "May naganap na error habang nagdownvote ng {entryTitle}"
     },
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "May naganap na error habang kinkukuha ang entry data"
     },
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "May naganap na error habang kinkukuha ang mga entry sa listahan"
     },
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "May naganap na error habang nag-upvote ng {entryTitle}"
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Error kowd {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Malubhang mali"
     },
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "May naganap na error habang kinukuha ang pangkahalatang mga setting"
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "May naganap na error habang kinukuha ang mga opsyon sa serbisyo ng geth"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "May naganap na mali habang kinukuha ang kalagayan ng serbisyo ng geth"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "May naganap na error habang katayuan ng sinkronisasyon"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "May naganap na error habang nagsi-save ng mga setting sa iyong geth"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "May naganap na error habang kinukuha ang mga setting sa iyong geth"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Maaaring hindi magsimula ang serbisyo ng Geth"
     },
     {
         "id": "app.error.gethStop",
