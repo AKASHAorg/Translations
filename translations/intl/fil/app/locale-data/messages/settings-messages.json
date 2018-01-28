@@ -2,12 +2,12 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Tsino"
     },
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "Dark Theme"
+        "defaultMessage": "Madilim na tema"
     },
     {
         "id": "app.settings.description",
