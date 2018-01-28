@@ -2,7 +2,7 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Magdagdag ng mga hanay"
     },
     {
         "id": "app.dashboard.addNewColumn",
