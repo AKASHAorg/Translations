@@ -2,7 +2,7 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "I-abort"
     },
     {
         "id": "app.general.action",
