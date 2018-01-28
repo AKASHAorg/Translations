@@ -32,67 +32,67 @@
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "May naganap na error habang naglalathala ng komento"
+        "defaultMessage": "May naganap na error habang nililimbag ang komento"
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "May naganap na error habang nag-upvote ng komento"
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "May naganap na error habang nagsi-save ng bagong board"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "May naganap na error habang nagsi-save ng bagong kolum"
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "May naganap na error habang tinatanggal ang iyong board"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "May naganap na error habang tinatanggal ang itong kolum"
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "May naganap na error habang kinukuha ang aktibong board"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "May naganap na error habang kinukuha ang iyong mga board"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "May naganap na error habang nagsi-save ang iyong aktibong board"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "May naganap na error habang ina-update ang iyong kolum"
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Hindi mai-save ang mga pinakahuling pagbabago sa mga draft na ito"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "May naganap na error habang nililimbag ang iyong draft"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "May naganap na error habang sinusubukang kunin ang iyong mga entry. Ipinapakita ang mga lokal na draft lamang"
     },
     {
         "id": "app.error.entryClaim",
