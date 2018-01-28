@@ -37,7 +37,7 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "数量を入力してください"
+        "defaultMessage": "数量が必要です"
     },
     {
         "id": "app.form.ethAmount",
@@ -102,7 +102,7 @@
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will generate {amount} Mana every 24 hours for as long as it is kept in this state."
+        "defaultMessage": "この状態で保管されている限り{amount} AETHで２４時間毎に{amount} Manaが生成されます"
     },
     {
         "id": "app.form.firstName",
@@ -257,12 +257,12 @@
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Vote weight must be between {min} and {max}"
+        "defaultMessage": "票のウエイトは {min} と {max} の間でなければなりません"
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "Vote weight is required"
+        "defaultMessage": "票のウエイトが必要です"
     },
     {
         "id": "app.form.voteWeightExtra",
