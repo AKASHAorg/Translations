@@ -12,67 +12,67 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong kolektahin ang Essence."
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Kolekt"
     },
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong kolektahin ang Essence."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Kolekt"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong mailathala ang mga komentaryong ito."
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-downvote ang komentaryong ito."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "I-downvote"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Komentaryo"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-upvote ang komentaryong ito."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "I-upvote"
     },
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong ulit-ulitin {amount} AETH"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "I-ulit"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong mailathala ang draft."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
