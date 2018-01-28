@@ -37,7 +37,7 @@
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. No unlawful activities and content"
+        "defaultMessage": "違法行為と違法コンテンツ禁止"
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "登録とID"
     },
     {
         "id": "app.akasha.terms.registrationBody",
@@ -117,7 +117,7 @@
     {
         "id": "app.akasha.terms.noLiabilityTitle",
         "description": "no liability section title",
-        "defaultMessage": "11. No Liability"
+        "defaultMessage": "11. 免責"
     },
     {
         "id": "app.akasha.terms.noLiabilityBody",
@@ -127,7 +127,7 @@
     {
         "id": "app.akasha.terms.miscTitle",
         "description": "miscellaneous section title",
-        "defaultMessage": "12. Miscellaneous"
+        "defaultMessage": "12. その他／雑則"
     },
     {
         "id": "app.akasha.terms.miscBody",
