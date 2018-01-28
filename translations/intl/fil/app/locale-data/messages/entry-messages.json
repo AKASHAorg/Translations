@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "Mga larawan na JPG, GIF O PNG"
     },
     {
         "id": "app.entry.alreadyDownvoted",
