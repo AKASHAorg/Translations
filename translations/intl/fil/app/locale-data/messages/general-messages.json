@@ -7,17 +7,17 @@
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "Aksyon"
     },
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "isang komento"
     },
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Dagdagan"
     },
     {
         "id": "app.general.addImage",
