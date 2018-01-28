@@ -32,7 +32,7 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Webサイトから情報を抽出することはできません! 別のアドレスをお試しください。"
+        "defaultMessage": "Webサイトから情報を取得することはできません! 別のアドレスをお試しください。"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
@@ -87,7 +87,7 @@
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "You can't create an article without content!"
+        "defaultMessage": "コンテンツのない記事を作成することはできません!"
     },
     {
         "id": "app.entry.draftDelete",
@@ -167,7 +167,7 @@
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "あなたの～からこの値を変更できます"
     },
     {
         "id": "app.entry.hiddenContent3",
@@ -217,7 +217,7 @@
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "検索条件に一致する下書きが見つかりませんでした"
     },
     {
         "id": "app.entry.noEntries",
@@ -232,7 +232,7 @@
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "この投稿からエッセンスを収集することはできません"
     },
     {
         "id": "app.entry.noTitle",
@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "この投稿のユーザーがわかりません"
     },
     {
         "id": "app.entry.upvote",
