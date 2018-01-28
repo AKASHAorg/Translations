@@ -77,92 +77,92 @@
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "Ilathala ang draft"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-update ang entry na ito."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "I-update ang entry"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "Mangyaring kumprimahin na nais mong i-downvote ang entry na ito."
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "I-downvote"
     },
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-upvote ang entry na ito."
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "I-upvote"
     },
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-follow si {displayName}."
     },
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "I-follow"
     },
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong kolektahin ang iyong na inulit na AETH"
     },
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Kolektahin"
     },
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "Mangyaring ipasok ang inyong passphrase upang magpatuloy sa prosesong ito."
     },
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong magparehistro ng iyong profile."
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "Irehistro ang profile"
     },
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong i-update ang iyong profile."
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "I-update ang profile"
     },
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Mangyaring kumpirmahin na nais mong magpadala ng tip kay {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Ipadala ang tip"
     },
     {
         "id": "app.confirmations.createTag",
