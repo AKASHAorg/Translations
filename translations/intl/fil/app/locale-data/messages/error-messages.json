@@ -42,12 +42,12 @@
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "May naganap na error habang nagsi-save ng bagong board"
+        "defaultMessage": "May naganap na error habang nagsisave ng bagong board"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "May naganap na error habang nagsi-save ng bagong kolum"
+        "defaultMessage": "May naganap na error habang nagsisave ng bagong kolum"
     },
     {
         "id": "app.error.dashboardDelete",
@@ -257,21 +257,21 @@
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "May naganap na error habang nililipat ang {value} ETH"
     },
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "May naganap na error habang binabago ang {amount} Essence"
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "May naganap na error habang ina-update ang iyong profile"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "May naganap na error habang nagsisave ng iyong mga setting"
     }
 ]
