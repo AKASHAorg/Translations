@@ -287,107 +287,107 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Sigurado ka ba na gusto mong ibalik ang draft na ito?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "I-save ang highlight"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Iskor"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Paghahanap para sa isang profile"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Paghahanap para sa isang tag"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Ipakita parin"
     },
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Tiklupin ang komento"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Ipakita ang buong komento"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Magsimula ng komento"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Lumikha ng isang draft ngayon!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Pamagat"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Ang pamagat ay dapat hindi bakante"
     },
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Hindi maresolba ang entry ng may-akla"
     },
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "I-upvote"
     },
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "bersyon"
     },
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Kasaysayan ng bersyon"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Bersyon ng {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Ang iyong boto ay nakabinbin"
     },
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "Mga upvotes - {upvote}% · Mga downvotes - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Hindi ka pwedeng bumoto sa sarili mong komento"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "Tapos na ang botohan"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
