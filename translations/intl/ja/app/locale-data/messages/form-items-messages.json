@@ -27,7 +27,7 @@
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "あなたのプロフィールを公開するにはテスト用Etherを入金する必要があります。"
     },
     {
         "id": "app.form.aethAmount",
