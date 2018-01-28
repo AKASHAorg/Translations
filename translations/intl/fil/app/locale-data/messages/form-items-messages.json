@@ -2,17 +2,17 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Tungkol sa aking sarili"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Kailangan mong tukoyin ang username o ang ethereum address"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Tanggapin ang mga tip"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
