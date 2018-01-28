@@ -27,7 +27,7 @@
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "あなたのプロフィールを公開するにはテスト用Etherを入金する必要があります。"
+        "defaultMessage": "あなたのプロフィールを公開するにはテストEtherを入金する必要があります"
     },
     {
         "id": "app.form.aethAmount",
@@ -37,7 +37,7 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "数量を入力してください"
     },
     {
         "id": "app.form.ethAmount",
@@ -147,17 +147,17 @@
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "交換する金額を選択してください"
     },
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "マナファイドからサイクリングにする"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "トランスファラブルからマナファイドにする"
     },
     {
         "id": "app.form.confirmPassphrase",
@@ -252,7 +252,7 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Vote weight must be an integer"
+        "defaultMessage": "票のウエイトは整数でなければなりません"
     },
     {
         "id": "app.form.voteWeightRangeError",
