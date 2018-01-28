@@ -62,12 +62,12 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Ipagpatuloy ang pag-edit"
     },
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "I-downvote"
     },
     {
         "id": "app.entry.draft",
@@ -77,7 +77,7 @@
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "Mga draft"
     },
     {
         "id": "app.entry.draftsCount",
