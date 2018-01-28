@@ -77,7 +77,7 @@
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "You successfully published a comment"
+        "defaultMessage": "Anda berhasil menerbitkan sebuah komentar"
     },
     {
         "id": "app.notification.publishingEntry",
@@ -102,12 +102,12 @@
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "Anda berhasil dikumpulkan Esensi untuk {entryTitle}"
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "Anda berhasil dikumpulkan Esensi untuk {entryTitle}"
     },
     {
         "id": "app.notification.downvotingEntry",
@@ -117,7 +117,7 @@
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "Anda berhasil menurunkan vote sebuah komentar"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
@@ -147,7 +147,7 @@
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comment published successfully"
+        "defaultMessage": "Komentar berhasil diterbitkan"
     },
     {
         "id": "app.notification.claiming",
