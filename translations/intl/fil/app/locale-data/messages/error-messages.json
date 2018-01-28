@@ -2,17 +2,17 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Ibalita ang mali"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Salamat sa iyong feedback!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Mangyaring kopyahin ang sumusunod na mga linya at lumikha ng panibagong isyu sa {githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
