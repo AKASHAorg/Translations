@@ -7,7 +7,7 @@
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Sorry! You don't have enough karma to create tags."
+        "defaultMessage": "Maaf! kamu tidak memiliki cukup karma untuk membuat tag."
     },
     {
         "id": "app.tag.tagDoesntExist",
