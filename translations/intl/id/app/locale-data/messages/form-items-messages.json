@@ -2,32 +2,32 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "Tentang Saya"
+        "defaultMessage": "Tentang saya"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "Anda harus menentukan nama pengguna atau alamat ethereum"
+        "defaultMessage": "Anda harus tentukan sebauh nama pengguna atau sebauh alamat ethereum"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Menerima tip"
+        "defaultMessage": "Menerima tip-tip"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Ketik nama pengguna anda"
+        "defaultMessage": "Tulis nama pengguna anda"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Maaf, Kamu tidak memiliki cukup tes ether!"
+        "defaultMessage": "Maaf, Kamu tidak punya cukup ether tes!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "Anda perlu menyetorkan tes eter untuk mengumpulkan profil Anda."
+        "defaultMessage": "Kamu perlu untuk menyetorkan ether tes untuk mempublikasikan profil kamu."
     },
     {
         "id": "app.form.aethAmount",
@@ -37,7 +37,7 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Jumlah yang dibutuhkan"
+        "defaultMessage": "Jumlah adalah wajib"
     },
     {
         "id": "app.form.ethAmount",
@@ -47,12 +47,12 @@
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Ketik nama depan anda"
+        "defaultMessage": "Tulis nama pertama kamu"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Ketik nama belakang anda"
+        "defaultMessage": "Tulis nama belakang kamu"
     },
     {
         "id": "app.form.maxAethAmount",
@@ -92,7 +92,7 @@
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "Anda perlu mengubah minimal 1000 lesensi"
+        "defaultMessage": "Kamu perlu untuk menggantikan minimal 1000 esensi"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
@@ -287,27 +287,27 @@
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "Tag-tag harus memiliki maksimal 24 karakter."
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "Tag {tag} sudah ditambahkan"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "Ingat kata sandi saya untuk"
     },
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "defaultMessage": "Jumlahnya harus minimal {minAmount} AETH"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "Ke"
     },
     {
         "id": "app.form.updateSettings",
