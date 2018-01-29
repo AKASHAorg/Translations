@@ -2,7 +2,7 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Abandonner"
     },
     {
         "id": "app.general.action",
@@ -12,32 +12,32 @@
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "un commentaire"
     },
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Ajouter"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Glisser et déposer une image pour l'ajouter."
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "Déposer l'image ici"
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Ajouter une nouvelle entrée"
     },
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Ajouter à"
     },
     {
         "id": "app.general.aeth",
@@ -52,87 +52,87 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Quantité"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "une entrée"
     },
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "un vote sur une entrée"
     },
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Préférences de l'application"
     },
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "Retour"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "Bloquer"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "Annuler"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "Messagerie instantanée"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "Choisir une image"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "Choisir une autre image"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "Fermer"
     },
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Récupérer"
     },
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "Récupéré"
     },
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Commentaires"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Confirmer"
     },
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Confirmé au bloc #{blockNr}"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Copier"
     },
     {
         "id": "app.general.counter",
@@ -142,47 +142,47 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Créer"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Créés"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "Cycling"
+        "defaultMessage": "Cyclage"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Supprimer"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Terminé"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Téléchargements"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "Éditer"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "Éditer le profil"
     },
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Entrées"
     },
     {
         "id": "app.general.essence",
@@ -192,12 +192,12 @@
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "Essence totale"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "Score total en Essence"
     },
     {
         "id": "app.general.eth",
@@ -207,47 +207,47 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Adresse Ethereum"
     },
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "Échec au bloc #{blockNr}"
     },
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "Forgé"
     },
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "Faire suivre"
     },
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Création de l'aperçu"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Service Geth OFF"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Service Geth ON"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Aide"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "Historique"
     },
     {
         "id": "app.general.hoursCount",
@@ -497,42 +497,42 @@
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Envoyer"
     },
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Envoyé"
     },
     {
         "id": "app.general.settings",
         "description": "settings button label",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Paramètres"
     },
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "Tableau de bord"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Mon profil"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Communauté : bientôt disponible"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Rechercher"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Discussion instantanée (bientôt disponible)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -547,27 +547,27 @@
     {
         "id": "app.general.shift",
         "description": "convert tokens",
-        "defaultMessage": "Shift"
+        "defaultMessage": "Déplacer"
     },
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Skip this step"
+        "defaultMessage": "Ignorer cette étape"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "Démarrer"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "Démarrage"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "Arrêté"
     },
     {
         "id": "app.general.stream",
@@ -577,82 +577,82 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "Envoyer"
     },
     {
         "id": "app.general.tags",
         "description": "tags",
-        "defaultMessage": "Tags"
+        "defaultMessage": "Balises"
     },
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "En créant votre compte et en utilisant AKASHA, vous acceptez                         nos {termsLink}.  Si vous ne les acceptez pas, vous ne pouvez pas utiliser                         AKASHA."
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "Conditions d'Utilisation et Politique de Confidentialité"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "La transaction a échoué"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "Transférable"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Transform"
+        "defaultMessage": "Transformer"
     },
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
+        "defaultMessage": "Manafier de l'AETH"
     },
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "Traduire"
     },
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "Veuillez d'abord choisir votre nom d'utilisateur !"
     },
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Paramètres de l'utilisateur"
     },
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Mettre à jour"
     },
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Mise à jour"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "Mise à niveau"
     },
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "Voir le profil"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "Voter"
     },
     {
         "id": "app.general.wallet",
