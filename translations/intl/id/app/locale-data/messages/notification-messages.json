@@ -17,12 +17,12 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "Sorotan ini telah tersimpan!"
+        "defaultMessage": "Hal yang penting sudah tersimpan!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Apakah kamu ingin mengetik catatan?"
+        "defaultMessage": "Apakah kamu ingin menulis sebuah catatan?"
     },
     {
         "id": "app.notification.updatingProfile",
@@ -42,7 +42,7 @@
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "Anda sekarang mengikuti {nama tampilan}"
+        "defaultMessage": "Kamu sekarang mengikuti {displayName}"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
@@ -187,12 +187,12 @@
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "Notifikasi-notifikasi dinoaktifkan untuk {displayName}"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "Cadangan dihasilkan di {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
@@ -202,7 +202,7 @@
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Kamu sudah berhasil menyimpan pengaturan kamu. Kamu perlu mengulang kembali IPFS                         servis untuk perubahan yang sudah kamu tetapkan."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
@@ -222,7 +222,7 @@
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "Kamu dengan sukses mengirimkan {tokenAmount} AETH ke {displayName}"
     },
     {
         "id": "app.notification.transferEthSuccess",
