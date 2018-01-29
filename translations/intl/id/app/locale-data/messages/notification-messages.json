@@ -2,17 +2,17 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "You successfully manafied {amount} AETH"
+        "defaultMessage": "Kamu dengan sukses manafied {amount} AETH"
     },
     {
         "id": "app.notification.cycleAethSuccess",
         "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
-        "defaultMessage": "You successfully cycled {amount} AETH"
+        "defaultMessage": "Kamu dengan sukses cycled {amount} AETH"
     },
     {
         "id": "app.notification.freeAethSuccess",
         "description": "notification to be displayed when collecting cycled AETH transaction was mined",
-        "defaultMessage": "You successfully collected your cycled AETH"
+        "defaultMessage": "Kamu dengan sukses mengumpulkan cycled AETH kamu"
     },
     {
         "id": "app.notification.highlightSaveSuccess",
@@ -37,7 +37,7 @@
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Following {displayName} ..."
+        "defaultMessage": "Mengikuti {displayName} ..."
     },
     {
         "id": "app.notification.followProfileSuccess",
@@ -52,7 +52,7 @@
     {
         "id": "app.notification.unfollowingProfile",
         "description": "Notification to be displayed when unfollow transaction is sent",
-        "defaultMessage": "Unfollowing {displayName} ..."
+        "defaultMessage": "Tidak mengikuti {displayName} ..."
     },
     {
         "id": "app.notification.unfollowProfileSuccess",
@@ -62,17 +62,17 @@
     {
         "id": "app.notification.notEnoughEthers",
         "description": "Notification to show when not enough ethers",
-        "defaultMessage": "You don`t have enough ethers."
+        "defaultMessage": "Kamu tidak punya cukup ether."
     },
     {
         "id": "app.notification.notEnoughEthOrMana",
         "description": "Notification when not enough eth or mana",
-        "defaultMessage": "You don`t have enough ethers or mana."
+        "defaultMessage": "Kamu tidak punya cukup ether atau mana."
     },
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "Highfives! Profil dengan sukses didaftarkan!"
     },
     {
         "id": "app.notification.publishCommentSuccess",
@@ -82,22 +82,22 @@
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publishing \"{title}\"."
+        "defaultMessage": "Mempublikasikan \"{title}\"."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Updating \"{title}\"."
+        "defaultMessage": "Memperbarui \"{title}\"."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "Memasukkan \"{title}\" dengan berhasil diperbarui."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "Draf \"{title}\" dengan sukses dipublikasikan."
     },
     {
         "id": "app.notification.claimSuccess",
@@ -112,7 +112,7 @@
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "Menurunkan vote {entryTitle} ..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
@@ -122,12 +122,12 @@
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "Kamu dengan sukses menurunkan vote {entryTitle}"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "Meningkatkan vote {entryTitle} ..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
@@ -137,12 +137,12 @@
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "You successfully upvoted {entryTitle}"
+        "defaultMessage": "Kamu dengan sukses meningkatkan vote {entryTitle}"
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publishing comment"
+        "defaultMessage": "Mempublikasikan komentar"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
@@ -152,17 +152,17 @@
     {
         "id": "app.notification.claiming",
         "description": "Notification to be displayed when collect transaction is sent",
-        "defaultMessage": "Collecting Essence for {entryTitle} ..."
+        "defaultMessage": "Mwngumpulkan esensi untuk {entryTitle} ..."
     },
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "Draf dengan sukses disimpan!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "Draf dengan sukses dihapus!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
