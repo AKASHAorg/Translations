@@ -2,12 +2,12 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "field is required"
+        "defaultMessage": "est un champ requis"
     },
     {
         "id": "app.validator.min",
         "description": "When a field has less than minimum accepted number of characters",
-        "defaultMessage": "must be at least {min} characters long."
+        "defaultMessage": "doit contenir au moins {min} caractères."
     },
     {
         "id": "app.validator.max",
@@ -22,31 +22,31 @@
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Oups! Passphrase verification is different than first one!"
+        "defaultMessage": "Oups ! La phrase secrète de vérification est différente de la première !"
     },
     {
         "id": "app.validator.lowercase",
         "description": "only lowercase letters",
-        "defaultMessage": "should contain only lowercase letters"
+        "defaultMessage": "doit contenir uniquement des lettres minuscules"
     },
     {
         "id": "app.validator.akashaIdExists",
         "description": "When the chosen username was already registered",
-        "defaultMessage": "Username already registered!"
+        "defaultMessage": "Ce nom d'utilisateur est déjà enregistré !"
     },
     {
         "id": "app.validator.akashaIdNotValid",
         "description": "When the akashaId is not valid",
-        "defaultMessage": "Only lowercase alphanumeric characters allowed"
+        "defaultMessage": "Seuls les caractères alphanumériques en minuscules sont autorisés"
     },
     {
         "id": "app.validator.validAddress",
         "description": "A valid address (URL) is required",
-        "defaultMessage": "must be a valid address"
+        "defaultMessage": "doit être une adresse valide"
     },
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "Les extraits peuvent contenir au maximum 120 caractères"
     }
 ]
