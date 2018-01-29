@@ -22,7 +22,7 @@
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Oups! Passphrase verification is different than first one!"
+        "defaultMessage": "Oups! Verifikasisandi berbeda dari yang pertama!"
     },
     {
         "id": "app.validator.lowercase",
@@ -32,7 +32,7 @@
     {
         "id": "app.validator.akashaIdExists",
         "description": "When the chosen username was already registered",
-        "defaultMessage": "Username already registered!"
+        "defaultMessage": "Nama Pengguna sudah terdaftar!"
     },
     {
         "id": "app.validator.akashaIdNotValid",
@@ -47,6 +47,6 @@
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "Kutipanharus memiliki maks. 120 karakter"
     }
 ]
