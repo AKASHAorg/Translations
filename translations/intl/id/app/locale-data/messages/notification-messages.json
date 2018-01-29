@@ -197,7 +197,7 @@
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "Kamu telah berhasil menyimpan pengaturan kamu. kamu perlu me-restart geth\nlayanan untuk perubahan kamu untuk diterapkan."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
@@ -207,7 +207,7 @@
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Kamu telah berhasil mengatur port IPFS. Anda perlu me-restart IPFS\nlayanan untuk perubahan Anda untuk diterapkan."
     },
     {
         "id": "app.settings.themeTips",
