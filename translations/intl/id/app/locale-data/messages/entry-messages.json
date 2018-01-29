@@ -232,7 +232,7 @@
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Tidak ada esensi ini untuk digumpulkan dari entri ini"
     },
     {
         "id": "app.entry.noTitle",
@@ -372,7 +372,7 @@
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Suara Anda ditunda"
     },
     {
         "id": "app.entry.votePercentage",
