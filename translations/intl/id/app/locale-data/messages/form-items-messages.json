@@ -97,12 +97,12 @@
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will cycle back into transferable AETH in 7 days. {amount} Mana will no longer regenerate."
+        "defaultMessage": "{amount} AETH akan berputar kembali ke transferable AETH dalam 7 hari. {amount} Mana tidak akan lagi beregenerasi."
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will generate {amount} Mana every 24 hours for as long as it is kept in this state."
+        "defaultMessage": "{amount} AETH akan menghasilkan {amount} Mana setiap 24 jam selama itu disimpan dalam keadaan seperti ini."
     },
     {
         "id": "app.form.firstName",
@@ -132,12 +132,12 @@
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Kata Sandi"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Tuliskan kata sandi kamu"
     },
     {
         "id": "app.form.amountToForge",
