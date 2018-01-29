@@ -57,6 +57,6 @@
     {
         "id": "app.list.shortDescription",
         "description": "label for list description input",
-        "defaultMessage": "Short description"
+        "defaultMessage": "简短叙述"
     }
 ]
