@@ -92,7 +92,7 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "Harap masukkan kata sandi Anda di bawah ini"
     },
     {
         "id": "app.setup.normalSync",
@@ -107,7 +107,7 @@
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
+        "defaultMessage": "Sebaiknya Normal Sync ini dengan pengaturan Expressnya. Yang berani juga bisa memilih Light Sync eksperimental."
     },
     {
         "id": "app.setup.synchronization",
@@ -207,7 +207,7 @@
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Memulai klien Geth..."
     },
     {
         "id": "app.setup.upgradingGeth",
@@ -247,17 +247,17 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "Kamu akan dapat mulai masuk dan menikmati pengalaman penuh segera setelah sinkronisasi selesai! Kami menunggumu di sisi lain! Hai"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
+        "defaultMessage": "Sinkronisasi selesai. Layanan IPFS perlu dijalankan agar\nterus. Anda bisa memulainya secara manual dari status bar di header atau\nklik SELANJUTNYA untuk memulai secara otomatis."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "If you want to import an identity please see this link."
+        "defaultMessage": "Silahkan ingin mengimpor identitas silahkan lihat link ini."
     },
     {
         "id": "app.setup.findingPeers",
