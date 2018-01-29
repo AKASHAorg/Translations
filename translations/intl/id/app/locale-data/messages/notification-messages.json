@@ -132,7 +132,7 @@
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "You successfully upvoted a comment"
+        "defaultMessage": "Kamu berhasil mengganti komentar"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
@@ -177,7 +177,7 @@
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "Anda telah berhasil memberi tip {nama tampilan}"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
