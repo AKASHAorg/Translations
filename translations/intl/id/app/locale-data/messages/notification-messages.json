@@ -17,7 +17,7 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "Sorotan ini telah tersimpan!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
@@ -47,7 +47,7 @@
     {
         "id": "app.notification.transformEssenceSuccess",
         "description": "notification to be displayed when transform Essence transaction was mined",
-        "defaultMessage": "You successfully transformed {amount} Essence"
+        "defaultMessage": "Anda sudah berhasil mengubah {amount} Esensi"
     },
     {
         "id": "app.notification.unfollowingProfile",
