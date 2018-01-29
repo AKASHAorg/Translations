@@ -267,7 +267,7 @@
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Terjadi kesalahan saat memperbarui profil kamu"
     },
     {
         "id": "app.error.saveGeneralSettings",
