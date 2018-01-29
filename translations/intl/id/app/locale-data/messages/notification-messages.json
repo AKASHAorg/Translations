@@ -167,12 +167,12 @@
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "Link sudah di salin ke clipboard"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "Mengirimkan tip ke {displayName} ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
@@ -182,7 +182,7 @@
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "Notifikasi-notifikasi diaktifkan untuk {displayName}"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
