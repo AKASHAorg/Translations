@@ -17,7 +17,7 @@
     {
         "id": "app.list.descriptionPlaceholder",
         "description": "placeholder for list description input",
-        "defaultMessage": "Add a short description"
+        "defaultMessage": "添加简短叙述"
     },
     {
         "id": "app.list.deleteList",
