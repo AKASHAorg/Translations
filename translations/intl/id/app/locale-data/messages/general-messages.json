@@ -312,7 +312,7 @@
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana Pool Info"
+        "defaultMessage": "Informasi Mana Pool"
     },
     {
         "id": "app.general.manafied",
@@ -332,12 +332,12 @@
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "Tidak"
     },
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Teman-teman tidak tersedia"
     },
     {
         "id": "app.general.notes",
@@ -347,12 +347,12 @@
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Tidak ditemukan"
     },
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications (coming soon)"
+        "defaultMessage": "Notifikasi-notifikasi (segera datang)"
     },
     {
         "id": "app.general.ok",
@@ -397,7 +397,7 @@
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Ikhtisar profil"
     },
     {
         "id": "app.general.publish",
@@ -427,12 +427,12 @@
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Ganti nama"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Membalas"
     },
     {
         "id": "app.general.reset",
@@ -442,12 +442,12 @@
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "Mulai lagi"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Mencoba lagi"
     },
     {
         "id": "app.general.requestTestAEthers",
@@ -457,17 +457,17 @@
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Tes permintaan ETH"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "Tes permintaan Ethers!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "Meminta AKASHA Ethers!"
     },
     {
         "id": "app.general.running",
