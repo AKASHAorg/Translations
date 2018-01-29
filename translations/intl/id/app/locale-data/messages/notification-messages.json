@@ -22,7 +22,7 @@
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Do you want to type a note?"
+        "defaultMessage": "Apakah kamu ingin mengetik catatan?"
     },
     {
         "id": "app.notification.updatingProfile",
@@ -42,7 +42,7 @@
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "You are now following {displayName}"
+        "defaultMessage": "Anda sekarang mengikuti {nama tampilan}"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
@@ -57,7 +57,7 @@
     {
         "id": "app.notification.unfollowProfileSuccess",
         "description": "Notification to be displayed when unfollow transaction was mined",
-        "defaultMessage": "You are not following {displayName} anymore"
+        "defaultMessage": "Anda tidak mengikuti {nama tampilan} lagi"
     },
     {
         "id": "app.notification.notEnoughEthers",
