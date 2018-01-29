@@ -382,7 +382,7 @@
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Kamu tidak bisa memberikan komentar kamu sendiri"
     },
     {
         "id": "app.entry.votingPeriod",
