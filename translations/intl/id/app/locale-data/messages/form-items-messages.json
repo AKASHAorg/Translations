@@ -92,7 +92,7 @@
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "Anda perlu mengubah minimal 1000 lesensi"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Pilih jumlah esensi harus berubah"
     },
     {
         "id": "app.form.amountToShift",
