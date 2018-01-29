@@ -77,7 +77,7 @@
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "Blok"
     },
     {
         "id": "app.general.cancel",
@@ -112,7 +112,7 @@
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "Dikumpulkan"
     },
     {
         "id": "app.general.comments",
@@ -127,17 +127,17 @@
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Dikonfirmasi di blok #{blockNr}"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Salin"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "Konter"
     },
     {
         "id": "app.general.create",
@@ -157,7 +157,7 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Menghapus"
     },
     {
         "id": "app.general.done",
@@ -167,7 +167,7 @@
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Sedang Mengunduh"
     },
     {
         "id": "app.general.edit",
@@ -177,27 +177,27 @@
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "Edit profil"
     },
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Masukan"
     },
     {
         "id": "app.general.essence",
         "description": "essence",
-        "defaultMessage": "Essence"
+        "defaultMessage": "Esensi"
     },
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "Jumlah esensi"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "Jumlah nilai esensi"
     },
     {
         "id": "app.general.eth",
@@ -207,17 +207,17 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Alamat Ethereum"
     },
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "Gagal di blok #{blockNr}"
     },
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "Dilupakan"
     },
     {
         "id": "app.general.forward",
@@ -227,27 +227,27 @@
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Sedang menghasilkan tinjauan"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Layanan Geth mati"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Layanan Geth hidup"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Bantu"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "Riwayat"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,17 +257,17 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "Layanan IPFS Mati"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "Layanan IPFS Hidup"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Gabung"
     },
     {
         "id": "app.general.karma",
@@ -277,12 +277,12 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "Jumlah nilai Karma"
     },
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "Pelajari Lagi"
     },
     {
         "id": "app.general.leave",
@@ -292,7 +292,7 @@
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "Log"
     },
     {
         "id": "app.general.logout",
@@ -307,7 +307,7 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Jumlah Mana yang dibakar"
     },
     {
         "id": "app.general.manaPool",
