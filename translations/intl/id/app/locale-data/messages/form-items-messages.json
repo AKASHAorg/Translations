@@ -2,7 +2,7 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Tentang Saya"
     },
     {
         "id": "app.form.addressRequired",
@@ -22,7 +22,7 @@
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Maaf, Kamu tidak memiliki cukup tes ether!"
     },
     {
         "id": "app.form.depositEth",
@@ -32,7 +32,7 @@
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "Jumlah AETH"
     },
     {
         "id": "app.form.amountRequired",
@@ -57,7 +57,7 @@
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "{aeth} Dipindahtangankan AETH"
     },
     {
         "id": "app.form.maxAethAmountLabel",
@@ -67,7 +67,7 @@
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "{essence} Esensi tersedia"
     },
     {
         "id": "app.form.maxEthAmount",
