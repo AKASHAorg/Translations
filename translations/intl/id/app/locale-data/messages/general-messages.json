@@ -297,7 +297,7 @@
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Keluar"
     },
     {
         "id": "app.general.mana",
@@ -327,7 +327,7 @@
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Selanjutnya"
     },
     {
         "id": "app.general.no",
@@ -387,12 +387,12 @@
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Mempertunjukkan"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "Mengolah gambar"
     },
     {
         "id": "app.general.profileOverview",
@@ -402,12 +402,12 @@
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Di umumkan"
     },
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "Publishing"
+        "defaultMessage": "Mengumumkan"
     },
     {
         "id": "app.general.received",
@@ -437,7 +437,7 @@
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "Menyetel ulang"
     },
     {
         "id": "app.general.resume",
@@ -517,17 +517,17 @@
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Profil saya"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Komunitas ini: segera hadir"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Mencari"
     },
     {
         "id": "app.general.sidebarTooltipChat",
@@ -622,7 +622,7 @@
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "Silahkan pilih nama pengguna anda dulu!"
     },
     {
         "id": "app.general.userSettings",
@@ -682,7 +682,7 @@
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Karma anda akan meningkat setiap anda mengumpulkan esesensi."
     },
     {
         "id": "app.general.createTags",
