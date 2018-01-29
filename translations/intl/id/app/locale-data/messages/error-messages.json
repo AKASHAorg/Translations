@@ -257,7 +257,7 @@
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "Terjadi kesalahan saat mentransfer {value} ETH"
     },
     {
         "id": "app.error.profileTransformEssence",
