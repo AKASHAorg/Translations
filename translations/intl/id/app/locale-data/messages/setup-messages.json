@@ -102,7 +102,7 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+        "defaultMessage": "Selamat, kamu adalah pelopor yang melakukan sinkronisasi dengan jaringan uji Ethereum! Sebaiknya Normal Sync dengan pengaturan Express namun yang berani juga bisa memilih Sync Light (sangat) eksperimental! :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
@@ -137,7 +137,7 @@
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "Silahkan pilih satu identitas untuk masuk"
     },
     {
         "id": "app.setup.newIdentity",
