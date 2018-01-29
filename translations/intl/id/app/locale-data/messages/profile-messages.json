@@ -302,7 +302,7 @@
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Interaksi kamu dengan blockchain"
     },
     {
         "id": "app.profile.unfollow",
