@@ -32,7 +32,7 @@
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Profil anda telah berhasil diperbarui"
+        "defaultMessage": "Profil kamu dengan sukses diperbarui"
     },
     {
         "id": "app.notification.followingProfile",
@@ -47,7 +47,7 @@
     {
         "id": "app.notification.transformEssenceSuccess",
         "description": "notification to be displayed when transform Essence transaction was mined",
-        "defaultMessage": "Anda sudah berhasil mengubah {amount} Esensi"
+        "defaultMessage": "Kamu dengan sukses menggantikan {amount} Esensi"
     },
     {
         "id": "app.notification.unfollowingProfile",
@@ -57,7 +57,7 @@
     {
         "id": "app.notification.unfollowProfileSuccess",
         "description": "Notification to be displayed when unfollow transaction was mined",
-        "defaultMessage": "Anda tidak mengikuti {nama tampilan} lagi"
+        "defaultMessage": "Kamu tidak mengikuti {displayName} lagi"
     },
     {
         "id": "app.notification.notEnoughEthers",
@@ -77,7 +77,7 @@
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "Anda berhasil menerbitkan sebuah komentar"
+        "defaultMessage": "Kamu dengan berhasil mempublikasikan sebuah komentar"
     },
     {
         "id": "app.notification.publishingEntry",
@@ -102,7 +102,7 @@
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "Anda berhasil dikumpulkan Esensi untuk {entryTitle}"
+        "defaultMessage": "Kamu dengan sukses mengumpulkan Esensi untuk {entryTitle}"
     },
     {
         "id": "app.notification.claimVoteSuccess",
@@ -117,7 +117,7 @@
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "Anda berhasil menurunkan vote sebuah komentar"
+        "defaultMessage": "Kamu dengan sukses menurunkan vote sebuah komentar"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
@@ -132,7 +132,7 @@
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "Kamu berhasil mengganti komentar"
+        "defaultMessage": "Kamu dengan sukses meningkatkan vote sebuah komentar"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
@@ -147,7 +147,7 @@
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Komentar berhasil diterbitkan"
+        "defaultMessage": "Komentar dipublikasikan dengan sukses"
     },
     {
         "id": "app.notification.claiming",
@@ -212,7 +212,7 @@
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Tema Anda akan berubah setelah menyegarkan app."
+        "defaultMessage": "Tema kamu akan berubah setelah menyegarkan kembali aplikasi."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
