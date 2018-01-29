@@ -72,7 +72,7 @@
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} Dipindahtangankan ETH"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -82,12 +82,12 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Menggantikan esensi"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{amount} Essence will forge {value} new AETH in your balance."
+        "defaultMessage": "{amount} Esensi akan menempa {value} AETH baru dalam saldo anda."
     },
     {
         "id": "app.form.transformEssenceMin",
@@ -122,7 +122,7 @@
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Alamat Ethereum"
     },
     {
         "id": "app.form.from",
@@ -147,7 +147,7 @@
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Harap pilih jumlah yang akan bergeser"
     },
     {
         "id": "app.form.fromManafiedToCycling",
@@ -312,6 +312,6 @@
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Perbarui Pengaturan"
     }
 ]
