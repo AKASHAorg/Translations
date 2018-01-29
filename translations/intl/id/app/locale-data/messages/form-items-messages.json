@@ -187,7 +187,7 @@
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Kata sandi tidak cocok Harap ketik Kata sandi lagi"
     },
     {
         "id": "app.form.passphraseVerify",
@@ -277,7 +277,7 @@
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "defaultMessage": "Tag hanya bisa berisi huruf, angka, dan satu tanda hubung (-) atau garis bawah (_) di antara karakter."
     },
     {
         "id": "app.form.selectOneOption",
