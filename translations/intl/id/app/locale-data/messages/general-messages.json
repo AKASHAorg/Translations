@@ -592,7 +592,7 @@
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "Ketentuan Layanan ini dan Kebijakan Privasi"
     },
     {
         "id": "app.general.transactionFailed",
