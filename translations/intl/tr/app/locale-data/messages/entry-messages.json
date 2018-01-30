@@ -57,7 +57,7 @@
     {
         "id": "app.entry.commentsCount",
         "description": "Number of comments",
-        "defaultMessage": "{count, number} {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} {count, plural, one {yorum yap} few {yorumlar} many {yorumlar} other {yorumlar}}"
     },
     {
         "id": "app.entry.continueEditing",
@@ -82,7 +82,7 @@
     {
         "id": "app.entry.draftsCount",
         "description": "number of drafts",
-        "defaultMessage": "{count, number} {count, plural, one {draft} few {drafts} many {drafts} other {drafts}}"
+        "defaultMessage": "{count, number} {count, plural, one {taslak} few {taslaklar} many {taslaklar} other {taslaklar}}"
     },
     {
         "id": "app.entry.draftContentRequired",
@@ -152,7 +152,7 @@
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "alıntı"
     },
     {
         "id": "app.entry.featuredImage",
@@ -167,7 +167,7 @@
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Bu değeri kendi hesabınızdan değiştirebilirsiniz"
     },
     {
         "id": "app.entry.hiddenContent3",
