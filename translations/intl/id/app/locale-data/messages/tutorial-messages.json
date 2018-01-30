@@ -17,7 +17,7 @@
     {
         "id": "app.tutorial.ethereumContent",
         "description": "ethereum slide content",
-        "defaultMessage": "Ethereum menberikan kami membuat aplikasi baru yang menghilangkan kebutuhan\nuntuk membabi buta mempercayai administrator server. Berkat sifat transparannya kita\nmemiliki otentikasi, identitas, verifikasi, pemungutan suara dan\ntransaksi mikro."
+        "defaultMessage": "Ethereum menberikan kita untuk membuat jenis aplikasi baru yang menghilangkan kebutuhan                \nuntuk membabi buta mempercayai server administrator-administrator. Terimakasih kepada sifat transparannya kita                memiliki otentikasi yang kuat, identitas, verifiability, memvoting dan                transaksi-transaksi mikro."
     },
     {
         "id": "app.tutorial.ipfsTitle",
