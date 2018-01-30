@@ -7,7 +7,7 @@
     {
         "id": "app.tutorial.akashaContent",
         "description": "akasha slide content",
-        "defaultMessage": "Dengan AKASHA, pikiran dan pemikiran Anda akan bergema sepanjang keberadaan manusia,\nberkat jaringan skala planet yang kebal terhadap penyensoran dengan desain. Informasi\nhidup dan menyebar di seluruh jaringan tanpa bergantung pada entitas tertentu,\nbahkan kita pun tidak."
+        "defaultMessage": "Dengan AKASHA pikiran dan gagasan kamu akan bergema sepanjang keberadaan manusia,\n                 Terimakasih kepada kekebalan jaringan Antar-planet untuk penyensoran dengan desain. Informasi                hidup dan menyebar di seluruh jaringan tanpa mengandalkan entitas tertentu,                bahkan kita juga tidak."
     },
     {
         "id": "app.tutorial.ethereumTitle",
@@ -32,7 +32,7 @@
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "Menuju Sebuah Web yang Lebih Baik Dalam Pelayanan Kemanusiaan"
     },
     {
         "id": "app.tutorial.webContent",
