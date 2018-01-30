@@ -107,7 +107,7 @@
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Destek oyu"
     },
     {
         "id": "app.confirmations.follow",
