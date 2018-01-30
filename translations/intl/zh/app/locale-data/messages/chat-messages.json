@@ -22,27 +22,27 @@
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "写下一些不错的东西，按“回车键”发送"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "频道名称不能为空"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "频道名称必须以小写字母开头"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "只允许使用小写字母、破折号（-）和下划线_"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "频道名称不能超过32个字符"
     },
     {
         "id": "app.chat.channelDisclaimer",
