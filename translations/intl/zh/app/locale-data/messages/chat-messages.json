@@ -47,6 +47,6 @@
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "此频道是短暂的，消息在发布24小时后会消失"
     }
 ]
