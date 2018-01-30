@@ -2,7 +2,7 @@
     {
         "id": "app.tutorial.akashaTitle",
         "description": "akasha slide title",
-        "defaultMessage": "The Language of Freedom"
+        "defaultMessage": "Bahasa Kebebasan"
     },
     {
         "id": "app.tutorial.akashaContent",
@@ -12,7 +12,7 @@
     {
         "id": "app.tutorial.ethereumTitle",
         "description": "ethereum slide title",
-        "defaultMessage": "Powered By Ethereum"
+        "defaultMessage": "Didukung oleh Ethereum"
     },
     {
         "id": "app.tutorial.ethereumContent",
@@ -22,7 +22,7 @@
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Enhanced By The Inter-Planetary File System"
+        "defaultMessage": "Ditingkatkan Oleh Sistem Berkas Antar-planet"
     },
     {
         "id": "app.tutorial.ipfsContent",
