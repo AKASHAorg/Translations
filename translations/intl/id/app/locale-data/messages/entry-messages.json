@@ -7,7 +7,7 @@
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "{weight} kamu menjatuhkan vote dengan berat"
+        "defaultMessage": "Kamu menjatuhkan vote dengan berat{weight}"
     },
     {
         "id": "app.entry.alreadyUpvoted",
