@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Tidak bisa menyelesaikan masukan penulis"
     },
     {
         "id": "app.entry.upvote",
@@ -362,7 +362,7 @@
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Riwayat versi"
     },
     {
         "id": "app.entry.versionNumber",
@@ -447,11 +447,11 @@
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Got to my drafts"
+        "defaultMessage": "Pergi ke draf saya"
     },
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Masukan-masukan saya"
     }
 ]
