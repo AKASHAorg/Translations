@@ -407,42 +407,42 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Menulis sebuah komentar"
     },
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Write a reply to {name}"
+        "defaultMessage": "Tulis sebuah balasan untuk{name}"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "Kamu tidak memiliki konsep."
     },
     {
         "id": "app.entry.draftAll",
         "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "defaultMessage": "Semua drafts"
     },
     {
         "id": "app.entry.entriesAll",
         "description": "",
-        "defaultMessage": "All Entries"
+        "defaultMessage": "Semua masukan"
     },
     {
         "id": "app.entry.publishedAll",
         "description": "all published entries",
-        "defaultMessage": "All entries"
+        "defaultMessage": "Semua masukan-masukan"
     },
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "konsep"
     },
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "defaultMessage": "masukan-masukan"
     },
     {
         "id": "app.entry.gotoMyDrafts",
