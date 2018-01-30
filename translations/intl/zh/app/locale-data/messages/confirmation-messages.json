@@ -7,7 +7,7 @@
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafy"
+        "defaultMessage": "法力化"
     },
     {
         "id": "app.confirmations.claim",
