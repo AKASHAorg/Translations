@@ -67,7 +67,7 @@
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Vote rendah"
     },
     {
         "id": "app.entry.draft",
@@ -77,7 +77,7 @@
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "Konsep"
     },
     {
         "id": "app.entry.draftsCount",
@@ -117,7 +117,7 @@
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "Membagikan pratinjau link"
     },
     {
         "id": "app.entry.edited",
