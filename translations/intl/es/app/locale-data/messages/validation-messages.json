@@ -17,7 +17,7 @@
     {
         "id": "app.validator.invalidCharacters",
         "description": "When a field does not start with a letter or contains invalid characters",
-        "defaultMessage": "debe de empezar con una letra y contener solo caracteres válidos"
+        "defaultMessage": "debe de empezar con una letra y contener sólo caracteres válidos"
     },
     {
         "id": "app.validator.passphraseNotMatching",
