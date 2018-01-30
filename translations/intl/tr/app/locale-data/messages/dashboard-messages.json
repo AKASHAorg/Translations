@@ -17,7 +17,7 @@
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "Liste sütunu"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
@@ -62,7 +62,7 @@
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Feed' i takip et"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Feed' i takip et"
     },
     {
         "id": "app.dashboard.tag",
