@@ -2,12 +2,12 @@
     {
         "id": "app.akasha.terms.version",
         "description": "terms and conditions version information",
-        "defaultMessage": "Version 2 / November 2016"
+        "defaultMessage": "版本 2016年11月2日"
     },
     {
         "id": "app.akasha.terms.title",
         "description": "AKASHA`s terms and conditions title",
-        "defaultMessage": "AKASHA: Terms of Service"
+        "defaultMessage": "AKASHA：服务条款"
     },
     {
         "id": "app.akasha.terms.preface",
