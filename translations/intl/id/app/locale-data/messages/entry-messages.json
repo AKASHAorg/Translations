@@ -127,7 +127,7 @@
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "Mengedit masukan"
     },
     {
         "id": "app.entry.entriesCount",
@@ -242,7 +242,7 @@
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Tidak ada votes"
     },
     {
         "id": "app.entry.olderVersion",
@@ -282,7 +282,7 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Menyelesaikan ipfs hash..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
@@ -292,7 +292,7 @@
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Menyimpan sorot"
     },
     {
         "id": "app.entry.score",
@@ -307,7 +307,7 @@
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Pencarian untuk sebuah daftar"
     },
     {
         "id": "app.entry.showAnyway",
