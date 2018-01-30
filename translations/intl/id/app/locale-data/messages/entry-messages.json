@@ -312,7 +312,7 @@
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Tetap show"
     },
     {
         "id": "app.entry.showLess",
@@ -327,17 +327,17 @@
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Mulai komentar"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Membuat sebuah konsep sekarang!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Judul"
     },
     {
         "id": "app.entry.titleRequired",
@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Vote naik"
     },
     {
         "id": "app.entry.version",
@@ -367,7 +367,7 @@
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Versi{index}"
     },
     {
         "id": "app.entry.votePending",
@@ -387,7 +387,7 @@
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "Jangka voting sudah berakhir"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
