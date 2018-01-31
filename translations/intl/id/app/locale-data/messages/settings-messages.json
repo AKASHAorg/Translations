@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app settings"
+        "defaultMessage": "Menyesuaikan pengaturan aplikasi anda"
     },
     {
         "id": "app.settings.english",
