@@ -267,7 +267,7 @@
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Enviar propina"
+        "defaultMessage": "Propina enviada"
     },
     {
         "id": "app.profile.support",
