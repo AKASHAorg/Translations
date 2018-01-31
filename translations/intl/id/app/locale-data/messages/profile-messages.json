@@ -97,7 +97,7 @@
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Other crypto addresses"
+        "defaultMessage": "Alamat kripo lainnya"
     },
     {
         "id": "app.profile.addCryptoAddress",
@@ -312,6 +312,6 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Alamat ethereum anda"
     }
 ]
