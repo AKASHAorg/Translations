@@ -27,7 +27,7 @@
     {
         "id": "app.tutorial.ipfsContent",
         "description": "ipfs slide content",
-        "defaultMessage": "Gracias al Inter-Planetary File System (IPFS) eliminamos también la necesidad\n                de servidores para distribuir y almacenar su contenido. Esto permite a los usuarios a burlar\n                bloqueos tradicionales de censura y empodera a las personas con una verdadera\n                libertad de expresión."
+        "defaultMessage": "Gracias al Inter-Planetary File System (IPFS) eliminamos también la necesidad\n                de servidores para distribuir y almacenar su contenido. Esto permite a los usuarios burlar\n                los bloqueos tradicionales de censura y empodera a las personas con una verdadera\n                libertad de expresión."
     },
     {
         "id": "app.tutorial.webTitle",
