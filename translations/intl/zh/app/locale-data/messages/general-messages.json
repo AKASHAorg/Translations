@@ -217,7 +217,7 @@
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "已提炼"
+        "defaultMessage": "Forged"
     },
     {
         "id": "app.general.forward",
@@ -302,22 +302,22 @@
     {
         "id": "app.general.mana",
         "description": "mana",
-        "defaultMessage": "法力"
+        "defaultMessage": "Mana"
     },
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "总消耗法力"
+        "defaultMessage": "Total Mana burned"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "法力汇集信息"
+        "defaultMessage": "Mana Pool Info"
     },
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "法力化"
+        "defaultMessage": "Manafied"
     },
     {
         "id": "app.general.minutesCount",
@@ -612,7 +612,7 @@
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "法力化 AETH"
+        "defaultMessage": "Manafy AETH"
     },
     {
         "id": "app.general.translate",
