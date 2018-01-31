@@ -2,17 +2,17 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "Images aux formats JPG, GIF ou PNG"
     },
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "You downvoted with weight {weight}"
+        "defaultMessage": "Vous avez voté contre avec un poids de {weight}"
     },
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "Vous avez voté pour avec un poids de {weight}"
     },
     {
         "id": "app.entry.articleEntryType",
@@ -22,137 +22,137 @@
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "Vous ne pouvez récupérer de l'Essence que si le score de votre entrée est positif"
     },
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Vous ne pouvez récupérer de l'Essence que si votre vote est aligné avec la majorité (p. ex. si vous avez voté pour et le score de l'entrée est positif)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Échec de l'extraction des informations depuis le site web ! Veuillez utiliser une autre adresse"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Échec de la récupération des informations de licence."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "ajouter une légende"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Essence récupérée"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Récupérer l'Essence"
     },
     {
         "id": "app.entry.commentsCount",
         "description": "Number of comments",
-        "defaultMessage": "{count, number} {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} {count, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
     },
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Continuer à éditer"
     },
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Voter contre"
     },
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Draft"
+        "defaultMessage": "Brouillon"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "Brouillons"
     },
     {
         "id": "app.entry.draftsCount",
         "description": "number of drafts",
-        "defaultMessage": "{count, number} {count, plural, one {draft} few {drafts} many {drafts} other {drafts}}"
+        "defaultMessage": "{count, number} {count, plural, one {brouillon} few {brouillons} many {brouillons} other {brouillons}}"
     },
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "You can't create an article without content!"
+        "defaultMessage": "Vous ne pouvez pas créer d'articles sans contenu !"
     },
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "Supprimer le brouillon"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "Êtes-vous sûr de vouloir supprimer ce brouillon ?"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "Éditer le brouillon"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "Brouillon enregistré"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "Enregistrement du brouillon"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "Partager le lien vers l'aperçu"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Édité"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "Éditer l'entrée"
     },
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+        "defaultMessage": "{count, number} {count, plural, one {entrée} other {entrées}}"
     },
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Entrer une adresse, p. ex. www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "Vous devez ajouter au moins une balise"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "Les extraits ne doivent pas comporter plus de 120 caractères"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "extrait"
     },
     {
         "id": "app.entry.featuredImage",
@@ -162,87 +162,87 @@
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "Ce contenu a un score inférieur à {score}."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Vous pouvez modifier cette valeur dans votre"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "paramètres personnels"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "Licence"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Lien"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Charger plus de réponses"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Chargement des brouillons..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Version locale"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Veuillez vous assurer d'ouvrir le dApp AKASHA sur l'ordinateur depuis lequel vous avez publié."
     },
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} {count, plural, one {nouveau} few {nouveaux} many {nouveaux} other {nouveaux}} {count, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
     },
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments found"
+        "defaultMessage": "Aucun commentaire trouvé"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Aucun brouillon correspondant à votre recherche n'a été trouvé."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "Acune entrée"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Pas de nouvelles entrées"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Il n'y a pas d'Essence à récupérer avec cette entrée"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Nouveau brouillon"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Aucun vote"
     },
     {
         "id": "app.entry.olderVersion",
