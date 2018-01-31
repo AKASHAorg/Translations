@@ -167,7 +167,7 @@
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "Destacados"
+        "defaultMessage": "Resaltos"
     },
     {
         "id": "app.profile.lists",
