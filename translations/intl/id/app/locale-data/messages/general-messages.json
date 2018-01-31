@@ -597,7 +597,7 @@
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "Transaksi sudah gagal"
     },
     {
         "id": "app.general.transferable",
