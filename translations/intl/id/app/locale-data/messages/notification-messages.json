@@ -227,7 +227,7 @@
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "Anda dengan berhasil memindahkan {value} ETH ke {displayName}"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
