@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Menyesuaikan preferensi aplikasi anda"
     },
     {
         "id": "app.settings.english",
@@ -97,7 +97,7 @@
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
+        "defaultMessage": "Memilih pilihan anda untuk tips"
     },
     {
         "id": "app.settings.tipsDisabled",
@@ -152,6 +152,6 @@
     {
         "id": "app.settings.notificationsInfo",
         "description": "description for notification preferences",
-        "defaultMessage": "Your notification preferences for Akasha"
+        "defaultMessage": "Preferensi notifikasi anda untuk Akasha"
     }
 ]
