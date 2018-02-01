@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "通知 (もうすぐ)"
+        "defaultMessage": "Notifications"
     },
     {
         "id": "app.general.ok",
@@ -692,7 +692,7 @@
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "ランキング"
+        "defaultMessage": "Proto-Reputation"
     },
     {
         "id": "app.general.karmaLevel",
@@ -733,5 +733,80 @@
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
         "defaultMessage": "イメージ"
+    },
+    {
+        "id": "app.general.you",
+        "description": "",
+        "defaultMessage": "You"
+    },
+    {
+        "id": "app.general.waitASecond",
+        "description": "title for external navigation modal",
+        "defaultMessage": "Wait a second..."
+    },
+    {
+        "id": "app.general.externalNavigationWarning",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "You are about to navigate to an external URL"
+    },
+    {
+        "id": "app.general.collectAll",
+        "description": "collect all Essence",
+        "defaultMessage": "Collect all"
+    },
+    {
+        "id": "app.general.noTransactionsTitle",
+        "description": "no transactions message title",
+        "defaultMessage": "No transactions"
+    },
+    {
+        "id": "app.general.noTransactionsDescription",
+        "description": "no transaction message description",
+        "defaultMessage": "There is no transaction history"
+    },
+    {
+        "id": "app.general.noEssenceToCollectTitle",
+        "description": "message title when you don`t have any essence to collect",
+        "defaultMessage": "No essence to collect"
+    },
+    {
+        "id": "app.general.noEssenceToCollectDescription",
+        "description": "message description when you don`t have any essence to collect",
+        "defaultMessage": "You don`t have any essence to collect"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedTitle",
+        "description": "",
+        "defaultMessage": "No essence was collected"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedDescription",
+        "description": "",
+        "defaultMessage": "No transaction history"
+    },
+    {
+        "id": "app.entry.startTypingToSearch",
+        "description": "start typing to search",
+        "defaultMessage": "Start typing to search"
+    },
+    {
+        "id": "app.entry.searchingNoResults",
+        "description": "searching for a term returned no results message",
+        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+    },
+    {
+        "id": "app.general.go",
+        "description": "go",
+        "defaultMessage": "Go"
+    },
+    {
+        "id": "app.general.navigateToLink",
+        "description": "tooltip for navigate to link button",
+        "defaultMessage": "Navigate to link"
+    },
+    {
+        "id": "app.general.share",
+        "description": "share",
+        "defaultMessage": "Share"
     }
 ]
