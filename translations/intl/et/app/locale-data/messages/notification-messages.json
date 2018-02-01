@@ -233,5 +233,45 @@
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
         "defaultMessage": "You have successfully saved your personal settings"
+    },
+    {
+        "id": "app.notification.faucetRequestSuccess",
+        "description": "message to show when faucet tx successful",
+        "defaultMessage": "You have successfully received test ETH and some AETH"
+    },
+    {
+        "id": "app.settings.notifFollow",
+        "description": "text for notification",
+        "defaultMessage": "followed you"
+    },
+    {
+        "id": "app.settings.notifComment",
+        "description": "text for notification",
+        "defaultMessage": "commented on"
+    },
+    {
+        "id": "app.settings.notifDonationAeth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationBoth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationEth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH"
+    },
+    {
+        "id": "app.settings.notifVote",
+        "description": "text for notification",
+        "defaultMessage": "voted on"
+    },
+    {
+        "id": "app.settings.notifBlockNr",
+        "description": "text for notification block number",
+        "defaultMessage": "at block number {blockNr}"
     }
 ]
