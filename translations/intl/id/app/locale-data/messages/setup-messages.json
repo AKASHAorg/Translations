@@ -247,7 +247,7 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "Kamu akan dapat mulai masuk dan menikmati pengalaman penuh segera setelah sinkronisasi selesai! Kami menunggumu di sisi lain! Hai"
+        "defaultMessage": "Anda akan mampu untuk masuk ke dalam dan menikmati pengalaman sepenuhnya segera setelah sinkronisasi itu selesai! Kami sedang menunggu anda untuk di sisi lainnya! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
