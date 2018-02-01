@@ -12,7 +12,7 @@
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "Untuk menikmati pengalaman penuh, lengkapi profil anda sekarang!"
+        "defaultMessage": "Untuk menikmati pengalaman sepenuhnya, lengkapilah profil anda sekarang!"
     },
     {
         "id": "app.setup.createIdentity",
