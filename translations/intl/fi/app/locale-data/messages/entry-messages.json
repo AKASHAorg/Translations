@@ -82,7 +82,7 @@
     {
         "id": "app.entry.draftsCount",
         "description": "number of drafts",
-        "defaultMessage": "{luku, number} {luku, plural, yksi {comment} muutama {comments} monta {comments} other {comments}}\n\n"
+        "defaultMessage": "{count, number} {count, plural, yksi {kommentti} muutama {kommentti} monta {kommenttia} other {kommentti}}\n\n"
     },
     {
         "id": "app.entry.draftContentRequired",
@@ -132,32 +132,32 @@
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+        "defaultMessage": "{count, number} {count, plural, yksi {merkintä}other {merkinnät}}"
     },
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Kirjoita osoite. esim. www.Akasha.World"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "Sinun on lisättävä ainakin yksi tagi"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "Poiminto voi olla maksimissaan 120 merkkiä pitkä"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "poiminto"
     },
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Featured image"
+        "defaultMessage": "Esillä oleva kuva"
     },
     {
         "id": "app.entry.hiddenContent",
