@@ -382,7 +382,7 @@
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "Kamu tidak bisa memberikan komentar kamu sendiri"
+        "defaultMessage": "Anda tidak bisa memilih komentar anda sendiri"
     },
     {
         "id": "app.entry.votingPeriod",
@@ -392,12 +392,12 @@
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Pengguna masih bisa memberikan suara pada entri tapi mana yang dibakar untuk suara ini tidak dapat dikumpulkan oleh penulis atau para pemilih."
+        "defaultMessage": "Pengguna tetap bisa memilih pada entri akan tetapi mana itu terbakar untuk pemilihan ini tidak bisa dikumpulkan oleh penulis atau pemilihnya."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "Terjadi kesalahan saat mencoba mengambil info situs web"
+        "defaultMessage": "Sebuah kesalahan terjadi pada waktu mencoba untuk mengambil informasi situs web"
     },
     {
         "id": "app.entry.wordsCount",
