@@ -2,51 +2,51 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "收藏频道"
+        "defaultMessage": "Starred channels"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "近期频道"
+        "defaultMessage": "Recent channels"
     },
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "加入频道"
+        "defaultMessage": "Join channel"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "频道名称"
+        "defaultMessage": "Channel name"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "写下一些不错的东西，按“回车键”发送"
+        "defaultMessage": "Write something nice and press \"Enter\" to send it"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "频道名称不能为空"
+        "defaultMessage": "Channel name should not be empty"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "频道名称必须以小写字母开头"
+        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "只允许使用小写字母、破折号（-）和下划线_"
+        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "频道名称不能超过32个字符"
+        "defaultMessage": "Channel name must not have more than 32 characters"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "此频道是短暂的，消息在发布24小时后会消失"
+        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
     }
 ]
