@@ -102,7 +102,7 @@
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "Anda perlu mendaftarkan profil anda sebelum mengubah opsi ini"
+        "defaultMessage": "Anda butuh untuk mendaftarkan profil anda sebelum mengubah pilihan ini"
     },
     {
         "id": "app.settings.tipsOptions",
@@ -112,7 +112,7 @@
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Mengubah opsi ini akan melibatkan pengiriman transaksi"
+        "defaultMessage": "Mengubah pilihan ini akan melibatkan pengiriman sebuah transaksi"
     },
     {
         "id": "app.settings.tipsAccept",
