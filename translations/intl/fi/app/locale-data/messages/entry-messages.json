@@ -162,112 +162,112 @@
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "Tämä sisältö on alle {score} pistettä."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Voit muuttaa tämän arvon sinun"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "henkilökohtaiset asetukset"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "Lisenssi"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Linkki"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Lataa enemmän vastauksia"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Ladataan luonnokset..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Paikallinen versio"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Varmista, että avaat AKASHA sovelluksen tietokoneella jolta sisältö on julkaistu."
     },
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} uusi {count, plural, one {kommentti} few {kommentti} many {kommenttia} other {kommentit}}"
     },
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments found"
+        "defaultMessage": "Kommentteja ei löytynyt"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Käyttämilläsi hakusanoilla ei löytynyt luonnoksia."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "Ei merkintöjä"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Ei uusia merkintöjä"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Ei kerättävää Essenceä tästä luonnoksesta"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Uusi luonnos"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Ei ääniä"
     },
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "Tarkastelet vanhempaa"
     },
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Original"
+        "defaultMessage": "Alkuperäinen"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Tagi ei ole käytettävissä!"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Julkinen keskustelu"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Julkaistu"
     },
     {
         "id": "app.entry.publishOptions",
