@@ -587,7 +587,7 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "Dengan melanjutkan untuk membuat akun anda dan mempergunakan AKASHA, anda setuju untuk\n                         {termsLink} kami. Jika anda tidak setuju, anda tidak bisa mempergunakan\n                         AKASHA."
     },
     {
         "id": "app.general.termsOfService",
@@ -762,7 +762,7 @@
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "There is no transaction history"
+        "defaultMessage": "Tidak ada sejarah transaksi"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
@@ -772,7 +772,7 @@
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "You don`t have any essence to collect"
+        "defaultMessage": "Anda tidak memiliki esensi apapun untuk dikumpulkan"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
