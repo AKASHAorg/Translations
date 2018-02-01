@@ -447,11 +447,36 @@
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Got to my drafts"
+        "defaultMessage": "Go to my drafts"
     },
     {
         "id": "app.entry.myEntries",
         "description": "girdilerim etiket başlığı",
         "defaultMessage": "Girdilerim"
+    },
+    {
+        "id": "app.entry.draftRevert",
+        "description": "button label to revert changes",
+        "defaultMessage": "Revert changes"
+    },
+    {
+        "id": "app.entry.linkDisabled",
+        "description": "tooltip for link button in comment editor",
+        "defaultMessage": "You must select some text first"
+    },
+    {
+        "id": "app.entry.linkPlaceholder",
+        "description": "placeholder for the link input in editors",
+        "defaultMessage": "Type the link and press enter"
+    },
+    {
+        "id": "app.entry.loadingImage",
+        "description": "placeholder when an image is loading",
+        "defaultMessage": "Loading image"
+    },
+    {
+        "id": "app.entry.entries",
+        "description": "plural form of entry! :)",
+        "defaultMessage": "entries"
     }
 ]
