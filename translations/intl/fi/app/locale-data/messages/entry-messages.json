@@ -2,57 +2,57 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "JPG, GIF tai PNG kuvat"
     },
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "You downvoted with weight {weight}"
+        "defaultMessage": "Äänestit alaspäin painoarvolla {weight}"
     },
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "Äänestit ylöspäin painoarvolla {weight}"
     },
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikkeli"
     },
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "Voit kerätä Essenceä vain jos aloituspistemääräsi on positiivinen"
     },
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Voit kerätä Essenceä vain jos äänesi on linjassa enemmistön kanssa (esim. äänestit ylöspäin ja aloituspistemäärä on positiivinen)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Haluamasi infomaation lataaminen ei ole mahdollista nettisivulta! Kokeile toista osoitetta"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Lisenssi tietojen palauttaminen ei ole mahdollista."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "lisää merkintä"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Essence kerätty"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Kerää Essence"
     },
     {
         "id": "app.entry.commentsCount",
