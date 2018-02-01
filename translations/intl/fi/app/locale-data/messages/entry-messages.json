@@ -272,107 +272,107 @@
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Julkaisu asetukset"
     },
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "lue"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Selvitetään ipfs hash..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Oletko varma että haluat poistaa luonnoksen?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Tallenna kohokohta"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Pisteet"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Etsi profiili"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Etsi tagi"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Näytä jokatapauksessa"
     },
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Piilota kommentti"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Näytä koko kommentti"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Kirjoita kommentti"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Luo luonnos nyt!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Otsikko"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Otsikko ei voi olla tyhjä"
     },
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Kirjoittajaa ei löydy"
     },
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Äänestä ylöspäin"
     },
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "versio"
     },
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Versiohistoria"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Versio {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Äänesi odottaa hyväksyntää"
     },
     {
         "id": "app.entry.votePercentage",
