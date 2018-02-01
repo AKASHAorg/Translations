@@ -102,7 +102,7 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Selamat, kamu adalah pelopor yang melakukan sinkronisasi dengan jaringan uji Ethereum! Sebaiknya Normal Sync dengan pengaturan Express namun yang berani juga bisa memilih Sync Light (sangat) eksperimental! :)"
+        "defaultMessage": "Selamat, anda adalah seorang perintis sinkronisasi dengan jaringan pengujian Ethereum! Kami merekomendasikan Sinkronisasi Normal dengan pengaturan yang sangat cepat akan tetapi pemberani bisa juga memilih yang Sinkronisasi Cahaya yang (sangat) eksperimental! :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
