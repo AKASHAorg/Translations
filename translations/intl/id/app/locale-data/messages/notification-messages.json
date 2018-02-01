@@ -237,7 +237,7 @@
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "Anda sudah berhasil mendapatkan tes ETH dan beberapa AETH"
     },
     {
         "id": "app.settings.notifFollow",
