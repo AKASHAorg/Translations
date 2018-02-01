@@ -462,12 +462,12 @@
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Anda harus memilih beberapa teks yang pertama"
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Mengetik link tersebut dan tekan enter"
     },
     {
         "id": "app.entry.loadingImage",
