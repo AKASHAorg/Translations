@@ -257,7 +257,7 @@
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "Silahkan ingin mengimpor identitas silahkan lihat link ini."
+        "defaultMessage": "Jika anda ingin untuk mengimpor sebuah identitas silakan lihat link ini."
     },
     {
         "id": "app.setup.findingPeers",
@@ -292,7 +292,7 @@
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Layanan geth ini tidak bekerja. Silahkan mulai secara manual untuk mengambil\nprofil anda."
+        "defaultMessage": "Layanan geth tidak bekerja. Silakan memulainya secara manual dalam pesanan untuk mengambil\n                        profil anda."
     },
     {
         "id": "app.setup.ipfsStopped",
