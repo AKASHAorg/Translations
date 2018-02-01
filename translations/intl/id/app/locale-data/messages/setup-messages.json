@@ -137,7 +137,7 @@
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Silahkan pilih satu identitas untuk masuk"
+        "defaultMessage": "Silahkan memilih salah satu identitas untuk masuk"
     },
     {
         "id": "app.setup.newIdentity",
@@ -317,6 +317,6 @@
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Sebagai alternatif, Anda bisa klik pada sidebar Mana indikator di sebelah foto avatar anda dan pilih Shift up."
+        "defaultMessage": "Secara Alternatif, anda bisa mengklik sisi bar Mana indikator selanjutnya untuk foto avatar anda dan memilih Bergeser ke atas."
     }
 ]
