@@ -252,7 +252,7 @@
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Sinkronisasi selesai. Layanan IPFS perlu dijalankan agar\nterus. Anda bisa memulainya secara manual dari status bar di header atau\nklik SELANJUTNYA untuk memulai secara otomatis."
+        "defaultMessage": "Sinkronisasi sudah selesai. Kebutuhan layanan IPFS untuk bisa memulai dalam pesanan untuk\n                        melanjutkan. Anda bisa memulainya secara manual dari status bar di header atau\n                        klik SELANJUTNYA untuk memulainya secara otomatis."
     },
     {
         "id": "app.setup.noProfilesFound",
