@@ -217,7 +217,7 @@
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Tidak ada konsep yang ditemukan yang cocok dengan kriteria pencarian anda."
+        "defaultMessage": "Tidak ada draf yang cocok dengan kriteria pencarian anda yang ditemukan."
     },
     {
         "id": "app.entry.noEntries",
@@ -232,7 +232,7 @@
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "Tidak ada esensi ini untuk digumpulkan dari entri ini"
+        "defaultMessage": "Tidak ada Esensi untuk mengumpulkan dari entri ini"
     },
     {
         "id": "app.entry.noTitle",
@@ -287,7 +287,7 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Apakah anda yakin ingin memulihkan konsep ini?"
+        "defaultMessage": "Apakah anda yakin anda ingin untuk mengembalikan draf ini?"
     },
     {
         "id": "app.entry.saveHighlight",
