@@ -313,5 +313,30 @@
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
         "defaultMessage": "アップデート設定"
+    },
+    {
+        "id": "app.form.navigationError",
+        "description": "error message for invalid Akasha link",
+        "defaultMessage": "This is not a valid AKASHA link"
+    },
+    {
+        "id": "app.form.navigateTitle",
+        "description": "title for the navigation modal",
+        "defaultMessage": "Paste an AKASHA link here"
+    },
+    {
+        "id": "app.form.navigateSubtitle",
+        "description": "subtitle for the navigation modal",
+        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+    },
+    {
+        "id": "app.form.shareLinkTitle",
+        "description": "title for the share link modal",
+        "defaultMessage": "Share link"
+    },
+    {
+        "id": "app.form.shareLinkSubtitle",
+        "description": "subtitle for the share link modal",
+        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
     }
 ]
