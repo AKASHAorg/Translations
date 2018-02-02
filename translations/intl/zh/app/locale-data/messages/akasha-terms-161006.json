@@ -42,12 +42,12 @@
     {
         "id": "app.akasha.terms.noUnlawfulBody",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "11 You are aware that AKASHA is a fully decentralized platform that is not under control of any legal entity or private individual. AKASHA has no knowledge of and no means to control whether any content published on AKASHA violates any third party intellectual property rights or is illegal under the laws of certain jurisdictions. Accordingly, the success of AKASHA relies in the responsibility of each User. By using AKASHA you commit to keep AKASHA clean from any unlawful content and activities. In particular:\n                §  You will not solicit login information or access a Profile belonging to someone else.\n                §  You will not bully, intimidate or harass any other User.\n                §  You will not post content that is hate speech, threatening, incites violence\n                §  You will not use AKASHA to do anything unlawful in your jurisdiction or in Switzerland\n                §  You will not use AKASHA to do anything misleading, malicious or discriminatory.\n                §  You will not post content or take any action on AKASHA that infringes or violates someone else's rights or otherwise violates the law.\n            12 It is envisaged that updated versions of AKASHA will contain functionalities which enable the AKASHA Community to self moderate the content published on the platform without direct involvement from AKASHA International GmbH."
+        "defaultMessage": "11 众所周知，AKASHA是一个不受任何法人或个人的控制的完全去中心化的分布式的平台。AKASHA既无法知晓也无法控制发布在AKASHA上的内容是否侵犯了第三方的知识产权或在某些司法管辖区的法律下是否被视为非法。因此，AKASHA的成功依赖于每个用户的责任心。使用AKASHA时，您承诺将远离任何非法的内容和活动，自觉维护AKASHA的纯净。尤其是：\n§ 不向他人索要登录信息或访问他人的档案。\n§ 不欺侮、恐吓和骚扰任何其他用户。\n§ 不发布仇恨言论、威胁、煽动暴力。\n§ 不在您的受管辖区或瑞士利用AKASHA从事任何非法的活动。\n§ 不利用AKASHA做任何误导、恶意或歧视的行为。\n§ 不在AKASHA上发布侵犯或亵渎他人权利或违反法律的内容，或者做任何相关的事情。\n12 预计AKASHA的更新版本将包含能够在没有AKASHA国际有限公司直接参与的情况下使AKASHA社区具备自行调整平台上发布的内容的功能。"
     },
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "4. 注册及身份验证"
     },
     {
         "id": "app.akasha.terms.registrationBody",
