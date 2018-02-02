@@ -462,21 +462,21 @@
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Sovelluksessa pitää ensin valita tekstiä"
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Kirjoita linkki ja paina enter"
     },
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Ladataan kuvaa"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "merkinnät"
     }
 ]
