@@ -225,13 +225,13 @@
         "defaultMessage": "Älä seuraa"
     },
     {
-        "id": "app.confirmations.batch",
-        "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "id": "app.confirmations.Batch",
+        "description": "vahvistusviesti tämän erän tapahtumille",
+        "defaultMessage": "Vahvista että haluat lähettää {txCount} tapahtumaa."
     },
     {
         "id": "app.confirmations.batchTitle",
-        "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "description": "otsikko näiden tapahtumien vahvistus dialogille",
+        "defaultMessage": "Useita tapahtumia"
     }
 ]
