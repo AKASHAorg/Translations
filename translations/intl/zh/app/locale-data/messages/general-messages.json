@@ -67,7 +67,7 @@
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "优选应用程序"
+        "defaultMessage": "应用设置"
     },
     {
         "id": "app.general.back",
@@ -587,27 +587,27 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "即将继续创建您的账号并使用AKASHA，视为您接受我们的                         {termsLink}，如果您不同意，您将不能使用                         AKASHA。"
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "服务条款和隐私政策"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "交易失败"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "可转换"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Transform"
+        "defaultMessage": "转换"
     },
     {
         "id": "app.general.transformAethers",
@@ -617,97 +617,97 @@
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "翻译"
     },
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "请先选择您的用户名!"
     },
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "用户设置"
     },
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "更新"
     },
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "正在更新"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "正在升级"
     },
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "浏览个人资料"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "投票"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "钱包"
     },
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "正在等待"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "是"
     },
     {
         "id": "app.general.comment",
         "description": "entry comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "评论"
     },
     {
         "id": "app.general.publishEntries",
         "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "defaultMessage": "发布条目"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "当你收集精气时, 你的业力会增加。"
     },
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "创建标签"
     },
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
+        "defaultMessage": "原始名誉"
     },
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "{karmaLevel} 级别"
     },
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "在当前级别, 您可以:"
     },
     {
         "id": "app.general.karmaScore",
         "description": "karma score",
-        "defaultMessage": "{profileKarmaScore} Karma"
+        "defaultMessage": "{profileKarmaScore} 业力"
     },
     {
         "id": "app.general.showMore",
