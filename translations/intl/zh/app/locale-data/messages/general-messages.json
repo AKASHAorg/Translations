@@ -102,102 +102,102 @@
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "关闭"
     },
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "收集"
     },
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "已收集"
     },
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "评论"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "确认"
     },
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "在块#{blockNr} 已确认"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "复制"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "计数"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "创建"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "已创建"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "Cycling"
+        "defaultMessage": "轮回"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "删除"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "完成"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "下载中"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "编辑"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "编辑个人资料"
     },
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entries"
+        "defaultMessage": "条目"
     },
     {
         "id": "app.general.essence",
         "description": "essence",
-        "defaultMessage": "Essence"
+        "defaultMessage": "精气"
     },
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "总精气值"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "精气总分"
     },
     {
         "id": "app.general.eth",
@@ -207,12 +207,12 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "以太坊地址"
     },
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "在块#{blockNr} 失败"
     },
     {
         "id": "app.general.forged",
@@ -222,32 +222,32 @@
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "转发"
     },
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "生成预览"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Geth 服务关闭"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Geth 服务开启"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "帮助"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "历史"
     },
     {
         "id": "app.general.hoursCount",
