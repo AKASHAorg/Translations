@@ -735,14 +735,14 @@
         "defaultMessage": "图片"
     },
     {
-        "id": "app.general.you",
+        "id": "应用.常规.您",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "您"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Wait a second..."
+        "defaultMessage": "请稍等..."
     },
     {
         "id": "app.general.externalNavigationWarning",
