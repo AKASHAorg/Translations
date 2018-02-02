@@ -447,7 +447,7 @@
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Go to my drafts"
+        "defaultMessage": "Mene luonnoksiin"
     },
     {
         "id": "app.entry.myEntries",
@@ -457,7 +457,7 @@
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "Peruuta muutokset"
     },
     {
         "id": "app.entry.linkDisabled",
