@@ -2,32 +2,32 @@
     {
         "id": "app.akasha.terms.version",
         "description": "terms and conditions version information",
-        "defaultMessage": "Version 2 / November 2016"
+        "defaultMessage": "版本 2016年11月2日"
     },
     {
         "id": "app.akasha.terms.title",
         "description": "AKASHA`s terms and conditions title",
-        "defaultMessage": "AKASHA: Terms of Service"
+        "defaultMessage": "AKASHA：服务条款"
     },
     {
         "id": "app.akasha.terms.preface",
         "description": "AKASHA`s terms preface",
-        "defaultMessage": "1 AKASHA is a next-generation social blogging network powered by a new kind of computer known as Ethereum and the Inter Planetary File System.\n            2 By using AKASHA and creating an AKASHA Identity or a Profile Smart Contract, you confirm to have carefully reviewed and to fully understand and agree to the terms and conditions set forth in this document (the “Terms”).\n            3 Because the current version of AKASHA is a Pre-Alpha-Release only, we may ask you to review and accept new or supplemental terms that apply to your interaction with AKASHA and newly introduced functionalities in the future.\n            4 Prior to installing AKAHSA, please ensure that you have downloaded the .zip file by using the pre-alpha invites directly sent out by AKASHA. Unpacking / installing any other files may involve substantial security risks."
+        "defaultMessage": "1、AKASHA是基于以太坊（Ethereum）和星际文件系统（IPFS）的下一代社交博客网络。\n2、在使用AKASHA、创建AKASHA帐户或个人的智能合约时，您确认已仔细审阅并完全理解和同意本文档（“通用条款”）中所述的条款和条件。\n3、AKASHA的当前版本仅为Alpha预测试版，将来在您使用AKASHA的过程中会陆续增加新的功能，我们可能会要求您审阅和接受新的或补充的条款。\n4、安装AKASHA前，请确保通过AKASHA直接发送的Alpha预测试版的邀请来下载压缩文件（.zip）。解压和安装其他任何文件可能造成重大安全风险。"
     },
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1、隐私"
     },
     {
         "id": "app.akasha.terms.privacyBody",
         "description": "privacy section content",
-        "defaultMessage": "5 Your privacy is very important to us which distinguishes AKASHA from any known Social Media Network. We designed AKASHA in a way that you remain in control of how you share your data with others. AKASHA will not collect and use your content and information for any other purposes than chosen by you."
+        "defaultMessage": "5、AKASHA有别于诸多已知社交媒体网络的地方在于，您的隐私对于我们来说至关重要。AKASHA设计的初衷是让您可以始终控制与他人共享数据的方式。AKASHA不会以任何目的收集和使用您所选择的内容和信息。"
     },
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Sharing Your Content and Information"
+        "defaultMessage": "2、分享您的内容与信息"
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
