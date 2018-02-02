@@ -712,27 +712,27 @@
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "显示更多"
     },
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "您没有关注任何人。"
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "文章"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "链接"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "图片"
     },
     {
         "id": "app.general.you",
