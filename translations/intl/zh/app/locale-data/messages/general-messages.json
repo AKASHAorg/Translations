@@ -747,66 +747,66 @@
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL"
+        "defaultMessage": "您即将访问外部地址"
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "收集所有"
     },
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions"
+        "defaultMessage": "无交易记录"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "There is no transaction history"
+        "defaultMessage": "没有交易记录"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
         "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
+        "defaultMessage": "没有精气可以收集"
     },
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "You don`t have any essence to collect"
+        "defaultMessage": "您没有精气可以收集"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
         "description": "",
-        "defaultMessage": "No essence was collected"
+        "defaultMessage": "没有收集的精气"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "",
-        "defaultMessage": "No transaction history"
+        "defaultMessage": "没有交易历史"
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "开始输入并搜索"
     },
     {
         "id": "app.entry.searchingNoResults",
         "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+        "defaultMessage": "搜索 \"{searchTerm}\" 返回 0 {resource}。请尝试另外的关键词!"
     },
     {
         "id": "app.general.go",
         "description": "go",
-        "defaultMessage": "Go"
+        "defaultMessage": "执行"
     },
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "导航到链接"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "分享"
     }
 ]
