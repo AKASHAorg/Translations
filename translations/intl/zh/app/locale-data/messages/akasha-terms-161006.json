@@ -12,7 +12,7 @@
     {
         "id": "app.akasha.terms.preface",
         "description": "AKASHA`s terms preface",
-        "defaultMessage": "1、AKASHA是基于以太坊（Ethereum）和星际文件系统（IPFS）的下一代社交博客网络。\n2、在使用AKASHA、创建AKASHA帐户或个人的智能合约时，您确认已仔细审阅并完全理解和同意本文档（“通用条款”）中所述的条款和条件。\n3、AKASHA的当前版本仅为Alpha预测试版，将来在您使用AKASHA的过程中会陆续增加新的功能，我们可能会要求您审阅和接受新的或补充的条款。\n4、安装AKASHA前，请确保通过AKASHA直接发送的Alpha预测试版的邀请来下载压缩文件（.zip）。解压和安装其他任何文件可能造成重大安全风险。"
+        "defaultMessage": "1 AKASHA是基于以太坊（Ethereum）和星际文件系统（IPFS）的下一代社交博客网络。\n2 在使用AKASHA、创建AKASHA帐户或个人的智能合约时，您确认已仔细审阅并完全理解和同意本文档（“通用条款”）中所述的条款和条件。\n3 AKASHA的当前版本仅为Alpha预测试版，将来在您使用AKASHA的过程中会陆续增加新的功能，我们可能会要求您审阅和接受新的或补充的条款。\n4 安装AKASHA前，请确保通过AKASHA直接发送的Alpha预测试版的邀请来下载压缩文件（.zip）。解压和安装其他任何文件可能造成重大安全风险。"
     },
     {
         "id": "app.akasha.terms.privacyTitle",
