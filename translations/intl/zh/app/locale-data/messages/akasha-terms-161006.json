@@ -32,12 +32,12 @@
     {
         "id": "app.akasha.terms.sharingYourContentBody",
         "description": "content of sharing your content section",
-        "defaultMessage": "6 You own all of the content and information you post on AKASHA. AKASHA allows you to control your content and how it is shared through your AKASHA settings.\n            7 For content that is covered by intellectual property rights, like photos, text and videos (IP Content), you have the possibility to choose between different Licence Options (covering a spectrum from all rights reserved to no rights reserved) allowing you the specify how and under what conditions your content may be used by others.\n            8 By publishing your IP Content on AKASHA, you grant AKASHA non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use the IP content for the purpose of its publication on AKASHA and subject to the conditions specified by you in the Licence Options.\n            9 You are aware that AKASHA is a decentralized application and that, consequently, content published on AKASHA is not under control of any legal entity or private individual. Accordingly, you may not fully delete any content published from the AKASHA Platform. When you remove content, your content is only delisted and harder to find for others. However, you understand that removed content persist without any time limitation and may still be available to others.\n            10 When you publish content using the setting “No rights reserved” in the License Option, it means that you are allowing everyone to access and use that content, to associate it with you (i.e., your name and profile picture) and that you wave all your copyrights and related rights to this content."
+        "defaultMessage": "6 您拥有发布在AKASHA上所有内容与信息的权属。AKASHA允许您控制您所发布的内容以及通过AKASHA的相关设置来分享它们。\n7 对于包含知识产权的内容，如照片、文本和视频（节点内容），知识产权许可选项允许您指定如何以及在什么条件下让您的内容被其他人使用，您可以在不同的许可选项之间进行选择（涵盖了从有版权到无版权的范围）。\n8 当您在AKASHA发布了您的节点内容，您也就授予了AKASHA非独占的、可转让的、可授权许可的、免版税的、全球范围的许可，以便在AKASHA上发布该节点内容，同时符合您在许可证中指定的条件选项。\n9 众所周知，AKASHA是一个去中心化的应用程序，在AKASHA上发布的内容不受任何法人或个人的控制。因此您可能无法删除在AKASHA发布的任何内容。当您删除内容时，该内容仅是被下架，且其他人更难找到。但被删除的内容本身将一直存在并且不受时间的限制，同时仍然可以供其他用户使用。\n10 当您使用许可证选项中的“无版权“设置来发布内容时，它意味着您允许每个人访问和使用该内容，并将其与您关联（例如您的姓名和个人资料图片），同时也意味着您放弃了此项内容的所有权和其他相关权益。"
     },
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. No unlawful activities and content"
+        "defaultMessage": "3. 无非法活动和内容"
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
