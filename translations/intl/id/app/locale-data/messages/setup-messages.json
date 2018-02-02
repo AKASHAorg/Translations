@@ -147,7 +147,7 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "Apa yang membuat anda tertarik?"
     },
     {
         "id": "app.setup.interestSuggestion",
