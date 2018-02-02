@@ -252,7 +252,7 @@
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {小时} other {小时}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
@@ -527,62 +527,62 @@
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "搜索"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "聊天 (即将到来)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Text Entry"
+        "defaultMessage": "文本条目"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link Entry"
+        "defaultMessage": "链接条目"
     },
     {
         "id": "app.general.shift",
         "description": "convert tokens",
-        "defaultMessage": "Shift"
+        "defaultMessage": "转移"
     },
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Skip this step"
+        "defaultMessage": "跳过此步骤"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "开始"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "正在开始"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "已停止"
     },
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "Stream"
+        "defaultMessage": "流"
     },
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "提交"
     },
     {
         "id": "app.general.tags",
         "description": "tags",
-        "defaultMessage": "Tags"
+        "defaultMessage": "标签"
     },
     {
         "id": "app.general.terms",
