@@ -262,16 +262,16 @@
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "Virhe muuttaessa {amount} Essenceä"
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Virhe päivittäessä profiilia"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Virhe tallentaessa asetuksia"
     }
 ]
