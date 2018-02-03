@@ -2,42 +2,42 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Keskeytä"
     },
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "Toimi"
     },
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "kommentti"
     },
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Lisää"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Lisää kuva vetämällä ja pudottamalla."
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "Hienoa! pudota se tähän!"
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Lisää uusi artikkeli"
     },
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Lisää"
     },
     {
         "id": "app.general.aeth",
@@ -52,17 +52,17 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Määrä"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "artikkeli"
     },
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "ääni artikkelille"
     },
     {
         "id": "app.general.appPreferences",
