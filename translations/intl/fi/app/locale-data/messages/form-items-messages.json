@@ -142,72 +142,72 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Valitse muutettavan Essencen määrä"
     },
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Valitse siirrettävä määrä"
     },
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "Manafoidusta kierrätettäväksi"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "Siirrettävästä Manafoiduksi"
     },
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Vahvista tunnuslause"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "Louhi AETHIA"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "Vapaa AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Manan määrä"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nimi"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Tunnuslause väärin. Yritä uudelleen"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Vahvista tunnuslause"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Tämä kenttä on pakollinen"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Vähennä"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Vähennä Manan määrää"
     },
     {
         "id": "app.form.shiftDownManaHelp",
