@@ -597,7 +597,7 @@
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "Transaktion fehlgeschlagen"
     },
     {
         "id": "app.general.transferable",
@@ -612,22 +612,22 @@
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
+        "defaultMessage": "AETH in Mana umwandeln"
     },
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "Übersetzen"
     },
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "Bitte wähle zuerst deinen Benutzernamen!"
     },
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Benutzer-Einstellungen"
     },
     {
         "id": "app.general.update",
@@ -637,7 +637,7 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Aktualisiere"
     },
     {
         "id": "app.general.upgrading",
