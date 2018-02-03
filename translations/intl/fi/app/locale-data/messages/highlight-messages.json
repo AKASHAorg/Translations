@@ -12,21 +12,21 @@
     {
         "id": "app.highlight.delete",
         "description": "content for delete highlight modal",
-        "defaultMessage": "Haluatko poistaa tämän yliviivatun kohdan?"
+        "defaultMessage": "Haluatko poistaa tämän korostetun kohdan?"
     },
     {
         "id": "app.highlight.deleteHighlight",
         "description": "label for delete highlight button",
-        "defaultMessage": "Delete highlight"
+        "defaultMessage": "Poista korostus"
     },
     {
         "id": "app.highlight.editNote",
         "description": "label for edit note button",
-        "defaultMessage": "Edit note"
+        "defaultMessage": "Muokkaa muistiinpanoa"
     },
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Start an entry"
+        "defaultMessage": "Käynnistä tapahtuma"
     }
 ]
