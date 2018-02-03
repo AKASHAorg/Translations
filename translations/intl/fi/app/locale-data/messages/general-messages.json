@@ -252,22 +252,22 @@
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {tunti} other {tunnit}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "IPFS palvelu OFF"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "IPFS palvelu ON"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Liity"
     },
     {
         "id": "app.general.karma",
@@ -277,27 +277,27 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "Karma pistemäärä"
     },
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "Lue lisää"
     },
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Jätä"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "Lokit"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Kirjaudu ulos"
     },
     {
         "id": "app.general.mana",
@@ -307,17 +307,17 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Poltetun Manan määrä"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana Pool Info"
+        "defaultMessage": "Mana poolin määrä"
     },
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "Manafied"
+        "defaultMessage": "Manafoitu"
     },
     {
         "id": "app.general.minutesCount",
@@ -327,32 +327,32 @@
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Seuraava"
     },
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "Ei"
     },
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Ei vertaiskohteita saatavilla"
     },
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "Notes"
+        "defaultMessage": "Muistiinpanot"
     },
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Ei löydy"
     },
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "Ilmoitukset"
     },
     {
         "id": "app.general.ok",
@@ -362,97 +362,97 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "Ok, ymmärsin!"
     },
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Pause"
+        "defaultMessage": "Tauko"
     },
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "Vireillä"
     },
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Odottaa vahvistusta"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Ihmiset"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Esikatselu"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "Käsitellään kuvaa"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Profiilin esittely"
     },
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Julkaise"
     },
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "Publishing"
+        "defaultMessage": "Julkaistaan"
     },
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "vastaanotettu"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "+{amount} {symbol} kohteesta"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Päivitä"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Nimeä uudelleen"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Vastaa"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "Palauta"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "Jatka"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Yritä uudelleen"
     },
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "Pyydä AETHERS"
     },
     {
         "id": "app.general.requestTestEthers",
@@ -717,96 +717,96 @@
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "Et seuraa ketään."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikkeli"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "Linkki"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Kuva"
     },
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "Sinä"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Wait a second..."
+        "defaultMessage": "Odota hetki..."
     },
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL"
+        "defaultMessage": "Olet aikeissa siirtyä ulkoiseen URL"
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "Kerää kaikki"
     },
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions"
+        "defaultMessage": "Ei tapathtumia"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "There is no transaction history"
+        "defaultMessage": "Ei tapahtumahistoriaa"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
         "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
+        "defaultMessage": "Ei Essenceä kerättäväksi"
     },
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "You don`t have any essence to collect"
+        "defaultMessage": "Sinulla ei ole Essenceä kerättäväksi"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
         "description": "",
-        "defaultMessage": "No essence was collected"
+        "defaultMessage": "Essenceä ei kerätty"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "",
-        "defaultMessage": "No transaction history"
+        "defaultMessage": "Ei siirtohistoriaa"
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "Etsi kirjoittamalla"
     },
     {
         "id": "app.entry.searchingNoResults",
         "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+        "defaultMessage": "Etsimällä \"{searchTerm}\" löytyi 0 {resource}. Kokeile uudestaan!"
     },
     {
         "id": "app.general.go",
         "description": "go",
-        "defaultMessage": "Go"
+        "defaultMessage": "Mene"
     },
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "Siirry linkkiin"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "Jaa"
     }
 ]
