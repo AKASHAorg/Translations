@@ -97,17 +97,17 @@
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will cycle back into transferable AETH in 7 days. {amount} Mana will no longer regenerate."
+        "defaultMessage": "{amount} AETHIA palautuu takaisin muutettavaksi AETHIKSI 7 päivän kuluessa {amount} Mana ei enää generoidu uudelleen."
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will generate {amount} Mana every 24 hours for as long as it is kept in this state."
+        "defaultMessage": "{amount} AETHIA tuottaa {amount} Manaa 24 tunnin välein niin kauan kuin se pysyy tässä tilassa."
     },
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Etunimi"
     },
     {
         "id": "app.form.lastName",
