@@ -7,7 +7,7 @@
     {
         "id": "app.akasha.terms.title",
         "description": "AKASHA`s terms and conditions title",
-        "defaultMessage": "AKASHA: Terms of Service"
+        "defaultMessage": "AKASHA: Nutzungsbedingungen"
     },
     {
         "id": "app.akasha.terms.preface",
@@ -22,7 +22,7 @@
     {
         "id": "app.akasha.terms.privacyBody",
         "description": "privacy section content",
-        "defaultMessage": "5 Your privacy is very important to us which distinguishes AKASHA from any known Social Media Network. We designed AKASHA in a way that you remain in control of how you share your data with others. AKASHA will not collect and use your content and information for any other purposes than chosen by you."
+        "defaultMessage": "AKASHA unterscheidet sich von allen anderen bekannten Social-Media-Netzwerken insofern, als dass Ihre Privatsphäre für uns sehr wichtig ist. Wir haben AKASHA so designt, dass Sie die Kontrolle über den Besitz und das Teilen Ihrer Daten behalten. AKASHA wird keine Informationen oder Inhalte für andere Zwecke außer die von Ihnen vorgegebenen sammeln."
     },
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
@@ -57,17 +57,17 @@
     {
         "id": "app.akasha.terms.paymentOfFeesTitle",
         "description": "payment of fees section title",
-        "defaultMessage": "5. Payment of Fees"
+        "defaultMessage": "5. Gebührenbezahlung"
     },
     {
         "id": "app.akasha.terms.paymentOfFeesBody",
         "description": "payment of fees section content",
-        "defaultMessage": "14 When creating an Identity, you will be provided with an Ethereum Address (Ethereum Identity Key) to which you will need to make a transfer of a small amount of Ether (ETH). Whenever your usage of AKASHA is subject to the payment of a fee, this fee – after you have provided your consent in each individual case – will be withdrawn from your Ethereum Identity Key Balance. The amount of ETH on your Ethereum Identity Key Balance remains in your control and may be withdrawn any time."
+        "defaultMessage": "14 Während der Erstellung einer Identität werden Sie eine Ethereum-Adresse (Ethereum Identity Key) bekommen, zu der Sie eine kleine Menge Ether (ETH) überweisen müssen. Sobald während Ihrer Nutzung von AKASHA eine Gebühr anfällt, wird diese Gebühr vom Konto Ihres Ethereum Identity Key abgezogen (nachdem Sie in jedem einzelnen Fall Ihre Zustimmung gegeben haben). Die ETH-Summe auf Ihrem Ethereum Identity Key Konto bleibt unter Ihrer Kontrolle und kann jederzeit abgebucht werden."
     },
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "6. Werbung"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
