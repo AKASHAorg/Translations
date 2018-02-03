@@ -522,7 +522,7 @@
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "社区: 即将到来"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
