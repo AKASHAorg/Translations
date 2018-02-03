@@ -77,12 +77,12 @@
     {
         "id": "app.form.maxManafiedAethAmount",
         "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
-        "defaultMessage": "{manafied} Manafied AETH"
+        "defaultMessage": "{manafied} 可法力化的AETH"
     },
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "转换精气"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
@@ -92,12 +92,12 @@
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "您至少需要转换1000精气"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will cycle back into transferable AETH in 7 days. {amount} Mana will no longer regenerate."
+        "defaultMessage": "{amount} AETH 将在7天后轮回变成可转换的 AETH。 {amount} 法力不再产生。"
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
