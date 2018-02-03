@@ -102,37 +102,37 @@
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will generate {amount} Mana every 24 hours for as long as it is kept in this state."
+        "defaultMessage": "{amount} AETH 每24小时将产生 {amount} 法力，只要它是保持在这个状态。"
     },
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "名"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "姓"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "用户名"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "以太坊地址"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "从"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "密码"
     },
     {
         "id": "app.form.passphrasePlaceholder",
