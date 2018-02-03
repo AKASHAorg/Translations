@@ -2,97 +2,97 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Minusta"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Sinun tulee määrittää käyttäjänimi tai ethereum-osoite"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Vastaanota tippejä"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Käyttäjänimi"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Pahoittelut, sinulla ei ole tarpeeksi testi etheriumia!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "Sinun täytyy tallettaa testi Etheriumia ensin julkaistaakesi profiilin."
     },
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "AETH määrä"
     },
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Määrä vaaditaan"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "ETH määrä"
     },
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "Kirjoita etunimesi"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Kirjoita sukunimesi"
     },
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "{aeth} Siirrettävissä AETH"
     },
     {
         "id": "app.form.maxAethAmountLabel",
         "description": "label for maximum AETH amount input field",
-        "defaultMessage": "max. {balance}"
+        "defaultMessage": "maksimi {balance}"
     },
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "{essence} Essenceä saatavilla"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} ETH siirrettävissä"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
         "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
-        "defaultMessage": "{manafied} Manafied AETH"
+        "defaultMessage": "{manafied} Manafoitu AETH"
     },
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Muuta Essenceä"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{amount} Essence will forge {value} new AETH in your balance."
+        "defaultMessage": "{amount} Essenceä louhii {value} uutta AETHIA saldoosi."
     },
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "Sinun tulee muuttaa vähintään 1000 Essenceä"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
