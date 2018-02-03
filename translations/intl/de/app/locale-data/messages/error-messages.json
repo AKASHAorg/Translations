@@ -2,42 +2,42 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Fehler melden"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Vielen Dank für dein Feedback!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Bitte kopiere die folgenden Zeilen und erstelle ein neues Thema auf {githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "Bitte prüfe auch, ob bereits offene Themen zu diesem Fehler existieren!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "Backup-Erstellung fehlgeschlagen. Bitte versuche es noch einmal"
     },
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Fehler während der negativen Bewertung eines Kommentars"
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "Fehler während der Veröffentlichung eines Kommentars"
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Fehler während der positiven Bewertung eines Kommentars"
     },
     {
         "id": "app.error.dashboardAdd",
@@ -47,7 +47,7 @@
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Fehler beim Speichern der neuen Spalte"
     },
     {
         "id": "app.error.dashboardDelete",
@@ -57,7 +57,7 @@
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Fehler beim Löschen deiner Spalte"
     },
     {
         "id": "app.error.dashboardGetActive",
@@ -77,17 +77,17 @@
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "Fehler beim Update deiner Spalte"
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Neueste Änderungen des Entwurfs können nicht gespeichert werden"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "Fehler während der Veröffentlichung deines Entwurfs"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
