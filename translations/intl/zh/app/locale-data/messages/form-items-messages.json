@@ -277,66 +277,66 @@
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "defaultMessage": "标签只能包含字母、数字和一个破折号（-）或下划线（_）连接字符。"
     },
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "选择一个选项"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "标记最多可以有24个字符。"
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "标签 {tag} 已添加"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "记住我的密码"
     },
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "defaultMessage": "数量至少是 {minAmount} AETH"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "到"
     },
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "更新设置"
     },
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
+        "defaultMessage": "这不是一个有效的AKASHA链接"
     },
     {
         "id": "app.form.navigateTitle",
         "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
+        "defaultMessage": "在此粘贴AKASHA链接"
     },
     {
         "id": "app.form.navigateSubtitle",
         "description": "subtitle for the navigation modal",
-        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+        "defaultMessage": "插入链接到条目或个人首页"
     },
     {
         "id": "app.form.shareLinkTitle",
         "description": "title for the share link modal",
-        "defaultMessage": "Share link"
+        "defaultMessage": "分享链接"
     },
     {
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+        "defaultMessage": "这是一个内部链接, 只能在AKASHA应用程序内使用"
     }
 ]
