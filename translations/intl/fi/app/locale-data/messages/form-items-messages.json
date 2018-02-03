@@ -112,32 +112,32 @@
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Sukunimi"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Käyttäjänimi"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Ethereum osoite"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "Alkaen"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Tunnuslause"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Kirjoita tunnuslause"
     },
     {
         "id": "app.form.amountToForge",
