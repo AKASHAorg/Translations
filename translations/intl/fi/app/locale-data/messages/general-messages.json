@@ -687,22 +687,22 @@
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Luo tagi"
     },
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
+        "defaultMessage": "Proto-maine"
     },
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "Taso {karmaLevel}"
     },
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "Nykyisellä tasolla voit:"
     },
     {
         "id": "app.general.karmaScore",
@@ -712,7 +712,7 @@
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "Näytä lisää"
     },
     {
         "id": "app.general.noFollowings",
