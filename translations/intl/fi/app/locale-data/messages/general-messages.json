@@ -457,47 +457,47 @@
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Pyydä testi ETH"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "Pyydä testi Ethers!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "Pyydä AKASHA Etheriä!"
     },
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "Running"
+        "defaultMessage": "Käynnissä"
     },
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Tallenna"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "tallenna myöhempää käyttöä varten"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Etsi"
     },
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Lisätietoja Etherscannissa"
     },
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Lähetä"
     },
     {
         "id": "app.general.sent",
