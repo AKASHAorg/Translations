@@ -272,71 +272,71 @@
     {
         "id": "app.form.notEnoughMana",
         "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "You don't have enough Mana for this action"
+        "defaultMessage": "Sinulla ei ole tarpeeksi Manaa tälle toiminnolle"
     },
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "defaultMessage": "Tagit voivat sisältää vain kirjaimia, numeroita, ja yhden yhdysmerkin (-) tai alaviivan (_) merkkien välillä."
     },
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "Valitse yksi vaihtoehto"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "Tagit voivat sisältää enintään 24 merkkiä."
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "Tagi {tag} on jo lisätty"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "Muista minun tunnuslause"
     },
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "defaultMessage": "Summan on oltava vähintään {minAmount} AETHIA"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "Tähän"
     },
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Päivitä asetukset"
     },
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
+        "defaultMessage": "Tämä ei ole kelvollinen AKASHA-linkki"
     },
     {
         "id": "app.form.navigateTitle",
         "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
+        "defaultMessage": "Liitä AKASHA linkki tähän"
     },
     {
         "id": "app.form.navigateSubtitle",
         "description": "subtitle for the navigation modal",
-        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+        "defaultMessage": "Lisää linkki artikkeliin tai profiilisivulle"
     },
     {
         "id": "app.form.shareLinkTitle",
         "description": "title for the share link modal",
-        "defaultMessage": "Share link"
+        "defaultMessage": "Jaa linkki"
     },
     {
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+        "defaultMessage": "Tämä on sisäinen linkki, jota voidaan käyttää vain Akasha sovelluksessa"
     }
 ]
