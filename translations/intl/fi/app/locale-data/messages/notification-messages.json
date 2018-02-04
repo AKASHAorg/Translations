@@ -157,62 +157,62 @@
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "Luonnos tallennettu!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "Luonnos poistettu!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "Linkki kopioitu leikepöydälle"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "Tippiä lähetetään {displayName} ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "Tippi lähetetty onnistuneesti {displayName} käyttäjälle"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "Ilmoitukset käytössä käyttäjälle {displayName}"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "Ilmoitukset poistettu käyttäjälle {displayName}"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "Varmuuskopiointi on tallennettu sijaintiin {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "Olet tallentanut asetuksesi. Sinun täytyy käynnistää geth                        palvelu uudestaan jotta muutokset tulevat voimaan."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Olet tallentanut asetuksesi. Sinun täytyy käynnistää IPFS                        palvelu uudestaan jotta muutokset tulevat voimaan."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Olet onnistuneesti tallentanut IPFS portit. Sinun tulee käynnistää IPFS                         palvelu uudestaan jotta muutokset tulevat voimaan."
     },
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "Teema muuttuu päivittämällä sovellus uudelleen."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
