@@ -17,17 +17,17 @@
     {
         "id": "app.tutorial.ethereumContent",
         "description": "ethereum slide content",
-        "defaultMessage": "Ethereum allowed us to build a new kind of application that removes the need\n                to blindly trust server administrators. Thanks to its transparent properties we\n                have strong authentication, identity, verifiability, voting and\n                micro-transactions."
+        "defaultMessage": "Ethereum mahdollisti uudenlaisen sovelluksen luomisen joka poistaa tarpeen                luottaa sokeasti palvelinten ylläpitäjiin. Läpinäkyvien ominaisuuksien ansiosta meillä                 on vahva todennus, identiteetti, tarkistettavuus, äänestys sekä                 mikro- maksut."
     },
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Enhanced By The Inter-Planetary File System"
+        "defaultMessage": "Tehostettu Planetary tiedostojärjestelmän avulla"
     },
     {
         "id": "app.tutorial.ipfsContent",
         "description": "ipfs slide content",
-        "defaultMessage": "Thanks to the Inter-Planetary File System (IPFS) we removed also the need\n                for servers to distribute and store your content. This allows users to circumvent\n                traditional censorship blockades and empowers people with real freedom of\n                expression."
+        "defaultMessage": "Kiitos Inter-Planetary tietojärjestelmän (IPFS) poistimme myös tarpeen                 palvelinten käyttöön jakaa ja säilyttää tietoja. Tämä antaa käyttäjille mahdollisuuden kiertää                 perinteiset vapaudenrajoitukset ja antaa ihmisille todellisen                  ilmaisunvapauden."
     },
     {
         "id": "app.tutorial.webTitle",
