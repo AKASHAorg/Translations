@@ -257,66 +257,66 @@
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "If you want to import an identity please see this link."
+        "defaultMessage": "Jos haluat tuoda käyttäjätiedot Katso tätä linkkiä."
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "Etsii yhteyttä"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "Käynnistetään palvelut"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "Palvelua odotetaan"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "Geth palvelua odotetaan"
     },
     {
         "id": "app.setup.peerCount",
         "description": "number of peers connected",
-        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}} {peerCount, plural, one {connected} other {connected}}"
+        "defaultMessage": "{peerCount, number} {peerCount, plural, one {vertainen} few {vertainen} many {vertaista} other {vertaiset}} {peerCount, plural, one {yhdistetty} other {yhdistetty}}"
     },
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "tiedot"
     },
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Geth palvelu ei toimi. Käynnistä palvelu manuaalisesti jotta hakea                          profiileja."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "IPFS palvelu ei toimi. Käynnistä palvelu manuaalisesti jotta hakea                          profiileja."
     },
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "A few tips before you get started"
+        "defaultMessage": "Muutama vinkki ennen kuin aloitat"
     },
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "Tämä sovellus käyttää testi ETH: ta (Ether) ÄLÄ LÄHETÄ oikeata ETH: ta osoitteisiin sovelluksessa."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "Sovellus vaatii Manafoitus AETHIA (Mana) vuorovaikutukseen. Voit hankkia Manaa klikkaamalla sinun AETH saldoa oikeasta yläkulmasta, valitsemalla Manafoi muuta välilehdeltä."
     },
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
+        "defaultMessage": "Vaihtoehtoisesti, voit klikata sivupalkin Mana ilmaisinta vavatar-kuvasi vierestä ja valitse lisää."
     }
 ]
