@@ -27,62 +27,62 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Geth Datadir polku"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Geth IPC polku"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Geth välimuistin koko"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Geth verkkotunnus"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Tuo avaimet"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "Sivuvirheitä varastointi polku"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Tämän muuttaminen nollaa kokoonpanosi ja paikallisen IPFS sisällön"
     },
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "IPFS API portti"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPFS käytävän portti"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "IPFS swarm portti"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "Kokoonpano"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "Kevyt synkronointi"
     },
     {
         "id": "app.setup.lightSyncDescription",
