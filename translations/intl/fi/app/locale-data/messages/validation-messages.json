@@ -37,16 +37,16 @@
     {
         "id": "app.validator.akashaIdNotValid",
         "description": "When the akashaId is not valid",
-        "defaultMessage": "Only lowercase alphanumeric characters allowed"
+        "defaultMessage": "Vain pienet aakkosnumeeriset merkit sallitaan"
     },
     {
         "id": "app.validator.validAddress",
         "description": "A valid address (URL) is required",
-        "defaultMessage": "must be a valid address"
+        "defaultMessage": "on oltava kelvollinen osoite"
     },
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "Poiminnat voi olla max. 120 merkkiä pitkiä"
     }
 ]
