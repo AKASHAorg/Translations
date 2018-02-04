@@ -267,51 +267,51 @@
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "Lähetä tippiä"
     },
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "Tuki"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "Tuettu"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "Tuetaan"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Tipin määrä"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Kokonaissaldo"
     },
     {
         "id": "app.profile.transactionsLog",
         "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
+        "defaultMessage": "Tapahtumaloki"
     },
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Vuorovaikutuksesi blockchainin kanssa"
     },
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Älä seuraa"
     },
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Ethereum osoitteesi"
     }
 ]
