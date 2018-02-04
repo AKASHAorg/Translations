@@ -2,42 +2,42 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "You successfully manafied {amount} AETH"
+        "defaultMessage": "Olet onnistuneesti manafoinut {amount} AETHIA"
     },
     {
         "id": "app.notification.cycleAethSuccess",
         "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
-        "defaultMessage": "You successfully cycled {amount} AETH"
+        "defaultMessage": "Olet onnistuneesti kierrättänyt {amount} AETHIA"
     },
     {
         "id": "app.notification.freeAethSuccess",
         "description": "notification to be displayed when collecting cycled AETH transaction was mined",
-        "defaultMessage": "You successfully collected your cycled AETH"
+        "defaultMessage": "Onnistuneesti kerännyt kierrättävät AETHIT"
     },
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "Korostettu kohta on tallennettu!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Do you want to type a note?"
+        "defaultMessage": "Haluatko kirjoittaa muistiinpanon?"
     },
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Your profile is updating ..."
+        "defaultMessage": "Päivittää profiilisi..."
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Your profile was successfully updated"
+        "defaultMessage": "Profiilisi on päivitetty"
     },
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Following {displayName} ..."
+        "defaultMessage": "Seuraat {displayName} ..."
     },
     {
         "id": "app.notification.followProfileSuccess",
