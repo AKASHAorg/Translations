@@ -247,12 +247,12 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "Pääset kirjautumaan sisälle ja käyttämään täyttä palvelua heti kun synkronointi on valmis! Odotamme sinua jo toisella puolella! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
+        "defaultMessage": "Synkronointi on valmis. IPFS palvelu on aloitettava, jotta voit                         jatkaa. Voit käynnistää sen manuaalisesti sivuston yläosasta tilariviltä tai                         klikkaa SEURAAVA aloittaaksesi palvelun automaattisesti."
     },
     {
         "id": "app.setup.noProfilesFound",
