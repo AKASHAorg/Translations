@@ -237,41 +237,41 @@
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "Olet vastaanottanut testi ETHERIÄ ja AETHIA"
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "seuraa sinua"
     },
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "kommentti jätetty"
     },
     {
         "id": "app.settings.notifDonationAeth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
+        "defaultMessage": "tippasi sinua {aeth} AETHILLA"
     },
     {
         "id": "app.settings.notifDonationBoth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+        "defaultMessage": "tippasi sinua {eth} ETHERILLÄ sekä {aeth} AETHILLA"
     },
     {
         "id": "app.settings.notifDonationEth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
+        "defaultMessage": "tippasi sinua {eth} ETHERILLÄ"
     },
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "äänestetty"
     },
     {
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
+        "defaultMessage": "lohkossa numero {blockNr}"
     }
 ]
