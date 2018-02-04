@@ -32,11 +32,11 @@
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "Kohti parempaa verkkoa ihmiskunnan hyväksi"
     },
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "Tulevaisuus ei ole paikka jonne olemme menossa, vaan paikka joss voimme                  luoda. Ansaitsemme paremman verkon ja meillä on on työkalut olemassa sen mahdollistamiseksi.                Yhdessä voimme luoda maailman jossa ilmaisunvapaus verkossa on oikeus,                  ei ominaisuus."
     }
 ]
