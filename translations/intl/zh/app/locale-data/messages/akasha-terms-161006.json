@@ -62,22 +62,22 @@
     {
         "id": "app.akasha.terms.paymentOfFeesBody",
         "description": "payment of fees section content",
-        "defaultMessage": "14 When creating an Identity, you will be provided with an Ethereum Address (Ethereum Identity Key) to which you will need to make a transfer of a small amount of Ether (ETH). Whenever your usage of AKASHA is subject to the payment of a fee, this fee – after you have provided your consent in each individual case – will be withdrawn from your Ethereum Identity Key Balance. The amount of ETH on your Ethereum Identity Key Balance remains in your control and may be withdrawn any time."
+        "defaultMessage": "14 在创建帐户时，您将获得一个以太坊地址（包括以太坊的身份秘钥）用以转入少量以太坊。AKASHA的使用在任何时候都受支付费用的制约，这笔费用 —— 在每一笔支付经您同意后 ——将从您的以太坊帐户余额中扣除。您仍然保持着对您以太坊帐户余额的控制权，可以随时提取。"
     },
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "6. 广告"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
         "description": "advertisement section content",
-        "defaultMessage": "15 AKASHA shall remain free from any advertising and other commercial or sponsored content. In order to help us do that, you agree to refrain from using AKASHA for advertising purposes."
+        "defaultMessage": "15 AKASHA将无任何广告和其他商业或赞助内容。为了帮助我们做到这一点，您同意不以广告目的使用AKASHA。"
     },
     {
         "id": "app.akasha.terms.noWarrantyTitle",
         "description": "no warranty section title",
-        "defaultMessage": "7. No warranty"
+        "defaultMessage": "7. 无担保"
     },
     {
         "id": "app.akasha.terms.noWarrantyBody",
@@ -87,7 +87,7 @@
     {
         "id": "app.akasha.terms.passwordTitle",
         "description": "password section title",
-        "defaultMessage": "8. Password / Open Login"
+        "defaultMessage": "8. 密码／公开登录"
     },
     {
         "id": "app.akasha.terms.passwordBody",
@@ -97,7 +97,7 @@
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. Risks"
+        "defaultMessage": "9. 风险"
     },
     {
         "id": "app.akasha.terms.risksBody",
