@@ -2,27 +2,27 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Tämä on uusi identiteettisi"
     },
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Varmuuskopio avaimet"
     },
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Saadaksesi täyden kokemuksen, täytä profiilisi loppuun!"
     },
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Luo uusi identiteetti"
     },
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "Aloita luomalla uusi identiteetti!"
     },
     {
         "id": "app.setup.gethDataDirPath",
