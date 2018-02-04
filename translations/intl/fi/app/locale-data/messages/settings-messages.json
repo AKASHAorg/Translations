@@ -112,7 +112,7 @@
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "Tämän asetuksen muuttaminen edellyttää maksun lähettämistä"
     },
     {
         "id": "app.settings.tipsAccept",
