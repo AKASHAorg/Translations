@@ -2,57 +2,57 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "Kirjoita summa"
     },
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "PROFILE PICTURE"
+        "defaultMessage": "PROFIILIKUVA"
     },
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "COVER PHOTO"
+        "defaultMessage": "KANSIKUVA"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
         "description": "Background image section tooltip",
-        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+        "defaultMessage": "Lataa kuva kuvasuhteella 2:1"
     },
     {
         "id": "app.profile.aboutMeCharCount",
         "description": "About Me character counter title",
-        "defaultMessage": "Characters left:"
+        "defaultMessage": "Merkkiä jäljellä:"
     },
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "Minusta"
     },
     {
         "id": "app.profile.collectEssence",
         "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Kerää Essence"
     },
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contacts"
+        "defaultMessage": "Yhteyshenkilöt"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Amount available {amount} AETH"
+        "defaultMessage": "Käytettävissä {amount} AETHIA"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling complete"
+        "defaultMessage": "Kierrätys valmis"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No Cycling AETH pending"
+        "defaultMessage": "Ei kierrätettävää AETHIA vireillä"
     },
     {
         "id": "app.profile.cyclingProcess",
