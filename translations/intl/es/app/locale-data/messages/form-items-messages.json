@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Seleccione la cantidad de Esencia para transformarse"
+        "defaultMessage": "Seleccione la cantidad de Esencia a transformar"
     },
     {
         "id": "app.form.amountToShift",
