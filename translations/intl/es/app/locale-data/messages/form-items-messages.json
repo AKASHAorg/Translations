@@ -1,142 +1,142 @@
 [
     {
+        "id": "app.form.about",
+        "description": "label for about me validation",
+        "defaultMessage": "Acerca de mí"
+    },
+    {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "Acerca de mí"
+        "defaultMessage": "Debe especificar un nombre de usuario o una dirección de ethereum"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Debe especificar un nombre de usuario o una dirección de ethereum"
+        "defaultMessage": "Aceptar propinas"
+    },
+    {
+        "id": "app.form.akashaIdPlaceholder",
+        "description": "placeholder for username input field",
+        "defaultMessage": "Escriba su nombre de usuario"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Aceptar propinas"
+        "defaultMessage": "Disculpe, no tiene suficiente ether de prueba."
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "Escriba su nombre de usuario"
+        "defaultMessage": "Necesita depositar ether de prueba para publicar su perfil."
     },
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "Disculpe, no tiene suficiente ether de prueba."
+        "defaultMessage": "Cantidad de AETH"
     },
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Necesita depositar ether de prueba para publicar su perfil."
+        "defaultMessage": "Cantidad es requerida"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "Cantidad de AETH"
+        "defaultMessage": "Cantidad de ETH"
+    },
+    {
+        "id": "app.form.firstNamePlaceholder",
+        "description": "placeholder for first name input field",
+        "defaultMessage": "Escriba su nombre"
+    },
+    {
+        "id": "app.form.lastNamePlaceholder",
+        "description": "placeholder for last name input field",
+        "defaultMessage": "Escriba su apellido"
     },
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "Cantidad es requerida"
+        "defaultMessage": "{aeth} AETH transferible"
     },
     {
         "id": "app.form.maxAethAmountLabel",
         "description": "label for maximum AETH amount input field",
-        "defaultMessage": "Cantidad de ETH"
+        "defaultMessage": "max. {balance}"
     },
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "Escriba su nombre"
+        "defaultMessage": "{essence} Esencia disponible"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "Escriba su apellido"
+        "defaultMessage": "{eth} ETH transferible"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
         "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
-        "defaultMessage": "{aeth} AETH transferible"
+        "defaultMessage": "{manafied} AETH manaficado"
     },
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "max. {balance}"
+        "defaultMessage": "Transformar Esencia"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{essence} Esencia disponible"
+        "defaultMessage": "{amount} de Esencia forjará {value} AETH nuevo en su cuenta."
     },
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "{eth} ETH transferible"
+        "defaultMessage": "Necesita transformar un mínimo de 1000 de Esencia"
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{manafied} AETH manaficado"
+        "defaultMessage": "{amount} de AETH se ciclará de vuelta a AETH transferible en 7 días. {amount} Mana no se regenerará de nuevo."
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "Transformar Esencia"
+        "defaultMessage": "{amount} de AETH generará {amount} de Mana cada 24 horas siempre y cuando se mantenga en este estado."
     },
     {
-        "id": "app.firstName",
+        "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "{amount} de Esencia forjará {value} AETH nuevo en su cuenta."
+        "defaultMessage": "Nombre"
     },
     {
-        "id": "app.lastName",
+        "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Necesita transformar un mínimo de 1000 de Esencia"
+        "defaultMessage": "Apellido"
     },
     {
-        "id": "app.akashaId",
+        "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "{amount} de AETH se ciclará de vuelta a AETH transferible en 7 días. {amount} Mana no se regenerará de nuevo."
+        "defaultMessage": "Nombre de usuario"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "{amount} de AETH generará {amount} de Mana cada 24 horas siempre y cuando se mantenga en este estado."
+        "defaultMessage": "Dirección de Ethereum"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "Nombre"
+        "defaultMessage": "De"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Apellido"
+        "defaultMessage": "Frase de acceso"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Nombre de usuario"
-    },
-    {
-        "id": "app.form.amountToShift",
-        "description": "label for shift amount slider",
-        "defaultMessage": "Dirección de Ethereum"
-    },
-    {
-        "id": "app.form.confirmPassphrase",
-        "description": "label for passphrase confirmation input",
-        "defaultMessage": "De"
-    },
-    {
-        "id": "app.form.forgeAeth",
-        "description": "transform Essence into new AETH",
-        "defaultMessage": "Frase de acceso"
-    },
-    {
-        "id": "app.form.freeAeth",
-        "description": "label for free AETH value",
         "defaultMessage": "Escriba su frase de acceso"
     },
     {
@@ -317,26 +317,26 @@
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
+        "defaultMessage": "Este no es un enlace válido de AKASHA"
     },
     {
         "id": "app.form.navigateTitle",
         "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
+        "defaultMessage": "Pegue un enlace de AKASHA aquí"
     },
     {
         "id": "app.form.navigateSubtitle",
         "description": "subtitle for the navigation modal",
-        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+        "defaultMessage": "Insertar un vínculo para navegar a una entrada o una página de perfil"
     },
     {
         "id": "app.form.shareLinkTitle",
         "description": "title for the share link modal",
-        "defaultMessage": "Share link"
+        "defaultMessage": "Compartir enlace"
     },
     {
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+        "defaultMessage": "Este es un enlace interno que sólo puede usarse dentro de la aplicación de Akasha"
     }
 ]
