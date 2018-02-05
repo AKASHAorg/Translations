@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Customice sus preferencias de la aplicación"
     },
     {
         "id": "app.settings.english",
@@ -20,79 +20,79 @@
         "defaultMessage": "Inglés"
     },
     {
+        "id": "app.settings.hideContent",
+        "description": "title for \"hide content\" settings",
+        "defaultMessage": "Esconder contenido"
+    },
+    {
+        "id": "app.settings.hideContentDescription",
+        "description": "description for \"hide content\" settings",
+        "defaultMessage": "Escoja si prefiere no ver contenido con puntaje menor a un valor en específico"
+    },
+    {
+        "id": "app.settings.hideCommentsLabel",
+        "description": "label for \"hide comments content\" checkbox",
+        "defaultMessage": "Esconder comentarios con puntaje menor a"
+    },
+    {
+        "id": "app.settings.hideEntriesLabel",
+        "description": "label for \"hide entries content\" checkbox",
+        "defaultMessage": "Esconder entradas con puntaje menor a"
+    },
+    {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "Esconder contenido"
+        "defaultMessage": "Opciones de la frase de acceso"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Escoja si prefiere no ver contenido con puntaje menor a un valor en específico"
+        "defaultMessage": "Escoja cuándo su contaseña sea requerida"
     },
     {
         "id": "app.settings.licenseOptions",
         "description": "title for profile default license options",
-        "defaultMessage": "Esconder comentarios con puntaje menor a"
+        "defaultMessage": "Opciones de Publicación"
     },
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "Esconder entradas con puntaje menor a"
+        "defaultMessage": "Escoja la licencia por default para los artículos que publique"
+    },
+    {
+        "id": "app.settings.language",
+        "description": "title for language form item",
+        "defaultMessage": "Idioma"
+    },
+    {
+        "id": "app.settings.lightTheme",
+        "description": "theme switch",
+        "defaultMessage": "Tema Claro"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Opciones de la frase de acceso"
+        "defaultMessage": "Ruso"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "Escoja cuándo su contaseña sea requerida"
+        "defaultMessage": "Escoja el Idioma"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Opciones de Publicación"
+        "defaultMessage": "Español"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "Escoja la licencia por default para los artículos que publique"
-    },
-    {
-        "id": "app.settings.tipsDescription",
-        "description": "description for profile tips options",
-        "defaultMessage": "Idioma"
-    },
-    {
-        "id": "app.settings.tipsOptions",
-        "description": "title for profile tips options",
-        "defaultMessage": "Tema Claro"
-    },
-    {
-        "id": "app.settings.tipsInfo",
-        "description": "info for profile tips options",
-        "defaultMessage": "Ruso"
-    },
-    {
-        "id": "app.settings.tipsAccept",
-        "description": "label for profile tips option",
-        "defaultMessage": "Escoja el Idioma"
-    },
-    {
-        "id": "app.settings.tipsDoNotAccept",
-        "description": "label for profile tips option",
-        "defaultMessage": "Español"
-    },
-    {
-        "id": "app.settings.title",
-        "description": "Title for app settings",
         "defaultMessage": "Tema de la Aplicación"
     },
     {
-        "id": "app.settings.update",
-        "description": "description for update buton",
-        "defaultMessage": "Customizar la apariencia del área de trabajo de Akasha"
+        "id": "app.settings.themeLabel",
+        "description": "theme switch label",
+        "defaultMessage": "Customice la apariencia del área de trabajo de Akasha"
     },
     {
         "id": "app.settings.tipsDescription",
@@ -102,7 +102,7 @@
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "Debe de registar su perfil antes de cambiar esta opción"
+        "defaultMessage": "Debe de registrar su perfil antes de cambiar esta opción"
     },
     {
         "id": "app.settings.tipsOptions",
@@ -127,7 +127,7 @@
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Preferencias de la Aplicación"
     },
     {
         "id": "app.settings.update",
@@ -137,21 +137,21 @@
     {
         "id": "app.settings.notificationsPreference",
         "description": "title for notification settings",
-        "defaultMessage": "Notifications Settings"
+        "defaultMessage": "Preferencias de las Notificaciones"
     },
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "Propinas"
     },
     {
         "id": "app.settings.votes",
         "description": "Title for votes",
-        "defaultMessage": "Votes"
+        "defaultMessage": "Votos"
     },
     {
         "id": "app.settings.notificationsInfo",
         "description": "description for notification preferences",
-        "defaultMessage": "Your notification preferences for Akasha"
+        "defaultMessage": "Sus preferencias para las notificaciones de Akasha"
     }
 ]
