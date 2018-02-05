@@ -237,41 +237,41 @@
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "Ha recibido ETH de prueba y un poco de AETH exitosamente"
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "lo siguió"
     },
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "comentó en"
     },
     {
         "id": "app.settings.notifDonationAeth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
+        "defaultMessage": "le dio {aeth} AETH de propina"
     },
     {
         "id": "app.settings.notifDonationBoth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+        "defaultMessage": "le dio {eth} ETH y {aeth} AETH de propina"
     },
     {
         "id": "app.settings.notifDonationEth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
+        "defaultMessage": "le dio {eth} ETH de propina"
     },
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "votó en"
     },
     {
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
+        "defaultMessage": "en el bloque {blockNr}"
     }
 ]
