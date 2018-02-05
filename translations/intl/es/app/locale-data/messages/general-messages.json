@@ -10,28 +10,28 @@
         "defaultMessage": "Acción"
     },
     {
+        "id": "app.general.aComment",
+        "description": "a random comment",
+        "defaultMessage": "un comentario"
+    },
+    {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "un comentario"
+        "defaultMessage": "Añadir"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Añadir"
+        "defaultMessage": "Arrastrar y soltar para agregar una imagen."
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Arrastrar y soltar para agregar una imagen."
+        "defaultMessage": "¡Genial! Suéltala ahí mismo"
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "¡Genial! Suéltala ahí mismo"
-    },
-    {
-        "id": "app.general.aeth",
-        "description": "aeth token",
         "defaultMessage": "Agregar una nueva entrada"
     },
     {
@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "Notificaciones"
     },
     {
         "id": "app.general.ok",
@@ -532,7 +532,7 @@
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (proximamente)"
+        "defaultMessage": "Chat (próximamente)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -671,12 +671,12 @@
     },
     {
         "id": "app.general.comment",
-        "description": "comentario de entrada",
+        "description": "entry comment",
         "defaultMessage": "Comentar"
     },
     {
         "id": "app.general.publishEntries",
-        "description": "título de acción",
+        "description": "action title",
         "defaultMessage": "Publicar Entradas"
     },
     {
@@ -692,7 +692,7 @@
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
+        "defaultMessage": "Proto-reputación"
     },
     {
         "id": "app.general.karmaLevel",
@@ -737,76 +737,76 @@
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "Usted"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Wait a second..."
+        "defaultMessage": "Espere un segundo..."
     },
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL"
+        "defaultMessage": "Usted está a punto de navegar a una URL externa"
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "Recolectar todo"
     },
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions"
+        "defaultMessage": "Ninguna transacción"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "There is no transaction history"
+        "defaultMessage": "No hay historial de transacciones"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
         "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
+        "defaultMessage": "Sin esencia para recoger"
     },
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "You don`t have any essence to collect"
+        "defaultMessage": "No tienes esencia por recoger"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
         "description": "",
-        "defaultMessage": "No essence was collected"
+        "defaultMessage": "No se recogió esencia alguna"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "",
-        "defaultMessage": "No transaction history"
+        "defaultMessage": "No hay historial de transacciones"
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "Comience a escribir para buscar"
     },
     {
         "id": "app.entry.searchingNoResults",
         "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+        "defaultMessage": "Buscando \"{searchTerm}\" devuelve 0 {resource}. Por favor, ¡intente otra palabra!"
     },
     {
         "id": "app.general.go",
         "description": "go",
-        "defaultMessage": "Go"
+        "defaultMessage": "Ir"
     },
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "Navegar hacia el enlace"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "Compartir"
     }
 ]
