@@ -102,7 +102,7 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "¡Enhorabuena, es usted un pionero sincronizándose con la red de prueba de Etherem! Recomendamos la Sincronización Normal con el setup Express, pero los más valientes también pueden escoger la (muy) experimental Sincronización Ligera."
+        "defaultMessage": "¡Enhorabuena, es usted un pionero sincronizándose con la red de prueba de Ethereum! Recomendamos la Sincronización Normal con el setup Express, pero los más valientes también pueden escoger la (muy) experimental Sincronización Ligera! :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
