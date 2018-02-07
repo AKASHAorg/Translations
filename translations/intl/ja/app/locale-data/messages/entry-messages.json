@@ -402,7 +402,7 @@
     {
         "id": "app.entry.wordsCount",
         "description": "number of words in an entry",
-        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+        "defaultMessage": "{words, number} {words, plural, one {単語} few {単語} many {単語} other {単語}}"
     },
     {
         "id": "app.entry.writeComment",
@@ -462,12 +462,12 @@
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "最初にいくつかのテキストを選択してください"
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "リンクを入力し、Enter キーを押す"
     },
     {
         "id": "app.entry.loadingImage",
