@@ -226,7 +226,7 @@
     },
     {
         "id": "アプリ.確認.バッチ",
-        "description": "confirmation message for a batch of transactions",
+        "description": "トランザクションのバッチの確認メッセージ",
         "defaultMessage": "Please confirm that you want to send {txCount} transactions."
     },
     {
