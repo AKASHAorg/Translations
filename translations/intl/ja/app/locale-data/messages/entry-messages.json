@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG、GIF、または PNG の画像"
+        "defaultMessage": "JPG、GIF、または PNG 画像"
     },
     {
         "id": "app.entry.alreadyDownvoted",
@@ -57,7 +57,7 @@
     {
         "id": "app.entry.commentsCount",
         "description": "Number of comments",
-        "defaultMessage": "{count, number} {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} {count, plural, one {コメ} few {コメ} many {コメ} other {コメ}}"
     },
     {
         "id": "app.entry.continueEditing",
@@ -82,7 +82,7 @@
     {
         "id": "app.entry.draftsCount",
         "description": "number of drafts",
-        "defaultMessage": "{count, number} {count, plural, one {draft} few {drafts} many {drafts} other {drafts}}"
+        "defaultMessage": "{count, number} {count, plural, one {} few {} many {} other {}}"
     },
     {
         "id": "app.entry.draftContentRequired",
@@ -132,7 +132,7 @@
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {エントリー} other {エントリー}}"
+        "defaultMessage": "{count, number} {count, plural, one {件} other {件}}"
     },
     {
         "id": "app.entry.enterWebAddress",
@@ -207,7 +207,7 @@
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": " {count, number}新しい {count, plural, one {コメ} few {コメ} many {コメ} other {コメ}}"
     },
     {
         "id": "app.entry.noCommentsFound",
@@ -447,7 +447,7 @@
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Go to my drafts"
+        "defaultMessage": "下書きに移動"
     },
     {
         "id": "app.entry.myEntries",
@@ -457,7 +457,7 @@
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "元に戻す"
     },
     {
         "id": "app.entry.linkDisabled",
@@ -472,11 +472,11 @@
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "画像を読み込み中"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "エントリー"
     }
 ]
