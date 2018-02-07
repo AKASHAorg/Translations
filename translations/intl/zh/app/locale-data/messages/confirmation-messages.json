@@ -2,236 +2,236 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "请你确认您要法力化{amount} AETH"
     },
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafy"
+        "defaultMessage": "法力化"
     },
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "请确认您要收集精气"
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "收集"
     },
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "请确认您要收集精气"
     },
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "收集"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "请确认您要发布此评论"
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "请确认您要否决此评论"
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "否决"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "评论"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "请确认您要赞成此评论"
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "赞成"
     },
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "请您确认您要轮回{amount} AETH"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "轮回"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "请确认您要发布此草稿"
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "发布草稿"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "请确认您要更新此条目"
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "更新条目"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "请确认您要否决此条目。"
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "否决"
     },
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "请确认您要赞成此条目。"
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "赞成"
     },
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "请确认您要关注 {displayName}."
     },
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "关注"
     },
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "请确认您要收集您已轮回的 AETH"
     },
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "收集"
     },
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "请输入您的密码以便继续处理该进程"
     },
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "请确认您要注册您的个人资料。"
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "注册个人资料"
     },
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "请确认您要更新您的个人资料。"
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "更新个人资料"
     },
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "请确认您要给{displayName} 打赏"
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "打赏"
     },
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "请确认您要创建#{value}。"
     },
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "创建标签"
     },
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "请确认您要更改您的打赏设置。"
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "更改打赏设置"
     },
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "请确认您要转 {tokenAmount} AETH 给 {displayName}。"
     },
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "转账 AETH"
     },
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "请确认您要转 {value} ETH 给 {displayName}。"
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "转账 ETH"
     },
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "请确认您要转换 {amount} 精气"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "转换精气"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "请确认您要取消关注 {displayName}。"
     },
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "取消关注"
     },
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "请确认您要发送{txCount} 交易"
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "多笔交易"
     }
 ]
