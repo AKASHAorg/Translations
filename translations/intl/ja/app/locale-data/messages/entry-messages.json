@@ -132,7 +132,7 @@
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+        "defaultMessage": "{count, number} {count, plural, one {エントリー} other {エントリー}}"
     },
     {
         "id": "app.entry.enterWebAddress",
