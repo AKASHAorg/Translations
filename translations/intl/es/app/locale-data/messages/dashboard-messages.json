@@ -45,23 +45,23 @@
         "defaultMessage": "Por favor escoja una etiqueta"
     },
     {
+        "id": "app.dashboard.addToBoard",
+        "description": "button label for adding a tag/profile column to a board",
+        "defaultMessage": "Crear un nuevo tablero"
+    },
+    {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Crear un nuevo tablero"
+        "defaultMessage": "Colección"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Colección"
+        "defaultMessage": "Novedades de sus seguidos"
     },
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Novedades de sus seguidos"
-    },
-    {
-        "id": "app.dashboard.createNew",
-        "description": "button label/tooltip for creating a new board",
         "defaultMessage": "Crear un nuevo tablero"
     },
     {
