@@ -267,11 +267,11 @@
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "赞成"
     },
     {
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
+        "defaultMessage": "在块编号 {blockNr}"
     }
 ]
