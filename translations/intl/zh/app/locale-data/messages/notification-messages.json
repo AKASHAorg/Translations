@@ -252,17 +252,17 @@
     {
         "id": "app.settings.notifDonationAeth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
+        "defaultMessage": "打赏{aeth} ETH"
     },
     {
         "id": "app.settings.notifDonationBoth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+        "defaultMessage": "打赏{eth} ETH和{aeth} AETH"
     },
     {
         "id": "app.settings.notifDonationEth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
+        "defaultMessage": "打赏{eth} ETH"
     },
     {
         "id": "app.settings.notifVote",
