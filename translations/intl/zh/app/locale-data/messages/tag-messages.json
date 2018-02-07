@@ -22,11 +22,11 @@
     {
         "id": "app.tag.tagsLeft",
         "description": "How many tags you can add",
-        "defaultMessage": "({value} remaining)"
+        "defaultMessage": "剩余{value}"
     },
     {
         "id": "app.tag.tags",
         "description": "plural of tag",
-        "defaultMessage": "tags"
+        "defaultMessage": "标签"
     }
 ]
