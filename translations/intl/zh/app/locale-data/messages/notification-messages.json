@@ -237,17 +237,17 @@
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "您已经成功地接收了用于测试的ETH和部分AETH"
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "关注您"
     },
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "评论"
     },
     {
         "id": "app.settings.notifDonationAeth",
