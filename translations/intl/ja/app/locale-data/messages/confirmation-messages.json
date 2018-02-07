@@ -2,12 +2,12 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "{amount} AETHをManafyすることを確認してください"
     },
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafy"
+        "defaultMessage": "マナファイ"
     },
     {
         "id": "app.confirmations.claim",
@@ -122,7 +122,7 @@
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "あなたの cycled AETHを収集することを確認してください"
     },
     {
         "id": "app.confirmations.freeAethTitle",
@@ -225,13 +225,13 @@
         "defaultMessage": "フォローを解除"
     },
     {
-        "id": "app.confirmations.batch",
+        "id": "アプリ.確認.バッチ",
         "description": "confirmation message for a batch of transactions",
         "defaultMessage": "Please confirm that you want to send {txCount} transactions."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "複数のトランザクション"
     }
 ]
