@@ -30,8 +30,8 @@
         "defaultMessage": "Sólo puede recolectar Esencia si su voto está alineado con la mayoría (ejemplo, votó a favor y su puntaje de entradas es positivo)"
     },
     {
-        "id": "app.entry.collected",
-        "description": "Essence was collected for an entry/vote",
+        "id": "app.entry.cannotExtractWebsiteInfo",
+        "description": "error shown when we cannot extract wesite info",
         "defaultMessage": "¡No se pudo extraer información del sitio web! Por favor intente con otra dirección"
     },
     {
@@ -421,7 +421,7 @@
     },
     {
         "id": "app.entry.draftAll",
-        "description": "todos los borradores",
+        "description": "all drafts",
         "defaultMessage": "Todos los Borradores"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
         "id": "app.entry.publishedAll",
-        "description": "todas las entradas publicadas",
+        "description": "all published entries",
         "defaultMessage": "Todas las entradas"
     },
     {
@@ -441,13 +441,13 @@
     },
     {
         "id": "app.entry.publishedEntryCategory",
-        "description": "sufijo de tipo de entrada por categoría",
+        "description": "entry type suffix by category",
         "defaultMessage": "entradas"
     },
     {
         "id": "app.entry.gotoMyDrafts",
-        "description": "ir a mis borradores",
-        "defaultMessage": "Go to my drafts"
+        "description": "go to my drafts button label",
+        "defaultMessage": "Ir a mis borradores"
     },
     {
         "id": "app.entry.myEntries",
@@ -457,26 +457,26 @@
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "Revertir los cambios"
     },
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Primero debe seleccionar un texto"
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Escriba el enlace y pulse enter"
     },
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Cargando imagen"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "entradas"
     }
 ]
