@@ -225,12 +225,12 @@
         "defaultMessage": "取消关注"
     },
     {
-        "id": "应用程序.确认信息.批量处理",
+        "id": "app.confirmations.batch",
         "description": "批量交易的确认信息",
         "defaultMessage": "请确认您要发送{txCount} 交易"
     },
     {
-        "id": "应用程序.确认信息.批量标题",
+        "id": "app.confirmations.batchTitle",
         "description": "批量交易的确认对话框标题",
         "defaultMessage": "多笔交易"
     }
