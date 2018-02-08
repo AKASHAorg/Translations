@@ -257,22 +257,22 @@
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Une des balises ne peut pas être utilisée !"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Discussion publique"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Publié"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Options de publication"
     },
     {
         "id": "app.entry.readTime",
@@ -282,7 +282,7 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Résolution du hash IPFS..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
@@ -317,17 +317,17 @@
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Cacher le commentaire"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Montrer le commentaire complet"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Commencer un commentaire"
     },
     {
         "id": "app.entry.startANewDraft",
@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Voter pour"
     },
     {
         "id": "app.entry.version",
@@ -382,17 +382,17 @@
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Vous ne pouvez pas voter pour votre propre commentaire"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "La période de vote est terminée"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Les utilisateurs peuvent toujours voter sur l'entrée, mais le Mana brûlé pour ces votes ne pourra pas être récupéré par l'auteur ou par les votants."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
@@ -477,6 +477,6 @@
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "entrées"
     }
 ]
