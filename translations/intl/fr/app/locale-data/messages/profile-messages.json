@@ -262,12 +262,12 @@
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "Envoyer à"
     },
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "Don envoyé"
     },
     {
         "id": "app.profile.support",
@@ -287,7 +287,7 @@
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Montant du don"
     },
     {
         "id": "app.profile.totalBalance",
@@ -307,11 +307,11 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Se désabonner"
     },
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Votre adresse ethereum"
     }
 ]
