@@ -142,7 +142,7 @@
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "Dons"
     },
     {
         "id": "app.settings.votes",
