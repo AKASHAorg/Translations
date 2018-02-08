@@ -22,7 +22,7 @@
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "Veuillez choisir une liste"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
@@ -172,7 +172,7 @@
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Petit"
     },
     {
         "id": "app.dashboard.stream",
