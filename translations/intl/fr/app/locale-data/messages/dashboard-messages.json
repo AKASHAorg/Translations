@@ -182,6 +182,6 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "Balise"
     }
 ]
