@@ -217,7 +217,7 @@
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Erreur inattendue"
     },
     {
         "id": "app.error.profileBondAeth",
