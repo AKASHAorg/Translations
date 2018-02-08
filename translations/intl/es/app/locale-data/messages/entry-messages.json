@@ -282,7 +282,7 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolviendo hash ipfs..."
+        "defaultMessage": "Resolviendo hash de ipfs..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
