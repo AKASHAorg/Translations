@@ -12,7 +12,7 @@
     {
         "id": "app.tutorial.ethereumTitle",
         "description": "ethereum slide title",
-        "defaultMessage": "Powered By Ethereum"
+        "defaultMessage": "Propulsé par Ethereum"
     },
     {
         "id": "app.tutorial.ethereumContent",
