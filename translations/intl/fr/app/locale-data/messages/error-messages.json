@@ -2,7 +2,7 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Signaler une erreur"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
