@@ -27,6 +27,6 @@
     {
         "id": "app.tag.tags",
         "description": "plural of tag",
-        "defaultMessage": "tags"
+        "defaultMessage": "balises"
     }
 ]
