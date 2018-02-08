@@ -107,47 +107,47 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Prénom"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Nom de famille"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Nom d'utilisateur"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Adresse Ethereum"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "De"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Phrase secrète"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Entrer votre phrase secrète"
     },
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Sélectionner la quantité d'Essence à transformer"
     },
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Sélectionner une quantité à déplacer"
     },
     {
         "id": "app.form.fromManafiedToCycling",
@@ -167,27 +167,27 @@
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "Forger de l'AETH"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "Libérer de l'AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Score total en Mana"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nom"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Les phrases secrètes ne sont pas identiques. Veuillez entrer à nouveau vos phrases secrètes"
     },
     {
         "id": "app.form.passphraseVerify",
@@ -232,7 +232,7 @@
     {
         "id": "app.form.tips",
         "description": "label for tips",
-        "defaultMessage": "TIPS"
+        "defaultMessage": "DONS"
     },
     {
         "id": "app.form.title",
@@ -287,17 +287,17 @@
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "Les balises peuvent contenir au maximum 24 caractères."
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "La balise {tag} a déjà été ajoutée"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "Se souvenir de ma phrase secrète pendant"
     },
     {
         "id": "app.form.tipAmountError",
@@ -312,7 +312,7 @@
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Mettre à jour les paramètres"
     },
     {
         "id": "app.form.navigationError",
