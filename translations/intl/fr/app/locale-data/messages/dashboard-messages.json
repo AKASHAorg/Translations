@@ -2,12 +2,12 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Ajouter une colonne"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Ajouter une colonne"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
@@ -47,12 +47,12 @@
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Ajouter au tableau"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Créer une nouvelle tableau"
     },
     {
         "id": "app.dashboard.collection",
@@ -67,7 +67,7 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Vous devez d'abord créer un tableau"
     },
     {
         "id": "app.dashboard.createOneNow",
@@ -77,22 +77,22 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Créer un nouveau tableau"
     },
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Nom du tableau"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "Le nom du tableau est requis"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "Ce tableau existe déjà"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
@@ -107,17 +107,17 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "My board"
+        "defaultMessage": "Mon tableau"
     },
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Large"
+        "defaultMessage": "Grand"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "Entrées récentes"
     },
     {
         "id": "app.dashboard.list",
@@ -132,17 +132,17 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "Mes tableaux"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "Saisir le nom du tableau"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "Aucun tableau trouvé"
     },
     {
         "id": "app.dashboard.previewList",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Rechercher un tableau..."
     },
     {
         "id": "app.dashboard.small",
