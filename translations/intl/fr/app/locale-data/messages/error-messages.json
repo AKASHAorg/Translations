@@ -42,7 +42,7 @@
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Une erreur est survenue lors de l'enregistrement du nouveau tableau"
     },
     {
         "id": "app.error.dashboardAddColumn",
@@ -52,7 +52,7 @@
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "Une erreur est survenue lors de la suppression du tableau"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
@@ -62,17 +62,17 @@
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "Une erreur est survenue lors de l'accès au tableau actif"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "Une erreur est survenue lors de l'accès à vos tableaux"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "Une erreur est survenue lors de l'enregistrement du tableau actif"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
