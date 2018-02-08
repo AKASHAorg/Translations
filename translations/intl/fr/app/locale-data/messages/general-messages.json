@@ -137,7 +137,7 @@
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "Compteur"
     },
     {
         "id": "app.general.create",
@@ -267,7 +267,7 @@
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Rejoindre"
     },
     {
         "id": "app.general.karma",
@@ -287,7 +287,7 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Quitter"
     },
     {
         "id": "app.general.logs",
@@ -297,7 +297,7 @@
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Déconnexion"
     },
     {
         "id": "app.general.mana",
@@ -307,7 +307,7 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Mana total brûlé"
     },
     {
         "id": "app.general.manaPool",
@@ -317,7 +317,7 @@
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "Manafied"
+        "defaultMessage": "Manafié"
     },
     {
         "id": "app.general.minutesCount",
@@ -327,17 +327,17 @@
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Suivant"
     },
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "Non"
     },
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Aucun pair disponible"
     },
     {
         "id": "app.general.notes",
@@ -487,12 +487,12 @@
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Rechercher"
     },
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Voir sur Etherscan"
     },
     {
         "id": "app.general.send",
