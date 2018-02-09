@@ -92,7 +92,7 @@
     {
         "id": "app.akasha.terms.passwordBody",
         "description": "password section content",
-        "defaultMessage": "17    As part of creating your identity, you will need to provide a password. The password will be used to access AKASHA and make use of your Ethereum Identity Key Balance. You must keep this password safe and may not share it with anybody.\n            18    When logging in you have an option to create a secure “authentication hash/token” for a amount of time in your choice, which allows you to securely sign transactions while logged in without having to reintroduce your password each time you post, comment or vote on something (Open Login Function). When the selected time period expires, you will be prompted to reintroduce your password. Please assure that you do not leave your AKASHA access device unattended after having chosen the Open Login Function.z"
+        "defaultMessage": "17 作为创建身份的一个环节，需要提供密码。密码将用于访问AKASHA和使用以太坊帐户的余额。请务必保证密码安全，不告知他人。\n18 登录时您可以选择在您所选的时间段内创建安全的“身份验证哈希／令牌”，它可以让您在登录后发贴、评论或投票（开启登录功能）的任何时间安全地签署交易而无需重新输入密码。当选择的时间段失效后，系统将提示重新输入密码。请确保在选择开启登录功能（Open Login Function.z）后不要离开已登陆AKASHA的设备。"
     },
     {
         "id": "app.akasha.terms.risksTitle",
