@@ -82,7 +82,7 @@
     {
         "id": "app.akasha.terms.noWarrantyBody",
         "description": "no warranty section content",
-        "defaultMessage": "16 You understand and expressly accept that there is no warranty whatsoever regarding the availability, functionality, and/or the success of AKASHA and the Ethereum Identity Key , expressed or implied, to the extent permitted by law, and that the Pre-Alpha release of AKASHA is used at the sole risk of yourself on an “as is” and “under development” basis and without, to the extent permitted by law, any warranties of any kind, including, but not limited to, warranties of title or implied warranties, merchantability or fitness for a particular purpose;"
+        "defaultMessage": "16 理解和明确地接受对法律框架下明示或默示的可用性、功能及／或AKASHA的成功与以太坊私钥无任何保证。使用AKASHA内部测试版的特定风险来自基于“目前”和“正在开发”的版本，也来自在法律框架内没有任何形式的保证，包括（但不限于）所有权及其他默示保证，关于适销性和适合某一特定用途的保证。"
     },
     {
         "id": "app.akasha.terms.passwordTitle",
