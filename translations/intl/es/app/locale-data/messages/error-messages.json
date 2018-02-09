@@ -265,8 +265,8 @@
         "defaultMessage": "Error al intentar transformar {amount} de Esencia"
     },
     {
-        "id": "app.error.saveGeneralSettings",
-        "description": "error message for saving general settings",
+        "id": "app.error.profileUpdate",
+        "description": "error message for updating your profile",
         "defaultMessage": "Error al intentar actualizar su perfil"
     },
     {
