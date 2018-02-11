@@ -197,12 +197,12 @@
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Vahvista että haluat lähettää {value} Etheriä {displayName}."
+        "defaultMessage": "Vahvista että haluat lähettää {value} ETH: ta käyttäjälle {displayName}."
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Lähetä ETH"
+        "defaultMessage": "Lähetä ETH: ta"
     },
     {
         "id": "app.confirmations.transformEssence",
