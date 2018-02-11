@@ -112,7 +112,7 @@
     {
         "id": "app.akasha.terms.taxationBody",
         "description": "taxation section content",
-        "defaultMessage": "20 You bear the sole responsibility to determine if any action or transaction related to AKASHA have tax implications for yourself."
+        "defaultMessage": "20 您承担的责任是确定是否任何与AKASHA有关的活动或交易对您有税收的影响。"
     },
     {
         "id": "app.akasha.terms.noLiabilityTitle",
