@@ -332,7 +332,7 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Créer un brouillon maintenant !"
     },
     {
         "id": "app.entry.title",
