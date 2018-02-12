@@ -22,7 +22,7 @@
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Enhanced By The Inter-Planetary File System"
+        "defaultMessage": "由星际文件系统（IPFS）增强"
     },
     {
         "id": "app.tutorial.ipfsContent",
