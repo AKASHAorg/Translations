@@ -12,12 +12,12 @@
     {
         "id": "app.tutorial.ethereumTitle",
         "description": "ethereum slide title",
-        "defaultMessage": "Powered By Ethereum"
+        "defaultMessage": "基于以太坊"
     },
     {
         "id": "app.tutorial.ethereumContent",
         "description": "ethereum slide content",
-        "defaultMessage": "Ethereum allowed us to build a new kind of application that removes the need\n                to blindly trust server administrators. Thanks to its transparent properties we\n                have strong authentication, identity, verifiability, voting and\n                micro-transactions."
+        "defaultMessage": "以太坊允许我们构建一种新的应用程序以消除\n                盲从服务器管理者的必要性。由于其明晰的特性，我们\n                才有了强大的身份验证、身份识别、可核查、投票和\n                微交易等功能。"
     },
     {
         "id": "app.tutorial.ipfsTitle",
