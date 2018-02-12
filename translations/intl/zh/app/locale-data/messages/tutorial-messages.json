@@ -27,16 +27,16 @@
     {
         "id": "app.tutorial.ipfsContent",
         "description": "ipfs slide content",
-        "defaultMessage": "Thanks to the Inter-Planetary File System (IPFS) we removed also the need\n                for servers to distribute and store your content. This allows users to circumvent\n                traditional censorship blockades and empowers people with real freedom of\n                expression."
+        "defaultMessage": "通过星际文件系统（IPFS）我们还省去了\n                在服务器上分发和存储内容的需要。这使得用户能够绕过\n                传统的审查限制并赋予人们真正言论自由的权利。"
     },
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "迈向一个更好的人性化服务网络"
     },
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "未来不是我们要去的地方，而是一个我们可以\n                创造的地方。我们应该拥有更好的网络，而且现在我们有了实现它的工具。\n                我们可以一起创造一个世界，在这个世界里言论自由是一种权利，\n                而不是一种功能。"
     }
 ]
