@@ -202,12 +202,12 @@
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Convertir hacia abajo"
+        "defaultMessage": "Disminuir"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Convertir Mana hacia abajo"
+        "defaultMessage": "Disminuir Reserva de Mana"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,12 +217,12 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Convertir hacia arriba"
+        "defaultMessage": "Aumentar"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Convertir Mana hacia arriba"
+        "defaultMessage": "Aumentar Reserva de Mana"
     },
     {
         "id": "app.form.shiftUpManaHelp",
