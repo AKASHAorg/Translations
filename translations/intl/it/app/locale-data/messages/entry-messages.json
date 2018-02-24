@@ -327,7 +327,7 @@
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Inizia a commentare"
     },
     {
         "id": "app.entry.startANewDraft",
@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Non posso determinare l'autore della voce"
     },
     {
         "id": "app.entry.upvote",
