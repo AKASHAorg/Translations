@@ -227,11 +227,11 @@
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Conferma che vuoi inviare {txCount} transazioni."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Più transazioni"
     }
 ]
