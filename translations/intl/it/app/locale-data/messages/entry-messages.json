@@ -252,27 +252,27 @@
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Original"
+        "defaultMessage": "Originale"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Uno dei tag non può essere utilizzato!"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Discussione pubblica"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Pubblicato"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Opzioni di pubblicazione"
     },
     {
         "id": "app.entry.readTime",
@@ -282,7 +282,7 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Risoluzione dell'hash IPFS..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
