@@ -2,7 +2,7 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Annulla"
     },
     {
         "id": "app.general.action",
@@ -17,12 +17,12 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Aggiungi"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Trascina per aggiungere un'immagine."
     },
     {
         "id": "app.general.addImageDragged",
@@ -32,7 +32,7 @@
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Aggiungi una nuova voce"
     },
     {
         "id": "app.general.addTo",
@@ -257,12 +257,12 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "Servizio IPFS spento"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "Servizio IPFS acceso"
     },
     {
         "id": "app.general.join",
@@ -277,7 +277,7 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "Punteggio totale di Karma"
     },
     {
         "id": "app.general.learnMore",
@@ -287,7 +287,7 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Esci"
     },
     {
         "id": "app.general.logs",
@@ -297,7 +297,7 @@
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Esci"
     },
     {
         "id": "app.general.mana",
@@ -307,27 +307,27 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Mana bruciato totale"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana Pool Info"
+        "defaultMessage": "Info sulla riserva di Mana"
     },
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "Manafied"
+        "defaultMessage": "Manaficato"
     },
     {
         "id": "app.general.minutesCount",
         "description": "short form of minutes count",
-        "defaultMessage": "{minutes, number} min"
+        "defaultMessage": "{minutes, number} minuti"
     },
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Avanti"
     },
     {
         "id": "app.general.no",
@@ -337,22 +337,22 @@
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Non ci sono peer disponibili"
     },
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "Notes"
+        "defaultMessage": "Note"
     },
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Non trovato"
     },
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "Notifiche"
     },
     {
         "id": "app.general.ok",
@@ -362,47 +362,47 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "Ok, capito!"
     },
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Pause"
+        "defaultMessage": "Pausa"
     },
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "In attesa"
     },
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "In attesa di conferma"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Persone"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Anteprima"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "Elaborando l'immagine"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Panoramica del profilo"
     },
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Pubblica"
     },
     {
         "id": "app.general.publishing",
@@ -412,27 +412,27 @@
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "ricevuto"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "+{amount} {symbol} da"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Ricarica"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Rinomina"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Rispondi"
     },
     {
         "id": "app.general.reset",
@@ -447,22 +447,22 @@
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Riprova"
     },
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "Richiedi AETHER"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Richiedi testETH"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "Richiedi testETH!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
@@ -477,17 +477,17 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Salva"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "salva per dopo"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Cerca"
     },
     {
         "id": "app.general.seeOnEtherscan",
