@@ -2,42 +2,42 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Segnala un errore"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Grazie per il tuo feedback!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Per favore copia le righe seguenti e crea una nuova segnalazione su {githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "Verifica anche che non ci siano segnalazione già aperte per questo errore!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "La generazione del backup non è riuscita. Riprova"
     },
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Si è verificato un errore durante il downvoting di un commento"
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "Si è verificato un errore durante la pubblicazione di un commento"
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Si è verificato un errore durante l'upvoting di un commento"
     },
     {
         "id": "app.error.dashboardAdd",
@@ -82,32 +82,32 @@
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Impossibile salvare le modifiche più recenti di questa bozza"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "Si è verificato un errore durante la pubblicazione della tua bozza"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "Si è verificato un errore durante il tentativo di recuperare le tue voci. Sto mostrando solo bozze locali"
     },
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Si è verificato un errore durante la raccolta di Essenza per {entryTitle}"
     },
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Si è verificato un errore durante la raccolta di Essenza per {entryTitle}"
     },
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "Si è verificato un errore durante il downvoting di {entryTitle}"
     },
     {
         "id": "app.error.entryGetFull",
@@ -122,22 +122,22 @@
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "Si è verificato un errore durante l'upvoting di {entryTitle}"
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Codice errore {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Errore irreversibile"
     },
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "Si è verificato un errore durante il recupero delle tue impostazioni generali"
     },
     {
         "id": "app.error.gethGetOptions",
