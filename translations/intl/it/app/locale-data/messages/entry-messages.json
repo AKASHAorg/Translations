@@ -287,7 +287,7 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Sei sicuro di voler ripristinare questa bozza?"
     },
     {
         "id": "app.entry.saveHighlight",
@@ -297,22 +297,22 @@
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Punteggio"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Cerca un profilo"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Cerca un tag"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Visualizza comunque"
     },
     {
         "id": "app.entry.showLess",
@@ -322,7 +322,7 @@
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Mostra il commento completo"
     },
     {
         "id": "app.entry.startComment",
@@ -332,17 +332,17 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Crea una bozza ora!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Titolo"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Il titolo non deve essere vuoto"
     },
     {
         "id": "app.entry.tooltipAuthor",
@@ -352,27 +352,27 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Mi piace"
     },
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "versione"
     },
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Cronologia delle versioni"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Versione {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Il tuo voto è in sospeso"
     },
     {
         "id": "app.entry.votePercentage",
