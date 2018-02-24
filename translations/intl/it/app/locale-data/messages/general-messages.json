@@ -492,22 +492,22 @@
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Visualizza su Etherscan"
     },
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Invia"
     },
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Invitato"
     },
     {
         "id": "app.general.settings",
         "description": "settings button label",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Impostazioni"
     },
     {
         "id": "app.general.sidebarTooltipDashboard",
@@ -517,7 +517,7 @@
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Il mio profilo"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
@@ -527,12 +527,12 @@
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Cerca"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Chat (in arrivo)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
