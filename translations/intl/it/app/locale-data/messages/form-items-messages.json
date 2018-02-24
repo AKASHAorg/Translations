@@ -157,32 +157,32 @@
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "Da Trasferibile a Manaficato"
     },
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Conferma la password"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "Crea AETH"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "Libera AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Punteggio totale di Mana"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nome"
     },
     {
         "id": "app.form.passphraseConfirmError",
