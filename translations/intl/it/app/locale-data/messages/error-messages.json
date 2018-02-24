@@ -142,87 +142,87 @@
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "Si è verificato un errore durante il recupero delle opzioni del servizio geth"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "Si è verificato un errore durante il recupero dello stato del servizio geth"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "Si è verificato un errore durante il recupero dello stato della sincronizzazione"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio delle tue impostazioni geth"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "Si è verificato un errore durante il recupero delle tue impostazioni geth"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Non è stato possibile avviare il servizio geth"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Non è stato possibile fermare il servizio geth"
     },
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "An error occurred while getting IPFS service config"
+        "defaultMessage": "Si è verificato un errore durante il recupero della configurazione del servizio IPFS"
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "An error occurred while getting IPFS service ports"
+        "defaultMessage": "Si è verificato un errore durante il recupero delle porte del servizio IPFS"
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "An error occurred while saving your IPFS settings"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio delle tue impostazioni IPFS"
     },
     {
         "id": "app.error.ipfsSetPorts",
         "description": "ipfs set ports error message",
-        "defaultMessage": "An error occurred while setting ipfs service ports"
+        "defaultMessage": "Si è verificato un errore durante l'impostazione delle porte del servizio Ipfs"
     },
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "An error occurred while getting your IPFS settings"
+        "defaultMessage": "Si è verificato un errore durante il recupero delle tue impostazioni IPFS"
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "Non è stato possibile avviare il servizio IPFS"
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "An error occurred while getting IPFS service status"
+        "defaultMessage": "Si è verificato un errore durante il recupero dello stato del servizio IPFS"
     },
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "Non è stato possibile fermare il servizio IPFS"
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Errore imprevisto"
     },
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "An error occured while manafying {amount} AETH"
+        "defaultMessage": "Si è verificato un errore durante la conversione in Mana di {amount} AETH"
     },
     {
         "id": "app.error.profileCycleAeth",
@@ -237,12 +237,12 @@
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "Si è verificato un errore durante la raccolta dei profili locali"
     },
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "Si è verificato un errore durante la raccolta della lista dei profili"
     },
     {
         "id": "app.error.profileToggleDonations",
@@ -252,12 +252,12 @@
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "Si è verificato un errore durante il trasferimento di {tokenAmount} AETH"
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "Si è verificato un errore durante il trasferimento di {value} ETH"
     },
     {
         "id": "app.error.profileTransformEssence",
