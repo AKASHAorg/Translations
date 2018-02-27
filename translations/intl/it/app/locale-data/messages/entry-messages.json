@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Mi piace"
+        "defaultMessage": "Upvote"
     },
     {
         "id": "app.entry.version",
