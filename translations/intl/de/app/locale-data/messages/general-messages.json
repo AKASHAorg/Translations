@@ -257,17 +257,17 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "IPFS-Dienst AUS"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "IPFS-Dienst AN"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Beitreten"
     },
     {
         "id": "app.general.karma",
@@ -277,27 +277,27 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "Gesamtes Karma"
     },
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "Mehr erfahren"
     },
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Verlassen"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "Protokolle"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Ausloggen"
     },
     {
         "id": "app.general.mana",
@@ -327,12 +327,12 @@
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Weiter"
     },
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "Nein"
     },
     {
         "id": "app.general.noPeersAvailable",
@@ -342,17 +342,17 @@
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "Notes"
+        "defaultMessage": "Notizen"
     },
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Nicht gefunden"
     },
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "Benachrichtigungen"
     },
     {
         "id": "app.general.ok",
@@ -362,7 +362,7 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "Ok, verstanden!"
     },
     {
         "id": "app.general.pause",
@@ -372,67 +372,67 @@
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "Unerledigt"
     },
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Warte auf Bestätigung"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Menschen"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Vorschau"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "Verarbeite Bild"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Profilübersicht"
     },
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Veröffentlichen"
     },
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "Publishing"
+        "defaultMessage": "Veröffentliche"
     },
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "erhalten"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "+{amount} {symbol} von"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Neu laden"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Umbenennen"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Antworten"
     },
     {
         "id": "app.general.reset",
@@ -442,32 +442,32 @@
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "Fortfahren"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Erneut versuchen"
     },
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "AETHER anfordern"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Test-ETH anfordern"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "Test-ETH anfordern!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "Akasha-ETH anfordern!"
     },
     {
         "id": "app.general.running",
@@ -477,7 +477,7 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Speichern"
     },
     {
         "id": "app.general.saveForLater",
@@ -652,7 +652,7 @@
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "Abstimmen"
     },
     {
         "id": "app.general.wallet",
@@ -662,32 +662,32 @@
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "Warte"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "Ja"
     },
     {
         "id": "app.general.comment",
         "description": "entry comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Kommentieren"
     },
     {
         "id": "app.general.publishEntries",
         "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "defaultMessage": "Beiträge veröffentlichen"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Dein Karma wird steigen, wenn du Essence sammelst."
     },
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Tags erstellen"
     },
     {
         "id": "app.general.karmaLeaderboard",
@@ -702,7 +702,7 @@
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "Auf deinem jetzigen Level kannst du:"
     },
     {
         "id": "app.general.karmaScore",
