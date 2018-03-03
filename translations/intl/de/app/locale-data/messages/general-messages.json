@@ -712,17 +712,17 @@
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "Mehr anzeigen"
     },
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "You are not following anyone."
+        "defaultMessage": "Du folgst niemandem."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikel"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
@@ -732,12 +732,12 @@
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Bild"
     },
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "Du"
     },
     {
         "id": "app.general.waitASecond",
@@ -747,12 +747,12 @@
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL"
+        "defaultMessage": "Du wirst jetzt eine externe URL aufrufen"
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "Alles einsammeln"
     },
     {
         "id": "app.general.noTransactionsTitle",
