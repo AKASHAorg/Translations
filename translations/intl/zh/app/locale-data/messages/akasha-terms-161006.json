@@ -37,7 +37,7 @@
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. 无非法活动和内容"
+        "defaultMessage": "3、无非法活动和内容"
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. 注册及身份验证"
+        "defaultMessage": "4、注册及身份验证"
     },
     {
         "id": "app.akasha.terms.registrationBody",
@@ -97,7 +97,7 @@
     {
         "id": "app.akasha.terms.risksTitle",
         "description": "risks section title",
-        "defaultMessage": "9. 风险"
+        "defaultMessage": "9、风险"
     },
     {
         "id": "app.akasha.terms.risksBody",
@@ -107,7 +107,7 @@
     {
         "id": "app.akasha.terms.taxationTitle",
         "description": "taxation section title",
-        "defaultMessage": "10. 税费"
+        "defaultMessage": "10、税费"
     },
     {
         "id": "app.akasha.terms.taxationBody",
