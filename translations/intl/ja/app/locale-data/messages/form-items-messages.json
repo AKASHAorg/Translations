@@ -307,7 +307,7 @@
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "宛先"
+        "defaultMessage": "受取人"
     },
     {
         "id": "app.form.updateSettings",
