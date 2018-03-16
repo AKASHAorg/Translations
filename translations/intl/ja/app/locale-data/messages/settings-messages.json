@@ -137,17 +137,17 @@
     {
         "id": "app.settings.notificationsPreference",
         "description": "title for notification settings",
-        "defaultMessage": "Notifications Settings"
+        "defaultMessage": "通知設定"
     },
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "チップ"
     },
     {
         "id": "app.settings.votes",
         "description": "Title for votes",
-        "defaultMessage": "Votes"
+        "defaultMessage": "票"
     },
     {
         "id": "app.settings.notificationsInfo",
