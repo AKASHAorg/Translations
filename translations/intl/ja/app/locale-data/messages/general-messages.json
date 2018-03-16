@@ -252,7 +252,7 @@
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {時間} other {時間}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
@@ -352,7 +352,7 @@
     {
         "id": "app.general.notifications",
         "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "通知"
     },
     {
         "id": "app.general.ok",
@@ -737,12 +737,12 @@
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "あなた"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Wait a second..."
+        "defaultMessage": "少々お待ちください..."
     },
     {
         "id": "app.general.externalNavigationWarning",
@@ -757,12 +757,12 @@
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions"
+        "defaultMessage": "トランザクションがありません"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "There is no transaction history"
+        "defaultMessage": "トランザクション履歴がありません"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
@@ -782,12 +782,12 @@
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "",
-        "defaultMessage": "No transaction history"
+        "defaultMessage": "トランザクション履歴がありません"
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "入力して検索する"
     },
     {
         "id": "app.entry.searchingNoResults",
@@ -802,11 +802,11 @@
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "リンクへ移動"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "シェアする"
     }
 ]
