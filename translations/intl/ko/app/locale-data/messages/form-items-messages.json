@@ -122,7 +122,7 @@
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "이더리움 지갑주소"
     },
     {
         "id": "app.form.from",
@@ -182,7 +182,7 @@
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "이름"
     },
     {
         "id": "app.form.passphraseConfirmError",
