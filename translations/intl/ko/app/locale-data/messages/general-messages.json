@@ -82,7 +82,7 @@
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "취소"
     },
     {
         "id": "app.general.chat",
@@ -132,7 +132,7 @@
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "복사"
     },
     {
         "id": "app.general.counter",
@@ -157,7 +157,7 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "삭제"
     },
     {
         "id": "app.general.done",
@@ -207,7 +207,7 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "이더리움 지갑주소"
     },
     {
         "id": "app.general.failedAtBlock",
