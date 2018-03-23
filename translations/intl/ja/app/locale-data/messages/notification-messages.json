@@ -237,12 +237,12 @@
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "テスト用のETHとAETHを受け取りました"
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "フォローされました"
     },
     {
         "id": "app.settings.notifComment",
@@ -267,7 +267,7 @@
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "…に票を入れました"
     },
     {
         "id": "app.settings.notifBlockNr",
