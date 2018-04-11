@@ -47,7 +47,7 @@
     {
         "id": "app.notification.transformEssenceSuccess",
         "description": "notification to be displayed when transform Essence transaction was mined",
-        "defaultMessage": "You successfully transformed {amount} Essence"
+        "defaultMessage": "正常に {amount} エッセンスを変換しました"
     },
     {
         "id": "app.notification.unfollowingProfile",
