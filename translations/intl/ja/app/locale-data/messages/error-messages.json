@@ -27,7 +27,7 @@
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "コメントにDownvote中にエラーが発生しました"
     },
     {
         "id": "app.error.commentsPublish",
@@ -37,7 +37,7 @@
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "コメントにUpvote中にエラーが発生しました"
     },
     {
         "id": "app.error.dashboardAdd",
