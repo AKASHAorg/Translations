@@ -42,7 +42,7 @@
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "反対票"
+        "defaultMessage": "Downvote"
     },
     {
         "id": "app.confirmations.commentTitle",
@@ -57,7 +57,7 @@
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "賛成"
+        "defaultMessage": "Upvote"
     },
     {
         "id": "app.confirmations.cycleAeth",
@@ -92,22 +92,22 @@
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "この投稿に反対票を入れることを確認してください"
+        "defaultMessage": "この投稿にDownvoteすることを確認してください"
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "反対"
+        "defaultMessage": "Downvote"
     },
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "この投稿に賛成票を入れることを確認してください。"
+        "defaultMessage": "この投稿にUpvoteすることを確認してください"
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "賛成票"
+        "defaultMessage": "Upvote"
     },
     {
         "id": "app.confirmations.follow",
