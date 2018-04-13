@@ -67,7 +67,7 @@
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "反対"
+        "defaultMessage": "Downvote"
     },
     {
         "id": "app.entry.draft",
@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "賛成"
+        "defaultMessage": "Upvote"
     },
     {
         "id": "app.entry.version",
@@ -377,7 +377,7 @@
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "賛成-{upvote} %・反対-{downvote} %"
+        "defaultMessage": "Upvote-{upvote} %・Downvote-{downvote} %"
     },
     {
         "id": "app.entry.votingOwnComment",
