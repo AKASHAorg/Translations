@@ -262,7 +262,7 @@
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "公開議論"
+        "defaultMessage": "公開ディスカッション"
     },
     {
         "id": "app.entry.published",
