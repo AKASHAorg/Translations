@@ -207,7 +207,7 @@
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Geth clientを開始中..."
     },
     {
         "id": "app.setup.upgradingGeth",
@@ -282,7 +282,7 @@
     {
         "id": "app.setup.peerCount",
         "description": "number of peers connected",
-        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}} {peerCount, plural, one {connected} other {connected}}"
+        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peer} many {peer} other {peer}}, {peerCount, plural, one {接続済み} other {接続済み}}"
     },
     {
         "id": "app.setup.details",
