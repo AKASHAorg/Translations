@@ -16,7 +16,7 @@
 - The following project is on-hold until we receive the key prototype:
     - Freedom Key	
 
-## Goals with deadline by end of June
+## Goals with deadline by the end of June
 
 - [Organize the BACKLOG](https://github.com/AkashaProject/Community/issues/16) **high priority** @all
 - Modularization of the application @marius
