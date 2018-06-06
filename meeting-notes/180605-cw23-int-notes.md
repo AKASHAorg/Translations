@@ -18,14 +18,15 @@
 
 ## TO-DO
 
-- Organize the BACKLOG  **high priority** @all
+- [Organize the BACKLOG](https://github.com/AkashaProject/Community/issues/16) **high priority** @all
 - Modularization of the application @marius
-- Create a GETTING STARTED/CONTRIBUTING.md to main repositories @sebastian
-- Reorganizing Github
-- Reorganizing GitHub Project Board 
+- [Create a GETTING STARTED/CONTRIBUTING.md to main repositories](https://github.com/AkashaProject/Community/issues/17) @sebastian
+- [Reorganizing Github](https://github.com/AkashaProject/Community/issues/19)
+- [Reorganizing Project Board](https://github.com/AkashaProject/Community/issues/19)
 - Create job posts templates @anderson
 - Post job openings and start filtering CVs @anderson
 - We shall start having weekly meetings as soon as possible @anderson
-- Create Adjust Community repo @anderson 
+- [Power-up Community repo](https://github.com/AkashaProject/Community/issues/15) @anderson 
 - v1.0 of our Mission/Manifesto/Mantra, Values, and Principles @anderson
-- Define OKRs for Q3 by the end of June @anderson
+- [Define OKRs for Q3 by the end of June](https://github.com/AkashaProject/Community/issues/20) @anderson
+- [Create job posts templates](https://github.com/AkashaProject/Community/issues/22) @anderson
