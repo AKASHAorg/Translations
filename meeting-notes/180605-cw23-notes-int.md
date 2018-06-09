@@ -1,5 +1,8 @@
-# Internal meeting
+# Internal Meeting
 ## Jun 05 2018
+
+### Attendees
+@MihaiAlisie @RoxanaSureanu @kenshyx @bogdanbrezuica @SeverS @quininez @42piratas
 
 ## Highlights
 
