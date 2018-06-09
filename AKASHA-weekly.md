@@ -8,7 +8,7 @@ In the **AKASHA Weekly Meeting**, the core engineering team, contributors, and c
 ## Details 
 **When:** Every Friday, UTC 1pm   
 **[Ckeck the Time Zone here](https://www.worldtimebuddy.com/?pl=1&lid=100&h=100)**   
-**Link:** https://zoom.us/s/172545331   
+**Link:** [zoom.us/s/172545331](https://zoom.us/s/172545331)   
 **Length:** 60 minutes
 
 ## Agenda
