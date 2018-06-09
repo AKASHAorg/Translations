@@ -14,8 +14,8 @@ In the **AKASHA Weekly Meeting**, the core engineering team, contributors, and c
 ## Agenda
 Altought not a directive, we often use the structure of [Scrum Meetings](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) as a general guide for our meetings, i.e. each person *can* use the three following questions to guide their own agenda. 
 
-1. What did you do yesterday?
-1. What will you do today?
+1. What have you done since the last meeting?
+1. What do you plan to do until the next meeting?
 1. Are there any impediments in your way? 
 
 ## Notes from previous meetings
