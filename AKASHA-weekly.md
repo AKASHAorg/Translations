@@ -12,7 +12,7 @@ In the **AKASHA Weekly Meeting**, the core engineering team, contributors, and c
 **Length:** 60 minutes
 
 ## Agenda
-Altought not a directive, we use the structure of [Scrum Meetings](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) as a general reference for our own meetings, i.e. each person *can* use the three following questions to guide its own agenda. 
+Altought not a directive, we often use the structure of [Scrum Meetings](https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum) as a general reference for our own meetings, i.e. each person *can* use the three following questions to guide its own agenda. 
 
 1. What did you do yesterday?
 1. What will you do today?
