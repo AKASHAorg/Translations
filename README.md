@@ -1,5 +1,5 @@
 # AKASHA’s Community
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)   
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AkashaProject/dapp/issues)   
 
 ## About AKASHA
 AKASHA is a decentralized social media network powered by the [Ethereum](https://www.ethereum.org/) world computer and embedded into the [Inter-Planetary File System](https://ipfs.io/).
