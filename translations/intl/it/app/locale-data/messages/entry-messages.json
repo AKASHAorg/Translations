@@ -182,7 +182,7 @@
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Collegamento"
+        "defaultMessage": "Link"
     },
     {
         "id": "app.entry.loadMoreReplies",
