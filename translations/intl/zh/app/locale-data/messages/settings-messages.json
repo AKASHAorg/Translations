@@ -2,156 +2,156 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "中文"
+        "defaultMessage": "Chinese"
     },
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "暗主题"
+        "defaultMessage": "Dark Theme"
     },
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "自定义应用程序设置"
+        "defaultMessage": "Customize your app preferences"
     },
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "英语"
+        "defaultMessage": "English"
     },
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "隐藏内容"
+        "defaultMessage": "Hide content"
     },
     {
         "id": "app.settings.hideContentDescription",
         "description": "description for \"hide content\" settings",
-        "defaultMessage": "如果您不想看低于某个分数的内容，选择一个特定值"
+        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
     },
     {
         "id": "app.settings.hideCommentsLabel",
         "description": "label for \"hide comments content\" checkbox",
-        "defaultMessage": "隐藏低于某个分数的评论"
+        "defaultMessage": "Hide comments with a score lower than"
     },
     {
         "id": "app.settings.hideEntriesLabel",
         "description": "label for \"hide entries content\" checkbox",
-        "defaultMessage": "隐藏低于某个分数的条目"
+        "defaultMessage": "Hide entries with a score lower than"
     },
     {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "密码选项"
+        "defaultMessage": "Passphrase Options"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "选择何时需要输入密码"
+        "defaultMessage": "Choose when your password is requested"
     },
     {
         "id": "app.settings.licenseOptions",
         "description": "title for profile default license options",
-        "defaultMessage": "发布选项"
+        "defaultMessage": "Publish Options"
     },
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "为您发布的文章选择默认的许可证"
+        "defaultMessage": "Choose the default license for articles you publish"
     },
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "语言"
+        "defaultMessage": "Language"
     },
     {
         "id": "app.settings.lightTheme",
         "description": "theme switch",
-        "defaultMessage": "亮主题"
+        "defaultMessage": "Light Theme"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "俄语"
+        "defaultMessage": "Russian"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "选择语言"
+        "defaultMessage": "SELECT LANGUAGE"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "西班牙语"
+        "defaultMessage": "Spanish"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "应用程序主题"
+        "defaultMessage": "App Theme"
     },
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "自定义Akasha工作区的外观"
+        "defaultMessage": "Customize the look of the Akasha workspace"
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "选择您的小费选项"
+        "defaultMessage": "Select your option for tips"
     },
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "在更改此选项之前，您需要注册您的个人资料"
+        "defaultMessage": "You need to register your profile before changing this option"
     },
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "小费选项"
+        "defaultMessage": "Tips options"
     },
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "更改此选项将导致发送一笔交易"
+        "defaultMessage": "Changing this option will involve sending a transaction"
     },
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "接受小费"
+        "defaultMessage": "Accept tips"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "不接受小费"
+        "defaultMessage": "Do not accept tips"
     },
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "应用设置"
+        "defaultMessage": "App preferences"
     },
     {
         "id": "app.settings.update",
         "description": "description for update buton",
-        "defaultMessage": "更新设置"
+        "defaultMessage": "Update Settings"
     },
     {
         "id": "app.settings.notificationsPreference",
         "description": "title for notification settings",
-        "defaultMessage": "通知设置"
+        "defaultMessage": "Notifications Settings"
     },
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "提示"
+        "defaultMessage": "Tips"
     },
     {
         "id": "app.settings.votes",
         "description": "Title for votes",
-        "defaultMessage": "投票"
+        "defaultMessage": "Votes"
     },
     {
         "id": "app.settings.notificationsInfo",
         "description": "description for notification preferences",
-        "defaultMessage": "Akasha通知设置"
+        "defaultMessage": "Your notification preferences for Akasha"
     }
 ]
