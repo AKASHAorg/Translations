@@ -273,5 +273,10 @@
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
         "defaultMessage": "en el bloque {blockNr}"
+    },
+    {
+        "id": "app.notification.errorCopiedToClipboard",
+        "description": "notification to show when user copies error info",
+        "defaultMessage": "Error copied to clipboard"
     }
 ]
