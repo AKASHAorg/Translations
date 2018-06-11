@@ -8,11 +8,10 @@ Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](htt
 
 ## Contributing
 
-In these early stages, you can help by trying out [the beta version](https://beta.akasha.world/), and reporting your experiences [here](https://github.com/AkashaProject/dapp/issues).    
+Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md).
 
-Thanks for your help! We appreciate it!
+## Official accounts 
 
-## Official accounts
 * [Blog](https://blog.akasha.world/)
 * [Discord](https://discord.gg/JqqKasJ)
 * [Twitter](https://twitter.com/akashaproject)  
