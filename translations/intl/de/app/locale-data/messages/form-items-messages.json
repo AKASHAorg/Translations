@@ -312,7 +312,7 @@
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Einstellungen aktualisieren"
     },
     {
         "id": "app.form.navigationError",
