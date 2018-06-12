@@ -402,7 +402,7 @@
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Publică"
     },
     {
         "id": "app.general.publishing",
@@ -632,7 +632,7 @@
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Actualizează"
     },
     {
         "id": "app.general.updating",
