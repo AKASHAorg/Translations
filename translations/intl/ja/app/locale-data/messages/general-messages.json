@@ -312,7 +312,7 @@
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Mana　プール情報"
+        "defaultMessage": "Total Mana Consumed"
     },
     {
         "id": "app.general.manafied",
@@ -717,7 +717,7 @@
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "フォローしていません"
+        "defaultMessage": "Follow someone to see your proto-reputation network"
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
@@ -742,12 +742,12 @@
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "少々お待ちください..."
+        "defaultMessage": "Hold on a second"
     },
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL"
+        "defaultMessage": "You are about to navigate to an external URL."
     },
     {
         "id": "app.general.collectAll",
@@ -757,12 +757,12 @@
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "トランザクションがありません"
+        "defaultMessage": "No transactions yet"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "トランザクション履歴がありません"
+        "defaultMessage": "Your transactions will be displayed here"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
@@ -772,17 +772,17 @@
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "You don`t have any essence to collect"
+        "defaultMessage": "Generate Essence by posting and interacting"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
-        "description": "",
-        "defaultMessage": "No essence was collected"
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "No essence collected"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
-        "description": "",
-        "defaultMessage": "トランザクション履歴がありません"
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "Generate Essence by posting and interacting"
     },
     {
         "id": "app.entry.startTypingToSearch",
@@ -808,5 +808,45 @@
         "id": "app.general.share",
         "description": "share",
         "defaultMessage": "シェアする"
+    },
+    {
+        "id": "app.general.trustedDomain",
+        "description": "title for external navigation modal checkbox for trusted domains",
+        "defaultMessage": "Trusted Domain"
+    },
+    {
+        "id": "app.general.viewAll",
+        "description": "view all",
+        "defaultMessage": "View All"
+    },
+    {
+        "id": "app.general.reload",
+        "description": "reload",
+        "defaultMessage": "Reload"
+    },
+    {
+        "id": "app.general.reportIssue",
+        "description": "report issue",
+        "defaultMessage": "Report issue"
+    },
+    {
+        "id": "app.general.loadMore",
+        "description": "load more",
+        "defaultMessage": "Load more"
+    },
+    {
+        "id": "app.general.externalNavigationAreYouSure",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "Are you sure you want to go there?"
+    },
+    {
+        "id": "app.general.loadingImage",
+        "description": "message to display when an image is in loading state",
+        "defaultMessage": "画像を読み込み中"
+    },
+    {
+        "id": "app.general.loadingImageFailed",
+        "description": "message to show when an image failed to load",
+        "defaultMessage": "Cannot load image :("
     }
 ]
