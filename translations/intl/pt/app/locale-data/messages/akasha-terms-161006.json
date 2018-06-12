@@ -2,12 +2,12 @@
     {
         "id": "app.akasha.terms.version",
         "description": "terms and conditions version information",
-        "defaultMessage": "Version 2 / November 2016"
+        "defaultMessage": "Versão 2 / Novembro de 2016"
     },
     {
         "id": "app.akasha.terms.title",
         "description": "AKASHA`s terms and conditions title",
-        "defaultMessage": "AKASHA: Terms of Service"
+        "defaultMessage": "AKASHA: Termos de Serviço"
     },
     {
         "id": "app.akasha.terms.preface",
@@ -17,7 +17,7 @@
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacy"
+        "defaultMessage": "1. Privacidade"
     },
     {
         "id": "app.akasha.terms.privacyBody",
@@ -27,7 +27,7 @@
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Sharing Your Content and Information"
+        "defaultMessage": "2. Compartilhando Seu Conteúdo e Informação"
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
