@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Topla"
     },
     {
         "id": "app.general.collected",
@@ -207,7 +207,7 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Ethereum adresi"
     },
     {
         "id": "app.general.failedAtBlock",
@@ -402,7 +402,7 @@
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Yayınla"
     },
     {
         "id": "app.general.publishing",
@@ -527,7 +527,7 @@
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Ara"
     },
     {
         "id": "app.general.sidebarTooltipChat",
@@ -722,12 +722,12 @@
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Makale"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "Bağlantı"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
