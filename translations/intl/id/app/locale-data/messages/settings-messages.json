@@ -1,0 +1,157 @@
+[
+    {
+        "id": "app.settings.chinese",
+        "description": "app language",
+        "defaultMessage": "Chinese"
+    },
+    {
+        "id": "app.settings.darkTheme",
+        "description": "theme switch",
+        "defaultMessage": "Tema gelap"
+    },
+    {
+        "id": "app.settings.description",
+        "description": "Description for app settings",
+        "defaultMessage": "Menyesuaikan preferensi aplikasi anda"
+    },
+    {
+        "id": "app.settings.english",
+        "description": "app language",
+        "defaultMessage": "English"
+    },
+    {
+        "id": "app.settings.hideContent",
+        "description": "title for \"hide content\" settings",
+        "defaultMessage": "Sembunyikan konten"
+    },
+    {
+        "id": "app.settings.hideContentDescription",
+        "description": "description for \"hide content\" settings",
+        "defaultMessage": "Pilih jika anda tidak ingin melihat konten dengan skor lebih rendah dari nilai tertentu"
+    },
+    {
+        "id": "app.settings.hideCommentsLabel",
+        "description": "label for \"hide comments content\" checkbox",
+        "defaultMessage": "Sembunyikan komentar dengan skor lebih rendah dari"
+    },
+    {
+        "id": "app.settings.hideEntriesLabel",
+        "description": "label for \"hide entries content\" checkbox",
+        "defaultMessage": "Menyembunyikan entri dengan skor lebih rendah dari"
+    },
+    {
+        "id": "app.settings.passphraseOptions",
+        "description": "title for profile passphrase options",
+        "defaultMessage": "Passphrase Options"
+    },
+    {
+        "id": "app.settings.passphraseOptionsDescription",
+        "description": "description for profile passphrase options",
+        "defaultMessage": "Pilih kapan kata sandi anda diminta"
+    },
+    {
+        "id": "app.settings.licenseOptions",
+        "description": "title for profile default license options",
+        "defaultMessage": "Publish Options"
+    },
+    {
+        "id": "app.settings.licenseOptionsDescription",
+        "description": "description for default license options",
+        "defaultMessage": "Pilihlah lisensi kegagalan untuk artikel yang Anda umumkan"
+    },
+    {
+        "id": "app.settings.language",
+        "description": "title for language form item",
+        "defaultMessage": "Bahasa"
+    },
+    {
+        "id": "app.settings.lightTheme",
+        "description": "theme switch",
+        "defaultMessage": "Light Theme"
+    },
+    {
+        "id": "app.settings.russian",
+        "description": "app language",
+        "defaultMessage": "Rusia"
+    },
+    {
+        "id": "app.settings.selectLanguage",
+        "description": "title for language selector",
+        "defaultMessage": "DI PILIH BAHASA"
+    },
+    {
+        "id": "app.settings.spanish",
+        "description": "app language",
+        "defaultMessage": "Spanyol"
+    },
+    {
+        "id": "app.settings.theme",
+        "description": "theme switch title",
+        "defaultMessage": "App Theme"
+    },
+    {
+        "id": "app.settings.themeLabel",
+        "description": "theme switch label",
+        "defaultMessage": "Sesuaikan tampilan ruang kerja Akasha"
+    },
+    {
+        "id": "app.settings.tipsDescription",
+        "description": "description for profile tips options",
+        "defaultMessage": "Memilih pilihan anda untuk tips"
+    },
+    {
+        "id": "app.settings.tipsDisabled",
+        "description": "tooltip info for profile tips options when it is disabled",
+        "defaultMessage": "Anda butuh untuk mendaftarkan profil anda sebelum mengubah pilihan ini"
+    },
+    {
+        "id": "app.settings.tipsOptions",
+        "description": "title for profile tips options",
+        "defaultMessage": "Tips options"
+    },
+    {
+        "id": "app.settings.tipsInfo",
+        "description": "info for profile tips options",
+        "defaultMessage": "Mengubah pilihan ini akan melibatkan pengiriman sebuah transaksi"
+    },
+    {
+        "id": "app.settings.tipsAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Accept tips"
+    },
+    {
+        "id": "app.settings.tipsDoNotAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Jangan terima tip"
+    },
+    {
+        "id": "app.settings.title",
+        "description": "Title for app settings",
+        "defaultMessage": "App preferences"
+    },
+    {
+        "id": "app.settings.update",
+        "description": "description for update buton",
+        "defaultMessage": "Update Settings"
+    },
+    {
+        "id": "app.settings.notificationsPreference",
+        "description": "title for notification settings",
+        "defaultMessage": "Notifications Settings"
+    },
+    {
+        "id": "app.settings.tips",
+        "description": "Title for tips",
+        "defaultMessage": "Tips"
+    },
+    {
+        "id": "app.settings.votes",
+        "description": "Title for votes",
+        "defaultMessage": "Votes"
+    },
+    {
+        "id": "app.settings.notificationsInfo",
+        "description": "description for notification preferences",
+        "defaultMessage": "Preferensi notifikasi anda untuk Akasha"
+    }
+]

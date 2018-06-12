@@ -1,0 +1,342 @@
+[
+    {
+        "id": "app.form.about",
+        "description": "label for about me validation",
+        "defaultMessage": "Minusta"
+    },
+    {
+        "id": "app.form.addressRequired",
+        "description": "error message for empty receiver input field",
+        "defaultMessage": "Sinun tulee määrittää käyttäjänimi tai ethereum-osoite"
+    },
+    {
+        "id": "app.form.acceptTips",
+        "description": "label for accept tips switch (personal settings)",
+        "defaultMessage": "Vastaanota tippejä"
+    },
+    {
+        "id": "app.form.akashaIdPlaceholder",
+        "description": "placeholder for username input field",
+        "defaultMessage": "Käyttäjänimi"
+    },
+    {
+        "id": "app.form.insufficientEth",
+        "description": "title for insufficient funds card",
+        "defaultMessage": "Pahoittelut, sinulla ei ole tarpeeksi testi etheriumia!"
+    },
+    {
+        "id": "app.form.depositEth",
+        "description": "description for insufficient funds card",
+        "defaultMessage": "Sinun täytyy tallettaa testi Etheriumia ensin julkaistaakesi profiilin."
+    },
+    {
+        "id": "app.form.aethAmount",
+        "description": "aeth amount input label",
+        "defaultMessage": "AETH määrä"
+    },
+    {
+        "id": "app.form.amountRequired",
+        "description": "error message for empty amount input field",
+        "defaultMessage": "Määrä vaaditaan"
+    },
+    {
+        "id": "app.form.ethAmount",
+        "description": "eth amount input label",
+        "defaultMessage": "ETH määrä"
+    },
+    {
+        "id": "app.form.firstNamePlaceholder",
+        "description": "placeholder for first name input field",
+        "defaultMessage": "Kirjoita etunimesi"
+    },
+    {
+        "id": "app.form.lastNamePlaceholder",
+        "description": "placeholder for last name input field",
+        "defaultMessage": "Kirjoita sukunimesi"
+    },
+    {
+        "id": "app.form.maxAethAmount",
+        "description": "maximum amount of AETH transferable",
+        "defaultMessage": "{aeth} Siirrettävissä AETH"
+    },
+    {
+        "id": "app.form.maxAethAmountLabel",
+        "description": "label for maximum AETH amount input field",
+        "defaultMessage": "maksimi {balance}"
+    },
+    {
+        "id": "app.form.maxEssenceAmount",
+        "description": "maximum amount of Essence transformable",
+        "defaultMessage": "{essence} Essenceä saatavilla"
+    },
+    {
+        "id": "app.form.maxEthAmount",
+        "description": "maximum amount of ETH transferable",
+        "defaultMessage": "{eth} ETH siirrettävissä"
+    },
+    {
+        "id": "app.form.maxManafiedAethAmount",
+        "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
+        "defaultMessage": "{manafied} Manafoitu AETH"
+    },
+    {
+        "id": "app.form.transformEssence",
+        "description": "title for transform essence form",
+        "defaultMessage": "Muuta Essenceä"
+    },
+    {
+        "id": "app.form.transformEssenceDisclaimer",
+        "description": "disclaimer message for transforming Essence to AETH",
+        "defaultMessage": "{amount} Essenceä louhii {value} uutta AETHIA saldoosi."
+    },
+    {
+        "id": "app.form.transformEssenceMin",
+        "description": "disclaimer message for minimum amount of essence that can be transformed",
+        "defaultMessage": "Sinun tulee muuttaa vähintään 1000 Essenceä"
+    },
+    {
+        "id": "app.form.transformManafiedDisclaimer",
+        "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+        "defaultMessage": "{amount} AETHIA palautuu takaisin muutettavaksi AETHIKSI 7 päivän kuluessa {amount} Mana ei enää generoidu uudelleen."
+    },
+    {
+        "id": "app.form.transformTransferableDisclaimer",
+        "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+        "defaultMessage": "{amount} AETHIA tuottaa {amount} Manaa 24 tunnin välein niin kauan kuin se pysyy tässä tilassa."
+    },
+    {
+        "id": "app.form.firstName",
+        "description": "Placeholder for first name input",
+        "defaultMessage": "Etunimi"
+    },
+    {
+        "id": "app.form.lastName",
+        "description": "Placeholder for last name input",
+        "defaultMessage": "Sukunimi"
+    },
+    {
+        "id": "app.form.akashaId",
+        "description": "Placeholder for username (Akasha ID) input",
+        "defaultMessage": "Käyttäjänimi"
+    },
+    {
+        "id": "app.form.ethereumAddress",
+        "description": "Placeholder for ethereum address input",
+        "defaultMessage": "Ethereum osoite"
+    },
+    {
+        "id": "app.form.from",
+        "description": "from",
+        "defaultMessage": "Alkaen"
+    },
+    {
+        "id": "app.form.passphrase",
+        "description": "label for passphrase input",
+        "defaultMessage": "Tunnuslause"
+    },
+    {
+        "id": "app.form.passphrasePlaceholder",
+        "description": "placeholder for passphrase input",
+        "defaultMessage": "Kirjoita tunnuslause"
+    },
+    {
+        "id": "app.form.amountToForge",
+        "description": "label for forge AETH amount slider",
+        "defaultMessage": "Valitse muutettavan Essencen määrä"
+    },
+    {
+        "id": "app.form.amountToShift",
+        "description": "label for shift amount slider",
+        "defaultMessage": "Valitse siirrettävä määrä"
+    },
+    {
+        "id": "app.form.fromManafiedToCycling",
+        "description": "label for shift amount slider",
+        "defaultMessage": "Manafoidusta kierrätettäväksi"
+    },
+    {
+        "id": "app.form.fromTransferableToManafied",
+        "description": "label for shift amount slider",
+        "defaultMessage": "Siirrettävästä Manafoiduksi"
+    },
+    {
+        "id": "app.form.confirmPassphrase",
+        "description": "label for passphrase confirmation input",
+        "defaultMessage": "Vahvista tunnuslause"
+    },
+    {
+        "id": "app.form.forgeAeth",
+        "description": "transform Essence into new AETH",
+        "defaultMessage": "Louhi AETHIA"
+    },
+    {
+        "id": "app.form.freeAeth",
+        "description": "label for free AETH value",
+        "defaultMessage": "Vapaa AETH"
+    },
+    {
+        "id": "app.form.manaTotalScore",
+        "description": "label for mana total score",
+        "defaultMessage": "Manan määrä"
+    },
+    {
+        "id": "app.form.name",
+        "description": "Placeholder for name input field",
+        "defaultMessage": "Nimi"
+    },
+    {
+        "id": "app.form.passphraseConfirmError",
+        "description": "Error message displayed when the given passphrases don't match",
+        "defaultMessage": "Tunnuslause väärin. Yritä uudelleen"
+    },
+    {
+        "id": "app.form.passphraseVerify",
+        "description": "Placeholder for passphrase verify input",
+        "defaultMessage": "Vahvista tunnuslause"
+    },
+    {
+        "id": "app.form.requiredError",
+        "description": "error message for required fields",
+        "defaultMessage": "Tämä kenttä on pakollinen"
+    },
+    {
+        "id": "app.form.shiftDown",
+        "description": "shift down",
+        "defaultMessage": "Vähennä"
+    },
+    {
+        "id": "app.form.shiftDownMana",
+        "description": "title for shift down Mana form",
+        "defaultMessage": "Vähennä Manan määrää"
+    },
+    {
+        "id": "app.form.shiftDownManaHelp",
+        "description": "label for shift down Mana slider",
+        "defaultMessage": "{value} Manaa muuttaa {value} Manafoitua AETHIA kierrätettäväksi AETHIKSI jotka voi kerätä 7 päivän kuluessa."
+    },
+    {
+        "id": "app.form.shiftUp",
+        "description": "shift up",
+        "defaultMessage": "Lisää"
+    },
+    {
+        "id": "app.form.shiftUpMana",
+        "description": "title for shift up Mana form",
+        "defaultMessage": "Lisää Manan määrää"
+    },
+    {
+        "id": "app.form.shiftUpManaHelp",
+        "description": "label for shift up mana slider",
+        "defaultMessage": "{value} AETHIA luo {value} Manaa"
+    },
+    {
+        "id": "app.form.tips",
+        "description": "label for tips",
+        "defaultMessage": "VINKKEJÄ"
+    },
+    {
+        "id": "app.form.title",
+        "description": "Placeholder for title input field",
+        "defaultMessage": "Otsikko"
+    },
+    {
+        "id": "app.form.totalAethBalance",
+        "description": "label for total AETH balance",
+        "defaultMessage": "AETHIN kokonaismäärä"
+    },
+    {
+        "id": "app.form.url",
+        "description": "Placeholder for url input field",
+        "defaultMessage": "URL-OSOITE"
+    },
+    {
+        "id": "app.form.voteWeightIntegerError",
+        "description": "Error displayed when vote weight is not an integer",
+        "defaultMessage": "Äänien summa on oltava kokonaisluku"
+    },
+    {
+        "id": "app.form.voteWeightRangeError",
+        "description": "Error displayed when vote weight is not between limits",
+        "defaultMessage": "Äänien summa on oltava {min} ja {max} välillä"
+    },
+    {
+        "id": "app.form.voteWeightRequired",
+        "description": "Error displayed when vote weight is not specified",
+        "defaultMessage": "Äänien summa vaaditaan"
+    },
+    {
+        "id": "app.form.voteWeightExtra",
+        "description": "extra information about the vote weight input",
+        "defaultMessage": "Määritä arvo {min} ja {max} välillä"
+    },
+    {
+        "id": "app.form.notEnoughMana",
+        "description": "Error displayed when a user does not have enough Mana for an action",
+        "defaultMessage": "Sinulla ei ole tarpeeksi Manaa tälle toiminnolle"
+    },
+    {
+        "id": "app.form.alphanumericError",
+        "description": "Error displayed when a tag contains invalid characters",
+        "defaultMessage": "Tagit voivat sisältää vain kirjaimia, numeroita, ja yhden yhdysmerkin (-) tai alaviivan (_) merkkien välillä."
+    },
+    {
+        "id": "app.form.selectOneOption",
+        "description": "Label for simple select field",
+        "defaultMessage": "Valitse yksi vaihtoehto"
+    },
+    {
+        "id": "app.form.tooLongError",
+        "description": "Error displayed when a tag contains more than 24 characters",
+        "defaultMessage": "Tagit voivat sisältää enintään 24 merkkiä."
+    },
+    {
+        "id": "app.form.tagAlreadyAdded",
+        "description": "Error displayed when trying to add a tag that already exists",
+        "defaultMessage": "Tagi {tag} on jo lisätty"
+    },
+    {
+        "id": "app.form.rememberPassFor",
+        "description": "Label for checkbox to remember passphrase",
+        "defaultMessage": "Muista minun tunnuslause"
+    },
+    {
+        "id": "app.form.tipAmountError",
+        "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
+        "defaultMessage": "Summan on oltava vähintään {minAmount} AETHIA"
+    },
+    {
+        "id": "app.form.to",
+        "description": "to",
+        "defaultMessage": "Tähän"
+    },
+    {
+        "id": "app.form.updateSettings",
+        "description": "label for update settings button",
+        "defaultMessage": "Päivitä asetukset"
+    },
+    {
+        "id": "app.form.navigationError",
+        "description": "error message for invalid Akasha link",
+        "defaultMessage": "Tämä ei ole kelvollinen AKASHA-linkki"
+    },
+    {
+        "id": "app.form.navigateTitle",
+        "description": "title for the navigation modal",
+        "defaultMessage": "Liitä AKASHA linkki tähän"
+    },
+    {
+        "id": "app.form.navigateSubtitle",
+        "description": "subtitle for the navigation modal",
+        "defaultMessage": "Lisää linkki artikkeliin tai profiilisivulle"
+    },
+    {
+        "id": "app.form.shareLinkTitle",
+        "description": "title for the share link modal",
+        "defaultMessage": "Jaa linkki"
+    },
+    {
+        "id": "app.form.shareLinkSubtitle",
+        "description": "subtitle for the share link modal",
+        "defaultMessage": "Tämä on sisäinen linkki, jota voidaan käyttää vain Akasha sovelluksessa"
+    }
+]

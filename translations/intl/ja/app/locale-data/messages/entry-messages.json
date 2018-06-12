@@ -1,0 +1,482 @@
+[
+    {
+        "id": "app.entry.allowedImageTypes",
+        "description": "types of images allowed for upload",
+        "defaultMessage": "JPG、GIF、または PNG 画像"
+    },
+    {
+        "id": "app.entry.alreadyDownvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already downvoted",
+        "defaultMessage": "You downvoted with weight {weight}"
+    },
+    {
+        "id": "app.entry.alreadyUpvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already upvoted",
+        "defaultMessage": "You upvoted with weight {weight}"
+    },
+    {
+        "id": "app.entry.articleEntryType",
+        "description": "entry of type article",
+        "defaultMessage": "記事"
+    },
+    {
+        "id": "app.entry.cannotClaimEntry",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
+        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+    },
+    {
+        "id": "app.entry.cannotClaimVote",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
+        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+    },
+    {
+        "id": "app.entry.cannotExtractWebsiteInfo",
+        "description": "error shown when we cannot extract wesite info",
+        "defaultMessage": "Webサイトから情報を取得することはできません! 別のアドレスをお試しください。"
+    },
+    {
+        "id": "app.entry.cannotRetrieveLicense",
+        "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
+        "defaultMessage": "ライセンス情報が検索できません"
+    },
+    {
+        "id": "app.entry.imageCaptionPlaceholder",
+        "description": "text for caption input placeholder",
+        "defaultMessage": "解説を追加"
+    },
+    {
+        "id": "app.entry.collected",
+        "description": "Essence was collected for an entry/vote",
+        "defaultMessage": "獲得済みエッセンス"
+    },
+    {
+        "id": "app.entry.collectEssence",
+        "description": "collect essence from a published entry or vote",
+        "defaultMessage": "エッセンス獲得"
+    },
+    {
+        "id": "app.entry.commentsCount",
+        "description": "Number of comments",
+        "defaultMessage": "{count, number} {count, plural, one {コメ} few {コメ} many {コメ} other {コメ}}"
+    },
+    {
+        "id": "app.entry.continueEditing",
+        "description": "label for continue editing button",
+        "defaultMessage": "編集を続ける"
+    },
+    {
+        "id": "app.entry.downvote",
+        "description": "downvote button tooltip",
+        "defaultMessage": "Downvote"
+    },
+    {
+        "id": "app.entry.draft",
+        "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
+        "defaultMessage": "下書き"
+    },
+    {
+        "id": "app.entry.drafts",
+        "description": "drafts section title",
+        "defaultMessage": "下書き"
+    },
+    {
+        "id": "app.entry.draftsCount",
+        "description": "number of drafts",
+        "defaultMessage": "{count, number} {count, plural, one {} few {} many {} other {}}"
+    },
+    {
+        "id": "app.entry.draftContentRequired",
+        "description": "validation message for entry with no content",
+        "defaultMessage": "コンテンツのない記事を作成することはできません!"
+    },
+    {
+        "id": "app.entry.draftDelete",
+        "description": "delete draft button label",
+        "defaultMessage": "下書きを削除"
+    },
+    {
+        "id": "app.entry.draftDeleteConfirm",
+        "description": "message to show when user wants to delete a draft",
+        "defaultMessage": "この下書きを削除してもよろしいですか"
+    },
+    {
+        "id": "app.entry.draftEdit",
+        "description": "edit draft button label",
+        "defaultMessage": "下書きを編集"
+    },
+    {
+        "id": "app.entry.draftSaved",
+        "description": "draft saved status message",
+        "defaultMessage": "保存した下書き"
+    },
+    {
+        "id": "app.entry.draftSaving",
+        "description": "saving draft status message",
+        "defaultMessage": "下書きを保存"
+    },
+    {
+        "id": "app.entry.draftSharePreview",
+        "description": "share preview link button label",
+        "defaultMessage": "プレビュー リンクをシェア"
+    },
+    {
+        "id": "app.entry.edited",
+        "description": "edited label for an entry",
+        "defaultMessage": "編集済み"
+    },
+    {
+        "id": "app.entry.editEntry",
+        "description": "tooltip for Edit entry button",
+        "defaultMessage": "投稿を編集"
+    },
+    {
+        "id": "app.entry.entriesCount",
+        "description": "number of entries",
+        "defaultMessage": "{count, number} {count, plural, one {件} other {件}}"
+    },
+    {
+        "id": "app.entry.enterWebAddress",
+        "description": "placeholder for link entry address field",
+        "defaultMessage": "アドレスを入力する 例）www.akasha.world"
+    },
+    {
+        "id": "app.entry.oneTagRequired",
+        "description": "Error message requiring at least one tag",
+        "defaultMessage": "少なくとも 1 つのタグを追加する必要があります"
+    },
+    {
+        "id": "app.entry.errorExcerptTooLong",
+        "description": "Error message shown when excerpt is too long",
+        "defaultMessage": "抜粋は１２０文字以下にしてください"
+    },
+    {
+        "id": "app.entry.excerpt",
+        "description": "excerpts section title",
+        "defaultMessage": "抜粋"
+    },
+    {
+        "id": "app.entry.featuredImage",
+        "description": "featured image section title",
+        "defaultMessage": "Featured image"
+    },
+    {
+        "id": "app.entry.hiddenContent",
+        "description": "message for hidden content due to score lower than user's preferences",
+        "defaultMessage": "このコンテンツは、{score} よりも低いスコアです"
+    },
+    {
+        "id": "app.entry.hiddenContent2",
+        "description": "message for hidden content due to score lower than user's preferences (part 2)",
+        "defaultMessage": "あなたの～からこの値を変更できます"
+    },
+    {
+        "id": "app.entry.hiddenContent3",
+        "description": "message for hidden content due to score lower than user's preferences (part 3)",
+        "defaultMessage": "個人用の設定"
+    },
+    {
+        "id": "app.entry.license",
+        "description": "License label",
+        "defaultMessage": "許可"
+    },
+    {
+        "id": "app.entry.linkEntryType",
+        "description": "entry of type link",
+        "defaultMessage": "リンク"
+    },
+    {
+        "id": "app.entry.loadMoreReplies",
+        "description": "label for load more replies button",
+        "defaultMessage": "回答をさらに読み込む"
+    },
+    {
+        "id": "app.entry.loadingDrafts",
+        "description": "message to show when drafts are loading",
+        "defaultMessage": "下書きを読み込み中..."
+    },
+    {
+        "id": "app.entry.localVersion",
+        "description": "label for local version of an entry",
+        "defaultMessage": "ローカル バージョン"
+    },
+    {
+        "id": "app.entry.makeSureToOpenDApp",
+        "description": "Message",
+        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+    },
+    {
+        "id": "app.entry.newComments",
+        "description": "Message to show when new comments were published",
+        "defaultMessage": " {count, number}新しい {count, plural, one {コメ} few {コメ} many {コメ} other {コメ}}"
+    },
+    {
+        "id": "app.entry.noCommentsFound",
+        "description": "placeholder for empty comments list",
+        "defaultMessage": "コメントが見つかりませんでした"
+    },
+    {
+        "id": "app.noDraftsFoundOnSearch",
+        "description": "when user searches for a draft and nothing found",
+        "defaultMessage": "検索条件に一致する下書きが見つかりませんでした"
+    },
+    {
+        "id": "app.entry.noEntries",
+        "description": "placeholder for empty entry list",
+        "defaultMessage": "投稿がありません"
+    },
+    {
+        "id": "app.entry.noNewEntries",
+        "description": "placeholder for empty latest entries list",
+        "defaultMessage": "新しい投稿がありません"
+    },
+    {
+        "id": "app.entry.nothingToCollect",
+        "description": "explainer message for not being able to collect when balance is 0 Essence",
+        "defaultMessage": "この投稿からエッセンスを収集することはできません"
+    },
+    {
+        "id": "app.entry.noTitle",
+        "description": "when a draft has no title",
+        "defaultMessage": "新しい下書き"
+    },
+    {
+        "id": "app.entry.noVotes",
+        "description": "Placeholder for empty votes list",
+        "defaultMessage": "票がありません"
+    },
+    {
+        "id": "app.entry.olderVersion",
+        "description": "entry subtitle for reading older versions",
+        "defaultMessage": "あなたは古いのを閲覧中です"
+    },
+    {
+        "id": "app.entry.originalVersion",
+        "description": "label for original version",
+        "defaultMessage": "オリジナル"
+    },
+    {
+        "id": "app.entry.oneOfTheTagsCannotBeUsed",
+        "description": "cannot use a tag",
+        "defaultMessage": "使用できないタグが１つ含まれています"
+    },
+    {
+        "id": "app.entry.publicDiscussion",
+        "description": "entry comments section title",
+        "defaultMessage": "公開ディスカッション"
+    },
+    {
+        "id": "app.entry.published",
+        "description": "published entry",
+        "defaultMessage": "公開済み"
+    },
+    {
+        "id": "app.entry.publishOptions",
+        "description": "publish options panel title",
+        "defaultMessage": "意見を公開"
+    },
+    {
+        "id": "app.entry.readTime",
+        "description": "estimated time to read an entry (e.g. 10 min read)",
+        "defaultMessage": "既読"
+    },
+    {
+        "id": "app.entry.resolvingIpfsHash",
+        "description": "message to show when an ipfs hash is in resolving state",
+        "defaultMessage": "Ipfs ハッシュを解決中..."
+    },
+    {
+        "id": "app.entry.revertConfirmTitle",
+        "description": "confirmation message when reverting a draft",
+        "defaultMessage": "この下書きを元に戻しますか"
+    },
+    {
+        "id": "app.entry.saveHighlight",
+        "description": "save highlight button label",
+        "defaultMessage": "ハイライトを保存する"
+    },
+    {
+        "id": "app.entry.score",
+        "description": "entry score",
+        "defaultMessage": "スコア"
+    },
+    {
+        "id": "app.entry.searchProfile",
+        "description": "placeholder for profile column",
+        "defaultMessage": "プロフィール検索"
+    },
+    {
+        "id": "app.entry.searchTag",
+        "description": "placeholder for tag column",
+        "defaultMessage": "タグ検索"
+    },
+    {
+        "id": "app.entry.showAnyway",
+        "description": "button label for showing hidded content",
+        "defaultMessage": "表示する"
+    },
+    {
+        "id": "app.entry.showLess",
+        "description": "label for comment collapse button",
+        "defaultMessage": "Collapse comment"
+    },
+    {
+        "id": "app.entry.showMore",
+        "description": "label for comment expand button",
+        "defaultMessage": "コメント全文を表示"
+    },
+    {
+        "id": "app.entry.startComment",
+        "description": "button label for starting a comment from a highlight",
+        "defaultMessage": "コメントを始める"
+    },
+    {
+        "id": "app.entry.startANewDraft",
+        "description": "message to start a new draft",
+        "defaultMessage": "今すぐ下書きを作成!"
+    },
+    {
+        "id": "app.entry.title",
+        "description": "placeholder for draft title input",
+        "defaultMessage": "題名"
+    },
+    {
+        "id": "app.entry.titleRequired",
+        "description": "validation message in case of missing title field",
+        "defaultMessage": "題名は入力必須です"
+    },
+    {
+        "id": "app.entry.tooltipAuthor",
+        "description": "error message in case author cannot be resolved",
+        "defaultMessage": "この投稿のユーザーがわかりません"
+    },
+    {
+        "id": "app.entry.upvote",
+        "description": "upvote button tooltip",
+        "defaultMessage": "Upvote"
+    },
+    {
+        "id": "app.entry.version",
+        "description": "entry version",
+        "defaultMessage": "バージョン"
+    },
+    {
+        "id": "app.entry.versionHistory",
+        "description": "version history dialog title",
+        "defaultMessage": "バージョン履歴"
+    },
+    {
+        "id": "app.entry.versionNumber",
+        "description": "label for version number",
+        "defaultMessage": "Ver. {index}"
+    },
+    {
+        "id": "app.entry.votePending",
+        "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
+        "defaultMessage": "あなたの投票が保留中です"
+    },
+    {
+        "id": "app.entry.votePercentage",
+        "description": "vote percentage distribution between downvotes and upvotes",
+        "defaultMessage": "Upvote-{upvote} %・Downvote-{downvote} %"
+    },
+    {
+        "id": "app.entry.votingOwnComment",
+        "description": "tooltip for vote button for your own comment",
+        "defaultMessage": "あなた自身のコメントに投票することは出来ません"
+    },
+    {
+        "id": "app.entry.votingPeriod",
+        "description": "voting period for an entry has ended",
+        "defaultMessage": "投票期間は終了しました"
+    },
+    {
+        "id": "app.entry.votingPeriodDisclaimer",
+        "description": "disclaimer message for votes when voting period has ended",
+        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+    },
+    {
+        "id": "app.entry.websiteInfoFetchingError",
+        "description": "error shown when fetching website info failed",
+        "defaultMessage": "ウェブサイトの情報を取得中にエラーが発生しました"
+    },
+    {
+        "id": "app.entry.wordsCount",
+        "description": "number of words in an entry",
+        "defaultMessage": "{words, number} {words, plural, one {単語} few {単語} many {単語} other {単語}}"
+    },
+    {
+        "id": "app.entry.writeComment",
+        "description": "input placeholder for writing a comment",
+        "defaultMessage": "コメントを書く"
+    },
+    {
+        "id": "app.entry.writeReplyTo",
+        "description": "placeholder for writing a reply to someone {name}",
+        "defaultMessage": "{name} に返事を書く"
+    },
+    {
+        "id": "app.entry.youHaveNoDrafts",
+        "description": "Message shown when all drafts are deleted",
+        "defaultMessage": "下書きがありません"
+    },
+    {
+        "id": "app.entry.draftAll",
+        "description": "all drafts",
+        "defaultMessage": "すべての下書き"
+    },
+    {
+        "id": "app.entry.entriesAll",
+        "description": "",
+        "defaultMessage": "すべての投稿"
+    },
+    {
+        "id": "app.entry.publishedAll",
+        "description": "all published entries",
+        "defaultMessage": "すべてのエントリー"
+    },
+    {
+        "id": "app.entry.draftEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "下書き"
+    },
+    {
+        "id": "app.entry.publishedEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "エントリー"
+    },
+    {
+        "id": "app.entry.gotoMyDrafts",
+        "description": "go to my drafts button label",
+        "defaultMessage": "下書きに移動"
+    },
+    {
+        "id": "app.entry.myEntries",
+        "description": "my entries label title",
+        "defaultMessage": "私のエントリー"
+    },
+    {
+        "id": "app.entry.draftRevert",
+        "description": "button label to revert changes",
+        "defaultMessage": "元に戻す"
+    },
+    {
+        "id": "app.entry.linkDisabled",
+        "description": "tooltip for link button in comment editor",
+        "defaultMessage": "最初にいくつかのテキストを選択してください"
+    },
+    {
+        "id": "app.entry.linkPlaceholder",
+        "description": "placeholder for the link input in editors",
+        "defaultMessage": "リンクを入力し、Enter キーを押す"
+    },
+    {
+        "id": "app.entry.loadingImage",
+        "description": "placeholder when an image is loading",
+        "defaultMessage": "画像を読み込み中"
+    },
+    {
+        "id": "app.entry.entries",
+        "description": "plural form of entry! :)",
+        "defaultMessage": "エントリー"
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "id": "app.dashboard.addColumn",
+        "description": "button label for adding a column to the board",
+        "defaultMessage": "Sütun ekle"
+    },
+    {
+        "id": "app.dashboard.addNewColumn",
+        "description": "panel title for adding a new column",
+        "defaultMessage": "Sütun ekle"
+    },
+    {
+        "id": "app.dashboard.addNewColumnSubtitle",
+        "description": "panel subtitle for adding a new column",
+        "defaultMessage": "Lütfen bir sütun tipi seçin"
+    },
+    {
+        "id": "app.dashboard.addNewListColumn",
+        "description": "panel title for adding a new list column",
+        "defaultMessage": "Liste sütunu"
+    },
+    {
+        "id": "app.dashboard.addNewListColumnSubtitle",
+        "description": "panel subtitle for adding a new list column",
+        "defaultMessage": "Lütfen bir liste seçin"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumn",
+        "description": "panel title for adding a new user column",
+        "defaultMessage": "Kullanıcı sütunu"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumnSubtitle",
+        "description": "panel subtitle for adding a new user column",
+        "defaultMessage": "Lütfen bir kullanıcı seçin"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumn",
+        "description": "panel title for adding a new tag column",
+        "defaultMessage": "Etiket sütunu"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumnSubtitle",
+        "description": "panel subtitle for adding a new tag column",
+        "defaultMessage": "Lütfen bir etiket seçin"
+    },
+    {
+        "id": "app.dashboard.addToBoard",
+        "description": "button label for adding a tag/profile column to a board",
+        "defaultMessage": "Panoya ekle"
+    },
+    {
+        "id": "app.list.addToNewDashboard",
+        "description": "popover title for creating a new dashboard",
+        "defaultMessage": "Yeni bir pano oluştur"
+    },
+    {
+        "id": "app.dashboard.collection",
+        "description": "label for collection column",
+        "defaultMessage": "Koleksiyon"
+    },
+    {
+        "id": "app.dashboard.columnStream",
+        "description": "column title for \"following feed\" (entries published by the users that you are following)",
+        "defaultMessage": "Feed' i takip et"
+    },
+    {
+        "id": "app.dashboard.createDashboardFirst",
+        "description": "Tooltip message for add column button when there is no board created",
+        "defaultMessage": "Önce bir pano oluşturmalısınız"
+    },
+    {
+        "id": "app.dashboard.createOneNow",
+        "description": "button label for creating a new board",
+        "defaultMessage": "Şimdi bir tane oluştur"
+    },
+    {
+        "id": "app.dashboard.createNew",
+        "description": "button label/tooltip for creating a new board",
+        "defaultMessage": "Yeni bir pano oluştur"
+    },
+    {
+        "id": "app.dashboard.dashboardName",
+        "description": "input label for board name field",
+        "defaultMessage": "Pano ismi"
+    },
+    {
+        "id": "app.list.dashboardNameRequired",
+        "description": "required error message for board name input field",
+        "defaultMessage": "Pano ismi gereklidir"
+    },
+    {
+        "id": "app.dashboard.dashboardNameUnique",
+        "description": "unique name error message for board name input field",
+        "defaultMessage": "Bu pano zaten var"
+    },
+    {
+        "id": "app.dashboard.deleteColumnConfirmation",
+        "description": "confirmation message for deleting a column",
+        "defaultMessage": "Bu sütunu silmek istediğinizden emin misiniz?"
+    },
+    {
+        "id": "app.dashboard.deleteDashboardConfirmation",
+        "description": "confirmation message for deleting a board",
+        "defaultMessage": "{name}'i silmek istediğinizden emin misiniz?"
+    },
+    {
+        "id": "app.dashboard.firstDashboard",
+        "description": "the name for the first board",
+        "defaultMessage": "Panom"
+    },
+    {
+        "id": "app.dashboard.large",
+        "description": "large column width",
+        "defaultMessage": "Geniş"
+    },
+    {
+        "id": "app.dashboard.latest",
+        "description": "column title for \"latest entries\" (newest entries published on Akasha)",
+        "defaultMessage": "Son girdiler"
+    },
+    {
+        "id": "app.dashboard.list",
+        "description": "label for list column",
+        "defaultMessage": "Liste"
+    },
+    {
+        "id": "app.dashboard.listDeleted",
+        "description": "message displayed when the list used in a list column was deleted",
+        "defaultMessage": "Bu liste silindi. Lütfen bu sütunu kaldırın"
+    },
+    {
+        "id": "app.dashboard.myBoards",
+        "description": "header for boards page secondary sidebar",
+        "defaultMessage": "Panolarım"
+    },
+    {
+        "id": "app.dashboard.namePlaceholder",
+        "description": "placeholder for dashboard name input field",
+        "defaultMessage": "Pano ismini girin"
+    },
+    {
+        "id": "app.dashboard.noDashboard",
+        "description": "placeholder message displayed when no boards were found",
+        "defaultMessage": "Pano bulunamadı"
+    },
+    {
+        "id": "app.dashboard.previewList",
+        "description": "label for list column preview",
+        "defaultMessage": "{listName} için önizleme"
+    },
+    {
+        "id": "app.dashboard.previewProfile",
+        "description": "label for user column preview",
+        "defaultMessage": "{displayName} için önizleme"
+    },
+    {
+        "id": "app.dashboard.previewTag",
+        "description": "label for tag column preview",
+        "defaultMessage": "#{TagName} için ön izleme"
+    },
+    {
+        "id": "app.dashboard.profile",
+        "description": "label for user column",
+        "defaultMessage": "Kullanıcı"
+    },
+    {
+        "id": "app.dashboard.searchForBoard",
+        "description": "placeholder for board search input field",
+        "defaultMessage": "Bir pano arayın..."
+    },
+    {
+        "id": "app.dashboard.small",
+        "description": "small column width",
+        "defaultMessage": "Küçük"
+    },
+    {
+        "id": "app.dashboard.stream",
+        "description": "label for following feed column",
+        "defaultMessage": "Feed' i takip et"
+    },
+    {
+        "id": "app.dashboard.tag",
+        "description": "label for tag column",
+        "defaultMessage": "Etiket"
+    }
+]
