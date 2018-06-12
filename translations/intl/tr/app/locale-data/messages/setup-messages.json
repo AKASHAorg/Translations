@@ -142,7 +142,7 @@
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Yeni kimlik oluştur"
     },
     {
         "id": "app.setup.interestedIn",
