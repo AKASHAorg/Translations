@@ -212,7 +212,7 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "Tidak ada komen yang ditemukan"
+        "defaultMessage": "No comments yet."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
@@ -222,7 +222,7 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "Tidak ada entri"
+        "defaultMessage": "No entries yet"
     },
     {
         "id": "app.entry.noNewEntries",
@@ -478,5 +478,25 @@
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
         "defaultMessage": "entries"
+    },
+    {
+        "id": "app.leaveAComment",
+        "description": "when user searches for a draft and nothing found",
+        "defaultMessage": "Be the first one to write a comment!"
+    },
+    {
+        "id": "app.entry.commentedOn",
+        "description": "commented on",
+        "defaultMessage": "commented on"
+    },
+    {
+        "id": "app.entry.repliedOn",
+        "description": "replied on",
+        "defaultMessage": "replied on a comment on"
+    },
+    {
+        "id": "app.entry.loadComments",
+        "description": "label for load comments button",
+        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
     }
 ]
