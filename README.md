@@ -9,11 +9,3 @@ Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](htt
 ## Contributing
 
 Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md).
-
-## Official accounts 
-
-* [Blog](https://blog.akasha.world/)
-* [Discord](https://discord.gg/JqqKasJ)
-* [Twitter](https://twitter.com/akashaproject)  
-
-**"See you on the other side!"**
