@@ -486,8 +486,8 @@
     },
     {
         "id": "app.entry.commentedOn",
-        "description": "commented on",
-        "defaultMessage": "commented on"
+        "description": "comentó en",
+        "defaultMessage": "comentó en"
     },
     {
         "id": "app.entry.repliedOn",
