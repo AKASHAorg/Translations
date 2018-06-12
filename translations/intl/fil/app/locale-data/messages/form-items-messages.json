@@ -82,7 +82,7 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Baguhin ang Essence"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
@@ -237,7 +237,7 @@
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "Title"
+        "defaultMessage": "Pamagat"
     },
     {
         "id": "app.form.totalAethBalance",
