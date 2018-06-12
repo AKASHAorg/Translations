@@ -30,9 +30,9 @@
         "defaultMessage": "Acerca de mí"
     },
     {
-        "id": "app.profile.collectEssence",
-        "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Recolectar Esencia"
+        "id": "app.profile.essenceReady",
+        "description": "title for Essence popover",
+        "defaultMessage": "Ready to collect"
     },
     {
         "id": "app.profile.contacts",
@@ -52,7 +52,7 @@
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No hay AETH pendiente por ciclar"
+        "defaultMessage": "No AETH cycling in progress"
     },
     {
         "id": "app.profile.cyclingProcess",
@@ -197,7 +197,7 @@
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No perfiles"
+        "defaultMessage": "No profiles yet"
     },
     {
         "id": "app.profile.noTransactions",
@@ -313,5 +313,20 @@
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
         "defaultMessage": "Su dirección de ethereum"
+    },
+    {
+        "id": "app.profile.noNotifications",
+        "description": "placeholder message for empty notifcations panel log",
+        "defaultMessage": "You have not received any new notifications"
+    },
+    {
+        "id": "app.profile.profiles",
+        "description": "plural form of profile :)",
+        "defaultMessage": "profiles"
+    },
+    {
+        "id": "app.profile.comments",
+        "description": "label for profile comments column",
+        "defaultMessage": "Comentarios"
     }
 ]
