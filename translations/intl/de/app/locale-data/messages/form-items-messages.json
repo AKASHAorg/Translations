@@ -37,7 +37,7 @@
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Betrag wird benötigt"
     },
     {
         "id": "app.form.ethAmount",
@@ -67,12 +67,12 @@
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "{essence} Essenz verfügbar"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} ETH transferierbar"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -137,7 +137,7 @@
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Gib deine Passphrase ein"
     },
     {
         "id": "app.form.amountToForge",
@@ -162,7 +162,7 @@
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Passphrase bestätigen"
     },
     {
         "id": "app.form.forgeAeth",
@@ -192,22 +192,22 @@
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Passphrase bestätigen"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Dieses Feld wird benötigt"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Vermindern"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Mana Pool verringern"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,12 +217,12 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Erhöhen"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Mana Pool erhöhen"
     },
     {
         "id": "app.form.shiftUpManaHelp",
