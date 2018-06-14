@@ -127,12 +127,12 @@
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Fehlercode {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Fataler Fehler"
     },
     {
         "id": "app.error.generalSettings",
@@ -167,12 +167,12 @@
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Geth Dienst konnte nicht gestartet werden"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Geth Dienst konnte nicht gestoppt werden"
     },
     {
         "id": "app.error.ipfsGetConfig",
@@ -202,7 +202,7 @@
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "IPFS Dienst konnte nicht gestartet werden"
     },
     {
         "id": "app.error.ipfsGetStatus",
@@ -212,12 +212,12 @@
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "IPFS Dienst konnte nicht gestoppt werden"
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Unerwarteter Fehler"
     },
     {
         "id": "app.error.profileBondAeth",
@@ -287,7 +287,7 @@
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Copy error to clipboard"
+        "defaultMessage": "Fehler in die Zwischenablage kopieren"
     },
     {
         "id": "app.error.profileFaucet",
