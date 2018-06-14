@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Dies ist deine neue Identität"
     },
     {
         "id": "app.setup.backup",
@@ -17,7 +17,7 @@
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Neue Identität erstellen"
     },
     {
         "id": "app.setup.getStarted",
@@ -292,7 +292,7 @@
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Geth Dienst funktioniert nicht. Bitter starte ihn manuell\n                        um dein Profil zu laden."
     },
     {
         "id": "app.setup.ipfsStopped",
@@ -302,7 +302,7 @@
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "A few tips before you get started"
+        "defaultMessage": "Ein paar Tipps bevor du anfängst"
     },
     {
         "id": "app.setup.tutorialEth",
