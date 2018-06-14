@@ -67,7 +67,7 @@
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "Zyklus"
     },
     {
         "id": "app.confirmations.draftPublish",
@@ -137,7 +137,7 @@
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "Bitte bestätige, dass du dein Profil registrieren möchtest."
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
@@ -147,7 +147,7 @@
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "Bitte bestätige, dass du dein Profil aktualisieren möchtest."
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
@@ -172,7 +172,7 @@
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "Tag erstellen"
     },
     {
         "id": "app.confirmation.toggleDonations",
@@ -212,26 +212,26 @@
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Essence umwandeln"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "Bitte bestätige, dass du {displayName} nicht mehr folgen möchtest."
     },
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Nicht mehr folgen"
     },
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Bitte bestätige, dass du {txCount} Transaktionen senden möchtest."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Mehrere Transaktionen"
     }
 ]
