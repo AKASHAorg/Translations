@@ -132,7 +132,7 @@
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "Bitte gib dein Passwort ein, um den Vorgang fortzusetzen."
     },
     {
         "id": "app.confirmations.profileRegister",
@@ -152,7 +152,7 @@
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "Profil aktualisieren"
     },
     {
         "id": "app.confirmations.sendTip",
