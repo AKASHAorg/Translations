@@ -2,7 +2,7 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Type an amount"
+        "defaultMessage": "Gib einen Betrag ein"
     },
     {
         "id": "app.profile.avatarTitle",
@@ -12,7 +12,7 @@
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "COVER PHOTO"
+        "defaultMessage": "TItelbild"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
@@ -62,12 +62,12 @@
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Edit Profile Information"
+        "defaultMessage": "Profil Bearbeiten"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Type something about you"
+        "defaultMessage": "Schreibe etwas über dich"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -87,12 +87,12 @@
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "Add a new link"
+        "defaultMessage": "Neuen Link hinzufügen"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "remove link"
+        "defaultMessage": "entferne Link"
     },
     {
         "id": "app.profile.cryptoAddresses",
@@ -117,7 +117,7 @@
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "Register Profile"
+        "defaultMessage": "Profil registrieren"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
@@ -137,12 +137,12 @@
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "Update Profile"
+        "defaultMessage": "Profil aktualisieren"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Followers"
+        "defaultMessage": "Follower"
     },
     {
         "id": "app.profile.followersCount",
@@ -172,47 +172,47 @@
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Lists"
+        "defaultMessage": "Listen"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "My balance"
+        "defaultMessage": "Mein Kontostand"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "My entries"
+        "defaultMessage": "Meine Einträge"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "My profile"
+        "defaultMessage": "Mein Profil"
     },
     {
         "id": "app.profile.noPendingTransactions",
         "description": "placeholder message for empty pending transactions log",
-        "defaultMessage": "You have no pending transactions"
+        "defaultMessage": "Du hast keine ausstehenden Transaktionen"
     },
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles yet"
+        "defaultMessage": "Noch keine Profile"
     },
     {
         "id": "app.profile.noTransactions",
         "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "You have no transactions"
+        "defaultMessage": "Du hast keine Transaktionen"
     },
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Overview"
+        "defaultMessage": "Übersicht"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "Dieser Username existiert nicht"
     },
     {
         "id": "app.profile.settings",
@@ -222,7 +222,7 @@
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receive"
+        "defaultMessage": "Erhalte"
     },
     {
         "id": "app.profile.receiverPlaceholder",
