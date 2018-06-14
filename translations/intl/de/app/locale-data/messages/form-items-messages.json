@@ -237,7 +237,7 @@
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "Title"
+        "defaultMessage": "Titel"
     },
     {
         "id": "app.form.totalAethBalance",
@@ -282,7 +282,7 @@
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "Wähle eine Option"
     },
     {
         "id": "app.form.tooLongError",
@@ -292,7 +292,7 @@
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "Tag {tag} bereits hinzugefügt"
     },
     {
         "id": "app.form.rememberPassFor",
@@ -307,7 +307,7 @@
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "An"
     },
     {
         "id": "app.form.updateSettings",
@@ -317,12 +317,12 @@
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
+        "defaultMessage": "Dies ist kein gültiger AKASHA Link"
     },
     {
         "id": "app.form.navigateTitle",
         "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
+        "defaultMessage": "Füge einen AKASHA Link hier ein"
     },
     {
         "id": "app.form.navigateSubtitle",
@@ -332,11 +332,11 @@
     {
         "id": "app.form.shareLinkTitle",
         "description": "title for the share link modal",
-        "defaultMessage": "Share link"
+        "defaultMessage": "Link teilen"
     },
     {
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+        "defaultMessage": "Dies ist ein interner Link der nur innerhalb der Akasha App verwendet werden kann"
     }
 ]
