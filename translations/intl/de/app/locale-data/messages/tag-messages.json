@@ -22,7 +22,7 @@
     {
         "id": "app.tag.tagsLeft",
         "description": "How many tags you can add",
-        "defaultMessage": "({value} remaining)"
+        "defaultMessage": "({value} verbleibend)"
     },
     {
         "id": "app.tag.tags",
@@ -32,6 +32,6 @@
     {
         "id": "app.tag.cannotEditTags",
         "description": "",
-        "defaultMessage": "Cannot edit tags when updating an entry"
+        "defaultMessage": "Tags können beim Bearbeiten eines Eintrags nicht geändert werden"
     }
 ]
