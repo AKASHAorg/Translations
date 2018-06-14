@@ -2,7 +2,7 @@
     {
         "id": "app.tutorial.akashaTitle",
         "description": "akasha slide title",
-        "defaultMessage": "The Language of Freedom"
+        "defaultMessage": "Die Sprache der Freiheit"
     },
     {
         "id": "app.tutorial.akashaContent",
@@ -32,11 +32,11 @@
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "Für ein besseres Web im Dienste der Menschheit"
     },
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "Die Zukunft ist kein Ort an den wir gehen, sondern ein Ort den wir erschaffen. Wir verdienen ein besseres Internet und jetzt haben wir die richtigen Werkzeuge um genau dies zu erschaffen. Zusammen können wir eine Welt erschaffen in der freie Meinungsäußerung ein Recht und kein Feature ist."
     }
 ]
