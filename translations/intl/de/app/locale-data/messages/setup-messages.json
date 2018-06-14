@@ -32,27 +32,27 @@
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Geth IPC Pfad"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Geth Cache Größe"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Geth Netzwerk ID"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Schlüssel Importieren"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "IPFS Speicherpfad"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -62,22 +62,22 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "IPFS API Port"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPFS Gateway Port"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "IPFS Swarm Port"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "Konfiguration"
     },
     {
         "id": "app.setup.lightSync",
@@ -97,7 +97,7 @@
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "Normale Synchronisation"
     },
     {
         "id": "app.setup.normalSyncDescription",
@@ -117,7 +117,7 @@
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "Synchronisationsoptionen"
     },
     {
         "id": "app.setup.logDetails",
@@ -137,27 +137,27 @@
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "Bitte wähle eine Identität um dich einzuloggen"
     },
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Neue Identität erstellen"
     },
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "Was interessiert dich?"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Wir werden dir unglaubliche Dinge basierend auf deinen Interessen vorschlagen."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Express-Installation"
     },
     {
         "id": "app.setup.faucetPending",
@@ -172,12 +172,12 @@
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "Etwas ging schief :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Klicke hier um es erneut zu versuchen"
     },
     {
         "id": "app.setup.faucetSuccess",
@@ -187,42 +187,42 @@
     {
         "id": "app.setup.faucetSuccess1",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You received test ETH!"
+        "defaultMessage": "Du hast Test ETH erhalten!"
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Fortgeschritten"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Lade Geth-Client herunter..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "Lade IPFS-Client herunter..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Starte Geth-Client..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Aktualisiere Geth-Client..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "Aktualisiere IPFS-Client..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "Verarbeite"
     },
     {
         "id": "app.setup.synchronizing",
@@ -262,22 +262,22 @@
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "Suche Peers"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "Starte Dienste"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "Warte auf Dienste"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "Warte auf Geth-Client"
     },
     {
         "id": "app.setup.peerCount",
