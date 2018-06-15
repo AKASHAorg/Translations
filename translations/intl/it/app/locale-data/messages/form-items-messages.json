@@ -338,5 +338,10 @@
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
         "defaultMessage": "Questo è un link interno che può essere usato solo nell'app Akasha"
+    },
+    {
+        "id": "app.form.storageNameInvalid",
+        "description": "error message for ipfs storage name field",
+        "defaultMessage": "Storage name cannot contain slash (/) character"
     }
 ]
