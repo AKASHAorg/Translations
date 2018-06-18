@@ -152,17 +152,17 @@
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "De Manafié à Cyclé"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "De Transférable à Manafié"
     },
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Confirmer la phrase secrète"
     },
     {
         "id": "app.form.forgeAeth",
@@ -212,7 +212,7 @@
     {
         "id": "app.form.shiftDownManaHelp",
         "description": "label for shift down Mana slider",
-        "defaultMessage": "{value} Mana will transform {value} Manafied AETH to Cycling AETH that can be collected in 7 days."
+        "defaultMessage": "{value} Mana va transformer {value} AETH Manafié en AETH Cyclé qui pourra être récupéré dans 7 jours."
     },
     {
         "id": "app.form.shiftUp",
@@ -277,7 +277,7 @@
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "defaultMessage": "Les balises peuvent contenir uniquement des lettres, des nombres, et un trait d'union ( - ) ou de soulignement ( _ ) entre les caractères."
     },
     {
         "id": "app.form.selectOneOption",
