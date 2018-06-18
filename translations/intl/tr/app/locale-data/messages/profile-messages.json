@@ -147,17 +147,17 @@
     {
         "id": "app.profile.followersCount",
         "description": "number of followers",
-        "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
+        "defaultMessage": "{followers, number}{followers, plural,one {takipçi}other {takipçiler}}"
     },
     {
         "id": "app.profile.following",
         "description": "following an user",
-        "defaultMessage": "Following"
+        "defaultMessage": "Takip"
     },
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "Following"
+        "defaultMessage": "Takip"
     },
     {
         "id": "app.profile.followingsCount",
@@ -167,7 +167,7 @@
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "Highlights"
+        "defaultMessage": "Önemli"
     },
     {
         "id": "app.profile.lists",
@@ -187,7 +187,7 @@
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "My profile"
+        "defaultMessage": "Profilim"
     },
     {
         "id": "app.profile.noPendingTransactions",
@@ -262,7 +262,7 @@
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "Gönderildi"
     },
     {
         "id": "app.profile.sentTip",
@@ -272,27 +272,27 @@
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "Destek"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "Desteklenen"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "Destekleyici"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Bahşiş miktarı"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Toplam bakiye"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Takibi bırak"
+        "defaultMessage": "Takibi Bırak"
     },
     {
         "id": "app.profile.yourEthAddress",
@@ -327,6 +327,6 @@
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "Yorumlar"
+        "defaultMessage": "Comments"
     }
 ]
