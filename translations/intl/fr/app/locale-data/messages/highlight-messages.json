@@ -2,12 +2,12 @@
     {
         "id": "app.highlight.addYourNotes",
         "description": "placeholder for highlight notes textarea",
-        "defaultMessage": "Add your notes here"
+        "defaultMessage": "Ajouter vos notes ici"
     },
     {
         "id": "app.highlight.addNote",
         "description": "label for add note button",
-        "defaultMessage": "Add note"
+        "defaultMessage": "Ajouter une note"
     },
     {
         "id": "app.highlight.delete",
@@ -22,11 +22,11 @@
     {
         "id": "app.highlight.editNote",
         "description": "label for edit note button",
-        "defaultMessage": "Edit note"
+        "defaultMessage": "Modifier cette note"
     },
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Start an entry"
+        "defaultMessage": "Commencer une entrée"
     }
 ]
