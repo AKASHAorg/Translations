@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Uygulama tercihlerinizi özelleştirin"
     },
     {
         "id": "app.settings.english",
@@ -112,7 +112,7 @@
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "Bu seçeneği değiştirmek için, bir işlemin gönderilmesi gerekir"
     },
     {
         "id": "app.settings.tipsAccept",
