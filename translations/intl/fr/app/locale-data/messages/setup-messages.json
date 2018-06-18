@@ -12,7 +12,7 @@
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Pour profiter pleinement de l'expérience AKASHA, veuillez compléter votre profil !"
     },
     {
         "id": "app.setup.createIdentity",
@@ -62,12 +62,12 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "Port API de IPFS"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "Port d'entrée IPFS"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
@@ -147,12 +147,12 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "Qu'est-ce qui vous intéresse ?"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Nous allons vous suggérer des choses à lire basées sur vos centres d'intérêts."
     },
     {
         "id": "app.setup.expressSetup",
@@ -252,7 +252,7 @@
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
+        "defaultMessage": "La synchronisation est terminée. Le service IPFS doit être démarré pour pouvoir                        continuer. Vous pouvez le démarrer manuellement depuis la barre d'état dans l'en-tête ou en                        cliquant sur SUIVANT pour le démarrer automatiquement."
     },
     {
         "id": "app.setup.noProfilesFound",
@@ -292,12 +292,12 @@
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Le service Geth ne fonctionne pas. Veuillez le démarrer manuellement afin de récupérer                        vos profils."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Le service IPFS s'est arrêté. Veuillez le démarrer manuellement afin de récupérer                        vos profils."
     },
     {
         "id": "app.setup.tutorialTitle",
