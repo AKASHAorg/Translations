@@ -2,7 +2,7 @@
     {
         "id": "app.search.noResults",
         "description": "message displayed when no results are found",
-        "defaultMessage": "No results found"
+        "defaultMessage": "결과가 없습니다"
     },
     {
         "id": "app.search.searchSomething",
