@@ -2,7 +2,7 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Cina"
     },
     {
         "id": "app.settings.darkTheme",
@@ -17,7 +17,7 @@
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "Inggris"
     },
     {
         "id": "app.settings.hideContent",
@@ -107,7 +107,7 @@
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "Pilihan tip"
     },
     {
         "id": "app.settings.tipsInfo",
@@ -117,7 +117,7 @@
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Menerima tip-tip"
+        "defaultMessage": "Menerima tip"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
