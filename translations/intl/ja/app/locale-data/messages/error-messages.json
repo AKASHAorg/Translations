@@ -262,7 +262,7 @@
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "{amount} エッセンスを変換中にエラーが発生しました"
     },
     {
         "id": "app.error.profileUpdate",
