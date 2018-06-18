@@ -47,6 +47,6 @@
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "抜粋は最大１２０字までです。"
     }
 ]
