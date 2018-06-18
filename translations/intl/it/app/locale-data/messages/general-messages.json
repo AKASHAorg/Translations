@@ -182,7 +182,7 @@
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Voci"
     },
     {
         "id": "app.general.essence",
