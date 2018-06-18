@@ -848,5 +848,65 @@
         "id": "app.general.loadingImageFailed",
         "description": "message to show when an image failed to load",
         "defaultMessage": "Cannot load image :("
+    },
+    {
+        "id": "app.general.or",
+        "description": "or",
+        "defaultMessage": "or"
+    },
+    {
+        "id": "app.general.sidebarTooltipGuest",
+        "description": "tooltip text for sidebar guest mode",
+        "defaultMessage": "Not available in guest mode"
+    },
+    {
+        "id": "app.general.guestMode",
+        "description": "title for guest mode button",
+        "defaultMessage": "Guest Mode"
+    },
+    {
+        "id": "app.general.guestModeInfo",
+        "description": "info for guest mode modal",
+        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
+    },
+    {
+        "id": "app.general.unlockVault",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
+    },
+    {
+        "id": "app.general.thanks",
+        "description": "thanks",
+        "defaultMessage": "Thanks!"
+    },
+    {
+        "id": "app.general.loginUnlock",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Login by unlocking your Metamask"
+    },
+    {
+        "id": "app.general.here",
+        "description": "here",
+        "defaultMessage": "here"
+    },
+    {
+        "id": "app.general.version",
+        "description": "versión",
+        "defaultMessage": "Version"
+    },
+    {
+        "id": "app.general.and",
+        "description": "and",
+        "defaultMessage": "and"
+    },
+    {
+        "id": "app.general.accept",
+        "description": "accept",
+        "defaultMessage": "Accept"
+    },
+    {
+        "id": "app.general.decline",
+        "description": "decline",
+        "defaultMessage": "Decline"
     }
 ]
