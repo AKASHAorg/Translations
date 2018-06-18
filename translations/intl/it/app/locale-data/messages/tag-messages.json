@@ -2,22 +2,22 @@
     {
         "id": "app.tag.addTag",
         "description": "placeholder for tag editor field",
-        "defaultMessage": "#category..."
+        "defaultMessage": "#categoria..."
     },
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Sorry! You don't have enough karma to create tags."
+        "defaultMessage": "Spiacente! Non hai abbastanza karma per creare dei tag."
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This tag doesn't exist"
+        "defaultMessage": "Questo tag non esiste"
     },
     {
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
-        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
+        "defaultMessage": "Questo è un nuovo tag che non è stato creato da nessuno prima d'ora!"
     },
     {
         "id": "app.tag.tagsLeft",
