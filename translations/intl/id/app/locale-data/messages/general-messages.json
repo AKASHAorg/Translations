@@ -477,17 +477,17 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Menyimpan"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "simpan untuk nanti"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Pencarian"
     },
     {
         "id": "app.general.seeOnEtherscan",
@@ -497,7 +497,7 @@
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Kirim"
     },
     {
         "id": "app.general.sent",
@@ -507,7 +507,7 @@
     {
         "id": "app.general.settings",
         "description": "settings button label",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Pengaturan"
     },
     {
         "id": "app.general.sidebarTooltipDashboard",
@@ -552,12 +552,12 @@
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Skip this step"
+        "defaultMessage": "Lewati langkah ini"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "Mulai"
     },
     {
         "id": "app.general.starting",
@@ -577,7 +577,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "Menyerahkan"
     },
     {
         "id": "app.general.tags",
@@ -602,12 +602,12 @@
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "Dipindahtangankan"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Transform"
+        "defaultMessage": "Mengubah"
     },
     {
         "id": "app.general.transformAethers",
@@ -632,7 +632,7 @@
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Memperbarui"
     },
     {
         "id": "app.general.updating",
@@ -642,7 +642,7 @@
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "Perbaikan"
     },
     {
         "id": "app.general.viewProfile",
@@ -657,7 +657,7 @@
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "Dompet"
     },
     {
         "id": "app.general.wailting",
