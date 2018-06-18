@@ -112,7 +112,7 @@
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "{entryTitle} düşük oy veriliyor..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
@@ -122,12 +122,12 @@
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "{entryTitle} başarıyla eksilediniz"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "{entryTitle} oy veriliyor ..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
@@ -177,7 +177,7 @@
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "{displayName} kişisine başarıyla bahşiş verdiniz"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
@@ -202,12 +202,12 @@
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Ayarlarınızı başarılı bir şekilde kaydettiniz. Değişikliklerin uygulanması için\n                        IPFS  hizmetini tekrar başlatmanız gerekiyor."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "IPFS bağlantı noktalarını başarılı bir şekilde ayarladınız. Değişikliklerin uygulanması için\n                        IPFS  hizmetini tekrar başlatmanız gerekiyor."
     },
     {
         "id": "app.settings.themeTips",
