@@ -147,27 +147,27 @@
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Lütfen aktarılacak bir miktar seçin"
     },
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "Dönüşüm için Manafied"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "Manafied için transfer edilebilir"
     },
     {
         "id": "app.form.confirmPassphrase",
-        "description": "label for passphrase confirmation input",
+        "description": "şifre onay girişi için etiket",
         "defaultMessage": "Parolayı onayla"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "AETH Yap"
     },
     {
         "id": "app.form.freeAeth",
@@ -181,22 +181,22 @@
     },
     {
         "id": "app.form.name",
-        "description": "Placeholder for name input field",
+        "description": "İsim alanı için yer tutucu",
         "defaultMessage": "İsim"
     },
     {
         "id": "app.form.passphraseConfirmError",
-        "description": "Error message displayed when the given passphrases don't match",
+        "description": "Verilen parolalar aynı olmadığında görüntülenecek hata mesajı",
         "defaultMessage": "Parolalar eşleşmiyor. Lütfen parolanızı tekrar yazınız"
     },
     {
         "id": "app.form.passphraseVerify",
-        "description": "Placeholder for passphrase verify input",
+        "description": "Parola doğrulama girdisi için yer tutucu",
         "defaultMessage": "Parolayı doğrula"
     },
     {
         "id": "app.form.requiredError",
-        "description": "error message for required fields",
+        "description": "gerekli alanlar için hata mesajı",
         "defaultMessage": "Bu alan gereklidir"
     },
     {
@@ -231,17 +231,17 @@
     },
     {
         "id": "app.form.tips",
-        "description": "label for tips",
+        "description": "ipuçları için etiket",
         "defaultMessage": "Bahşişler"
     },
     {
         "id": "app.form.title",
-        "description": "Placeholder for title input field",
+        "description": "Başlık girdi alanı için yer tutucu",
         "defaultMessage": "Başlık"
     },
     {
         "id": "app.form.totalAethBalance",
-        "description": "label for total AETH balance",
+        "description": "toplam AETH bakiyesi için etiket",
         "defaultMessage": "Toplam AETH bakiyesi"
     },
     {
@@ -286,32 +286,32 @@
     },
     {
         "id": "app.form.tooLongError",
-        "description": "Error displayed when a tag contains more than 24 characters",
+        "description": "Etiket 24 karakterden fazla olduğunda gösterilecek hata",
         "defaultMessage": "Etiketler maksimum 24 karakter içerebilir."
     },
     {
         "id": "app.form.tagAlreadyAdded",
-        "description": "Error displayed when trying to add a tag that already exists",
+        "description": "Varolan bir etiket eklenmeye çalışıldığında gösterilecek hata",
         "defaultMessage": "Etiket {tag} zaten eklenmiş"
     },
     {
         "id": "app.form.rememberPassFor",
-        "description": "Label for checkbox to remember passphrase",
+        "description": "Parolayı hatırlama onay kutusu için etiket",
         "defaultMessage": "Için parolamı hatırla"
     },
     {
         "id": "app.form.tipAmountError",
-        "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
+        "description": "Bahşiş izin verilen en az miktardan az olduğunda gösterilecek hata",
         "defaultMessage": "Miktar en az {minAmount} AETH olmalıdır"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "Hedef"
     },
     {
         "id": "app.form.updateSettings",
-        "description": "label for update settings button",
+        "description": "güncelleme ayarları düğmesi için etiket",
         "defaultMessage": "Ayarları Güncelle"
     },
     {
