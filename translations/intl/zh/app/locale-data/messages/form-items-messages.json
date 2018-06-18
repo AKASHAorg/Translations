@@ -141,7 +141,7 @@
     },
     {
         "id": "app.form.amountToForge",
-        "description": "label for forge AETH amount slider",
+        "description": "提炼 AETH 数量的滑块标签",
         "defaultMessage": "选择需要转换的精气数量"
     },
     {
