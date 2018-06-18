@@ -2,7 +2,7 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "field is required"
+        "defaultMessage": "lapangan di perlukan"
     },
     {
         "id": "app.validator.min",
