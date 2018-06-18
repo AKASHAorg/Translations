@@ -22,7 +22,7 @@
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Oups! Passphrase verification is different than first one!"
+        "defaultMessage": "Ups! Parola doğrulaması ilkinden farklı!"
     },
     {
         "id": "app.validator.lowercase",
@@ -47,6 +47,6 @@
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "Kısa yazılar en fazla 120 karakter olabilir"
     }
 ]
