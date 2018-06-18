@@ -117,7 +117,7 @@
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Tanggapin ang mga tip"
+        "defaultMessage": "Accept tips"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
