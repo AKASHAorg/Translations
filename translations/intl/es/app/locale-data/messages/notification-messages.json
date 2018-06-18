@@ -277,6 +277,26 @@
     {
         "id": "app.notification.errorCopiedToClipboard",
         "description": "notification to show when user copies error info",
-        "defaultMessage": "Error copied to clipboard"
+        "defaultMessage": "El error fue copiado al pisapapeles"
+    },
+    {
+        "id": "app.notification.welcomeTitle",
+        "description": "title for welcome/faucet notification",
+        "defaultMessage": "Bienvenido a AKASHA"
+    },
+    {
+        "id": "app.notification.welcomeMessage",
+        "description": "welcome/faucet notification message",
+        "defaultMessage": "Para reclamar su ETH de prueba, por favor dé click"
+    },
+    {
+        "id": "app.notification.noFunds",
+        "description": "title for faucet notification",
+        "defaultMessage": "No more funds"
+    },
+    {
+        "id": "app.notification.renewBalance",
+        "description": "description for faucet notification",
+        "defaultMessage": "Para renovar su saldo, por favor dé click"
     }
 ]
