@@ -7,7 +7,7 @@
     {
         "id": "app.akasha.terms.title",
         "description": "AKASHA`s terms and conditions title",
-        "defaultMessage": "AKASHA: Terms of Service"
+        "defaultMessage": "АКАША: умови обслуговування"
     },
     {
         "id": "app.akasha.terms.preface",
@@ -27,7 +27,7 @@
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Sharing Your Content and Information"
+        "defaultMessage": "2. Обмін матеріалами та інформацією"
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
@@ -37,7 +37,7 @@
     {
         "id": "app.akasha.terms.noUnlawfulTitle",
         "description": "no unlawful activities and content section title",
-        "defaultMessage": "3. No unlawful activities and content"
+        "defaultMessage": "3. Ніякої незаконної діяльності та утримання"
     },
     {
         "id": "app.akasha.terms.noUnlawfulBody",
@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registration and Identity"
+        "defaultMessage": "4. Реєстрація і особистість"
     },
     {
         "id": "app.akasha.terms.registrationBody",
