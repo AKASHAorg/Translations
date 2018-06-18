@@ -2,7 +2,7 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Iptal et"
     },
     {
         "id": "app.general.action",
@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Topla"
+        "defaultMessage": "Collect"
     },
     {
         "id": "app.general.collected",
@@ -172,7 +172,7 @@
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "Düzenle"
     },
     {
         "id": "app.general.editProfile",
@@ -182,7 +182,7 @@
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Girdiler"
     },
     {
         "id": "app.general.essence",
@@ -197,7 +197,7 @@
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "Essence toplam skor"
     },
     {
         "id": "app.general.eth",
@@ -207,7 +207,7 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum adresi"
+        "defaultMessage": "Ethereum address"
     },
     {
         "id": "app.general.failedAtBlock",
@@ -232,12 +232,12 @@
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Geth servisi kapalı"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Geth servisi AÇIK"
     },
     {
         "id": "app.general.help",
@@ -257,12 +257,12 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "IPFS servisi KAPALI"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "IPFS hizmeti AÇIK"
     },
     {
         "id": "app.general.join",
@@ -297,7 +297,7 @@
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Çıkış Yap"
     },
     {
         "id": "app.general.mana",
@@ -397,12 +397,12 @@
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Profil genel bakış"
     },
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Yayınla"
+        "defaultMessage": "Publish"
     },
     {
         "id": "app.general.publishing",
@@ -427,7 +427,7 @@
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Yeniden adlandır"
     },
     {
         "id": "app.general.reply",
@@ -722,12 +722,12 @@
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Makale"
+        "defaultMessage": "Article"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Bağlantı"
+        "defaultMessage": "Link"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "sürüm",
+        "description": "version",
         "defaultMessage": "Version"
     },
     {
