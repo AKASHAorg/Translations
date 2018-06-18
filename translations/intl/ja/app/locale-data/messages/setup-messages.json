@@ -152,7 +152,7 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "あなたの興味がありそうな記事をおすすめします"
     },
     {
         "id": "app.setup.expressSetup",
