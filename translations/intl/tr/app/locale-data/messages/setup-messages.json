@@ -7,7 +7,7 @@
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Yedek anahtarlar"
     },
     {
         "id": "app.setup.completeProfile",
@@ -27,17 +27,17 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Geth Datadir yolu"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Geth IPC yolu"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Geth önbellek boyutu"
     },
     {
         "id": "app.setup.gethNetworkId",
@@ -52,7 +52,7 @@
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "IPFS depo yolu"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -62,17 +62,17 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "IPFS API bağlantı noktası"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPFS ağ geçidi bağlantı noktası"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "IPFS yığın bağlantı noktası"
     },
     {
         "id": "app.setup.configuration",
@@ -82,7 +82,7 @@
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "Hafif eşitleme"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -112,7 +112,7 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "Eşitleme"
     },
     {
         "id": "app.setup.syncOptions",
@@ -122,12 +122,12 @@
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "Günlük detayları"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "Oturum aç"
     },
     {
         "id": "app.setup.welcome",
@@ -152,7 +152,7 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "İlgi alanlarınıza bağlı olarak harika şeyler önereceğiz."
     },
     {
         "id": "app.setup.expressSetup",
@@ -227,22 +227,22 @@
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "Senkronizasyon"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Synchronization was stopped"
+        "defaultMessage": "Senkronizasyon durdu"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization completed"
+        "defaultMessage": "Senkronizasyon tamamlandı"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization is paused"
+        "defaultMessage": "Senkronizasyon duraklatıldı"
     },
     {
         "id": "app.setup.onSyncStart",
@@ -262,12 +262,12 @@
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "Eşler bulunuyor"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "Hizmetler başlıyor"
     },
     {
         "id": "app.setup.waitingForServices",
