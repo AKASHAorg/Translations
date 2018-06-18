@@ -2,7 +2,7 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Cinese"
     },
     {
         "id": "app.settings.darkTheme",
@@ -12,12 +12,12 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Personalizza le tue preferenze dell'app"
     },
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "Inglese"
     },
     {
         "id": "app.settings.hideContent",
@@ -47,7 +47,7 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choose when your password is requested"
+        "defaultMessage": "Scegli quando chiedere la password"
     },
     {
         "id": "app.settings.licenseOptions",
@@ -57,7 +57,7 @@
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "Choose the default license for articles you publish"
+        "defaultMessage": "Scegli la licenza predefinita per gli articoli che pubblichi"
     },
     {
         "id": "app.settings.language",
@@ -72,7 +72,7 @@
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Russo"
     },
     {
         "id": "app.settings.selectLanguage",
@@ -82,7 +82,7 @@
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "Spagnolo"
     },
     {
         "id": "app.settings.theme",
@@ -112,7 +112,7 @@
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "La modifica di questa opzione comporterà l'invio di una transazione"
     },
     {
         "id": "app.settings.tipsAccept",
