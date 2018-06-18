@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Échec de la recherche de l'auteur de l'entrée"
     },
     {
         "id": "app.entry.upvote",
@@ -377,7 +377,7 @@
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "Votes pour - {upvote}% · Votes contre - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
@@ -397,12 +397,12 @@
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Une erreur s'est produite pendant la récupération des informations du site web"
     },
     {
         "id": "app.entry.wordsCount",
         "description": "number of words in an entry",
-        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+        "defaultMessage": "{words, number} {words, plural, one {mot} few {mots} many {mots} other {mots}}"
     },
     {
         "id": "app.entry.writeComment",
