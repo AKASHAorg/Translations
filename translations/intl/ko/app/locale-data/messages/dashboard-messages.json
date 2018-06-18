@@ -2,47 +2,47 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "열 추가"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "열 추가"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "열 유형을 선택하십시오"
     },
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "목록 열"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "목록을 선택하십시오"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "사용자 열"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "사용자를 선택해주세요"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "태그 열"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "태그를 선택해주세요"
     },
     {
         "id": "app.dashboard.addToBoard",
@@ -52,7 +52,7 @@
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "새 보드 만들기"
     },
     {
         "id": "app.dashboard.collection",
@@ -77,32 +77,32 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "새 보드 만들기"
     },
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "보드 이름"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "보드 이름은 필수입니다"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "이 보드는 이미 있습니다"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "Are you sure you want to delete this column?"
+        "defaultMessage": "이 열을 정말로 삭제하시겠습니까?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "Are you sure you want to delete {name}?"
+        "defaultMessage": "{name}을(를) 정말로 삭제하시겠습니까?"
     },
     {
         "id": "app.dashboard.firstDashboard",
@@ -117,12 +117,12 @@
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "최신 항목"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "목록"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -132,12 +132,12 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "내 보드"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "보드 이름 입력"
     },
     {
         "id": "app.dashboard.noDashboard",
@@ -162,7 +162,7 @@
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "사용자"
     },
     {
         "id": "app.dashboard.searchForBoard",
@@ -172,7 +172,7 @@
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "작은"
     },
     {
         "id": "app.dashboard.stream",
@@ -242,6 +242,6 @@
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
         "description": "panel subtitle for adding a new comments column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "사용자를 선택해주세요"
     }
 ]
