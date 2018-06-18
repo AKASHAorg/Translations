@@ -237,7 +237,7 @@
     {
         "id": "app.form.title",
         "description": "Placeholder for title input field",
-        "defaultMessage": "Pamagat"
+        "defaultMessage": "Title"
     },
     {
         "id": "app.form.totalAethBalance",
