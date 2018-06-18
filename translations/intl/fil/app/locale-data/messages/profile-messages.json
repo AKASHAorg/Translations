@@ -132,7 +132,7 @@
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "I-follow"
+        "defaultMessage": "Follow"
     },
     {
         "id": "app.profile.updateProfile",
@@ -247,7 +247,7 @@
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Ipadala ang tip"
+        "defaultMessage": "Send tip"
     },
     {
         "id": "app.profile.sendingTip",
@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "I-unfollow"
+        "defaultMessage": "Unfollow"
     },
     {
         "id": "app.profile.yourEthAddress",
