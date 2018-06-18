@@ -127,12 +127,12 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Einträge"
+        "defaultMessage": "Entries"
     },
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Folgen"
+        "defaultMessage": "Follow"
     },
     {
         "id": "app.profile.updateProfile",
@@ -217,7 +217,7 @@
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Einstellungen"
+        "defaultMessage": "Settings"
     },
     {
         "id": "app.profile.receive",
@@ -242,7 +242,7 @@
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Senden"
+        "defaultMessage": "Send"
     },
     {
         "id": "app.profile.sendTip",
@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Nicht mehr folgen"
+        "defaultMessage": "Unfollow"
     },
     {
         "id": "app.profile.yourEthAddress",
