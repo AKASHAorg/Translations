@@ -22,7 +22,7 @@
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "あなたのエントリースコアが正数の場合のみ、エッセンスを獲得できます"
     },
     {
         "id": "app.entry.cannotClaimVote",
