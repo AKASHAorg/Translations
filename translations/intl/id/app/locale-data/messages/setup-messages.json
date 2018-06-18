@@ -7,7 +7,7 @@
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Kunci cadangan"
     },
     {
         "id": "app.setup.completeProfile",
@@ -27,27 +27,27 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Jalur jalan datadir"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Jalan Geth IPC"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Ukuran geth cache"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Id jaringan Geth"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Tombol impor"
     },
     {
         "id": "app.setup.ipfsStoragePath",
@@ -82,7 +82,7 @@
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "Sinkronisasi ringan"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -97,7 +97,7 @@
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "Sinkronisasi normal"
     },
     {
         "id": "app.setup.normalSyncDescription",
@@ -112,22 +112,22 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "Sinkronisasi"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "Opsi sinkronisasi"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "Rincian log"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "Masuk"
     },
     {
         "id": "app.setup.welcome",
@@ -157,7 +157,7 @@
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Mempersiapkan ekspres"
     },
     {
         "id": "app.setup.faucetPending",
@@ -192,17 +192,17 @@
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Tinggi"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Mendownload klien Geth..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "Mendownload klien IPFS..."
     },
     {
         "id": "app.setup.startingGeth",
@@ -212,22 +212,22 @@
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Mengupgrade klien Geth"
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "Upgrade klien IPFS..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "Pemrosesan"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "Sinkronisasi"
     },
     {
         "id": "app.setup.syncStopped",
@@ -262,22 +262,22 @@
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "Menemukan peers"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "Meluncurkan layanan"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "Menunggu untuk layanan"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "Menunggu klien geth"
     },
     {
         "id": "app.setup.peerCount",
