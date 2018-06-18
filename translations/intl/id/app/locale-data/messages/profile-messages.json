@@ -127,7 +127,7 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Masukan"
+        "defaultMessage": "Memasukkan"
     },
     {
         "id": "app.profile.follow",
@@ -157,7 +157,7 @@
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "Mengikuti"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followingsCount",
@@ -172,7 +172,7 @@
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Lists"
+        "defaultMessage": "Daftar"
     },
     {
         "id": "app.profile.myBalance",
@@ -287,12 +287,12 @@
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Jumlah Tip"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Total saldo"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Tidak mengikuti"
+        "defaultMessage": "Tidak ikuti"
     },
     {
         "id": "app.profile.yourEthAddress",
