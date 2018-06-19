@@ -1,0 +1,62 @@
+[
+    {
+        "id": "app.list.addToList",
+        "description": "tooltip for add to list button",
+        "defaultMessage": "Listeye ekle"
+    },
+    {
+        "id": "app.list.addToNewList",
+        "description": "title for new list form",
+        "defaultMessage": "Yeni bir listeye ekle"
+    },
+    {
+        "id": "app.list.createNew",
+        "description": "create new list button label",
+        "defaultMessage": "Yeni bir liste oluştur"
+    },
+    {
+        "id": "app.list.descriptionPlaceholder",
+        "description": "placeholder for list description input",
+        "defaultMessage": "Kısa bir açıklama ekle"
+    },
+    {
+        "id": "app.list.deleteList",
+        "description": "delete list confirmation text",
+        "defaultMessage": "Bu listeyi silmek istediğinizden emin misiniz?"
+    },
+    {
+        "id": "app.list.editList",
+        "description": "title for edit list popover",
+        "defaultMessage": "Bu listeyi düzenle"
+    },
+    {
+        "id": "app.list.listName",
+        "description": "label for list name input",
+        "defaultMessage": "Liste adı"
+    },
+    {
+        "id": "app.list.listNameRequired",
+        "description": "error message for empty list name input",
+        "defaultMessage": "Liste adı gereklidir"
+    },
+    {
+        "id": "app.list.listNameUnique",
+        "description": "unique error message for list name input",
+        "defaultMessage": "Bu liste zaten var"
+    },
+    {
+        "id": "app.list.namePlaceholder",
+        "description": "placeholder for list name input",
+        "defaultMessage": "Liste adını yazın"
+    },
+    {
+        "id": "app.list.searchForList",
+        "description": "placeholder for list search input",
+        "defaultMessage": "Bir liste ara..."
+    },
+    {
+        "id": "app.list.shortDescription",
+        "description": "label for list description input",
+        "defaultMessage": "Kısa Açıklama"
+    }
+]
