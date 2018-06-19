@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "The authentication process was completed!"
+        "defaultMessage": "This is your new identity"
     },
     {
         "id": "app.setup.backup",
@@ -18,6 +18,11 @@
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
         "defaultMessage": "Criar nova identidade"
+    },
+    {
+        "id": "app.setup.getStarted",
+        "description": "welcome subtitle when there are no profiles",
+        "defaultMessage": "Get started by creating a new identity!"
     },
     {
         "id": "app.setup.gethDataDirPath",
@@ -48,6 +53,11 @@
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
         "defaultMessage": "IPFS storage path"
+    },
+    {
+        "id": "app.setup.ipfsStoragePathInfo",
+        "description": "tooltip with extra information about the IPFS storage path",
+        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -120,9 +130,9 @@
         "defaultMessage": "Login"
     },
     {
-        "id": "app.setup.welcomeBack",
+        "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome back!"
+        "defaultMessage": "Welcome!"
     },
     {
         "id": "app.setup.chooseIdentity",
@@ -152,22 +162,32 @@
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "You will receive test ethers shortly..."
+        "defaultMessage": "Thank you for playing!"
+    },
+    {
+        "id": "app.setup.faucetPending1",
+        "description": "message shown while faucet tx is pending",
+        "defaultMessage": "Here are some test ETH :)"
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong!"
+        "defaultMessage": "Something went wrong :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Try again here"
+        "defaultMessage": "Click here to retry"
     },
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You now have test ethers in your balance."
+        "defaultMessage": "HoHoHoHo!"
+    },
+    {
+        "id": "app.setup.faucetSuccess1",
+        "description": "message shown on faucet tx success",
+        "defaultMessage": "You received test ETH!"
     },
     {
         "id": "app.setup.advancedSetup",
@@ -237,7 +257,7 @@
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "No profiles found. Create a new identity or import an existing one."
+        "defaultMessage": "If you want to import an identity please see this link."
     },
     {
         "id": "app.setup.findingPeers",
@@ -287,16 +307,31 @@
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requieres Manafied AETH (mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
     },
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo."
+        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
+    },
+    {
+        "id": "app.setup.gethDescription",
+        "description": "geth service description",
+        "defaultMessage": "You are using a third party web3 provider."
+    },
+    {
+        "id": "app.setup.ipfsDescription",
+        "description": "ipfs service description",
+        "defaultMessage": "You are using the JavaScript implementation of IPFS."
+    },
+    {
+        "id": "app.setup.ipfsStorageName",
+        "description": "IPFS storage name input field label",
+        "defaultMessage": "IPFS storage name"
     }
 ]
