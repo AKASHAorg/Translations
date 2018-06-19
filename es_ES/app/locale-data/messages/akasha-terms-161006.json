@@ -1,0 +1,137 @@
+[
+    {
+        "id": "app.akasha.terms.version",
+        "description": "terms and conditions version information",
+        "defaultMessage": "Versión 2 / Noviembre 2016"
+    },
+    {
+        "id": "app.akasha.terms.title",
+        "description": "AKASHA's terms and conditions title",
+        "defaultMessage": "AKASHA: Términos de Servicio"
+    },
+    {
+        "id": "app.akasha.terms.preface",
+        "description": "AKASHA's terms preface",
+        "defaultMessage": "1 AKASHA es una red social de nueva generación para blogging sustentada por un nuevo tipo de computadora conocido como Ethereum y por el Inter Planetary File System.\n            2 Al usar AKASHA y al crear una indentidad de AKASHA o un Contrato Inteligente de Perfil, usted confirma que ha entendido y verificado por completo y que está de acuerdo con los términos y condiciones puestos en este documento (los “Términos”).\n            3 Puesto que la versión actual de AKASHA es una entrega Pre-Alfa, quizás le pidamos revisar o aceptar términos nuevos o suplementales que apliquen en su interacción con AKASHA y con funcionalidades nuevas en el futuro.\n            4 Previo a instalar AKASHA, por favor asegúrese de haber descargado el archivo .zip al utilizar sólo las invitaciones pre-alfa enviadas directamente por AKASHA. Desempacar / instalar otros archivos puede involucrar riesgos sustanciales de seguridad"
+    },
+    {
+        "id": "app.akasha.terms.privacyTitle",
+        "description": "privacy section title",
+        "defaultMessage": "1. Privacidad"
+    },
+    {
+        "id": "app.akasha.terms.privacyBody",
+        "description": "privacy section content",
+        "defaultMessage": "5 Su privacidad es muy importante para nosotros y es lo que distingue a AKASHA de cualquier Red Social conocida. Diseñamos AKASHA de una manera en la cual usted permanece en control de cómo es que comparte sus datos con otros. AKASHA no recolectará ni utilizará su contenido e información para otros propósitos fuera de los escogidos por usted."
+    },
+    {
+        "id": "app.akasha.terms.sharingYourContentTitle",
+        "description": "sharing content section title",
+        "defaultMessage": "2. Compartiendo su Contenido e Información"
+    },
+    {
+        "id": "app.akasha.terms.sharingYourContentBody",
+        "description": "content of sharing your content section",
+        "defaultMessage": "6 Usted controla todo el contenido e información que publique en AKASHA. AKASHA le permite controlar su contenido y cómo se comparte, a través del apartado de preferencias de AKASHA.\n            7 Para el contenido que está protegido por derechos de propiedad intelectual, como fotos, texto y videos (contenido IP), tiene la posibilidad de escoger entre distintas Opciones de Licencia (cubriendo un espectro de todos los derechos reservados hasta los no reservados) permitiéndole especificar cómo y bajo qué condiciones su contenido puede ser usado por otros.\n            8 Al publicar su Contenido IP en AKASHA, usted está otorgando a AKASHA una licencia no-exclusiva, transferible, sub-licenciable, libre de regalías, y mundial para usar el contenido IP para el propósito de su publicación en AKASHA y sujeto a condiciones especificadas por usted en las Opciones de Licencia.\n      9 Usted es consciente de que AKASHA es una aplicación descentralizada y que, consecuentemente, el contenido publicada en AKASHA no está bajo el control de entidad legal o individuo privado alguno. Por consiguiente, usted no puede eliminar el contenido publicado en la Plataforma de AKASHA. Cuando usted elimina contenido, su contenido sólo es sacado de una lista haciéndolo más difícil de encontrar para otros. Sin embargo, usted entiende que el contenido removido persiste sin ninguna limitación de tiempo y puede aún estar disponible para otros.\n            10 Cuando usted publica contenido utilizando la opción “Sin derechos reservados” en las Opciones de Licencia, significa que usted está permitiéndo el libre acceso a dicho contenido, y a utilizar ese contenido, a asociarlo con usted (i.e., su nombre y su foto de perfil) y que cede todos sus derechos de autor y otros derechos relacionados."
+    },
+    {
+        "id": "app.akasha.terms.noUnlawfulTitle",
+        "description": "no unlawful activities and content section title",
+        "defaultMessage": "3. No actividades y contenido ilegales"
+    },
+    {
+        "id": "app.akasha.terms.noUnlawfulBody",
+        "description": "no unlawful activities and content section title",
+        "defaultMessage": "11 Está usted consciente de que AKASHA es una plataforma completamente descentralizada y que no está bajo el control de alguna entidad legal o individuo privado. AKASHA no tiene conocimiento de y tampoco motivos para controlar que el contenido publicado en AKASHA viole derechos de propiedad intelectual de algún tercero, o que sea ilegal bajo las leyes de alguna jurisdicción. Consiguientemente, el éxito de AKASHA depende de la responsabilidad de cada Usuario. Al utilizar AKASHA se compromete a conservar limpio a AKASHA de cualquier contenido y actividades ilegales. Particularmente:\n                §  No solicitará información de acceso a la plataforma de un Perfil perteneciente a alguien más.\n                §  No molestará, intimidará, u hostigará a cualquier otro Usuario.\n                §  No publicará contenido que sea de odio, amenazador, o que incite a la violencia\n                §  No usará AKASHA para hacer algo ilegal en su jurisdicción o en la de Suiza\n                §  No usará AKASHA para hacer algo engañoso, malicioso o discriminatorio.\n                §  No publicará contenido o tomará acción alguna en AKASHA que infringa o viole los derechos de alguien más o que viole la ley.\n                12 Está previsto que las versiones actualizadas de AKASHA contendrán funcionalidades que permitan que la Comunidad de AKASHA para automoderar el contenido publicado en la plataforma sin ningún involucramiento directo de AKASHA International GmbH."
+    },
+    {
+        "id": "app.akasha.terms.registrationTitle",
+        "description": "registration and identity section title",
+        "defaultMessage": "4. Registro e Identidad"
+    },
+    {
+        "id": "app.akasha.terms.registrationBody",
+        "description": "registration and identity section content",
+        "defaultMessage": "13 AKASHA se preocupa por la privacidad. Puede usted crear una Identidad usando las credenciales de su preferencia o mantener múltiples Identidades. Sin embargo, como AKASHA corre en la Plataforma de Ethereum, el uso de AKASHA involucra ciertos pagos. Por consiguiente, usted no podrá usar AKASHA si tiene menos de 13 años de edad."
+    },
+    {
+        "id": "app.akasha.terms.paymentOfFeesTitle",
+        "description": "payment of fees section title",
+        "defaultMessage": "5. Pago de cuotas"
+    },
+    {
+        "id": "app.akasha.terms.paymentOfFeesBody",
+        "description": "payment of fees section content",
+        "defaultMessage": "14 Al crearse una Identidad, se le dará una Dirección de Ethereum (Ethereum Identity Key) a la cual deberá hacer una transferencia de una cantidad pequeña de Ether (ETH). Cuando sea que utilizar AKASHA esté sujeto al pago de una cuota, esta cuota - después de haber provisto su consentimiento en cada caso individual - será retirada del balance de su Llave de Identidad de Ethereum. La cantidad de ETH en su balance permanecerá bajo su control y puede ser retirada en cualquier momento."
+    },
+    {
+        "id": "app.akasha.terms.advertisementTitle",
+        "description": "advertisement section title",
+        "defaultMessage": "6. Publicidad"
+    },
+    {
+        "id": "app.akasha.terms.advertisementBody",
+        "description": "advertisement section content",
+        "defaultMessage": "15 AKASHA permanecerá libre de cualquier tipo de publicidad y de contenido comercial o patrocinado. Para poder ayudarnos a hacer eso, usted acuerda abstenerse de utilizar AKASHA para propósitos publicitarios."
+    },
+    {
+        "id": "app.akasha.terms.noWarrantyTitle",
+        "description": "no warranty section title",
+        "defaultMessage": "7. No garantías"
+    },
+    {
+        "id": "app.akasha.terms.noWarrantyBody",
+        "description": "no warranty section content",
+        "defaultMessage": "16 Usted entiende y expresamente acepta que no hay garantía alguna concerniente a la disponibilidad, funcionalidad, y/o el éxito de AKASHA y de la Llave de Identidad de Ethereum, expresada o implícita, hasta el alcance permitido por la ley, y que la versión Pre-Alfa de AKASHA es utilizada bajo el solo riesgo suyo en una base “como es” y “bajo desarrollo” y sin, hasta el alcance permitido por la ley, garantías de cualquier tipo, incluyendo, pero no limitado a, garantías de título o garantías implícitas, mercantibilidad o idoneidad para algún propósito en particular;"
+    },
+    {
+        "id": "app.akasha.terms.passwordTitle",
+        "description": "password section title",
+        "defaultMessage": "8. Contraseña / Autenticación abierta"
+    },
+    {
+        "id": "app.akasha.terms.passwordBody",
+        "description": "password section content",
+        "defaultMessage": "17 Como parte de crear su identidad, necesitará proporcionar una contraseña. La contraseña se utilizará para accesar AKASHA y hacer uso de su balance en su Llave Identidad de Ethereum. Debe de mantener esta contraseña segura y sin compartirla con algún otro.\n            18 Al autenticarse tendrá la opción de crear un “token/hash de autenticación” seguro por un lapso de tiempo, definido por usted, el cual le permitirá firmar de manera segura transacciones mientras esté autenticado sin necesitar reintroducir su contraseña cada vez que publique, comente o vote en algo (Función de Autenticación Abierta). Cuando el periodo de tiempo definido expire, se le pedirá su contraseña nuevamente. Por favor asegúrese de no dejar su dispositivo de acceso a AKASHA sin supervisión después de haber escogido la Función de Autenticación Abierta."
+    },
+    {
+        "id": "app.akasha.terms.risksTitle",
+        "description": "risks section title",
+        "defaultMessage": "9. Riesgos"
+    },
+    {
+        "id": "app.akasha.terms.risksBody",
+        "description": "risks section content",
+        "defaultMessage": "19 Usted entiende y acepta los riesgos relacionados a utilizar AKASHA y de transferir ETH a una Billetera de Depósito como un set ejemplar de aquí en adelante. Particularmente, pero no finalmente, usted entiende los riesgos inherentes listados a continuación:\n                §  Riesgo de debilidades del software: Usted entiende y acepta que AKASHA, el concepto de sistema de contratos inteligentes, la aplicación de software subyacente y la plataforma de sofware (i.e. el blockchain de Ethereum) está aún en una etapa temprana de desarrollo y sin probar, el porqué de no haber garantía de que AKASHA se ejecutará sin interrupciones o libre de errores y el porqué de haber un riesgo inherente de que el software pueda contener debilidades, vulnerabilidades o bugs que ocasionen, inter alia, la pérdida completa de su perfil y/o el ETH enviado por usted a la Billetera de Depósito.\n                §  Riesgo regulatorio: El Usuario entiende y acepta que la tecnología de blockchain permite nuevas formas de interacción y que es posible que ciertas jurisdicciones aplicarán regulaciones existentes en, o introducir nuevas regulaciones digiridas, aplicaciones basadas en tecnología de blockchain, lo cual puede ser contrario al sistema actula de AKASHA y que puede resultar, inter alia, en modificaciones substanciales de AKASHA, incluyendo su terminación y pérdida de ETH enviado por usted a la Billetera de Depósito.\n                §  Riesgo de abandono / falta de éxito: Usted entiende y acepta que el desarrollo de AKASHA después de la versión Beta puede ser abandonada por múltiples razones, incluyendo la falta de interés del público, falta de fondos, falta de éxito comercial o prospectos (e.g. causado por proyectos competidores).\n                §  Riesgo de robo: Usted entiende y acepta que el concepto de contrato inteligente de AKASHA, la aplicación subyacente y la plataforma de software (i.e el blockchain de Ethereum) pueden ser expuestos a ataques de hackers o de otros individuos, lo cual podría resultar en robo o pérdida de ETH enviado por usted a la Billetera de Depósito.\n                §  Riesgo de ataques a la minería de Ethereum: Usted entiende y acepta que, como con todas las otras criptomonedas, el blockchain utilizado por AKASHA es susceptible a ataques de minería, incluyendo pero no limitándose a ataques de doble-gasto, ataques de poder mayoritarios de minería, ataques de “minería egoísta”, y ataques de condición de carrera.\n                §  Riesgo de nueva versión: Usted entiende y acepta que la red de mineros estará bajo control de AKASHA. Usted entiende que una mayoría de estos mineros pueden acceder en cualquier punto a hacer cambios a la red oficial de AKASHA y ejecutar la nueva versión de sistemas de contratos inteligentes."
+    },
+    {
+        "id": "app.akasha.terms.taxationTitle",
+        "description": "taxation section title",
+        "defaultMessage": "10. Impuestos"
+    },
+    {
+        "id": "app.akasha.terms.taxationBody",
+        "description": "taxation section content",
+        "defaultMessage": "20 Usted carga con la responsabilidad de determinar si una acción o transacción relacionada a AKASHA tiene implicaciones de impuestos sobre usted."
+    },
+    {
+        "id": "app.akasha.terms.noLiabilityTitle",
+        "description": "no liability section title",
+        "defaultMessage": "11. No Responsabilidad"
+    },
+    {
+        "id": "app.akasha.terms.noLiabilityBody",
+        "description": "no liability section content",
+        "defaultMessage": "21 Usted reconoce y está de acuerdo con que, hasta lo que permita la ley aplicable, el Usuario no sostendrá responsables a desarrolladores, contratistas o fundadores de AKASHA por cualquier y todo daño o perjuicio cual sea ocasionado o relacionado por el uso de, o por la incapacidad de usar, AKASHA bajo cualquier causa o acción de cualquier tipo en cualquier jurisdicción, incluyendo, pero no limitando, acciones por violaciones de garantías, violaciones de contratos o agravios (incluyendo negligencia) y que los desarrolladores de AKASHA no serán responsables de cualquier daño indirecto, incidental, especial, ejemplar o consiguiente (incluyendo la pérdida de ganancias, de fondos de comercio, fondos de datos o de cualquier pérdida intangible) en cualquier manera saliendo del uso de, o de la incapacidad de usar AKASHA.\n            22 En particular, usted reconoce y acepta que AKASHA y cualquiera de sus desarrolladores, contratistas o fundadores no serán responsables bajo cualquier circunstancia con usted o cualquier otra asociación, persona o entidad, por los daños o pérdidas que puedan resultar de lo siguiente:\n                § Terminación, suspensión, pérdida o modificación de AKASHA;\n                §  Uso de o incapacidad para utilizar AKASHA;\n                §  Retrasos de acceso o interrupciones de acceso a AKASHA;\n                §  La no entrega de datos, mala entrega, corrupción, destrucción o alguna otra modificación;\n                §  Eventos fuera del control de AKASHA;\n                §  Aplicación de cualquier ley aplicable, regulación o política de AKASHA;\n                §  Desembolso o no desembolso de fondo sostenido en su Billetera de Depósito;\n                §  Pérdida o responsabilidad resultante de errores, omisiones o declaraciones erróneas relacionados a AKASHA (esto incluye pérdida de datos resultante de retrasos, no entregas, malas entregas o interrupciones del servicio independientes de la causa);\n                §  Pérdida o responsabilidad resultante de uso no autorizado o uso erróneo de su Identidad, contraseña o cualquier otra opción de autenticación;\n                §  Uso no autorizado o alteración de su contenido;\n                §  Violación de cualquier derecho de un tercero, incluyendo, pero no limitado a, derechos de publicidad, derechos de privacidad, derechos de propiedad intelectual y de cualquier otro tipo de derechos de propiedad;\n                §  Cualquier otro asunto relacionado a su uso de AKASHA.\n            23 AKASHA niega toda responsabilidad por su contenido, bienes y servicios vendidos a usted o hechos disponibles a través de AKASHA, o la calidad o la precisión de la información de AKASHA. AKASHA no endosará o garantizará cualquier producto o servicio ofrecido a través de AKASHA, y no será parte de o en cualquier manera monitoreará cualquier transacción entre usted y un tercero ofrecido a través o resultando de los servicios o del uso de AKASHA, incluyendo, pero no limitado a, todo el contenido de licencias, transacciones, o cualquier acuerdo de negocios."
+    },
+    {
+        "id": "app.akasha.terms.miscTitle",
+        "description": "miscellaneous section title",
+        "defaultMessage": "12. Misceláneo"
+    },
+    {
+        "id": "app.akasha.terms.miscBody",
+        "description": "miscellaneous section content",
+        "defaultMessage": "24 Usted está de acuerdo que si alguna porción de estos Términos es encontrada ilegal o no ejecutable, en su totalidad o parcialmente, tal estipulación será, de acuerdo a tal jurisdicción, inefectiva solamente hasta el alcance de tal determinación o invalidez o no ejecutabilidad sin afectar la validez o ejecutabilidad de ahí en adelante en cualquier otra manera o jurisdicción y sin afectar a las estipulaciones restantes de los Términos, que continuarán estando en potencia completa y efecto.\n            25 La ley aplicable es la Ley Suiza. Cualquier disputa que surja de o en relación con AKASHA\n            será finalmente establecida por las cortes ordinarias del domicilio registrado del acusado."
+    }
+]
