@@ -1,0 +1,32 @@
+[
+    {
+        "id": "app.highlight.addYourNotes",
+        "description": "placeholder for highlight notes textarea",
+        "defaultMessage": "Notlarınızı buraya ekleyin"
+    },
+    {
+        "id": "app.highlight.addNote",
+        "description": "label for add note button",
+        "defaultMessage": "Not ekle"
+    },
+    {
+        "id": "app.highlight.delete",
+        "description": "content for delete highlight modal",
+        "defaultMessage": "Bu vurguyu silmek istiyor musunuz?"
+    },
+    {
+        "id": "app.highlight.deleteHighlight",
+        "description": "label for delete highlight button",
+        "defaultMessage": "Vurguyu sil"
+    },
+    {
+        "id": "app.highlight.editNote",
+        "description": "label for edit note button",
+        "defaultMessage": "Notu düzenle"
+    },
+    {
+        "id": "app.highlight.startEntry",
+        "description": "label for start an entry button",
+        "defaultMessage": "Girdi başlat"
+    }
+]
