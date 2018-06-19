@@ -127,7 +127,7 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Memasukkan"
+        "defaultMessage": "Masukan"
     },
     {
         "id": "app.profile.follow",
@@ -157,7 +157,7 @@
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "Following"
+        "defaultMessage": "Mengikuti"
     },
     {
         "id": "app.profile.followingsCount",
@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Tidak ikuti"
+        "defaultMessage": "Tidak mengikuti"
     },
     {
         "id": "app.profile.yourEthAddress",
