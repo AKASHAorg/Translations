@@ -273,5 +273,40 @@
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
         "defaultMessage": "An error occurred while saving your settings"
+    },
+    {
+        "id": "app.error.appErrorTitle",
+        "description": "Title message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Ah snap!"
+    },
+    {
+        "id": "app.error.appErrorSubtitle",
+        "description": "Subtitle message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Something went terribly wrong."
+    },
+    {
+        "id": "app.error.copyError",
+        "description": "label for copy to clipboard button",
+        "defaultMessage": "Copy error to clipboard"
+    },
+    {
+        "id": "app.error.profileFaucet",
+        "description": "error message for faucet request",
+        "defaultMessage": "An error occurred while requesting funds from faucet"
+    },
+    {
+        "id": "app.error.profileRegister",
+        "description": "error message for registering your profile",
+        "defaultMessage": "An error occured while registering your profile"
+    },
+    {
+        "id": "app.error.profileFollow",
+        "description": "error message for profile follow",
+        "defaultMessage": "An error occurred while following {ethAddress}"
+    },
+    {
+        "id": "app.error.profileUnfollow",
+        "description": "error message for profile unfollow",
+        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
     }
 ]
