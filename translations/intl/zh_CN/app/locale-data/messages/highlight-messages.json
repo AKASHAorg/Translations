@@ -1,0 +1,32 @@
+[
+    {
+        "id": "app.highlight.addYourNotes",
+        "description": "placeholder for highlight notes textarea",
+        "defaultMessage": "在此处添加备注"
+    },
+    {
+        "id": "app.highlight.addNote",
+        "description": "label for add note button",
+        "defaultMessage": "添加备注"
+    },
+    {
+        "id": "app.highlight.delete",
+        "description": "content for delete highlight modal",
+        "defaultMessage": "您想要删除此精粹吗？"
+    },
+    {
+        "id": "app.highlight.deleteHighlight",
+        "description": "label for delete highlight button",
+        "defaultMessage": "删除精粹"
+    },
+    {
+        "id": "app.highlight.editNote",
+        "description": "label for edit note button",
+        "defaultMessage": "编辑备注"
+    },
+    {
+        "id": "app.highlight.startEntry",
+        "description": "label for start an entry button",
+        "defaultMessage": "启动条目"
+    }
+]
