@@ -1,0 +1,502 @@
+[
+    {
+        "id": "app.entry.allowedImageTypes",
+        "description": "types of images allowed for upload",
+        "defaultMessage": "JPG、GIF 或 PNG 图像"
+    },
+    {
+        "id": "app.entry.alreadyDownvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already downvoted",
+        "defaultMessage": "您以权重 {weight} 否决"
+    },
+    {
+        "id": "app.entry.alreadyUpvoted",
+        "description": "tooltip for vote buttons when the entry/comment was already upvoted",
+        "defaultMessage": "您以权重 {weight} 赞同"
+    },
+    {
+        "id": "app.entry.articleEntryType",
+        "description": "entry of type article",
+        "defaultMessage": "文章"
+    },
+    {
+        "id": "app.entry.cannotClaimEntry",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
+        "defaultMessage": "只有您的条目的得分是正数，您才能收集精气"
+    },
+    {
+        "id": "app.entry.cannotClaimVote",
+        "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
+        "defaultMessage": "只有您的投票和大多数一致（比如您投了赞同且条目的得分是正数），您才能收集精气"
+    },
+    {
+        "id": "app.entry.cannotExtractWebsiteInfo",
+        "description": "error shown when we cannot extract wesite info",
+        "defaultMessage": "无法从网站提取信息！请尝试其他地址"
+    },
+    {
+        "id": "app.entry.cannotRetrieveLicense",
+        "description": "当许可证无法被检索或未正确保存的时候显示的信息",
+        "defaultMessage": "无法检索许可证信息。"
+    },
+    {
+        "id": "app.entry.imageCaptionPlaceholder",
+        "description": "用于标题输入占位符的文本",
+        "defaultMessage": "添加标题"
+    },
+    {
+        "id": "app.entry.collected",
+        "description": "条目/投票的精气已收集",
+        "defaultMessage": "精气已收集"
+    },
+    {
+        "id": "app.entry.collectEssence",
+        "description": "从已发布的条目或投票中收集精气",
+        "defaultMessage": "收集精气"
+    },
+    {
+        "id": "app.entry.commentsCount",
+        "description": "评论数",
+        "defaultMessage": "{count, number} {count, plural, one {评论} few {评论} many {评论} other {评论}}"
+    },
+    {
+        "id": "app.entry.continueEditing",
+        "description": "继续编辑按钮的标签",
+        "defaultMessage": "继续编辑"
+    },
+    {
+        "id": "app.entry.downvote",
+        "description": "否决按钮提示",
+        "defaultMessage": "否决"
+    },
+    {
+        "id": "app.entry.draft",
+        "description": "草稿是尚未发布的条目（数据只保存在本地）",
+        "defaultMessage": "草稿"
+    },
+    {
+        "id": "app.entry.drafts",
+        "description": "草稿部分的标题",
+        "defaultMessage": "草稿"
+    },
+    {
+        "id": "app.entry.draftsCount",
+        "description": "草稿数",
+        "defaultMessage": "{count, number} {count, plural, one {草稿} few {草稿} many {草稿} other {草稿}}"
+    },
+    {
+        "id": "app.entry.draftContentRequired",
+        "description": "用于无内容条目的验证消息",
+        "defaultMessage": "您不能创建没有内容的文章！"
+    },
+    {
+        "id": "app.entry.draftDelete",
+        "description": "草稿删除按钮的标签",
+        "defaultMessage": "删除草稿"
+    },
+    {
+        "id": "app.entry.draftDeleteConfirm",
+        "description": "当用户要删除草稿时显示的信息",
+        "defaultMessage": "您确定要删除此草稿吗？"
+    },
+    {
+        "id": "app.entry.draftEdit",
+        "description": "草稿编辑按钮的标签",
+        "defaultMessage": "编辑草稿"
+    },
+    {
+        "id": "app.entry.draftSaved",
+        "description": "已保存草稿状态信息",
+        "defaultMessage": "草稿已保存"
+    },
+    {
+        "id": "app.entry.draftSaving",
+        "description": "草稿保存中状态信息",
+        "defaultMessage": "草稿保存中"
+    },
+    {
+        "id": "app.entry.draftSharePreview",
+        "description": "共享预览链接按钮的标签",
+        "defaultMessage": "共享预览链接"
+    },
+    {
+        "id": "app.entry.edited",
+        "description": "条目已编辑标签",
+        "defaultMessage": "已编辑"
+    },
+    {
+        "id": "app.entry.editEntry",
+        "description": "条目编辑按钮的提示",
+        "defaultMessage": "编辑条目"
+    },
+    {
+        "id": "app.entry.entriesCount",
+        "description": "条目数",
+        "defaultMessage": "{count, number} {count, plural, one {条目} other {条目}}"
+    },
+    {
+        "id": "app.entry.enterWebAddress",
+        "description": "链接条目的地址字段占位符",
+        "defaultMessage": "输入网址，比如 www.akasha.world"
+    },
+    {
+        "id": "app.entry.oneTagRequired",
+        "description": "至少需要一个标签时的错误信息",
+        "defaultMessage": "您必须至少添加一个标签"
+    },
+    {
+        "id": "app.entry.errorExcerptTooLong",
+        "description": "当摘要太长时提示的错误信息",
+        "defaultMessage": "摘要必须少于120个字符"
+    },
+    {
+        "id": "app.entry.excerpt",
+        "description": "摘要部分的标题",
+        "defaultMessage": "摘录"
+    },
+    {
+        "id": "app.entry.featuredImage",
+        "description": "特色图片部分的标题",
+        "defaultMessage": "特色图片"
+    },
+    {
+        "id": "app.entry.hiddenContent",
+        "description": "由于分数低于用户首选项而导致内容隐藏的信息",
+        "defaultMessage": "此内容的分数低于 {score}。"
+    },
+    {
+        "id": "app.entry.hiddenContent2",
+        "description": "由于分数低于用户首选项而导致内容隐藏的信息（第二部分）",
+        "defaultMessage": "您可以在个人设置修改这个值"
+    },
+    {
+        "id": "app.entry.hiddenContent3",
+        "description": "由于分数低于用户首选项而导致内容隐藏的信息（第三部分）",
+        "defaultMessage": "。"
+    },
+    {
+        "id": "app.entry.license",
+        "description": "许可证标签",
+        "defaultMessage": "许可证"
+    },
+    {
+        "id": "app.entry.linkEntryType",
+        "description": "链接类型的条目",
+        "defaultMessage": "链接"
+    },
+    {
+        "id": "app.entry.loadMoreReplies",
+        "description": "加载更多回复按钮的标签",
+        "defaultMessage": "加载更多回复"
+    },
+    {
+        "id": "app.entry.loadingDrafts",
+        "description": "当草稿加载时显示的信息",
+        "defaultMessage": "草稿加载中..."
+    },
+    {
+        "id": "app.entry.localVersion",
+        "description": "条目的本地版本的标签",
+        "defaultMessage": "本地版本"
+    },
+    {
+        "id": "app.entry.makeSureToOpenDApp",
+        "description": "信息",
+        "defaultMessage": "确保在您发布过的计算机上打开 AKASHA。"
+    },
+    {
+        "id": "app.entry.newComments",
+        "description": "发布新评论时显示的信息",
+        "defaultMessage": "{count, number} 新{count, plural, one {评论} few {评论} many {评论} other {评论}}"
+    },
+    {
+        "id": "app.entry.noCommentsFound",
+        "description": "评论列表为空时的占位符",
+        "defaultMessage": "No comments yet."
+    },
+    {
+        "id": "app.noDraftsFoundOnSearch",
+        "description": "当用户搜索草稿且没有找到",
+        "defaultMessage": "找不到与您的搜索条件匹配的草稿。"
+    },
+    {
+        "id": "app.entry.noEntries",
+        "description": "条目列表为空时的占位符",
+        "defaultMessage": "No entries yet"
+    },
+    {
+        "id": "app.entry.noNewEntries",
+        "description": "最新条目列表为空时的占位符",
+        "defaultMessage": "没有新条目"
+    },
+    {
+        "id": "app.entry.nothingToCollect",
+        "description": "当结余是0精力无法收集的时候用的解释信息",
+        "defaultMessage": "这个条目没有精力可供收集"
+    },
+    {
+        "id": "app.entry.noTitle",
+        "description": "当草稿没有标题时",
+        "defaultMessage": "新的草稿"
+    },
+    {
+        "id": "app.entry.noVotes",
+        "description": "投票列表为空时的占位符",
+        "defaultMessage": "没有投票"
+    },
+    {
+        "id": "app.entry.olderVersion",
+        "description": "用于读取旧版本的条目副标题",
+        "defaultMessage": "您现在看的是旧的"
+    },
+    {
+        "id": "app.entry.originalVersion",
+        "description": "原始版本的标签",
+        "defaultMessage": "原版"
+    },
+    {
+        "id": "app.entry.oneOfTheTagsCannotBeUsed",
+        "description": "无法使用标签",
+        "defaultMessage": "其中一个标签不能使用！"
+    },
+    {
+        "id": "app.entry.publicDiscussion",
+        "description": "条目评论部分标题",
+        "defaultMessage": "公开讨论"
+    },
+    {
+        "id": "app.entry.published",
+        "description": "已发布条目",
+        "defaultMessage": "已发布"
+    },
+    {
+        "id": "app.entry.publishOptions",
+        "description": "发布选项面板标题",
+        "defaultMessage": "发布选项"
+    },
+    {
+        "id": "app.entry.readTime",
+        "description": "阅读条目估计用时（例如10分钟阅读）",
+        "defaultMessage": "阅读"
+    },
+    {
+        "id": "app.entry.resolvingIpfsHash",
+        "description": "当 ipfs 哈希处于解析状态时显示的信息",
+        "defaultMessage": "ipfs 哈希解析中..."
+    },
+    {
+        "id": "app.entry.revertConfirmTitle",
+        "description": "还原草稿时的确认信息",
+        "defaultMessage": "您确实要还原此草稿吗？"
+    },
+    {
+        "id": "app.entry.saveHighlight",
+        "description": "精粹保存按钮的标签",
+        "defaultMessage": "保存精粹"
+    },
+    {
+        "id": "app.entry.score",
+        "description": "条目得分",
+        "defaultMessage": "得分"
+    },
+    {
+        "id": "app.entry.searchProfile",
+        "description": "个人资料栏的占位符",
+        "defaultMessage": "搜索个人资料"
+    },
+    {
+        "id": "app.entry.searchTag",
+        "description": "标签栏的占位符",
+        "defaultMessage": "搜索标签"
+    },
+    {
+        "id": "app.entry.showAnyway",
+        "description": "用于显示隐藏内容的按钮标签",
+        "defaultMessage": "尽管显示"
+    },
+    {
+        "id": "app.entry.showLess",
+        "description": "评论折叠按钮的标签",
+        "defaultMessage": "折叠评论"
+    },
+    {
+        "id": "app.entry.showMore",
+        "description": "评论展开按钮的标签",
+        "defaultMessage": "显示全部评论"
+    },
+    {
+        "id": "app.entry.startComment",
+        "description": "用于对精粹进行评论的按钮标签",
+        "defaultMessage": "开始评论"
+    },
+    {
+        "id": "app.entry.startANewDraft",
+        "description": "启动新草稿的信息",
+        "defaultMessage": "立即创建草稿！"
+    },
+    {
+        "id": "app.entry.title",
+        "description": "草稿标题输入的占位符",
+        "defaultMessage": "标题"
+    },
+    {
+        "id": "app.entry.titleRequired",
+        "description": "缺少标题字段时的验证消息",
+        "defaultMessage": "标题不得为空"
+    },
+    {
+        "id": "app.entry.tooltipAuthor",
+        "description": "作者无法解析时的错误信息",
+        "defaultMessage": "无法解析条目作者"
+    },
+    {
+        "id": "app.entry.upvote",
+        "description": "赞成按钮的提示",
+        "defaultMessage": "赞成"
+    },
+    {
+        "id": "app.entry.version",
+        "description": "条目版本",
+        "defaultMessage": "版本"
+    },
+    {
+        "id": "app.entry.versionHistory",
+        "description": "版本历史对话框标题",
+        "defaultMessage": "版本历史记录"
+    },
+    {
+        "id": "app.entry.versionNumber",
+        "description": "版本号的标签",
+        "defaultMessage": "版本 {index}"
+    },
+    {
+        "id": "app.entry.votePending",
+        "description": "投票按钮在待定状态下的提示（等待投票交易被挖矿打包）",
+        "defaultMessage": "您的投票待确认"
+    },
+    {
+        "id": "app.entry.votePercentage",
+        "description": "投票在否决和赞成之间的百分百分布",
+        "defaultMessage": "赞成-{upvote}% ·否决-{downvote}%"
+    },
+    {
+        "id": "app.entry.votingOwnComment",
+        "description": "用于给您自己的评论投票按钮的提示",
+        "defaultMessage": "您不能给自己的评论投票"
+    },
+    {
+        "id": "app.entry.votingPeriod",
+        "description": "条目的投票期已结束",
+        "defaultMessage": "投票期已结束"
+    },
+    {
+        "id": "app.entry.votingPeriodDisclaimer",
+        "description": "投票期结束时的免责声明信息",
+        "defaultMessage": "用户仍然可以对条目投票，但为这些投票消耗的法力无法被作者或投票者收集。"
+    },
+    {
+        "id": "app.entry.websiteInfoFetchingError",
+        "description": "获取网站信息失败时显示的错误",
+        "defaultMessage": "试图获取网站信息时出错"
+    },
+    {
+        "id": "app.entry.wordsCount",
+        "description": "条目中的词数",
+        "defaultMessage": "{words, number} {words, plural, one {词} few {词} many {词} other {词}}"
+    },
+    {
+        "id": "app.entry.writeComment",
+        "description": "用于书写评论的输入占位符",
+        "defaultMessage": "书写评论"
+    },
+    {
+        "id": "app.entry.writeReplyTo",
+        "description": "向某人 {name} 编写回复时的占位符",
+        "defaultMessage": "回复给 {name}"
+    },
+    {
+        "id": "app.entry.youHaveNoDrafts",
+        "description": "当所有草稿都删除时显示的信息",
+        "defaultMessage": "您没有草稿"
+    },
+    {
+        "id": "app.entry.draftAll",
+        "description": "all drafts",
+        "defaultMessage": "所有草稿"
+    },
+    {
+        "id": "app.entry.entriesAll",
+        "description": "",
+        "defaultMessage": "所有条目"
+    },
+    {
+        "id": "app.entry.publishedAll",
+        "description": "all published entries",
+        "defaultMessage": "所有条目"
+    },
+    {
+        "id": "app.entry.draftEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "草稿"
+    },
+    {
+        "id": "app.entry.publishedEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "条目"
+    },
+    {
+        "id": "app.entry.gotoMyDrafts",
+        "description": "go to my drafts button label",
+        "defaultMessage": "转到我的草稿"
+    },
+    {
+        "id": "app.entry.myEntries",
+        "description": "my entries label title",
+        "defaultMessage": "我的条目"
+    },
+    {
+        "id": "app.entry.draftRevert",
+        "description": "button label to revert changes",
+        "defaultMessage": "还原更改"
+    },
+    {
+        "id": "app.entry.linkDisabled",
+        "description": "tooltip for link button in comment editor",
+        "defaultMessage": "必须先选择一些文本"
+    },
+    {
+        "id": "app.entry.linkPlaceholder",
+        "description": "placeholder for the link input in editors",
+        "defaultMessage": "输入链接并按回车键"
+    },
+    {
+        "id": "app.entry.loadingImage",
+        "description": "placeholder when an image is loading",
+        "defaultMessage": "加载图像中"
+    },
+    {
+        "id": "app.entry.entries",
+        "description": "plural form of entry! :)",
+        "defaultMessage": "条目"
+    },
+    {
+        "id": "app.leaveAComment",
+        "description": "当用户搜索草稿且没有找到",
+        "defaultMessage": "Be the first one to write a comment!"
+    },
+    {
+        "id": "app.entry.commentedOn",
+        "description": "评论",
+        "defaultMessage": "评论"
+    },
+    {
+        "id": "app.entry.repliedOn",
+        "description": "replied on",
+        "defaultMessage": "replied on a comment on"
+    },
+    {
+        "id": "app.entry.loadComments",
+        "description": "label for load comments button",
+        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
+    }
+]
