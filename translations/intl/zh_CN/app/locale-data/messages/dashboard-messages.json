@@ -1,0 +1,247 @@
+[
+    {
+        "id": "app.dashboard.addColumn",
+        "description": "button label for adding a column to the board",
+        "defaultMessage": "添加栏"
+    },
+    {
+        "id": "app.dashboard.addNewColumn",
+        "description": "panel title for adding a new column",
+        "defaultMessage": "添加栏"
+    },
+    {
+        "id": "app.dashboard.addNewColumnSubtitle",
+        "description": "panel subtitle for adding a new column",
+        "defaultMessage": "请选择栏类型"
+    },
+    {
+        "id": "app.dashboard.addNewListColumn",
+        "description": "panel title for adding a new list column",
+        "defaultMessage": "目录栏"
+    },
+    {
+        "id": "app.dashboard.addNewListColumnSubtitle",
+        "description": "panel subtitle for adding a new list column",
+        "defaultMessage": "请选择一个目录"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumn",
+        "description": "panel title for adding a new user column",
+        "defaultMessage": "用户栏"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumnSubtitle",
+        "description": "panel subtitle for adding a new user column",
+        "defaultMessage": "请选择一个用户"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumn",
+        "description": "panel title for adding a new tag column",
+        "defaultMessage": "标签栏"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumnSubtitle",
+        "description": "panel subtitle for adding a new tag column",
+        "defaultMessage": "请选择一个标签"
+    },
+    {
+        "id": "app.dashboard.addToBoard",
+        "description": "button label for adding a tag/profile column to a board",
+        "defaultMessage": "添加到面板"
+    },
+    {
+        "id": "app.list.addToNewDashboard",
+        "description": "popover title for creating a new dashboard",
+        "defaultMessage": "创建新面板"
+    },
+    {
+        "id": "app.dashboard.collection",
+        "description": "label for collection column",
+        "defaultMessage": "收集"
+    },
+    {
+        "id": "app.dashboard.columnStream",
+        "description": "column title for \"following feed\" (entries published by the users that you are following)",
+        "defaultMessage": "关注源"
+    },
+    {
+        "id": "app.dashboard.createDashboardFirst",
+        "description": "Tooltip message for add column button when there is no board created",
+        "defaultMessage": "您必须先创建一个面板"
+    },
+    {
+        "id": "app.dashboard.createOneNow",
+        "description": "button label for creating a new board",
+        "defaultMessage": "立即创建"
+    },
+    {
+        "id": "app.dashboard.createNew",
+        "description": "button label/tooltip for creating a new board",
+        "defaultMessage": "创建新面板"
+    },
+    {
+        "id": "app.dashboard.dashboardName",
+        "description": "input label for board name field",
+        "defaultMessage": "面板名称"
+    },
+    {
+        "id": "app.list.dashboardNameRequired",
+        "description": "required error message for board name input field",
+        "defaultMessage": "面板名称必填"
+    },
+    {
+        "id": "app.dashboard.dashboardNameUnique",
+        "description": "unique name error message for board name input field",
+        "defaultMessage": "此面板已存在"
+    },
+    {
+        "id": "app.dashboard.deleteColumnConfirmation",
+        "description": "confirmation message for deleting a column",
+        "defaultMessage": "您确定要删除这一栏吗？"
+    },
+    {
+        "id": "app.dashboard.deleteDashboardConfirmation",
+        "description": "confirmation message for deleting a board",
+        "defaultMessage": "您确定要删除 {name} 吗？"
+    },
+    {
+        "id": "app.dashboard.firstDashboard",
+        "description": "the name for the first board",
+        "defaultMessage": "我的面板"
+    },
+    {
+        "id": "app.dashboard.large",
+        "description": "large column width",
+        "defaultMessage": "放大"
+    },
+    {
+        "id": "app.dashboard.latest",
+        "description": "column title for \"latest entries\" (newest entries published on Akasha)",
+        "defaultMessage": "最新条目"
+    },
+    {
+        "id": "app.dashboard.list",
+        "description": "label for list column",
+        "defaultMessage": "目录"
+    },
+    {
+        "id": "app.dashboard.listDeleted",
+        "description": "message displayed when the list used in a list column was deleted",
+        "defaultMessage": "此目录已删除。请移除栏"
+    },
+    {
+        "id": "app.dashboard.myBoards",
+        "description": "header for boards page secondary sidebar",
+        "defaultMessage": "我的面板"
+    },
+    {
+        "id": "app.dashboard.namePlaceholder",
+        "description": "placeholder for dashboard name input field",
+        "defaultMessage": "键入面板名称"
+    },
+    {
+        "id": "app.dashboard.noDashboard",
+        "description": "placeholder message displayed when no boards were found",
+        "defaultMessage": "未找到面板"
+    },
+    {
+        "id": "app.dashboard.previewList",
+        "description": "label for list column preview",
+        "defaultMessage": "预览 {listName}"
+    },
+    {
+        "id": "app.dashboard.previewProfile",
+        "description": "label for user column preview",
+        "defaultMessage": "预览 {displayName}"
+    },
+    {
+        "id": "app.dashboard.previewTag",
+        "description": "label for tag column preview",
+        "defaultMessage": "预览 #{tagName}"
+    },
+    {
+        "id": "app.dashboard.profile",
+        "description": "label for user column",
+        "defaultMessage": "用户"
+    },
+    {
+        "id": "app.dashboard.searchForBoard",
+        "description": "placeholder for board search input field",
+        "defaultMessage": "搜索面板..."
+    },
+    {
+        "id": "app.dashboard.small",
+        "description": "small column width",
+        "defaultMessage": "缩小"
+    },
+    {
+        "id": "app.dashboard.stream",
+        "description": "label for following feed column",
+        "defaultMessage": "关注源"
+    },
+    {
+        "id": "app.dashboard.tag",
+        "description": "label for tag column",
+        "defaultMessage": "标签"
+    },
+    {
+        "id": "app.dashboard.noColumnsTitle",
+        "description": "Column placeholder title",
+        "defaultMessage": "A new world awaits you!"
+    },
+    {
+        "id": "app.dashboard.noColumns",
+        "description": "Column placeholder message",
+        "defaultMessage": "Your favorite topics and users at your fingertips."
+    },
+    {
+        "id": "app.dashboard.addFirstColumn",
+        "description": "add first column button label",
+        "defaultMessage": "Add first column"
+    },
+    {
+        "id": "app.dashboard.createNewListColumnSubtitle",
+        "description": "panel subtitle for creating a new list and adding it to a column",
+        "defaultMessage": "Please create a list"
+    },
+    {
+        "id": "app.dashboard.akashaBoard",
+        "description": "label for dashboard top bar popover",
+        "defaultMessage": "Akasha Board"
+    },
+    {
+        "id": "app.dashboard.newBoard",
+        "description": "label for dashboard popover new board button",
+        "defaultMessage": "New board"
+    },
+    {
+        "id": "app.dashboard.createNewSubtitle",
+        "description": "subtitle for creating a new board modal",
+        "defaultMessage": "Please insert the name of your board"
+    },
+    {
+        "id": "app.dashboard.modalInputPlaceholder",
+        "description": "placeholder for new dashboard modal input",
+        "defaultMessage": "Type the name of your board here"
+    },
+    {
+        "id": "app.dashboard.comments",
+        "description": "label for user comments column",
+        "defaultMessage": "User comments"
+    },
+    {
+        "id": "app.dashboard.previewComments",
+        "description": "label for user comments column preview",
+        "defaultMessage": "预览 {displayName}"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumn",
+        "description": "panel title for adding a new comments column",
+        "defaultMessage": "User comments column"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumnSubtitle",
+        "description": "panel subtitle for adding a new comments column",
+        "defaultMessage": "请选择一个用户"
+    }
+]
