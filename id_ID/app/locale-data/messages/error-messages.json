@@ -1,0 +1,312 @@
+[
+    {
+        "id": "app.error.reportErrorTitle",
+        "description": "title for report error modal",
+        "defaultMessage": "Laporan salah"
+    },
+    {
+        "id": "app.error.thankYouForYourFeedback",
+        "description": "thank you for feedback",
+        "defaultMessage": "Terima kasih untuk tanggapan anda!"
+    },
+    {
+        "id": "app.error.copyTheFollowingLines",
+        "description": "text explaining what to do to report an issue on GH",
+        "defaultMessage": "Silahkan mengcopy baris berikut dan buatlah permasalahan baru di {githubLink}."
+    },
+    {
+        "id": "app.error.alsoCheckForOpenedIssues",
+        "description": "text suggesting to check for existing issues",
+        "defaultMessage": "Cek juga apakah disana tidak ada permasalahan yang terbuka mengenai kesalahan ini!"
+    },
+    {
+        "id": "app.error.backupKeys",
+        "description": "error message for backup keys action",
+        "defaultMessage": "Pengadaan cadangan gagal. coba lagi"
+    },
+    {
+        "id": "app.error.commentsDownvote",
+        "description": "error message for downvoting a comment",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika downvoting komentar"
+    },
+    {
+        "id": "app.error.commentsPublish",
+        "description": "error message for publishing a comment",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penerbitan komentar"
+    },
+    {
+        "id": "app.error.commentsUpvote",
+        "description": "error message for upvoting a comment",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika upvoting komentar"
+    },
+    {
+        "id": "app.error.dashboardAdd",
+        "description": "error message for creating a new board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan forum baru"
+    },
+    {
+        "id": "app.error.dashboardAddColumn",
+        "description": "error message for adding a column to a board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan kolom baru"
+    },
+    {
+        "id": "app.error.dashboardDelete",
+        "description": "error message for deleting a board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penghapusan forum anda"
+    },
+    {
+        "id": "app.error.dashboardDeleteColumn",
+        "description": "error message for removing a column from a board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penghapusan kolom anda"
+    },
+    {
+        "id": "app.error.dashboardGetActive",
+        "description": "error message for fetching the active board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan forum yang aktif"
+    },
+    {
+        "id": "app.error.dashboardGetAll",
+        "description": "error message for fetching all boards",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan forum anda"
+    },
+    {
+        "id": "app.error.dashboardSetActive",
+        "description": "error message for setting the active board",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan forum aktif anda"
+    },
+    {
+        "id": "app.error.dashboardUpdateColumn",
+        "description": "error message for updating a column",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mengupdate kolom anda"
+    },
+    {
+        "id": "app.error.draftAutosave",
+        "description": "error message for autosaving a draft",
+        "defaultMessage": "Tidak bisa menyimpan perubahan terbaru dari konsep ini"
+    },
+    {
+        "id": "app.error.draftPublish",
+        "description": "error message for publishing a draft",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penerbitan konsep anda"
+    },
+    {
+        "id": "app.error.entriesGetAsDrafts",
+        "description": "error message for fetching your own entries",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mencoba mengambil entri anda. Hanya menampilkan konsep lokal"
+    },
+    {
+        "id": "app.error.entryClaim",
+        "description": "error message for collecting Essence for an entry",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mengumpulkan Intisari untuk {entryTitle}"
+    },
+    {
+        "id": "app.error.entryClaimVote",
+        "description": "error message for collecting Essence for a vote",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika pengumpulan Intisari untuk {entryTitle}"
+    },
+    {
+        "id": "app.error.entryDownvote",
+        "description": "error message for downvoting an entry",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika downvoting {entryTitle}"
+    },
+    {
+        "id": "app.error.entryGetFull",
+        "description": "error message for fetching a full entry",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan data entry"
+    },
+    {
+        "id": "app.error.entryListIterator",
+        "description": "error message for fetching entries in a list",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan entri dalam daftar"
+    },
+    {
+        "id": "app.error.entryUpvote",
+        "description": "error message for upvoting an entry",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika upvoting {entryTitle}"
+    },
+    {
+        "id": "app.error.errorNotificationTitle",
+        "description": "title for error notifcations",
+        "defaultMessage": "Kode salah {errorCode}"
+    },
+    {
+        "id": "app.error.fatalError",
+        "description": "title for fatal error modal",
+        "defaultMessage": "Kesalahan fatal"
+    },
+    {
+        "id": "app.error.generalSettings",
+        "description": "error message for fetching general settings",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pengaturan umum anda"
+    },
+    {
+        "id": "app.error.gethGetOptions",
+        "description": "error message for fetching geth options",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pilihan layanan geth"
+    },
+    {
+        "id": "app.error.gethGetStatus",
+        "description": "error message for fetching geth status",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan status servis geth"
+    },
+    {
+        "id": "app.error.gethGetSyncStatus",
+        "description": "error message for fetching geth synchronization status",
+        "defaultMessage": "Sebuah kesalan terjadi ketika mendapatkan sinkronisasi status"
+    },
+    {
+        "id": "app.error.gethSaveSettings",
+        "description": "error message for saving geth settings",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika penyimpanan setelan geth anda"
+    },
+    {
+        "id": "app.error.gethSettings",
+        "description": "error message for fetching geth settings",
+        "defaultMessage": "Sebuah kesalahan terjadi ketika mendapatkan pengaturan geth anda"
+    },
+    {
+        "id": "app.error.gethStart",
+        "description": "error message for starting geth service",
+        "defaultMessage": "Layanan geth tidak bisa dimulai"
+    },
+    {
+        "id": "app.error.gethStop",
+        "description": "error message for stopping geth service",
+        "defaultMessage": "Layanan geth tidak bisa dimulai"
+    },
+    {
+        "id": "app.error.ipfsGetConfig",
+        "description": "error message for fetching IPFS service configuration",
+        "defaultMessage": "Kesalahan terjadi ketika mendapatkan layanan konfigurasi IPFS"
+    },
+    {
+        "id": "app.error.ipfsGetPorts",
+        "description": "error message for fetching IPFS ports",
+        "defaultMessage": "Kesalahan terjadi saat mendapatkan layanan port IPFS"
+    },
+    {
+        "id": "app.error.ipfsSaveSettings",
+        "description": "error message for saving IPFS settings",
+        "defaultMessage": "Kesalahan terjadi saat penyimpanan pengaturan IPFS"
+    },
+    {
+        "id": "app.error.ipfsSetPorts",
+        "description": "ipfs set ports error message",
+        "defaultMessage": "Kesalahan terjadi saat pengaturan layanan port ipfs"
+    },
+    {
+        "id": "app.error.ipfsSettings",
+        "description": "error message for fetching IPFS settings",
+        "defaultMessage": "Kesalahan terjadi saat mendapatkan pengaturan IPFS"
+    },
+    {
+        "id": "app.error.ipfsStart",
+        "description": "error message for starting IPFS service",
+        "defaultMessage": "Layanan IPFS tidak bisa dimulai"
+    },
+    {
+        "id": "app.error.ipfsGetStatus",
+        "description": "error message for fetching IPFS service status",
+        "defaultMessage": "Kesalahan terjadi saat mendapatkan status layanan IPFS"
+    },
+    {
+        "id": "app.error.ipfsStop",
+        "description": "error message for stopping IPFS service",
+        "defaultMessage": "Layanan IPFS tidak bisa dihentikan"
+    },
+    {
+        "id": "app.error.unexpectedError",
+        "description": "a general error (with no error code)",
+        "defaultMessage": "Kesalahan yang tak terduga"
+    },
+    {
+        "id": "app.error.profileBondAeth",
+        "description": "error message for bonding (manafying) AETH",
+        "defaultMessage": "Kesalahan terjadi saat manafaying {amount} AETH"
+    },
+    {
+        "id": "app.error.profileCycleAeth",
+        "description": "error message for cycling AETH",
+        "defaultMessage": "Kesalahan terjadi saat peredaran {amount} AETH"
+    },
+    {
+        "id": "app.error.profileFreeAeth",
+        "description": "error message for freeing AETH that was cycled",
+        "defaultMessage": "Kesalahan terjadi saat mengumpulkan peredaran AETH Anda"
+    },
+    {
+        "id": "app.error.profileGetLocal",
+        "description": "error message for fetching local profiles",
+        "defaultMessage": "Kesalahan terjadi saat pengambilan profil lokal"
+    },
+    {
+        "id": "app.error.profileGetList",
+        "description": "error message for fetching a list of profiles",
+        "defaultMessage": "Kesalahan terjadi saat mendapatkan daftar profil"
+    },
+    {
+        "id": "app.error.profileToggleDonations",
+        "description": "error message for changing the settings for accepting tips",
+        "defaultMessage": "Kesalahan terjadi saat perubahan setelan tips"
+    },
+    {
+        "id": "app.error.profileTransferAeth",
+        "description": "error message for transferring AETH",
+        "defaultMessage": "Terjadi kesalahan ketika mentransfer {tokenAmount} AETH"
+    },
+    {
+        "id": "app.error.profileTransferEth",
+        "description": "error message for transferring ETH",
+        "defaultMessage": "Terjadi kesalahan saat mentransfer {value} ETH"
+    },
+    {
+        "id": "app.error.profileTransformEssence",
+        "description": "error message for transforming Essence in AETH",
+        "defaultMessage": "Sebuah kesalahan terjadi pada waktu mengubah {amount} Esensi"
+    },
+    {
+        "id": "app.error.profileUpdate",
+        "description": "error message for updating your profile",
+        "defaultMessage": "Terjadi kesalahan saat memperbarui profil kamu"
+    },
+    {
+        "id": "app.error.saveGeneralSettings",
+        "description": "error message for saving general settings",
+        "defaultMessage": "Terjadi sebuah kesalahan saat menyimpan pengaturan anda"
+    },
+    {
+        "id": "app.error.appErrorTitle",
+        "description": "Title message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Ah snap!"
+    },
+    {
+        "id": "app.error.appErrorSubtitle",
+        "description": "Subtitle message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Something went terribly wrong."
+    },
+    {
+        "id": "app.error.copyError",
+        "description": "label for copy to clipboard button",
+        "defaultMessage": "Copy error to clipboard"
+    },
+    {
+        "id": "app.error.profileFaucet",
+        "description": "error message for faucet request",
+        "defaultMessage": "An error occurred while requesting funds from faucet"
+    },
+    {
+        "id": "app.error.profileRegister",
+        "description": "error message for registering your profile",
+        "defaultMessage": "An error occured while registering your profile"
+    },
+    {
+        "id": "app.error.profileFollow",
+        "description": "error message for profile follow",
+        "defaultMessage": "An error occurred while following {ethAddress}"
+    },
+    {
+        "id": "app.error.profileUnfollow",
+        "description": "error message for profile unfollow",
+        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
+    }
+]
