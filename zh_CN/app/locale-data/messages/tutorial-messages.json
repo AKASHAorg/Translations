@@ -1,0 +1,42 @@
+[
+    {
+        "id": "app.tutorial.akashaTitle",
+        "description": "akasha slide title",
+        "defaultMessage": "自由的语言"
+    },
+    {
+        "id": "app.tutorial.akashaContent",
+        "description": "akasha slide content",
+        "defaultMessage": "通过AKASHA，您的想法和观念将伴随人类永存，\n                多亏了星际网络，设计才免于审查。信息\n                在网络中存在与传播，而不依赖于特定的实体，\n                甚至是我们。"
+    },
+    {
+        "id": "app.tutorial.ethereumTitle",
+        "description": "ethereum slide title",
+        "defaultMessage": "基于以太坊"
+    },
+    {
+        "id": "app.tutorial.ethereumContent",
+        "description": "ethereum slide content",
+        "defaultMessage": "以太坊允许我们构建一种新的应用程序以消除\n                盲从服务器管理者的必要性。由于其明晰的特性，我们\n                才有了强大的身份验证、身份识别、可核查、投票和\n                微交易等功能。"
+    },
+    {
+        "id": "app.tutorial.ipfsTitle",
+        "description": "ipfs slide title",
+        "defaultMessage": "由星际文件系统（IPFS）增强"
+    },
+    {
+        "id": "app.tutorial.ipfsContent",
+        "description": "ipfs slide content",
+        "defaultMessage": "通过星际文件系统（IPFS）我们还省去了\n                在服务器上分发和存储内容的需要。这使得用户能够绕过\n                传统的审查限制并赋予人们真正言论自由的权利。"
+    },
+    {
+        "id": "app.tutorial.webTitle",
+        "description": "web slide title",
+        "defaultMessage": "迈向一个更好的人性化服务网络"
+    },
+    {
+        "id": "app.tutorial.webContent",
+        "description": "web slide content",
+        "defaultMessage": "未来不是我们要去的地方，而是一个我们可以\n                创造的地方。我们应该拥有更好的网络，而且现在我们有了实现它的工具。\n                我们可以一起创造一个世界，在这个世界里言论自由是一种权利，\n                而不是一种功能。"
+    }
+]
