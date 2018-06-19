@@ -1,0 +1,277 @@
+[
+    {
+        "id": "app.profile.amountPlaceholder",
+        "description": "placeholder for amount input",
+        "defaultMessage": "Entrer un montant"
+    },
+    {
+        "id": "app.profile.avatarTitle",
+        "description": "Avatar section title",
+        "defaultMessage": "PHOTO DE PROFIL"
+    },
+    {
+        "id": "app.profile.backgroundImageTitle",
+        "description": "Background image section title",
+        "defaultMessage": "PHOTO DE COUVERTURE"
+    },
+    {
+        "id": "app.profile.aboutMeTitle",
+        "description": "About Me section title",
+        "defaultMessage": "About me"
+    },
+    {
+        "id": "app.profile.collectEssence",
+        "description": "collect essence from entries and votes (button label)",
+        "defaultMessage": "Collect Essence"
+    },
+    {
+        "id": "app.profile.contacts",
+        "description": "Contacts card title",
+        "defaultMessage": "Contacts"
+    },
+    {
+        "id": "app.profile.cycledAmountAvailable",
+        "description": "amount of cycled AETH available to be collected",
+        "defaultMessage": "Amount available {amount} AETH"
+    },
+    {
+        "id": "app.profile.cyclingComplete",
+        "description": "cycling process complete",
+        "defaultMessage": "Cycling complete"
+    },
+    {
+        "id": "app.profile.cyclingPlaceholder",
+        "description": "placeholder for empty cycling AETH table",
+        "defaultMessage": "No Cycling AETH pending"
+    },
+    {
+        "id": "app.profile.cyclingProcess",
+        "description": "cycling process in progress",
+        "defaultMessage": "Cycling process"
+    },
+    {
+        "id": "app.profile.editProfileTitle",
+        "description": "Edit profile page title",
+        "defaultMessage": "Edit Profile Information"
+    },
+    {
+        "id": "app.profile.shortDescriptionLabel",
+        "description": "Label for Short description text field",
+        "defaultMessage": "Type something about you"
+    },
+    {
+        "id": "app.profile.karmaLevel",
+        "description": "Karma level",
+        "defaultMessage": "Karma lvl. {karmaLevel}"
+    },
+    {
+        "id": "app.profile.linksTitle",
+        "description": "Links section title",
+        "defaultMessage": "LINKS"
+    },
+    {
+        "id": "app.profile.addLinkButtontitle",
+        "description": "title for add link button",
+        "defaultMessage": "Add a new link"
+    },
+    {
+        "id": "app.profile.removeLinkButtonTitle",
+        "description": "tooltip for Remove Link button",
+        "defaultMessage": "remove link"
+    },
+    {
+        "id": "app.profile.cryptoAddresses",
+        "description": "crypto addresses section title",
+        "defaultMessage": "Other crypto addresses"
+    },
+    {
+        "id": "app.profile.addCryptoAddress",
+        "description": "add crypto address button label",
+        "defaultMessage": "Add cryptocurrency address"
+    },
+    {
+        "id": "app.profile.cryptoName",
+        "description": "crypto name label",
+        "defaultMessage": "Cryptocurrency name"
+    },
+    {
+        "id": "app.profile.cryptoAddress",
+        "description": "crypto address label",
+        "defaultMessage": "Cryptocurrency address"
+    },
+    {
+        "id": "app.profile.registerProfile",
+        "description": "register profile button label",
+        "defaultMessage": "Register Profile"
+    },
+    {
+        "id": "app.profile.removeCryptoButtonTitle",
+        "description": "remove crypto button label",
+        "defaultMessage": "Remove cryptocurrency link"
+    },
+    {
+        "id": "app.profile.entries",
+        "description": "Title for entries column",
+        "defaultMessage": "Entrées"
+    },
+    {
+        "id": "app.profile.follow",
+        "description": "follow a profile",
+        "defaultMessage": "S'abonner"
+    },
+    {
+        "id": "app.profile.updateProfile",
+        "description": "update a profile",
+        "defaultMessage": "Update Profile"
+    },
+    {
+        "id": "app.profile.followers",
+        "description": "Label for followers tab",
+        "defaultMessage": "Followers"
+    },
+    {
+        "id": "app.profile.followersCount",
+        "description": "number of followers",
+        "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
+    },
+    {
+        "id": "app.profile.following",
+        "description": "following an user",
+        "defaultMessage": "Following"
+    },
+    {
+        "id": "app.profile.followings",
+        "description": "Label for followings card",
+        "defaultMessage": "Followings"
+    },
+    {
+        "id": "app.profile.followingsCount",
+        "description": "number of followings",
+        "defaultMessage": "{followings, number} {followings, plural, one {following} other {followings}}"
+    },
+    {
+        "id": "app.profile.highlights",
+        "description": "title for highlights card",
+        "defaultMessage": "Highlights"
+    },
+    {
+        "id": "app.profile.lists",
+        "description": "Title for lists card",
+        "defaultMessage": "Lists"
+    },
+    {
+        "id": "app.profile.myBalance",
+        "description": "Title for my balance card",
+        "defaultMessage": "My balance"
+    },
+    {
+        "id": "app.profile.myEntries",
+        "description": "Title for my entries",
+        "defaultMessage": "My entries"
+    },
+    {
+        "id": "app.profile.myProfile",
+        "description": "Title for profile overview sidebar",
+        "defaultMessage": "My profile"
+    },
+    {
+        "id": "app.entry.noProfiles",
+        "description": "placeholder for empty profiles list",
+        "defaultMessage": "No profiles"
+    },
+    {
+        "id": "app.profile.overview",
+        "description": "Title for overview card",
+        "defaultMessage": "Overview"
+    },
+    {
+        "id": "app.profile.profileDoesntExist",
+        "description": "placeholder message for entry list when username does not exist",
+        "defaultMessage": "This username doesn't exist"
+    },
+    {
+        "id": "app.profile.settings",
+        "description": "Title for profile settings",
+        "defaultMessage": "Paramètres"
+    },
+    {
+        "id": "app.profile.receive",
+        "description": "Receive button label",
+        "defaultMessage": "Receive"
+    },
+    {
+        "id": "app.profile.receiverPlaceholder",
+        "description": "Placeholder for receiver input",
+        "defaultMessage": "Type a username or paste an ethereum address"
+    },
+    {
+        "id": "app.profile.rewardsAndGoals",
+        "description": "Title for rewards and goals card",
+        "defaultMessage": "Rewards and goals"
+    },
+    {
+        "id": "app.profile.saveForLater",
+        "description": "Save for later button label",
+        "defaultMessage": "Save for later"
+    },
+    {
+        "id": "app.profile.send",
+        "description": "send button label",
+        "defaultMessage": "Envoyer"
+    },
+    {
+        "id": "app.profile.sendTip",
+        "description": "tooltip for send tip button",
+        "defaultMessage": "Faire un don"
+    },
+    {
+        "id": "app.profile.sendingTip",
+        "description": "tooltip for send tip button when waiting for transaction",
+        "defaultMessage": "Sending tip ..."
+    },
+    {
+        "id": "app.profile.sendTipTo",
+        "description": "title for send tip form",
+        "defaultMessage": "Send tip to {name}"
+    },
+    {
+        "id": "app.profile.sendTo",
+        "description": "label for receiver input",
+        "defaultMessage": "Send to"
+    },
+    {
+        "id": "app.profile.support",
+        "description": "support/tip a user",
+        "defaultMessage": "Support"
+    },
+    {
+        "id": "app.profile.supported",
+        "description": "supported by someone",
+        "defaultMessage": "Supported"
+    },
+    {
+        "id": "app.profile.supporting",
+        "description": "supporting someone",
+        "defaultMessage": "Supporting"
+    },
+    {
+        "id": "app.profile.tipAmount",
+        "description": "placeholder for tip amount input",
+        "defaultMessage": "Tip amount"
+    },
+    {
+        "id": "app.profile.totalBalance",
+        "description": "total ETH balance",
+        "defaultMessage": "Total balance"
+    },
+    {
+        "id": "app.profile.unfollow",
+        "description": "unfollow a profile",
+        "defaultMessage": "Se désabonner"
+    },
+    {
+        "id": "app.profile.yourEthAddress",
+        "description": "label for ethereum address input",
+        "defaultMessage": "Your ethereum address"
+    }
+]
