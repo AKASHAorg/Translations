@@ -232,7 +232,7 @@
     {
         "id": "app.dashboard.previewComments",
         "description": "label for user comments column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "Pratinjau untuk {displayname}"
     },
     {
         "id": "app.dashboard.addNewCommentsColumn",
@@ -242,6 +242,6 @@
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
         "description": "panel subtitle for adding a new comments column",
-        "defaultMessage": "Silakan pilih pengguna"
+        "defaultMessage": "Silahkan pilih pengguna"
     }
 ]
