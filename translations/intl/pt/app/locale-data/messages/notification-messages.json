@@ -2,62 +2,62 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "Você colocou em seu campo de mana {amount} AETH com sucesso"
+        "defaultMessage": "You successfully manafied {amount} AETH"
     },
     {
         "id": "app.notification.cycleAethSuccess",
         "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
-        "defaultMessage": "Você pois em circulação {amount} AETH com sucesso"
+        "defaultMessage": "You successfully cycled {amount} AETH"
     },
     {
         "id": "app.notification.freeAethSuccess",
         "description": "notification to be displayed when collecting cycled AETH transaction was mined",
-        "defaultMessage": "Você coletou seu AETH em circulação com sucesso"
+        "defaultMessage": "You successfully collected your cycled AETH"
     },
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "Os pontos principais foram salvos!"
+        "defaultMessage": "The highlight has been saved!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Você quer digitar uma nota?"
+        "defaultMessage": "Do you want to type a note?"
     },
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Seu perfil está sendo atualizado..."
+        "defaultMessage": "Your profile is updating ..."
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Seu perfil foi atualizado com sucesso"
+        "defaultMessage": "Your profile was successfully updated"
     },
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Seguindo {displayName} ..."
+        "defaultMessage": "Following {displayName} ..."
     },
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "Você agora está seguindo {displayName}"
+        "defaultMessage": "You are now following {displayName}"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
         "description": "notification to be displayed when transform Essence transaction was mined",
-        "defaultMessage": "Você transformou {amount} Essências com sucesso"
+        "defaultMessage": "You successfully transformed {amount} Essence"
     },
     {
         "id": "app.notification.unfollowingProfile",
         "description": "Notification to be displayed when unfollow transaction is sent",
-        "defaultMessage": "Deixando de seguir {displayName} ..."
+        "defaultMessage": "Unfollowing {displayName} ..."
     },
     {
-        "id": "app.notification.unfollowProfileSuccess\n \nContext | Request Context",
+        "id": "app.notification.unfollowProfileSuccess",
         "description": "Notification to be displayed when unfollow transaction was mined",
-        "defaultMessage": "Você não está mais seguindo {displayName}"
+        "defaultMessage": "You are not following {displayName} anymore"
     },
     {
         "id": "app.notification.notEnoughEthers",
@@ -77,17 +77,17 @@
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "Seu comentário foi publicado com sucesso"
+        "defaultMessage": "You successfully published a comment"
     },
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publicando\"{title}\"."
+        "defaultMessage": "Publishing \"{title}\"."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Atualizando \"{title}\"."
+        "defaultMessage": "Updating \"{title}\"."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
