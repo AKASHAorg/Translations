@@ -2,27 +2,27 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Relatório de erro"
+        "defaultMessage": "Report error"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Obrigado pelo seu feedback!"
+        "defaultMessage": "Thank you for your feedback!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Por favor, copia as linhas abaixo e crie um novo issue em {githubLink}."
+        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Verifique também se já não existem issues abertos relacionados a este erro!"
+        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Erro ao tentar gerar o backup. Tente novamente"
+        "defaultMessage": "Generating backup has failed. Try again"
     },
     {
         "id": "app.error.commentsDownvote",
@@ -32,7 +32,7 @@
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "Um erro ocorreu ao tentar publicar um comentário"
+        "defaultMessage": "An error occured while publishing a comment"
     },
     {
         "id": "app.error.commentsUpvote",
@@ -47,7 +47,7 @@
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "Um erro ocorreu ao tentar salvar a nova coluna"
+        "defaultMessage": "An error occurred while saving the new column"
     },
     {
         "id": "app.error.dashboardDelete",
@@ -57,7 +57,7 @@
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "Um erro ocorreu ao tentar deletar sua coluna"
+        "defaultMessage": "An error occurred while deleting your column"
     },
     {
         "id": "app.error.dashboardGetActive",
@@ -77,7 +77,7 @@
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "Um erro ocorreu ao tentar atualizar sua coluna"
+        "defaultMessage": "An error occurred while updating your column"
     },
     {
         "id": "app.error.draftAutosave",
@@ -87,7 +87,7 @@
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "Um erro ocorreu ao tentar publicar seu rascunho"
+        "defaultMessage": "An error occured while publishing your draft"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
@@ -127,17 +127,17 @@
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Código do errro {errorCode}"
+        "defaultMessage": "Error code {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Erro fatal"
+        "defaultMessage": "Fatal error"
     },
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar suas preferências gerais"
+        "defaultMessage": "An error occurred while getting your general settings"
     },
     {
         "id": "app.error.gethGetOptions",
@@ -152,22 +152,22 @@
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar o status da sincronização"
+        "defaultMessage": "An error occurred while getting synchronization status"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "Um erro ocorreu ao tentar salvar suas configurações do Geth"
+        "defaultMessage": "An error occurred while saving your geth settings"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar suas configurações do Geth"
+        "defaultMessage": "An error occurred while getting your geth settings"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "O serviço Geth não pôde ser iniciado"
+        "defaultMessage": "Geth service could not be started"
     },
     {
         "id": "app.error.gethStop",
@@ -177,17 +177,17 @@
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar as configurações do serviço IPFS"
+        "defaultMessage": "An error occurred while getting IPFS service config"
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "Um erro ocorreu ao tentar carrregar as portas do serviço IPFS"
+        "defaultMessage": "An error occurred while getting IPFS service ports"
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "Um erro ocorreu ao tentar salvar suas configurações do IPFS"
+        "defaultMessage": "An error occurred while saving your IPFS settings"
     },
     {
         "id": "app.error.ipfsSetPorts",
@@ -197,17 +197,17 @@
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar suas configurações de IPFS"
+        "defaultMessage": "An error occurred while getting your IPFS settings"
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "Serviço IPFS não pôde ser inicializado"
+        "defaultMessage": "IPFS service could not be started"
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar o status do serviço IPFS"
+        "defaultMessage": "An error occurred while getting IPFS service status"
     },
     {
         "id": "app.error.ipfsStop",
@@ -217,7 +217,7 @@
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Erro inesperado"
+        "defaultMessage": "Unexpected error"
     },
     {
         "id": "app.error.profileBondAeth",
@@ -242,12 +242,12 @@
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "Um erro ocorreu ao tentar carregar a lista de perfis"
+        "defaultMessage": "An error occured while getting the list of profiles"
     },
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "Um erro ocorreu ao tentar alterar suas configurações de gorjetas"
+        "defaultMessage": "An error occured while changing your tips settings"
     },
     {
         "id": "app.error.profileTransferAeth",
