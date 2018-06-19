@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app settings"
+        "defaultMessage": "Customize your app preferences"
     },
     {
         "id": "app.settings.english",
@@ -100,9 +100,14 @@
         "defaultMessage": "チップのオプションを選択する"
     },
     {
+        "id": "app.settings.tipsDisabled",
+        "description": "tooltip info for profile tips options when it is disabled",
+        "defaultMessage": "You need to register your profile before changing this option"
+    },
+    {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips Options"
+        "defaultMessage": "Tips options"
     },
     {
         "id": "app.settings.tipsInfo",
@@ -122,11 +127,116 @@
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App settings"
+        "defaultMessage": "App preferences"
     },
     {
         "id": "app.settings.update",
         "description": "description for update buton",
         "defaultMessage": "アップデート設定"
+    },
+    {
+        "id": "app.settings.notificationsPreference",
+        "description": "title for notification settings",
+        "defaultMessage": "Notifications Settings"
+    },
+    {
+        "id": "app.settings.tips",
+        "description": "Title for tips",
+        "defaultMessage": "Tips"
+    },
+    {
+        "id": "app.settings.votes",
+        "description": "Title for votes",
+        "defaultMessage": "Votes"
+    },
+    {
+        "id": "app.settings.notificationsInfo",
+        "description": "description for notification preferences",
+        "defaultMessage": "Your notification preferences for Akasha"
+    },
+    {
+        "id": "app.settings.trustedDomainsOptions",
+        "description": "Title for trusted domains user settings",
+        "defaultMessage": "Trusted Domains"
+    },
+    {
+        "id": "app.settings.trustedDomainsManage",
+        "description": "manage trusted domains",
+        "defaultMessage": "Manage your trusted domains here"
+    },
+    {
+        "id": "app.settings.trustedDomainsOptionsDescription",
+        "description": "description for trusted domains user settings",
+        "defaultMessage": "External links to which you can navigate without being prompted"
+    },
+    {
+        "id": "app.settings.arabic",
+        "description": "arabic language",
+        "defaultMessage": "Arabic"
+    },
+    {
+        "id": "app.settings.chineseSimplified",
+        "description": "chinese simplified language",
+        "defaultMessage": "Chinese (Simplified)"
+    },
+    {
+        "id": "app.settings.filipino",
+        "description": "filipino language",
+        "defaultMessage": "Filipino"
+    },
+    {
+        "id": "app.settings.finnish",
+        "description": "Finnish language",
+        "defaultMessage": "Finnish"
+    },
+    {
+        "id": "app.settings.french",
+        "description": "french language",
+        "defaultMessage": "French"
+    },
+    {
+        "id": "app.settings.german",
+        "description": "german language",
+        "defaultMessage": "German"
+    },
+    {
+        "id": "app.settings.indonesian",
+        "description": "indonesian language",
+        "defaultMessage": "Indonesian"
+    },
+    {
+        "id": "app.settings.italian",
+        "description": "italian language",
+        "defaultMessage": "Italian"
+    },
+    {
+        "id": "app.settings.japanese",
+        "description": "japanese language",
+        "defaultMessage": "Japanese"
+    },
+    {
+        "id": "app.settings.korean",
+        "description": "korean language",
+        "defaultMessage": "Korean"
+    },
+    {
+        "id": "app.settings.portuguese",
+        "description": "portuguese language",
+        "defaultMessage": "Portuguese"
+    },
+    {
+        "id": "app.settings.portugueseBrazilian",
+        "description": "portuguese brazilian language",
+        "defaultMessage": "Portuguese, Brazilian"
+    },
+    {
+        "id": "app.settings.turkish",
+        "description": "turkish language",
+        "defaultMessage": "Turkish"
+    },
+    {
+        "id": "app.settings.ukrainian",
+        "description": "ukrainian language",
+        "defaultMessage": "Ukrainian"
     }
 ]
