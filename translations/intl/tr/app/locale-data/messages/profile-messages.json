@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Takibi Bırak"
+        "defaultMessage": "Takibi bırak"
     },
     {
         "id": "app.profile.yourEthAddress",
@@ -327,6 +327,6 @@
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Yorumlar"
     }
 ]
