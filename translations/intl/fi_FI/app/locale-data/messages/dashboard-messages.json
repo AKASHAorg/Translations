@@ -1,0 +1,247 @@
+[
+    {
+        "id": "app.dashboard.addColumn",
+        "description": "button label for adding a column to the board",
+        "defaultMessage": "Lisää sarake"
+    },
+    {
+        "id": "app.dashboard.addNewColumn",
+        "description": "panel title for adding a new column",
+        "defaultMessage": "Lisää sarake"
+    },
+    {
+        "id": "app.dashboard.addNewColumnSubtitle",
+        "description": "panel subtitle for adding a new column",
+        "defaultMessage": "Valitse sarakkeen malli"
+    },
+    {
+        "id": "app.dashboard.addNewListColumn",
+        "description": "panel title for adding a new list column",
+        "defaultMessage": "Luettelo sarake"
+    },
+    {
+        "id": "app.dashboard.addNewListColumnSubtitle",
+        "description": "panel subtitle for adding a new list column",
+        "defaultMessage": "Valitse lista"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumn",
+        "description": "panel title for adding a new user column",
+        "defaultMessage": "Käyttäjä sarake"
+    },
+    {
+        "id": "app.dashboard.addNewProfileColumnSubtitle",
+        "description": "panel subtitle for adding a new user column",
+        "defaultMessage": "Valitse käyttäjä"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumn",
+        "description": "panel title for adding a new tag column",
+        "defaultMessage": "Merkitse sarake"
+    },
+    {
+        "id": "app.dashboard.addNewTagColumnSubtitle",
+        "description": "panel subtitle for adding a new tag column",
+        "defaultMessage": "Valitse tagi"
+    },
+    {
+        "id": "app.dashboard.addToBoard",
+        "description": "button label for adding a tag/profile column to a board",
+        "defaultMessage": "Lisää seinälle"
+    },
+    {
+        "id": "app.list.addToNewDashboard",
+        "description": "popover title for creating a new dashboard",
+        "defaultMessage": "Luo uusi seinä"
+    },
+    {
+        "id": "app.dashboard.collection",
+        "description": "label for collection column",
+        "defaultMessage": "Kokoelma"
+    },
+    {
+        "id": "app.dashboard.columnStream",
+        "description": "column title for \"following feed\" (entries published by the users that you are following)",
+        "defaultMessage": "Seurattava virta"
+    },
+    {
+        "id": "app.dashboard.createDashboardFirst",
+        "description": "Tooltip message for add column button when there is no board created",
+        "defaultMessage": "Sinun on luotava uusi seinä ensin"
+    },
+    {
+        "id": "app.dashboard.createOneNow",
+        "description": "button label for creating a new board",
+        "defaultMessage": "Luo uusi nyt"
+    },
+    {
+        "id": "app.dashboard.createNew",
+        "description": "button label/tooltip for creating a new board",
+        "defaultMessage": "Luo uusi seinä"
+    },
+    {
+        "id": "app.dashboard.dashboardName",
+        "description": "input label for board name field",
+        "defaultMessage": "Seinän nimi"
+    },
+    {
+        "id": "app.list.dashboardNameRequired",
+        "description": "required error message for board name input field",
+        "defaultMessage": "Nimi seinälle vaaditaan"
+    },
+    {
+        "id": "app.dashboard.dashboardNameUnique",
+        "description": "unique name error message for board name input field",
+        "defaultMessage": "Seinä on jo olemassa"
+    },
+    {
+        "id": "app.dashboard.deleteColumnConfirmation",
+        "description": "confirmation message for deleting a column",
+        "defaultMessage": "Oletko varma että haluat poistaa sarakkeen?"
+    },
+    {
+        "id": "app.dashboard.deleteDashboardConfirmation",
+        "description": "confirmation message for deleting a board",
+        "defaultMessage": "Oletko varma ettö haluat poistaa {name}?"
+    },
+    {
+        "id": "app.dashboard.firstDashboard",
+        "description": "the name for the first board",
+        "defaultMessage": "Minun seinä"
+    },
+    {
+        "id": "app.dashboard.large",
+        "description": "large column width",
+        "defaultMessage": "Iso"
+    },
+    {
+        "id": "app.dashboard.latest",
+        "description": "column title for \"latest entries\" (newest entries published on Akasha)",
+        "defaultMessage": "Uusimmat merkinnät"
+    },
+    {
+        "id": "app.dashboard.list",
+        "description": "label for list column",
+        "defaultMessage": "Lista"
+    },
+    {
+        "id": "app.dashboard.listDeleted",
+        "description": "message displayed when the list used in a list column was deleted",
+        "defaultMessage": "Tämä lista on poistettu. Poistathan tämän sarakkeen"
+    },
+    {
+        "id": "app.dashboard.myBoards",
+        "description": "header for boards page secondary sidebar",
+        "defaultMessage": "Minun seinäni"
+    },
+    {
+        "id": "app.dashboard.namePlaceholder",
+        "description": "placeholder for dashboard name input field",
+        "defaultMessage": "Kirjoita seinän nimi"
+    },
+    {
+        "id": "app.dashboard.noDashboard",
+        "description": "placeholder message displayed when no boards were found",
+        "defaultMessage": "Seinää ei löytynyt"
+    },
+    {
+        "id": "app.dashboard.previewList",
+        "description": "label for list column preview",
+        "defaultMessage": "Esikatsele {listName}"
+    },
+    {
+        "id": "app.dashboard.previewProfile",
+        "description": "label for user column preview",
+        "defaultMessage": "Esikatsele {displayName}"
+    },
+    {
+        "id": "app.dashboard.previewTag",
+        "description": "label for tag column preview",
+        "defaultMessage": "Esikatsele #{tagName}"
+    },
+    {
+        "id": "app.dashboard.profile",
+        "description": "label for user column",
+        "defaultMessage": "Käyttäjä"
+    },
+    {
+        "id": "app.dashboard.searchForBoard",
+        "description": "placeholder for board search input field",
+        "defaultMessage": "Etsi seinää..."
+    },
+    {
+        "id": "app.dashboard.small",
+        "description": "small column width",
+        "defaultMessage": "Pieni"
+    },
+    {
+        "id": "app.dashboard.stream",
+        "description": "label for following feed column",
+        "defaultMessage": "Seurattava virta"
+    },
+    {
+        "id": "app.dashboard.tag",
+        "description": "label for tag column",
+        "defaultMessage": "Tagi"
+    },
+    {
+        "id": "app.dashboard.noColumnsTitle",
+        "description": "Column placeholder title",
+        "defaultMessage": "A new world awaits you!"
+    },
+    {
+        "id": "app.dashboard.noColumns",
+        "description": "Column placeholder message",
+        "defaultMessage": "Your favorite topics and users at your fingertips."
+    },
+    {
+        "id": "app.dashboard.addFirstColumn",
+        "description": "add first column button label",
+        "defaultMessage": "Add first column"
+    },
+    {
+        "id": "app.dashboard.createNewListColumnSubtitle",
+        "description": "panel subtitle for creating a new list and adding it to a column",
+        "defaultMessage": "Please create a list"
+    },
+    {
+        "id": "app.dashboard.akashaBoard",
+        "description": "label for dashboard top bar popover",
+        "defaultMessage": "Akasha Board"
+    },
+    {
+        "id": "app.dashboard.newBoard",
+        "description": "label for dashboard popover new board button",
+        "defaultMessage": "New board"
+    },
+    {
+        "id": "app.dashboard.createNewSubtitle",
+        "description": "subtitle for creating a new board modal",
+        "defaultMessage": "Please insert the name of your board"
+    },
+    {
+        "id": "app.dashboard.modalInputPlaceholder",
+        "description": "placeholder for new dashboard modal input",
+        "defaultMessage": "Type the name of your board here"
+    },
+    {
+        "id": "app.dashboard.comments",
+        "description": "label for user comments column",
+        "defaultMessage": "User comments"
+    },
+    {
+        "id": "app.dashboard.previewComments",
+        "description": "label for user comments column preview",
+        "defaultMessage": "Esikatsele {displayName}"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumn",
+        "description": "panel title for adding a new comments column",
+        "defaultMessage": "User comments column"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumnSubtitle",
+        "description": "panel subtitle for adding a new comments column",
+        "defaultMessage": "Valitse käyttäjä"
+    }
+]
