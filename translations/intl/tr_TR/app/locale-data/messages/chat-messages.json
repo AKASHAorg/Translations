@@ -1,0 +1,52 @@
+[
+    {
+        "id": "app.chat.joinedChannels",
+        "description": "header for joined channels list",
+        "defaultMessage": "Yıldızlı kanallar"
+    },
+    {
+        "id": "app.chat.recentChannels",
+        "description": "header for recent channels list",
+        "defaultMessage": "Son kanallar"
+    },
+    {
+        "id": "app.chat.joinChannel",
+        "description": "title for join channel dialog",
+        "defaultMessage": "Kanala katıl"
+    },
+    {
+        "id": "app.chat.channelName",
+        "description": "label for channel input field",
+        "defaultMessage": "Kanal ismi"
+    },
+    {
+        "id": "app.chat.inputPlaceholder",
+        "description": "placeholder for chat input",
+        "defaultMessage": "Güzel şeyler yazın ve göndermek için \"Enter\" tuşuna basın"
+    },
+    {
+        "id": "app.chat.emptyChannelInputError",
+        "description": "error message displayed when the channel input field is empty",
+        "defaultMessage": "Kanal adı boş olmamalı"
+    },
+    {
+        "id": "app.chat.startWithAlphanumericError",
+        "description": "error message displayed when the channel name does not begin with alphanumeric character",
+        "defaultMessage": "Kanal adı küçük harfli alfanümerik karakterle başlamalıdır"
+    },
+    {
+        "id": "app.chat.illegalCharactersFormat",
+        "description": "error message displayed when the channel name does not respect the requested format",
+        "defaultMessage": "Yalnızca küçük harfli alfanümerik karakterler, kesik çizgiler (-) ve alt çizgiler (_) kullanılabilir"
+    },
+    {
+        "id": "app.chat.channelTooLongError",
+        "description": "error message displayed when the channel name is too long",
+        "defaultMessage": "Kanal adı 32 karakterden fazla olmamalıdır"
+    },
+    {
+        "id": "app.chat.channelDisclaimer",
+        "description": "disclaimer for custom chat channels",
+        "defaultMessage": "Bu kanal geçicidir, mesajlar yayınlar yayınlandıktan sonra 24 saat içinde kaybolur"
+    }
+]
