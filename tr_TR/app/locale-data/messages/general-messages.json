@@ -1,0 +1,912 @@
+[
+    {
+        "id": "app.general.abort",
+        "description": "abort/cancel button label",
+        "defaultMessage": "Iptal et"
+    },
+    {
+        "id": "app.general.action",
+        "description": "action",
+        "defaultMessage": "Eylem"
+    },
+    {
+        "id": "app.general.aComment",
+        "description": "a random comment",
+        "defaultMessage": "bir yorum"
+    },
+    {
+        "id": "app.general.add",
+        "description": "add",
+        "defaultMessage": "Ekle"
+    },
+    {
+        "id": "app.general.addImage",
+        "description": "placeholder for image uploader component",
+        "defaultMessage": "Bir resim eklemek için sürükle ve bırak."
+    },
+    {
+        "id": "app.general.addImageDragged",
+        "description": "message to show when user is dragging an image over",
+        "defaultMessage": "Harika! Sadece buraya bırakın!"
+    },
+    {
+        "id": "app.general.addNewEntry",
+        "description": "tooltip for sidebar add entry button",
+        "defaultMessage": "Yeni girdi ekle"
+    },
+    {
+        "id": "app.general.addTo",
+        "description": "add to",
+        "defaultMessage": "Add To"
+    },
+    {
+        "id": "app.general.aeth",
+        "description": "aeth token",
+        "defaultMessage": "AETH"
+    },
+    {
+        "id": "app.general.akasha",
+        "description": "AKASHA",
+        "defaultMessage": "AKASHA"
+    },
+    {
+        "id": "app.general.amount",
+        "description": "currency amount",
+        "defaultMessage": "Amount"
+    },
+    {
+        "id": "app.general.anEntry",
+        "description": "a random entry",
+        "defaultMessage": "an entry"
+    },
+    {
+        "id": "app.general.anEntryVote",
+        "description": "an entry vote",
+        "defaultMessage": "an entry vote"
+    },
+    {
+        "id": "app.general.appPreferences",
+        "description": "application settings/preferences",
+        "defaultMessage": "App preferences"
+    },
+    {
+        "id": "app.general.back",
+        "description": "navigate back",
+        "defaultMessage": "Back"
+    },
+    {
+        "id": "app.general.block",
+        "description": "block number",
+        "defaultMessage": "Block"
+    },
+    {
+        "id": "app.general.cancel",
+        "description": "cancel button label",
+        "defaultMessage": "Cancel"
+    },
+    {
+        "id": "app.general.chat",
+        "description": "tooltip for sidebar chat button",
+        "defaultMessage": "Chat"
+    },
+    {
+        "id": "app.general.chooseImage",
+        "description": "tooltip to show when user hovers image uploader component and no image selected",
+        "defaultMessage": "Choose an image"
+    },
+    {
+        "id": "app.general.chooseAnotherImage",
+        "description": "tooltip to show when user hovers image uploader and an image is already selected",
+        "defaultMessage": "Choose another image"
+    },
+    {
+        "id": "app.general.close",
+        "description": "close",
+        "defaultMessage": "Close"
+    },
+    {
+        "id": "app.general.collect",
+        "description": "collect",
+        "defaultMessage": "Topla"
+    },
+    {
+        "id": "app.general.collected",
+        "description": "collected",
+        "defaultMessage": "Collected"
+    },
+    {
+        "id": "app.general.comments",
+        "description": "entry comments",
+        "defaultMessage": "Comments"
+    },
+    {
+        "id": "app.general.confirm",
+        "description": "confirm button label",
+        "defaultMessage": "Confirm"
+    },
+    {
+        "id": "app.general.confirmedAtBlock",
+        "description": "transaction/action confirmed at block number x",
+        "defaultMessage": "Confirmed at block #{blockNr}"
+    },
+    {
+        "id": "app.general.copy",
+        "description": "copy",
+        "defaultMessage": "Copy"
+    },
+    {
+        "id": "app.general.counter",
+        "description": "counter",
+        "defaultMessage": "Counter"
+    },
+    {
+        "id": "app.general.create",
+        "description": "Create button label",
+        "defaultMessage": "Create"
+    },
+    {
+        "id": "app.general.created",
+        "description": "created",
+        "defaultMessage": "Created"
+    },
+    {
+        "id": "app.general.cycling",
+        "description": "AETH cycling state",
+        "defaultMessage": "Cycling"
+    },
+    {
+        "id": "app.general.delete",
+        "description": "Delete something button label",
+        "defaultMessage": "Delete"
+    },
+    {
+        "id": "app.general.done",
+        "description": "",
+        "defaultMessage": "Done"
+    },
+    {
+        "id": "app.general.downloading",
+        "description": "downloading geth/IPFS service",
+        "defaultMessage": "Downloading"
+    },
+    {
+        "id": "app.general.edit",
+        "description": "Edit button label",
+        "defaultMessage": "Edit"
+    },
+    {
+        "id": "app.general.editProfile",
+        "description": "Edit profile button label",
+        "defaultMessage": "Edit profile"
+    },
+    {
+        "id": "app.general.entries",
+        "description": "entries",
+        "defaultMessage": "Girdiler"
+    },
+    {
+        "id": "app.general.essence",
+        "description": "essence",
+        "defaultMessage": "Essence"
+    },
+    {
+        "id": "app.general.essenceTotal",
+        "description": "popover title",
+        "defaultMessage": "Total Essence"
+    },
+    {
+        "id": "app.general.essenceTotalScore",
+        "description": "essence total score",
+        "defaultMessage": "Essence total score"
+    },
+    {
+        "id": "app.general.eth",
+        "description": "ether symbol",
+        "defaultMessage": "ETH"
+    },
+    {
+        "id": "app.general.ethereumAddress",
+        "description": "Placeholder for ethereum address field.",
+        "defaultMessage": "Ethereum adresi"
+    },
+    {
+        "id": "app.general.failedAtBlock",
+        "description": "transaction/action failed at block number x",
+        "defaultMessage": "Failed at block #{blockNr}"
+    },
+    {
+        "id": "app.general.forged",
+        "description": "new AETH created from Essence",
+        "defaultMessage": "Forged"
+    },
+    {
+        "id": "app.general.forward",
+        "description": "forward",
+        "defaultMessage": "Forward"
+    },
+    {
+        "id": "app.general.generatingPreview",
+        "description": "placeholder to show while an image preview is being generated",
+        "defaultMessage": "Generating preview"
+    },
+    {
+        "id": "app.general.gethServiceOff",
+        "description": "geth service is stopped",
+        "defaultMessage": "Geth service OFF"
+    },
+    {
+        "id": "app.general.gethServiceOn",
+        "description": "geth service is started",
+        "defaultMessage": "Geth service ON"
+    },
+    {
+        "id": "app.general.help",
+        "description": "Help button label",
+        "defaultMessage": "Help"
+    },
+    {
+        "id": "app.general.history",
+        "description": "transactions history",
+        "defaultMessage": "History"
+    },
+    {
+        "id": "app.general.hoursCount",
+        "description": "hours count",
+        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+    },
+    {
+        "id": "app.general.ipfsServiceOff",
+        "description": "IPFS service is stopped",
+        "defaultMessage": "IPFS service OFF"
+    },
+    {
+        "id": "app.general.ipfsServiceOn",
+        "description": "IPFS service is started",
+        "defaultMessage": "IPFS service ON"
+    },
+    {
+        "id": "app.general.join",
+        "description": "join button label",
+        "defaultMessage": "Join"
+    },
+    {
+        "id": "app.general.karma",
+        "description": "karma",
+        "defaultMessage": "Karma"
+    },
+    {
+        "id": "app.general.karmaTotalScore",
+        "description": "karma total score",
+        "defaultMessage": "Karma total score"
+    },
+    {
+        "id": "app.general.learnMore",
+        "description": "",
+        "defaultMessage": "Learn More"
+    },
+    {
+        "id": "app.general.leave",
+        "description": "leave button label",
+        "defaultMessage": "Leave"
+    },
+    {
+        "id": "app.general.logs",
+        "description": "Services (geth/IPFS) logs",
+        "defaultMessage": "Logs"
+    },
+    {
+        "id": "app.general.logout",
+        "description": "Logout button label",
+        "defaultMessage": "Logout"
+    },
+    {
+        "id": "app.general.mana",
+        "description": "mana",
+        "defaultMessage": "Mana"
+    },
+    {
+        "id": "app.general.manaBurned",
+        "description": "mana burned",
+        "defaultMessage": "Total Mana burned"
+    },
+    {
+        "id": "app.general.manaPool",
+        "description": "mana pool",
+        "defaultMessage": "Total Mana Consumed"
+    },
+    {
+        "id": "app.general.manafied",
+        "description": "AETH manafied/bonded state",
+        "defaultMessage": "Manafied"
+    },
+    {
+        "id": "app.general.minutesCount",
+        "description": "short form of minutes count",
+        "defaultMessage": "{minutes, number} min"
+    },
+    {
+        "id": "app.general.next",
+        "description": "Label for Next button",
+        "defaultMessage": "Next"
+    },
+    {
+        "id": "app.general.no",
+        "description": "no (for confirmations)",
+        "defaultMessage": "No"
+    },
+    {
+        "id": "app.general.noPeersAvailable",
+        "description": "couldn't find any IPFS peers for a specific content",
+        "defaultMessage": "No peers available"
+    },
+    {
+        "id": "app.general.notes",
+        "description": "notes",
+        "defaultMessage": "Notes"
+    },
+    {
+        "id": "app.general.notFound",
+        "description": "not found",
+        "defaultMessage": "Not found"
+    },
+    {
+        "id": "app.general.notifications",
+        "description": "notifications",
+        "defaultMessage": "Notifications"
+    },
+    {
+        "id": "app.general.ok",
+        "description": "Ok",
+        "defaultMessage": "Ok"
+    },
+    {
+        "id": "app.general.okTutorial",
+        "description": "Label for tutorial modal btn",
+        "defaultMessage": "Ok, Got It!"
+    },
+    {
+        "id": "app.general.pause",
+        "description": "pause button label",
+        "defaultMessage": "Pause"
+    },
+    {
+        "id": "app.general.pending",
+        "description": "an action is pending",
+        "defaultMessage": "Pending"
+    },
+    {
+        "id": "app.general.pendingConfirmation",
+        "description": "an action is pending confirmation",
+        "defaultMessage": "Pending confirmation"
+    },
+    {
+        "id": "app.general.people",
+        "description": "people",
+        "defaultMessage": "People"
+    },
+    {
+        "id": "app.general.preview",
+        "description": "preview",
+        "defaultMessage": "Preview"
+    },
+    {
+        "id": "app.general.processingImage",
+        "description": "Message to show while images are being precessed",
+        "defaultMessage": "Processing image"
+    },
+    {
+        "id": "app.general.profileOverview",
+        "description": "tooltip for profile overview button",
+        "defaultMessage": "Profile overview"
+    },
+    {
+        "id": "app.general.publish",
+        "description": "button label for publish action",
+        "defaultMessage": "Yayınla"
+    },
+    {
+        "id": "app.general.publishing",
+        "description": "button label when draft is publishing",
+        "defaultMessage": "Publishing"
+    },
+    {
+        "id": "app.general.received",
+        "description": "received",
+        "defaultMessage": "received"
+    },
+    {
+        "id": "app.general.receivedAmount",
+        "description": "incoming transactions",
+        "defaultMessage": "+{amount} {symbol} from"
+    },
+    {
+        "id": "app.general.refresh",
+        "description": "refresh/reload",
+        "defaultMessage": "Refresh"
+    },
+    {
+        "id": "app.general.rename",
+        "description": "rename",
+        "defaultMessage": "Rename"
+    },
+    {
+        "id": "app.general.reply",
+        "description": "reply",
+        "defaultMessage": "Reply"
+    },
+    {
+        "id": "app.general.reset",
+        "description": "Reset form",
+        "defaultMessage": "Reset"
+    },
+    {
+        "id": "app.general.resume",
+        "description": "resume button label",
+        "defaultMessage": "Resume"
+    },
+    {
+        "id": "app.general.retry",
+        "description": "Retry",
+        "defaultMessage": "Retry"
+    },
+    {
+        "id": "app.general.requestTestAEthers",
+        "description": "",
+        "defaultMessage": "Request AETHERS"
+    },
+    {
+        "id": "app.general.requestTestEthers",
+        "description": "button label to request test ethers",
+        "defaultMessage": "Request test ETH"
+    },
+    {
+        "id": "app.general.requestTestEthersTitle",
+        "description": "",
+        "defaultMessage": "Request Test Ethers!"
+    },
+    {
+        "id": "app.general.requestTestAEthersTitle",
+        "description": "",
+        "defaultMessage": "Request AKASHA Ethers!"
+    },
+    {
+        "id": "app.general.running",
+        "description": "service status",
+        "defaultMessage": "Running"
+    },
+    {
+        "id": "app.general.save",
+        "description": "Save changes in a form",
+        "defaultMessage": "Save"
+    },
+    {
+        "id": "app.general.saveForLater",
+        "description": "Save for later (button label)",
+        "defaultMessage": "save for later"
+    },
+    {
+        "id": "app.general.search",
+        "description": "tooltip for sidebar search button",
+        "defaultMessage": "Search"
+    },
+    {
+        "id": "app.general.seeOnEtherscan",
+        "description": "tooltip for link to etherscan for transaction details",
+        "defaultMessage": "See on Etherscan"
+    },
+    {
+        "id": "app.general.send",
+        "description": "send button label",
+        "defaultMessage": "Gönder"
+    },
+    {
+        "id": "app.general.sent",
+        "description": "sent (past for send)",
+        "defaultMessage": "Sent"
+    },
+    {
+        "id": "app.general.settings",
+        "description": "settings button label",
+        "defaultMessage": "Ayarlar"
+    },
+    {
+        "id": "app.general.sidebarTooltipDashboard",
+        "description": "tooltip text for sidebar dashboard button",
+        "defaultMessage": "Dashboard"
+    },
+    {
+        "id": "app.general.sidebarTooltipProfile",
+        "description": "tooltip text for sidebar profile button",
+        "defaultMessage": "My Profile"
+    },
+    {
+        "id": "app.general.sidebarTooltipCommunity",
+        "description": "tooltip text for sidebar community button",
+        "defaultMessage": "Community: coming soon"
+    },
+    {
+        "id": "app.general.sidebarTooltipSearch",
+        "description": "tooltip text for sidebar search button",
+        "defaultMessage": "Search"
+    },
+    {
+        "id": "app.general.sidebarTooltipChat",
+        "description": "tooltip text for sidebar chat button",
+        "defaultMessage": "Chat (coming soon)"
+    },
+    {
+        "id": "app.general.sidebarTooltipDraftText",
+        "description": "tooltip text for sidebar draft text entry button",
+        "defaultMessage": "Text Entry"
+    },
+    {
+        "id": "app.general.sidebarTooltipDraftLink",
+        "description": "tooltip text for sidebar draft link entry button",
+        "defaultMessage": "Link Entry"
+    },
+    {
+        "id": "app.general.shift",
+        "description": "convert tokens",
+        "defaultMessage": "Shift"
+    },
+    {
+        "id": "app.general.skipStep",
+        "description": "label for skip button",
+        "defaultMessage": "Skip this step"
+    },
+    {
+        "id": "app.general.start",
+        "description": "start button label",
+        "defaultMessage": "Start"
+    },
+    {
+        "id": "app.general.starting",
+        "description": "service status",
+        "defaultMessage": "Starting"
+    },
+    {
+        "id": "app.general.stopped",
+        "description": "service status",
+        "defaultMessage": "Stopped"
+    },
+    {
+        "id": "app.general.stream",
+        "description": "tooltip for sidebar stream button",
+        "defaultMessage": "Stream"
+    },
+    {
+        "id": "app.general.submit",
+        "description": "submit button label",
+        "defaultMessage": "Submit"
+    },
+    {
+        "id": "app.general.tags",
+        "description": "tags",
+        "defaultMessage": "Tags"
+    },
+    {
+        "id": "app.general.terms",
+        "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
+        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+    },
+    {
+        "id": "app.general.termsOfService",
+        "description": "Terms of Service and Privacy Policy",
+        "defaultMessage": "Terms of Service and Privacy Policy"
+    },
+    {
+        "id": "app.general.transactionFailed",
+        "description": "transaction has failed",
+        "defaultMessage": "Transaction has failed"
+    },
+    {
+        "id": "app.general.transferable",
+        "description": "AETH transferable/free state",
+        "defaultMessage": "Transferable"
+    },
+    {
+        "id": "app.general.transform",
+        "description": "change the state of AETH tokens",
+        "defaultMessage": "Transform"
+    },
+    {
+        "id": "app.general.transformAethers",
+        "description": "manafy/lock aeth",
+        "defaultMessage": "Manafy AETH"
+    },
+    {
+        "id": "app.general.translate",
+        "description": "translate",
+        "defaultMessage": "Translate"
+    },
+    {
+        "id": "app.general.usernameFirst",
+        "description": "tooltip title for profile complete submit button",
+        "defaultMessage": "Please choose your username first!"
+    },
+    {
+        "id": "app.general.userSettings",
+        "description": "user settings menu item",
+        "defaultMessage": "User settings"
+    },
+    {
+        "id": "app.general.update",
+        "description": "Update data",
+        "defaultMessage": "Güncelleştir"
+    },
+    {
+        "id": "app.general.updating",
+        "description": "button label when entry is updating",
+        "defaultMessage": "Updating"
+    },
+    {
+        "id": "app.general.upgrading",
+        "description": "Upgrading services",
+        "defaultMessage": "Upgrading"
+    },
+    {
+        "id": "app.general.viewProfile",
+        "description": "View profile",
+        "defaultMessage": "View profile"
+    },
+    {
+        "id": "app.general.vote",
+        "description": "Vote",
+        "defaultMessage": "Vote"
+    },
+    {
+        "id": "app.general.wallet",
+        "description": "wallet",
+        "defaultMessage": "Wallet"
+    },
+    {
+        "id": "app.general.wailting",
+        "description": "",
+        "defaultMessage": "Waiting"
+    },
+    {
+        "id": "app.general.yes",
+        "description": "yes (as a confirmation)",
+        "defaultMessage": "Yes"
+    },
+    {
+        "id": "app.general.comment",
+        "description": "entry comment",
+        "defaultMessage": "Yorum"
+    },
+    {
+        "id": "app.general.publishEntries",
+        "description": "action title",
+        "defaultMessage": "Publish Entries"
+    },
+    {
+        "id": "app.general.karmaPopoverTooltip",
+        "description": "karmaPopoverTooltip",
+        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+    },
+    {
+        "id": "app.general.createTags",
+        "description": "Create tags action title",
+        "defaultMessage": "Create Tags"
+    },
+    {
+        "id": "app.general.karmaLeaderboard",
+        "description": "karma leaderboard title",
+        "defaultMessage": "Proto-Reputation"
+    },
+    {
+        "id": "app.general.karmaLevel",
+        "description": "karma level",
+        "defaultMessage": "Level {karmaLevel}"
+    },
+    {
+        "id": "app.general.karmaLevelInfo",
+        "description": "karma level info",
+        "defaultMessage": "At your current level you can:"
+    },
+    {
+        "id": "app.general.karmaScore",
+        "description": "karma score",
+        "defaultMessage": "{profileKarmaScore} Karma"
+    },
+    {
+        "id": "app.general.showMore",
+        "description": "button label",
+        "defaultMessage": "Show more"
+    },
+    {
+        "id": "app.general.noFollowings",
+        "description": "info when user is not following anyone",
+        "defaultMessage": "Follow someone to see your proto-reputation network"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeArticle",
+        "description": "tooltip text for sidebar draft text entry button",
+        "defaultMessage": "Article"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeLink",
+        "description": "tooltip text for sidebar draft link entry button",
+        "defaultMessage": "Link"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeImage",
+        "description": "",
+        "defaultMessage": "Image"
+    },
+    {
+        "id": "app.general.you",
+        "description": "",
+        "defaultMessage": "You"
+    },
+    {
+        "id": "app.general.waitASecond",
+        "description": "title for external navigation modal",
+        "defaultMessage": "Hold on a second"
+    },
+    {
+        "id": "app.general.externalNavigationWarning",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "You are about to navigate to an external URL."
+    },
+    {
+        "id": "app.general.collectAll",
+        "description": "collect all Essence",
+        "defaultMessage": "Collect all"
+    },
+    {
+        "id": "app.general.noTransactionsTitle",
+        "description": "no transactions message title",
+        "defaultMessage": "No transactions yet"
+    },
+    {
+        "id": "app.general.noTransactionsDescription",
+        "description": "no transaction message description",
+        "defaultMessage": "Your transactions will be displayed here"
+    },
+    {
+        "id": "app.general.noEssenceToCollectTitle",
+        "description": "message title when you don`t have any essence to collect",
+        "defaultMessage": "No essence to collect"
+    },
+    {
+        "id": "app.general.noEssenceToCollectDescription",
+        "description": "message description when you don`t have any essence to collect",
+        "defaultMessage": "Generate Essence by posting and interacting"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedTitle",
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "No essence collected"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedDescription",
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "Generate Essence by posting and interacting"
+    },
+    {
+        "id": "app.entry.startTypingToSearch",
+        "description": "start typing to search",
+        "defaultMessage": "Start typing to search"
+    },
+    {
+        "id": "app.entry.searchingNoResults",
+        "description": "searching for a term returned no results message",
+        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+    },
+    {
+        "id": "app.general.go",
+        "description": "go",
+        "defaultMessage": "Go"
+    },
+    {
+        "id": "app.general.navigateToLink",
+        "description": "tooltip for navigate to link button",
+        "defaultMessage": "Navigate to link"
+    },
+    {
+        "id": "app.general.share",
+        "description": "share",
+        "defaultMessage": "Share"
+    },
+    {
+        "id": "app.general.trustedDomain",
+        "description": "title for external navigation modal checkbox for trusted domains",
+        "defaultMessage": "Trusted Domain"
+    },
+    {
+        "id": "app.general.viewAll",
+        "description": "view all",
+        "defaultMessage": "View All"
+    },
+    {
+        "id": "app.general.reload",
+        "description": "reload",
+        "defaultMessage": "Reload"
+    },
+    {
+        "id": "app.general.reportIssue",
+        "description": "report issue",
+        "defaultMessage": "Report issue"
+    },
+    {
+        "id": "app.general.loadMore",
+        "description": "load more",
+        "defaultMessage": "Load more"
+    },
+    {
+        "id": "app.general.externalNavigationAreYouSure",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "Are you sure you want to go there?"
+    },
+    {
+        "id": "app.general.loadingImage",
+        "description": "message to display when an image is in loading state",
+        "defaultMessage": "Loading image"
+    },
+    {
+        "id": "app.general.loadingImageFailed",
+        "description": "message to show when an image failed to load",
+        "defaultMessage": "Cannot load image :("
+    },
+    {
+        "id": "app.general.or",
+        "description": "or",
+        "defaultMessage": "or"
+    },
+    {
+        "id": "app.general.sidebarTooltipGuest",
+        "description": "tooltip text for sidebar guest mode",
+        "defaultMessage": "Not available in guest mode"
+    },
+    {
+        "id": "app.general.guestMode",
+        "description": "title for guest mode button",
+        "defaultMessage": "Guest Mode"
+    },
+    {
+        "id": "app.general.guestModeInfo",
+        "description": "info for guest mode modal",
+        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
+    },
+    {
+        "id": "app.general.unlockVault",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
+    },
+    {
+        "id": "app.general.thanks",
+        "description": "thanks",
+        "defaultMessage": "Thanks!"
+    },
+    {
+        "id": "app.general.loginUnlock",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Login by unlocking your Metamask"
+    },
+    {
+        "id": "app.general.here",
+        "description": "here",
+        "defaultMessage": "here"
+    },
+    {
+        "id": "app.general.version",
+        "description": "version",
+        "defaultMessage": "Version"
+    },
+    {
+        "id": "app.general.and",
+        "description": "and",
+        "defaultMessage": "and"
+    },
+    {
+        "id": "app.general.accept",
+        "description": "accept",
+        "defaultMessage": "Accept"
+    },
+    {
+        "id": "app.general.decline",
+        "description": "decline",
+        "defaultMessage": "Decline"
+    }
+]
