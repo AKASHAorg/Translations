@@ -1,0 +1,42 @@
+[
+    {
+        "id": "app.tutorial.akashaTitle",
+        "description": "akasha slide title",
+        "defaultMessage": "El Lenguaje de la Libertad"
+    },
+    {
+        "id": "app.tutorial.akashaContent",
+        "description": "akasha slide content",
+        "defaultMessage": "Con AKASHA sus pensamientos e ideas resonarán a través de la existencia de la humanidad,\n                gracias a una red a escala planetaria, inmune a la censura. La información\n                vive y se esparce a través de la red sin depender de una entidad en particular,\n                ni siquiera de nosotros."
+    },
+    {
+        "id": "app.tutorial.ethereumTitle",
+        "description": "ethereum slide title",
+        "defaultMessage": "Impulsado por Ethereum"
+    },
+    {
+        "id": "app.tutorial.ethereumContent",
+        "description": "ethereum slide content",
+        "defaultMessage": "Ethereum nos ha ayudado a crear un nuevo tipo de aplicación que elimina la necesidad\n                de confiar ciegamente en administradores de sistemas. Gracias a sus propiedades de transparencia\n                tenemos autenticación fuerte, identidad, verificabilidad, sistema de votos y\n                micro-transacciones."
+    },
+    {
+        "id": "app.tutorial.ipfsTitle",
+        "description": "ipfs slide title",
+        "defaultMessage": "Mejorado por The Inter-Planetary File System"
+    },
+    {
+        "id": "app.tutorial.ipfsContent",
+        "description": "ipfs slide content",
+        "defaultMessage": "Gracias al Inter-Planetary File System (IPFS) eliminamos también la necesidad\n                de servidores para distribuir y almacenar su contenido. Esto permite a los usuarios burlar\n                los bloqueos tradicionales de censura y empodera a las personas con una verdadera\n                libertad de expresión."
+    },
+    {
+        "id": "app.tutorial.webTitle",
+        "description": "web slide title",
+        "defaultMessage": "Hacia una Mejor Red en Servicio de la Humanidad"
+    },
+    {
+        "id": "app.tutorial.webContent",
+        "description": "web slide content",
+        "defaultMessage": "El futuro no es un lugar hacia el cual vamos sino un lugar al cual podemos\n                crear. Merecemos una mejor red y ahora tenemos las herramientas para hacer que suceda.\n                Juntos podemos crear un mundo donde la libertad de expresión en la red sea un derecho,\n                no un privilegio."
+    }
+]
