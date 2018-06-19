@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "Ini adalah identitas baru anda"
+        "defaultMessage": "The authentication process was completed!"
     },
     {
         "id": "app.setup.backup",
@@ -20,44 +20,34 @@
         "defaultMessage": "Buat identitas baru"
     },
     {
-        "id": "app.setup.getStarted",
-        "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Mulai dengan membuat identitas baru!"
-    },
-    {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Jalur jalan datadir"
+        "defaultMessage": "Geth Datadir path"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Jalan Geth IPC"
+        "defaultMessage": "Geth IPC path"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Ukuran geth cache"
+        "defaultMessage": "Geth cache size"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Id jaringan Geth"
+        "defaultMessage": "Geth network id"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Tombol impor"
+        "defaultMessage": "Import keys"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
         "defaultMessage": "IPFS storage path"
-    },
-    {
-        "id": "app.setup.ipfsStoragePathInfo",
-        "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Mengubah ini akan mengatur ulang konfigurasi anda dan konten IPFS lokal anda"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -77,12 +67,12 @@
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Konfigurasi"
+        "defaultMessage": "Configuration"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Sinkronisasi ringan"
+        "defaultMessage": "Light sync"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -92,52 +82,52 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Harap masukkan kata sandi Anda di bawah ini"
+        "defaultMessage": "Please enter your passphrase below"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Sinkronisasi normal"
+        "defaultMessage": "Normal sync"
     },
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Selamat, anda adalah seorang perintis sinkronisasi dengan jaringan pengujian Ethereum! Kami merekomendasikan Sinkronisasi Normal dengan pengaturan yang sangat cepat akan tetapi pemberani bisa juga memilih yang Sinkronisasi Cahaya yang (sangat) eksperimental! :)"
+        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "Sebaiknya Normal Sync ini dengan pengaturan Expressnya. Yang berani juga bisa memilih Light Sync eksperimental."
+        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
     },
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Sinkronisasi"
+        "defaultMessage": "Synchronization"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Opsi sinkronisasi"
+        "defaultMessage": "Sync options"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Rincian log"
+        "defaultMessage": "Log details"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Masuk"
+        "defaultMessage": "Login"
     },
     {
-        "id": "app.setup.welcome",
+        "id": "app.setup.welcomeBack",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "Welcome back!"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Silahkan memilih salah satu identitas untuk masuk"
+        "defaultMessage": "Please select one identity to login"
     },
     {
         "id": "app.setup.newIdentity",
@@ -147,137 +137,127 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "Apa yang membuat anda tertarik?"
+        "defaultMessage": "What are you interested in?"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "Kami akan menyarankan hal yang luar biasa untuk dibaca berdasarkan minat anda."
+        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Mempersiapkan ekspres"
+        "defaultMessage": "Express setup"
     },
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Terimakasih telah bermain!"
-    },
-    {
-        "id": "app.setup.faucetPending1",
-        "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Berikut adalah beberapa tes ETH :)"
+        "defaultMessage": "You will receive test ethers shortly..."
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Ada sesuatu yang salah :("
+        "defaultMessage": "Something went wrong!"
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Klik di sini untuk mencoba lagi"
+        "defaultMessage": "Try again here"
     },
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "HoHoHoHo!"
-    },
-    {
-        "id": "app.setup.faucetSuccess1",
-        "description": "message shown on faucet tx success",
-        "defaultMessage": "Anda menerima tes ETH!"
+        "defaultMessage": "You now have test ethers in your balance."
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Tinggi"
+        "defaultMessage": "Advanced"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Mendownload klien Geth..."
+        "defaultMessage": "Downloading Geth client..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Mendownload klien IPFS..."
+        "defaultMessage": "Downloading IPFS client..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Memulai klien Geth..."
+        "defaultMessage": "Starting Geth client..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Mengupgrade klien Geth"
+        "defaultMessage": "Upgrading Geth client..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrade klien IPFS..."
+        "defaultMessage": "Upgrading IPFS client..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Pemrosesan"
+        "defaultMessage": "Processing"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Sinkronisasi"
+        "defaultMessage": "Synchronizing"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Sinkronisasi telah dihentikan"
+        "defaultMessage": "Synchronization was stopped"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Sinkronisasi selesai"
+        "defaultMessage": "Synchronization completed"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Sinkronisasi dijeda"
+        "defaultMessage": "Synchronization is paused"
     },
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "Anda akan mampu untuk masuk ke dalam dan menikmati pengalaman sepenuhnya segera setelah sinkronisasi itu selesai! Kami sedang menunggu anda untuk di sisi lainnya! o/"
+        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Sinkronisasi sudah selesai. Kebutuhan layanan IPFS untuk bisa memulai dalam pesanan untuk\n                        melanjutkan. Anda bisa memulainya secara manual dari status bar di header atau\n                        klik SELANJUTNYA untuk memulainya secara otomatis."
+        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "Jika anda ingin untuk mengimpor sebuah identitas silakan lihat link ini."
+        "defaultMessage": "No profiles found. Create a new identity or import an existing one."
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Menemukan peers"
+        "defaultMessage": "Finding peers"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Meluncurkan layanan"
+        "defaultMessage": "Launching services"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Menunggu untuk layanan"
+        "defaultMessage": "Waiting for services"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Menunggu klien geth"
+        "defaultMessage": "Waiting for geth client"
     },
     {
         "id": "app.setup.peerCount",
@@ -287,51 +267,36 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "detail"
+        "defaultMessage": "details"
     },
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Layanan geth tidak bekerja. Silakan memulainya secara manual dalam pesanan untuk mengambil\n                        profil anda."
+        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "Layanan IPFS itu terhenti. Silakan memulai itu secara manual dalam perintah untuk mengambil\n                        profil anda."
+        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
     },
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "Ada beberapa tips sebelum anda memulainya"
+        "defaultMessage": "A few tips before you get started"
     },
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Dapp ini menggunakan tes ETH (Eter) jadi mohon untuk TIDAK mengirim ETH sebenarnya untuk alamat dalam-dapp."
+        "defaultMessage": "This dapp uses test ETH (ether) so please DO NOT send real ETH to in-dapp addresses."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Dapp tersebut memerlukan Manafied AETH (Mana) untuk interaksi. Anda bisa memperoleh Mana dengan mengklik saldo AETH anda pada sisi kanan atas, memilih Manafy dalam Mengubah tab."
+        "defaultMessage": "The dapp requieres Manafied AETH (mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
     },
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Secara Alternatif, anda bisa mengklik sisi bar Mana indikator selanjutnya untuk foto avatar anda dan memilih Bergeser ke atas."
-    },
-    {
-        "id": "app.setup.gethDescription",
-        "description": "geth service description",
-        "defaultMessage": "You are using a third party web3 provider."
-    },
-    {
-        "id": "app.setup.ipfsDescription",
-        "description": "ipfs service description",
-        "defaultMessage": "You are using the JavaScript implementation of IPFS."
-    },
-    {
-        "id": "app.setup.ipfsStorageName",
-        "description": "IPFS storage name input field label",
-        "defaultMessage": "IPFS storage name"
+        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo."
     }
 ]
