@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Harap konfirmasi bahwa anda ingin mengirim tip untuk {displayName}."
+        "defaultMessage": "Please confirm that you want to send a tip of {value} ETH to {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
@@ -223,15 +223,5 @@
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
         "defaultMessage": "Tidak mengikuti"
-    },
-    {
-        "id": "app.confirmations.batch",
-        "description": "pesan konfirmasi untuk sebuah batch dari transaksi",
-        "defaultMessage": "Silahkan konfirmasi bahwa anda menginginkan untuk mengirim transaksi {txCount}."
-    },
-    {
-        "id": "app.confirmations.batchTitle",
-        "description": "judul untuk dialog konfirmasi untuk sebuah batch dari transaksi",
-        "defaultMessage": "Multiple transactions"
     }
 ]
