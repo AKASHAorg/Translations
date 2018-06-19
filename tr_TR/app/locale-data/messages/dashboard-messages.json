@@ -65,6 +65,16 @@
         "defaultMessage": "Feed' i takip et"
     },
     {
+        "id": "app.dashboard.createDashboardFirst",
+        "description": "Tooltip message for add column button when there is no board created",
+        "defaultMessage": "You must create a board first"
+    },
+    {
+        "id": "app.dashboard.createOneNow",
+        "description": "button label for creating a new board",
+        "defaultMessage": "Create one now"
+    },
+    {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
         "defaultMessage": "Yeni bir pano oluştur"
@@ -130,6 +140,11 @@
         "defaultMessage": "Type board name"
     },
     {
+        "id": "app.dashboard.noDashboard",
+        "description": "placeholder message displayed when no boards were found",
+        "defaultMessage": "No boards found"
+    },
+    {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
         "defaultMessage": "Preview for {listName}"
@@ -168,5 +183,65 @@
         "id": "app.dashboard.tag",
         "description": "label for tag column",
         "defaultMessage": "Tag"
+    },
+    {
+        "id": "app.dashboard.noColumnsTitle",
+        "description": "Column placeholder title",
+        "defaultMessage": "A new world awaits you!"
+    },
+    {
+        "id": "app.dashboard.noColumns",
+        "description": "Column placeholder message",
+        "defaultMessage": "Your favorite topics and users at your fingertips."
+    },
+    {
+        "id": "app.dashboard.addFirstColumn",
+        "description": "add first column button label",
+        "defaultMessage": "Add first column"
+    },
+    {
+        "id": "app.dashboard.createNewListColumnSubtitle",
+        "description": "panel subtitle for creating a new list and adding it to a column",
+        "defaultMessage": "Please create a list"
+    },
+    {
+        "id": "app.dashboard.akashaBoard",
+        "description": "label for dashboard top bar popover",
+        "defaultMessage": "Akasha Board"
+    },
+    {
+        "id": "app.dashboard.newBoard",
+        "description": "label for dashboard popover new board button",
+        "defaultMessage": "New board"
+    },
+    {
+        "id": "app.dashboard.createNewSubtitle",
+        "description": "subtitle for creating a new board modal",
+        "defaultMessage": "Please insert the name of your board"
+    },
+    {
+        "id": "app.dashboard.modalInputPlaceholder",
+        "description": "placeholder for new dashboard modal input",
+        "defaultMessage": "Type the name of your board here"
+    },
+    {
+        "id": "app.dashboard.comments",
+        "description": "label for user comments column",
+        "defaultMessage": "User comments"
+    },
+    {
+        "id": "app.dashboard.previewComments",
+        "description": "label for user comments column preview",
+        "defaultMessage": "Preview for {displayName}"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumn",
+        "description": "panel title for adding a new comments column",
+        "defaultMessage": "User comments column"
+    },
+    {
+        "id": "app.dashboard.addNewCommentsColumnSubtitle",
+        "description": "panel subtitle for adding a new comments column",
+        "defaultMessage": "Lütfen bir kullanıcı seçin"
     }
 ]
