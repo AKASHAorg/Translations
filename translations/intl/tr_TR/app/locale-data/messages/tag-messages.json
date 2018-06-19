@@ -1,0 +1,37 @@
+[
+    {
+        "id": "app.tag.addTag",
+        "description": "placeholder for tag editor field",
+        "defaultMessage": "#kategori..."
+    },
+    {
+        "id": "app.tag.notEnoughKarma",
+        "description": "message to display when user does not have enough karma to create a tag",
+        "defaultMessage": "Üzgünüm! Etiket oluşturmak için yeterli karmaya sahip değilsiniz."
+    },
+    {
+        "id": "app.tag.tagDoesntExist",
+        "description": "placeholder message for entry list when tag does not exist",
+        "defaultMessage": "Bu etiket mevcut değil"
+    },
+    {
+        "id": "app.tag.tagNotCreated",
+        "description": "Message to display when the tag was not created before",
+        "defaultMessage": "Bu daha önce hiç kimse tarafından oluşturulmamış yeni bir etikettir!"
+    },
+    {
+        "id": "app.tag.tagsLeft",
+        "description": "How many tags you can add",
+        "defaultMessage": "({value} remaining)"
+    },
+    {
+        "id": "app.tag.tags",
+        "description": "plural of tag",
+        "defaultMessage": "tags"
+    },
+    {
+        "id": "app.tag.cannotEditTags",
+        "description": "",
+        "defaultMessage": "Cannot edit tags when updating an entry"
+    }
+]
