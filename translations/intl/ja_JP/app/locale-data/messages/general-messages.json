@@ -35,84 +35,74 @@
         "defaultMessage": "新しい投稿を追加"
     },
     {
-        "id": "app.general.addTo",
-        "description": "add to",
-        "defaultMessage": "追加"
-    },
-    {
         "id": "app.general.aeth",
         "description": "aeth token",
         "defaultMessage": "AETH"
     },
     {
-        "id": "app.general.akasha",
-        "description": "AKASHA",
-        "defaultMessage": "アカシャ"
-    },
-    {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "数量"
+        "defaultMessage": "Amount"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "投稿"
+        "defaultMessage": "an entry"
     },
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "投稿投票"
+        "defaultMessage": "an entry vote"
     },
     {
-        "id": "app.general.appPreferences",
-        "description": "application settings/preferences",
-        "defaultMessage": "アプリの設定"
+        "id": "app.general.akasha",
+        "description": "AKASHA",
+        "defaultMessage": "AKASHA"
     },
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "戻る"
+        "defaultMessage": "Back"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "ブロック"
+        "defaultMessage": "Block"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "キャンセル"
+        "defaultMessage": "Cancel"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "チャット"
+        "defaultMessage": "Chat"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "画像を選択する"
+        "defaultMessage": "Choose an image"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "別の画像を選択する"
+        "defaultMessage": "Choose another image"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "閉じる"
+        "defaultMessage": "Close"
     },
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "獲得"
+        "defaultMessage": "集める"
     },
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "獲得済み"
+        "defaultMessage": "Collected"
     },
     {
         "id": "app.general.comments",
@@ -122,62 +112,52 @@
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "確認"
-    },
-    {
-        "id": "app.general.confirmedAtBlock",
-        "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "ブロック #{blockNr} で確認"
+        "defaultMessage": "Confirm"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "コピー"
+        "defaultMessage": "Copy"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "カウンター"
+        "defaultMessage": "Counter"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "作成"
+        "defaultMessage": "Create"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "作成済み"
+        "defaultMessage": "Created"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "サイクリング"
+        "defaultMessage": "Cycling"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "削除"
-    },
-    {
-        "id": "app.general.done",
-        "description": "",
-        "defaultMessage": "完了"
+        "defaultMessage": "Delete"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "ダウンロード中"
+        "defaultMessage": "Downloading"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "編集"
+        "defaultMessage": "Edit"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "プロフィールの編集"
+        "defaultMessage": "Edit profile"
     },
     {
         "id": "app.general.entries",
@@ -187,17 +167,12 @@
     {
         "id": "app.general.essence",
         "description": "essence",
-        "defaultMessage": "エッセンス"
-    },
-    {
-        "id": "app.general.essenceTotal",
-        "description": "popover title",
-        "defaultMessage": "トータル エッセンス"
+        "defaultMessage": "Essence"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "トータル エッセンス スコア"
+        "defaultMessage": "Essence total score"
     },
     {
         "id": "app.general.eth",
@@ -210,94 +185,79 @@
         "defaultMessage": "イーサリアムアドレス"
     },
     {
-        "id": "app.general.failedAtBlock",
-        "description": "transaction/action failed at block number x",
-        "defaultMessage": "ブロック #{blockNr} で失敗しました"
-    },
-    {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "鍛造"
-    },
-    {
-        "id": "app.general.forward",
-        "description": "forward",
-        "defaultMessage": "進む"
+        "defaultMessage": "Forged"
     },
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "プレビューの生成"
+        "defaultMessage": "Generating preview"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service オフ"
+        "defaultMessage": "Geth service OFF"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service オン"
+        "defaultMessage": "Geth service ON"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "ヘルプ"
+        "defaultMessage": "Help"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "履歴"
+        "defaultMessage": "History"
     },
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {時間} other {時間}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service オフ"
+        "defaultMessage": "IPFS service OFF"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service オン"
+        "defaultMessage": "IPFS service ON"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "参加"
+        "defaultMessage": "Join"
     },
     {
         "id": "app.general.karma",
         "description": "karma",
-        "defaultMessage": "カルマ"
+        "defaultMessage": "Karma"
     },
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "カルマのトータルスコア"
-    },
-    {
-        "id": "app.general.learnMore",
-        "description": "",
-        "defaultMessage": "詳細"
+        "defaultMessage": "Karma total score"
     },
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "退室"
+        "defaultMessage": "Leave"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "ログ"
+        "defaultMessage": "Logs"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "ログアウト"
+        "defaultMessage": "Logout"
     },
     {
         "id": "app.general.mana",
@@ -307,12 +267,7 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "バーンされたManaの総数"
-    },
-    {
-        "id": "app.general.manaPool",
-        "description": "mana pool",
-        "defaultMessage": "Total Mana Consumed"
+        "defaultMessage": "Total Mana burned"
     },
     {
         "id": "app.general.manafied",
@@ -322,12 +277,12 @@
     {
         "id": "app.general.minutesCount",
         "description": "short form of minutes count",
-        "defaultMessage": "{minutes, number} 分"
+        "defaultMessage": "{minutes, number} min"
     },
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "次"
+        "defaultMessage": "Next"
     },
     {
         "id": "app.general.no",
@@ -337,67 +292,52 @@
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "接続可能なピアがありません"
+        "defaultMessage": "No peers available"
     },
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "メモ"
+        "defaultMessage": "Notes"
     },
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "見つかりません"
-    },
-    {
-        "id": "app.general.notifications",
-        "description": "notifications",
-        "defaultMessage": "通知"
+        "defaultMessage": "Not found"
     },
     {
         "id": "app.general.ok",
         "description": "Ok",
-        "defaultMessage": "了解"
-    },
-    {
-        "id": "app.general.okTutorial",
-        "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, 了解！"
+        "defaultMessage": "Ok"
     },
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "一時停止"
+        "defaultMessage": "Pause"
     },
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "保留中"
-    },
-    {
-        "id": "app.general.pendingConfirmation",
-        "description": "an action is pending confirmation",
-        "defaultMessage": "保留中の承認"
+        "defaultMessage": "Pending"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "人"
+        "defaultMessage": "People"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "プレビュー"
+        "defaultMessage": "Preview"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "画像処理中"
+        "defaultMessage": "Processing image"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "プロフィールの概要"
+        "defaultMessage": "Profile overview"
     },
     {
         "id": "app.general.publish",
@@ -407,92 +347,67 @@
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "投稿中"
+        "defaultMessage": "Publishing"
     },
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "受信済み"
+        "defaultMessage": "received"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "から {amount}{symbol}"
+        "defaultMessage": "+{amount} {symbol} from"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "リフレッシュ"
+        "defaultMessage": "Refresh"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "ユーザー名の変更"
+        "defaultMessage": "Rename"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "返信"
+        "defaultMessage": "Reply"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "リセット"
+        "defaultMessage": "Reset"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "再開"
+        "defaultMessage": "Resume"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "再試行する"
-    },
-    {
-        "id": "app.general.requestTestAEthers",
-        "description": "",
-        "defaultMessage": "AETHERSをリクエスト"
-    },
-    {
-        "id": "app.general.requestTestEthers",
-        "description": "button label to request test ethers",
-        "defaultMessage": "テスト用ETHをリクエスト"
-    },
-    {
-        "id": "app.general.requestTestEthersTitle",
-        "description": "",
-        "defaultMessage": "テスト用Etherください！"
-    },
-    {
-        "id": "app.general.requestTestAEthersTitle",
-        "description": "",
-        "defaultMessage": "テスト用AKASHA Etherをください！"
+        "defaultMessage": "Retry"
     },
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "実行しています。"
+        "defaultMessage": "Running"
     },
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "保存"
+        "defaultMessage": "Save"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "後で保存する"
+        "defaultMessage": "save for later"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "検索"
-    },
-    {
-        "id": "app.general.seeOnEtherscan",
-        "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "Etherscan を参照する"
+        "defaultMessage": "Search"
     },
     {
         "id": "app.general.send",
@@ -502,7 +417,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "送信済み"
+        "defaultMessage": "Sent"
     },
     {
         "id": "app.general.settings",
@@ -512,67 +427,67 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "ダッシュ ボード"
+        "defaultMessage": "Dashboard"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "プロフィール"
+        "defaultMessage": "My Profile"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "コミュニティ: もうすぐ公開"
+        "defaultMessage": "Community: coming soon"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "検索"
+        "defaultMessage": "Search"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "チャット (もうすぐ公開)"
+        "defaultMessage": "Chat: coming soon"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "テキストの入力"
+        "defaultMessage": "Text Entry"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "リンク エントリー"
+        "defaultMessage": "Link Entry"
     },
     {
         "id": "app.general.shift",
         "description": "convert tokens",
-        "defaultMessage": "シフト"
+        "defaultMessage": "Shift"
     },
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "この手順をスキップします。"
+        "defaultMessage": "Skip this step"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "スタート"
+        "defaultMessage": "Start"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "スタート中"
+        "defaultMessage": "Starting"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "停止中"
+        "defaultMessage": "Stopped"
     },
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "ストリーム"
+        "defaultMessage": "Stream"
     },
     {
         "id": "app.general.submit",
@@ -581,53 +496,33 @@
     },
     {
         "id": "app.general.tags",
-        "description": "tags",
-        "defaultMessage": "タグ"
+        "description": "タグ",
+        "defaultMessage": "Tags"
     },
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "アカシャでアカウントを作成し利用するには、 {termsLink} に同意する必要があります。あなたが同意しない場合は、アカシャを利用することは出来ません。"
+        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "利用規約とプライバシーポリシー"
+        "defaultMessage": "Terms of Service and Privacy Policy"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "トランザクションが失敗しました"
+        "defaultMessage": "Transaction has failed"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "送金可能"
+        "defaultMessage": "Transferable"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "変換"
-    },
-    {
-        "id": "app.general.transformAethers",
-        "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
-    },
-    {
-        "id": "app.general.translate",
-        "description": "translate",
-        "defaultMessage": "翻訳"
-    },
-    {
-        "id": "app.general.usernameFirst",
-        "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "まずあなたのユーザー名を選択してください!"
-    },
-    {
-        "id": "app.general.userSettings",
-        "description": "user settings menu item",
-        "defaultMessage": "ユーザー設定"
+        "defaultMessage": "Transform"
     },
     {
         "id": "app.general.update",
@@ -637,276 +532,26 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "更新中"
+        "defaultMessage": "Updating"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "アップグレード"
-    },
-    {
-        "id": "app.general.viewProfile",
-        "description": "View profile",
-        "defaultMessage": "プロフィールを見る"
+        "defaultMessage": "Upgrading"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "投票"
+        "defaultMessage": "Vote"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "ウォレット"
-    },
-    {
-        "id": "app.general.wailting",
-        "description": "",
-        "defaultMessage": "待機中"
+        "defaultMessage": "Wallet"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
         "defaultMessage": "Yes"
-    },
-    {
-        "id": "app.general.comment",
-        "description": "entry comment",
-        "defaultMessage": "コメント"
-    },
-    {
-        "id": "app.general.publishEntries",
-        "description": "action title",
-        "defaultMessage": "エントリーを公開する"
-    },
-    {
-        "id": "app.general.karmaPopoverTooltip",
-        "description": "karmaPopoverTooltip",
-        "defaultMessage": "あなたのカルマはエッセンスを集めると増えます。"
-    },
-    {
-        "id": "app.general.createTags",
-        "description": "Create tags action title",
-        "defaultMessage": "タグを作成"
-    },
-    {
-        "id": "app.general.karmaLeaderboard",
-        "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
-    },
-    {
-        "id": "app.general.karmaLevel",
-        "description": "karma level",
-        "defaultMessage": "レベル{karmaLevel}"
-    },
-    {
-        "id": "app.general.karmaLevelInfo",
-        "description": "karma level info",
-        "defaultMessage": "あなたの現在のレベルで、次の操作を実行できます。"
-    },
-    {
-        "id": "app.general.karmaScore",
-        "description": "karma score",
-        "defaultMessage": "{profileKarmaScore} カルマ"
-    },
-    {
-        "id": "app.general.showMore",
-        "description": "button label",
-        "defaultMessage": "詳細を表示する"
-    },
-    {
-        "id": "app.general.noFollowings",
-        "description": "info when user is not following anyone",
-        "defaultMessage": "Follow someone to see your proto-reputation network"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeArticle",
-        "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "記事"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeLink",
-        "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "リンク"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeImage",
-        "description": "",
-        "defaultMessage": "イメージ"
-    },
-    {
-        "id": "app.general.you",
-        "description": "",
-        "defaultMessage": "あなた"
-    },
-    {
-        "id": "app.general.waitASecond",
-        "description": "title for external navigation modal",
-        "defaultMessage": "Hold on a second"
-    },
-    {
-        "id": "app.general.externalNavigationWarning",
-        "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL."
-    },
-    {
-        "id": "app.general.collectAll",
-        "description": "collect all Essence",
-        "defaultMessage": "Collect all"
-    },
-    {
-        "id": "app.general.noTransactionsTitle",
-        "description": "no transactions message title",
-        "defaultMessage": "No transactions yet"
-    },
-    {
-        "id": "app.general.noTransactionsDescription",
-        "description": "no transaction message description",
-        "defaultMessage": "Your transactions will be displayed here"
-    },
-    {
-        "id": "app.general.noEssenceToCollectTitle",
-        "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
-    },
-    {
-        "id": "app.general.noEssenceToCollectDescription",
-        "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "Generate Essence by posting and interacting"
-    },
-    {
-        "id": "app.general.noEssenceWasCollectedTitle",
-        "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "No essence collected"
-    },
-    {
-        "id": "app.general.noEssenceWasCollectedDescription",
-        "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "Generate Essence by posting and interacting"
-    },
-    {
-        "id": "app.entry.startTypingToSearch",
-        "description": "start typing to search",
-        "defaultMessage": "入力して検索する"
-    },
-    {
-        "id": "app.entry.searchingNoResults",
-        "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
-    },
-    {
-        "id": "app.general.go",
-        "description": "go",
-        "defaultMessage": "Go"
-    },
-    {
-        "id": "app.general.navigateToLink",
-        "description": "tooltip for navigate to link button",
-        "defaultMessage": "リンクへ移動"
-    },
-    {
-        "id": "app.general.share",
-        "description": "share",
-        "defaultMessage": "シェアする"
-    },
-    {
-        "id": "app.general.trustedDomain",
-        "description": "title for external navigation modal checkbox for trusted domains",
-        "defaultMessage": "Trusted Domain"
-    },
-    {
-        "id": "app.general.viewAll",
-        "description": "view all",
-        "defaultMessage": "View All"
-    },
-    {
-        "id": "app.general.reload",
-        "description": "reload",
-        "defaultMessage": "Reload"
-    },
-    {
-        "id": "app.general.reportIssue",
-        "description": "report issue",
-        "defaultMessage": "Report issue"
-    },
-    {
-        "id": "app.general.loadMore",
-        "description": "load more",
-        "defaultMessage": "Load more"
-    },
-    {
-        "id": "app.general.externalNavigationAreYouSure",
-        "description": "warning displayed when clicking an external link",
-        "defaultMessage": "Are you sure you want to go there?"
-    },
-    {
-        "id": "app.general.loadingImage",
-        "description": "message to display when an image is in loading state",
-        "defaultMessage": "画像を読み込み中"
-    },
-    {
-        "id": "app.general.loadingImageFailed",
-        "description": "message to show when an image failed to load",
-        "defaultMessage": "Cannot load image :("
-    },
-    {
-        "id": "app.general.or",
-        "description": "or",
-        "defaultMessage": "or"
-    },
-    {
-        "id": "app.general.sidebarTooltipGuest",
-        "description": "tooltip text for sidebar guest mode",
-        "defaultMessage": "Not available in guest mode"
-    },
-    {
-        "id": "app.general.guestMode",
-        "description": "title for guest mode button",
-        "defaultMessage": "Guest Mode"
-    },
-    {
-        "id": "app.general.guestModeInfo",
-        "description": "info for guest mode modal",
-        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
-    },
-    {
-        "id": "app.general.unlockVault",
-        "description": "info for guest mode modal",
-        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
-    },
-    {
-        "id": "app.general.thanks",
-        "description": "thanks",
-        "defaultMessage": "Thanks!"
-    },
-    {
-        "id": "app.general.loginUnlock",
-        "description": "info for guest mode modal",
-        "defaultMessage": "Login by unlocking your Metamask"
-    },
-    {
-        "id": "app.general.here",
-        "description": "here",
-        "defaultMessage": "here"
-    },
-    {
-        "id": "app.general.version",
-        "description": "バージョン",
-        "defaultMessage": "Version"
-    },
-    {
-        "id": "app.general.and",
-        "description": "and",
-        "defaultMessage": "and"
-    },
-    {
-        "id": "app.general.accept",
-        "description": "accept",
-        "defaultMessage": "Accept"
-    },
-    {
-        "id": "app.general.decline",
-        "description": "decline",
-        "defaultMessage": "Decline"
     }
 ]
