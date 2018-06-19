@@ -1,0 +1,302 @@
+[
+    {
+        "id": "app.form.about",
+        "description": "label for about me validation",
+        "defaultMessage": "Minusta"
+    },
+    {
+        "id": "app.form.addressRequired",
+        "description": "error message for empty receiver input field",
+        "defaultMessage": "Sinun tulee määrittää käyttäjänimi tai ethereum-osoite"
+    },
+    {
+        "id": "app.form.acceptTips",
+        "description": "label for accept tips switch (personal settings)",
+        "defaultMessage": "Vastaanota tippejä"
+    },
+    {
+        "id": "app.form.akashaIdPlaceholder",
+        "description": "placeholder for username input field",
+        "defaultMessage": "Käyttäjänimi"
+    },
+    {
+        "id": "app.form.insufficientEth",
+        "description": "title for insufficient funds card",
+        "defaultMessage": "Pahoittelut, sinulla ei ole tarpeeksi testi etheriumia!"
+    },
+    {
+        "id": "app.form.depositEth",
+        "description": "description for insufficient funds card",
+        "defaultMessage": "Sinun täytyy tallettaa testi Etheriumia ensin julkaistaakesi profiilin."
+    },
+    {
+        "id": "app.form.aethAmount",
+        "description": "aeth amount input label",
+        "defaultMessage": "AETH määrä"
+    },
+    {
+        "id": "app.form.amountRequired",
+        "description": "error message for empty amount input field",
+        "defaultMessage": "Määrä vaaditaan"
+    },
+    {
+        "id": "app.form.ethAmount",
+        "description": "eth amount input label",
+        "defaultMessage": "ETH määrä"
+    },
+    {
+        "id": "app.form.firstNamePlaceholder",
+        "description": "placeholder for first name input field",
+        "defaultMessage": "Kirjoita etunimesi"
+    },
+    {
+        "id": "app.form.lastNamePlaceholder",
+        "description": "placeholder for last name input field",
+        "defaultMessage": "Kirjoita sukunimesi"
+    },
+    {
+        "id": "app.form.maxAethAmount",
+        "description": "maximum amount of AETH transferable",
+        "defaultMessage": "{aeth} Siirrettävissä AETH"
+    },
+    {
+        "id": "app.form.maxAethAmountLabel",
+        "description": "label for maximum AETH amount input field",
+        "defaultMessage": "maksimi {balance}"
+    },
+    {
+        "id": "app.form.maxEssenceAmount",
+        "description": "maximum amount of Essence transformable",
+        "defaultMessage": "{essence} Essenceä saatavilla"
+    },
+    {
+        "id": "app.form.maxEthAmount",
+        "description": "maximum amount of ETH transferable",
+        "defaultMessage": "{eth} ETH siirrettävissä"
+    },
+    {
+        "id": "app.form.maxManafiedAethAmount",
+        "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
+        "defaultMessage": "{manafied} Manafoitu AETH"
+    },
+    {
+        "id": "app.form.transformEssence",
+        "description": "title for transform essence form",
+        "defaultMessage": "Muuta Essenceä"
+    },
+    {
+        "id": "app.form.transformEssenceDisclaimer",
+        "description": "disclaimer message for transforming Essence to AETH",
+        "defaultMessage": "{amount} Essenceä louhii {value} uutta AETHIA saldoosi."
+    },
+    {
+        "id": "app.form.transformEssenceMin",
+        "description": "disclaimer message for minimum amount of essence that can be transformed",
+        "defaultMessage": "Sinun tulee muuttaa vähintään 1000 Essenceä"
+    },
+    {
+        "id": "app.form.transformManafiedDisclaimer",
+        "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+        "defaultMessage": "{amount} AETHIA palautuu takaisin muutettavaksi AETHIKSI 7 päivän kuluessa {amount} Mana ei enää generoidu uudelleen."
+    },
+    {
+        "id": "app.form.transformTransferableDisclaimer",
+        "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
+        "defaultMessage": "{amount} AETHIA tuottaa {amount} Manaa 24 tunnin välein niin kauan kuin se pysyy tässä tilassa."
+    },
+    {
+        "id": "app.form.firstName",
+        "description": "Placeholder for first name input",
+        "defaultMessage": "Etunimi"
+    },
+    {
+        "id": "app.form.lastName",
+        "description": "Placeholder for last name input",
+        "defaultMessage": "Sukunimi"
+    },
+    {
+        "id": "app.form.akashaId",
+        "description": "Placeholder for username (Akasha ID) input",
+        "defaultMessage": "Käyttäjänimi"
+    },
+    {
+        "id": "app.form.ethereumAddress",
+        "description": "Placeholder for ethereum address input",
+        "defaultMessage": "Ethereum osoite"
+    },
+    {
+        "id": "app.form.from",
+        "description": "from",
+        "defaultMessage": "Alkaen"
+    },
+    {
+        "id": "app.form.passphrase",
+        "description": "label for passphrase input",
+        "defaultMessage": "Tunnuslause"
+    },
+    {
+        "id": "app.form.passphrasePlaceholder",
+        "description": "placeholder for passphrase input",
+        "defaultMessage": "Kirjoita tunnuslause"
+    },
+    {
+        "id": "app.form.amountToShift",
+        "description": "label for shift amount slider",
+        "defaultMessage": "Please select an amount to shift"
+    },
+    {
+        "id": "app.form.confirmPassphrase",
+        "description": "label for passphrase confirmation input",
+        "defaultMessage": "Confirm passphrase"
+    },
+    {
+        "id": "app.form.forgeAeth",
+        "description": "transform Essence into new AETH",
+        "defaultMessage": "Forge AETH"
+    },
+    {
+        "id": "app.form.freeAeth",
+        "description": "label for free AETH value",
+        "defaultMessage": "Free AETH"
+    },
+    {
+        "id": "app.form.manaTotalScore",
+        "description": "label for mana total score",
+        "defaultMessage": "Mana total score"
+    },
+    {
+        "id": "app.form.name",
+        "description": "Placeholder for name input field",
+        "defaultMessage": "Name"
+    },
+    {
+        "id": "app.form.passphraseConfirmError",
+        "description": "Error message displayed when the given passphrases don't match",
+        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+    },
+    {
+        "id": "app.form.passphraseVerify",
+        "description": "Placeholder for passphrase verify input",
+        "defaultMessage": "Verify passphrase"
+    },
+    {
+        "id": "app.form.requiredError",
+        "description": "error message for required fields",
+        "defaultMessage": "This field is required"
+    },
+    {
+        "id": "app.form.shiftDown",
+        "description": "shift down",
+        "defaultMessage": "Shift down"
+    },
+    {
+        "id": "app.form.shiftDownMana",
+        "description": "title for shift down Mana form",
+        "defaultMessage": "Shift down Mana"
+    },
+    {
+        "id": "app.form.shiftDownManaHelp",
+        "description": "label for shift down Mana slider",
+        "defaultMessage": "{value} Mana will transform {value} Manafied AETH to Cycling AETH that can be collected in 7 days."
+    },
+    {
+        "id": "app.form.shiftUp",
+        "description": "shift up",
+        "defaultMessage": "Shift up"
+    },
+    {
+        "id": "app.form.shiftUpMana",
+        "description": "title for shift up Mana form",
+        "defaultMessage": "Shift up Mana"
+    },
+    {
+        "id": "app.form.shiftUpManaHelp",
+        "description": "label for shift up mana slider",
+        "defaultMessage": "{value} Mana will manafy {value} Transferable AETH"
+    },
+    {
+        "id": "app.form.tips",
+        "description": "label for tips",
+        "defaultMessage": "TIPS"
+    },
+    {
+        "id": "app.form.title",
+        "description": "Placeholder for title input field",
+        "defaultMessage": "Otsikko"
+    },
+    {
+        "id": "app.form.totalAethBalance",
+        "description": "label for total AETH balance",
+        "defaultMessage": "Total AETH balance"
+    },
+    {
+        "id": "app.form.url",
+        "description": "Placeholder for url input field",
+        "defaultMessage": "URL"
+    },
+    {
+        "id": "app.form.voteWeightIntegerError",
+        "description": "Error displayed when vote weight is not an integer",
+        "defaultMessage": "Vote weight must be an integer"
+    },
+    {
+        "id": "app.form.voteWeightRangeError",
+        "description": "Error displayed when vote weight is not between limits",
+        "defaultMessage": "Vote weight must be between {min} and {max}"
+    },
+    {
+        "id": "app.form.voteWeightRequired",
+        "description": "Error displayed when vote weight is not specified",
+        "defaultMessage": "Vote weight is required"
+    },
+    {
+        "id": "app.form.voteWeightExtra",
+        "description": "extra information about the vote weight input",
+        "defaultMessage": "Define a value between {min} and {max}"
+    },
+    {
+        "id": "app.form.notEnoughFunds",
+        "description": "Error displayed when a user does not have enough funds for an action",
+        "defaultMessage": "You don't have enough funds in your balance"
+    },
+    {
+        "id": "app.form.alphanumericError",
+        "description": "Error displayed when a tag contains invalid characters",
+        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+    },
+    {
+        "id": "app.form.selectOneOption",
+        "description": "Label for simple select field",
+        "defaultMessage": "Select one option"
+    },
+    {
+        "id": "app.form.tooLongError",
+        "description": "Error displayed when a tag contains more than 24 characters",
+        "defaultMessage": "Tags can have maximum 24 characters."
+    },
+    {
+        "id": "app.form.tagAlreadyAdded",
+        "description": "Error displayed when trying to add a tag that already exists",
+        "defaultMessage": "Tag {tag} already added"
+    },
+    {
+        "id": "app.form.rememberPassFor",
+        "description": "Label for checkbox to remember passphrase",
+        "defaultMessage": "Remember my passphrase for"
+    },
+    {
+        "id": "app.form.tipAmountError",
+        "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
+        "defaultMessage": "The amount should be at least {minAmount} AETH"
+    },
+    {
+        "id": "app.form.to",
+        "description": "to",
+        "defaultMessage": "To"
+    },
+    {
+        "id": "app.form.updateSettings",
+        "description": "label for update settings button",
+        "defaultMessage": "Päivitä asetukset"
+    }
+]
