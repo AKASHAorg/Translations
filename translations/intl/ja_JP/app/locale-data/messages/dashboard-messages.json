@@ -65,16 +65,6 @@
         "defaultMessage": "フィードを購読中"
     },
     {
-        "id": "app.dashboard.createDashboardFirst",
-        "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "まず掲示板を作成する必要があります。"
-    },
-    {
-        "id": "app.dashboard.createOneNow",
-        "description": "button label for creating a new board",
-        "defaultMessage": "今すぐ作成する"
-    },
-    {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
         "defaultMessage": "新しい掲示板を作成する"
@@ -82,97 +72,92 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "掲示板の名前"
+        "defaultMessage": "Board name"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "掲示板の名前は入力必須です。"
+        "defaultMessage": "Board name is required"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "この掲示板は既に存在します"
+        "defaultMessage": "This board already exists"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "このコラムを削除してもよろしいですか。"
+        "defaultMessage": "Are you sure you want to delete this column?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "{name} を削除してもよろしいですか。"
+        "defaultMessage": "Are you sure you want to delete {name}?"
     },
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "私の掲示板"
+        "defaultMessage": "My board"
     },
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "大きい"
+        "defaultMessage": "Large"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "最新の投稿"
+        "defaultMessage": "Latest entries"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "リスト"
+        "defaultMessage": "List"
     },
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "このリストは削除されました。コラムを削除してください。"
+        "defaultMessage": "This list was deleted. Please remove this column"
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "私の掲示板"
+        "defaultMessage": "My boards"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "掲示板の名前を入力"
-    },
-    {
-        "id": "app.dashboard.noDashboard",
-        "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "掲示板が見つかりません"
+        "defaultMessage": "Type board name"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "{listName} のプレビュー"
+        "defaultMessage": "Preview for {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "{displayName} のプレビュー"
+        "defaultMessage": "Preview for {displayName}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "#{tagName} のプレビュー"
+        "defaultMessage": "Preview for #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "ユーザー"
+        "defaultMessage": "User"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "掲示板を検索"
+        "defaultMessage": "Search for a board..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "小さい"
+        "defaultMessage": "Small"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,66 +167,6 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "タグ"
-    },
-    {
-        "id": "app.dashboard.noColumnsTitle",
-        "description": "Column placeholder title",
-        "defaultMessage": "A new world awaits you!"
-    },
-    {
-        "id": "app.dashboard.noColumns",
-        "description": "Column placeholder message",
-        "defaultMessage": "Your favorite topics and users at your fingertips."
-    },
-    {
-        "id": "app.dashboard.addFirstColumn",
-        "description": "add first column button label",
-        "defaultMessage": "Add first column"
-    },
-    {
-        "id": "app.dashboard.createNewListColumnSubtitle",
-        "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
-    },
-    {
-        "id": "app.dashboard.akashaBoard",
-        "description": "label for dashboard top bar popover",
-        "defaultMessage": "Akasha Board"
-    },
-    {
-        "id": "app.dashboard.newBoard",
-        "description": "label for dashboard popover new board button",
-        "defaultMessage": "New board"
-    },
-    {
-        "id": "app.dashboard.createNewSubtitle",
-        "description": "subtitle for creating a new board modal",
-        "defaultMessage": "Please insert the name of your board"
-    },
-    {
-        "id": "app.dashboard.modalInputPlaceholder",
-        "description": "placeholder for new dashboard modal input",
-        "defaultMessage": "Type the name of your board here"
-    },
-    {
-        "id": "app.dashboard.comments",
-        "description": "label for user comments column",
-        "defaultMessage": "User comments"
-    },
-    {
-        "id": "app.dashboard.previewComments",
-        "description": "label for user comments column preview",
-        "defaultMessage": "{displayName} のプレビュー"
-    },
-    {
-        "id": "app.dashboard.addNewCommentsColumn",
-        "description": "panel title for adding a new comments column",
-        "defaultMessage": "User comments column"
-    },
-    {
-        "id": "app.dashboard.addNewCommentsColumnSubtitle",
-        "description": "panel subtitle for adding a new comments column",
-        "defaultMessage": "ユーザーを選択してください"
+        "defaultMessage": "Tag"
     }
 ]
