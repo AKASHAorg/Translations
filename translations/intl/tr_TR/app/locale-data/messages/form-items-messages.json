@@ -140,74 +140,59 @@
         "defaultMessage": "Parolanızı yazın"
     },
     {
-        "id": "app.form.amountToForge",
-        "description": "label for forge AETH amount slider",
-        "defaultMessage": "Dönüştürülecek Essence miktarını seçin"
-    },
-    {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Lütfen aktarılacak bir miktar seçin"
-    },
-    {
-        "id": "app.form.fromManafiedToCycling",
-        "description": "label for shift amount slider",
-        "defaultMessage": "Dönüşüm için Manafied"
-    },
-    {
-        "id": "app.form.fromTransferableToManafied",
-        "description": "label for shift amount slider",
-        "defaultMessage": "Manafied için transfer edilebilir"
+        "defaultMessage": "Please select an amount to shift"
     },
     {
         "id": "app.form.confirmPassphrase",
-        "description": "şifre onay girişi için etiket",
-        "defaultMessage": "Parolayı onayla"
+        "description": "label for passphrase confirmation input",
+        "defaultMessage": "Confirm passphrase"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "AETH Yap"
+        "defaultMessage": "Forge AETH"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Bedava AETH"
+        "defaultMessage": "Free AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana Toplam Skor"
+        "defaultMessage": "Mana total score"
     },
     {
         "id": "app.form.name",
-        "description": "İsim alanı için yer tutucu",
-        "defaultMessage": "İsim"
+        "description": "Placeholder for name input field",
+        "defaultMessage": "Name"
     },
     {
         "id": "app.form.passphraseConfirmError",
-        "description": "Verilen parolalar aynı olmadığında görüntülenecek hata mesajı",
-        "defaultMessage": "Parolalar eşleşmiyor. Lütfen parolanızı tekrar yazınız"
+        "description": "Error message displayed when the given passphrases don't match",
+        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
     },
     {
         "id": "app.form.passphraseVerify",
-        "description": "Parola doğrulama girdisi için yer tutucu",
-        "defaultMessage": "Parolayı doğrula"
+        "description": "Placeholder for passphrase verify input",
+        "defaultMessage": "Verify passphrase"
     },
     {
         "id": "app.form.requiredError",
-        "description": "gerekli alanlar için hata mesajı",
-        "defaultMessage": "Bu alan gereklidir"
+        "description": "error message for required fields",
+        "defaultMessage": "This field is required"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Azalt"
+        "defaultMessage": "Shift down"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Mana Havuzunu Azalt"
+        "defaultMessage": "Shift down Mana"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,32 +202,32 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Arttır"
+        "defaultMessage": "Shift up"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Mana Havuzunu Artır"
+        "defaultMessage": "Shift up Mana"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH {value} Mana üretecek"
+        "defaultMessage": "{value} Mana will manafy {value} Transferable AETH"
     },
     {
         "id": "app.form.tips",
-        "description": "ipuçları için etiket",
-        "defaultMessage": "Bahşişler"
+        "description": "label for tips",
+        "defaultMessage": "TIPS"
     },
     {
         "id": "app.form.title",
-        "description": "Başlık girdi alanı için yer tutucu",
+        "description": "Placeholder for title input field",
         "defaultMessage": "Başlık"
     },
     {
         "id": "app.form.totalAethBalance",
-        "description": "toplam AETH bakiyesi için etiket",
-        "defaultMessage": "Toplam AETH bakiyesi"
+        "description": "label for total AETH balance",
+        "defaultMessage": "Total AETH balance"
     },
     {
         "id": "app.form.url",
@@ -252,96 +237,66 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Oy ağırlığı bir tamsayı olmalıdır"
+        "defaultMessage": "Vote weight must be an integer"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Oy ağırlığı {min} ve {max} arasında olmalıdır"
+        "defaultMessage": "Vote weight must be between {min} and {max}"
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "Oy değeri gereklidir"
+        "defaultMessage": "Vote weight is required"
     },
     {
         "id": "app.form.voteWeightExtra",
         "description": "extra information about the vote weight input",
-        "defaultMessage": "{min} ve {max} arasında bir değer belirtin"
+        "defaultMessage": "Define a value between {min} and {max}"
     },
     {
-        "id": "app.form.notEnoughMana",
-        "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "Bu eylem için yeterli Manaya sahip değilsiniz"
+        "id": "app.form.notEnoughFunds",
+        "description": "Error displayed when a user does not have enough funds for an action",
+        "defaultMessage": "You don't have enough funds in your balance"
     },
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Etiketler yalnızca harfleri, rakamları ve karakterler arasında bir tire ( - ) veya alt çizgi ( _ ) içerebilir."
+        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
     },
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Bir seçenek seçin"
+        "defaultMessage": "Select one option"
     },
     {
         "id": "app.form.tooLongError",
-        "description": "Etiket 24 karakterden fazla olduğunda gösterilecek hata",
-        "defaultMessage": "Etiketler maksimum 24 karakter içerebilir."
+        "description": "Error displayed when a tag contains more than 24 characters",
+        "defaultMessage": "Tags can have maximum 24 characters."
     },
     {
         "id": "app.form.tagAlreadyAdded",
-        "description": "Varolan bir etiket eklenmeye çalışıldığında gösterilecek hata",
-        "defaultMessage": "Etiket {tag} zaten eklenmiş"
+        "description": "Error displayed when trying to add a tag that already exists",
+        "defaultMessage": "Tag {tag} already added"
     },
     {
         "id": "app.form.rememberPassFor",
-        "description": "Parolayı hatırlama onay kutusu için etiket",
-        "defaultMessage": "Için parolamı hatırla"
+        "description": "Label for checkbox to remember passphrase",
+        "defaultMessage": "Remember my passphrase for"
     },
     {
         "id": "app.form.tipAmountError",
-        "description": "Bahşiş izin verilen en az miktardan az olduğunda gösterilecek hata",
-        "defaultMessage": "Miktar en az {minAmount} AETH olmalıdır"
+        "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
+        "defaultMessage": "The amount should be at least {minAmount} AETH"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "Hedef"
+        "defaultMessage": "To"
     },
     {
         "id": "app.form.updateSettings",
-        "description": "güncelleme ayarları düğmesi için etiket",
-        "defaultMessage": "Ayarları Güncelle"
-    },
-    {
-        "id": "app.form.navigationError",
-        "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
-    },
-    {
-        "id": "app.form.navigateTitle",
-        "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
-    },
-    {
-        "id": "app.form.navigateSubtitle",
-        "description": "subtitle for the navigation modal",
-        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
-    },
-    {
-        "id": "app.form.shareLinkTitle",
-        "description": "title for the share link modal",
-        "defaultMessage": "Share link"
-    },
-    {
-        "id": "app.form.shareLinkSubtitle",
-        "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
-    },
-    {
-        "id": "app.form.storageNameInvalid",
-        "description": "error message for ipfs storage name field",
-        "defaultMessage": "Storage name cannot contain slash (/) character"
+        "description": "label for update settings button",
+        "defaultMessage": "Ayarları güncelle"
     }
 ]
