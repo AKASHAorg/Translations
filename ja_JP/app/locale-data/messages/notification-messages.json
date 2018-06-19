@@ -60,9 +60,19 @@
         "defaultMessage": "{displayName} をフォローしていません"
     },
     {
+        "id": "app.notification.notEnoughEthers",
+        "description": "Notification to show when not enough ethers",
+        "defaultMessage": "You don`t have enough ethers."
+    },
+    {
+        "id": "app.notification.notEnoughEthOrMana",
+        "description": "Notification when not enough eth or mana",
+        "defaultMessage": "You don`t have enough ethers or mana."
+    },
+    {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "あなたのプロフィールが正常に更新されました"
+        "defaultMessage": "Highfives! Profile successfully registered!"
     },
     {
         "id": "app.notification.publishCommentSuccess",
@@ -82,12 +92,12 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry updated successfully"
+        "defaultMessage": "Entry \"{title}\" successfully updated."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Entry published successfully"
+        "defaultMessage": "Draft \"{title}\" successfully published."
     },
     {
         "id": "app.notification.claimSuccess",
@@ -223,5 +233,70 @@
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
         "defaultMessage": "You have successfully saved your personal settings"
+    },
+    {
+        "id": "app.notification.faucetRequestSuccess",
+        "description": "message to show when faucet tx successful",
+        "defaultMessage": "You have successfully received test ETH and some AETH"
+    },
+    {
+        "id": "app.settings.notifFollow",
+        "description": "text for notification",
+        "defaultMessage": "followed you"
+    },
+    {
+        "id": "app.settings.notifComment",
+        "description": "text for notification",
+        "defaultMessage": "commented on"
+    },
+    {
+        "id": "app.settings.notifDonationAeth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationBoth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationEth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH"
+    },
+    {
+        "id": "app.settings.notifVote",
+        "description": "text for notification",
+        "defaultMessage": "voted on"
+    },
+    {
+        "id": "app.settings.notifBlockNr",
+        "description": "text for notification block number",
+        "defaultMessage": "at block number {blockNr}"
+    },
+    {
+        "id": "app.notification.errorCopiedToClipboard",
+        "description": "notification to show when user copies error info",
+        "defaultMessage": "Error copied to clipboard"
+    },
+    {
+        "id": "app.notification.welcomeTitle",
+        "description": "title for welcome/faucet notification",
+        "defaultMessage": "Welcome to AKASHA"
+    },
+    {
+        "id": "app.notification.welcomeMessage",
+        "description": "welcome/faucet notification message",
+        "defaultMessage": "To claim your test ETH gift, please click"
+    },
+    {
+        "id": "app.notification.noFunds",
+        "description": "title for faucet notification",
+        "defaultMessage": "No more funds"
+    },
+    {
+        "id": "app.notification.renewBalance",
+        "description": "description for faucet notification",
+        "defaultMessage": "To renew your balance, please click"
     }
 ]
