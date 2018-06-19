@@ -140,29 +140,14 @@
         "defaultMessage": "あなたのパスフレーズを入力してください"
     },
     {
-        "id": "app.form.amountToForge",
-        "description": "label for forge AETH amount slider",
-        "defaultMessage": "変換するエッセンスの数量を選択してください"
-    },
-    {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "交換する金額を選択してください"
-    },
-    {
-        "id": "app.form.fromManafiedToCycling",
-        "description": "label for shift amount slider",
-        "defaultMessage": "マナファイドからサイクリングにする"
-    },
-    {
-        "id": "app.form.fromTransferableToManafied",
-        "description": "label for shift amount slider",
-        "defaultMessage": "トランスファラブルからマナファイドにする"
+        "defaultMessage": "Please select an amount to shift"
     },
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "パスフレーズの確認"
+        "defaultMessage": "Confirm passphrase"
     },
     {
         "id": "app.form.forgeAeth",
@@ -172,42 +157,42 @@
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "無料AETH"
+        "defaultMessage": "Free AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "マナトータルスコア"
+        "defaultMessage": "Mana total score"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "名前"
+        "defaultMessage": "Name"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "パスフレーズが一致しません。もう一度パスフレーズを入力してください。"
+        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "パスフレーズを認証"
+        "defaultMessage": "Verify passphrase"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "入力必須です。"
+        "defaultMessage": "This field is required"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "減る"
+        "defaultMessage": "Shift down"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Manaプールが減少"
+        "defaultMessage": "Shift down Mana"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,17 +202,17 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "増える"
+        "defaultMessage": "Shift up"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Manaプールが増加"
+        "defaultMessage": "Shift up Mana"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH will generate {value} Mana"
+        "defaultMessage": "{value} Mana will manafy {value} Transferable AETH"
     },
     {
         "id": "app.form.tips",
@@ -242,7 +227,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "合計残高AETH"
+        "defaultMessage": "Total AETH balance"
     },
     {
         "id": "app.form.url",
@@ -252,27 +237,27 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "票のウエイトは整数でなければなりません"
+        "defaultMessage": "Vote weight must be an integer"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "票のウエイトは {min} と {max} の間でなければなりません"
+        "defaultMessage": "Vote weight must be between {min} and {max}"
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "票のウエイトが必要です"
+        "defaultMessage": "Vote weight is required"
     },
     {
         "id": "app.form.voteWeightExtra",
         "description": "extra information about the vote weight input",
-        "defaultMessage": "{min} と {max} の間の値を設定してください"
+        "defaultMessage": "Define a value between {min} and {max}"
     },
     {
-        "id": "app.form.notEnoughMana",
-        "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "このアクションに必要なマナがありません"
+        "id": "app.form.notEnoughFunds",
+        "description": "Error displayed when a user does not have enough funds for an action",
+        "defaultMessage": "You don't have enough funds in your balance"
     },
     {
         "id": "app.form.alphanumericError",
@@ -282,66 +267,36 @@
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "オプションを１つ選択してください"
+        "defaultMessage": "Select one option"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "タグは最大２４文字までです。"
+        "defaultMessage": "Tags can have maximum 24 characters."
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "タグ {tag} は既に追加されています"
+        "defaultMessage": "Tag {tag} already added"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "私のパスフレーズを覚える"
+        "defaultMessage": "Remember my passphrase for"
     },
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "残高が最低 {minAmount} AETH必要です"
+        "defaultMessage": "The amount should be at least {minAmount} AETH"
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "受取人"
+        "defaultMessage": "To"
     },
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
         "defaultMessage": "アップデート設定"
-    },
-    {
-        "id": "app.form.navigationError",
-        "description": "error message for invalid Akasha link",
-        "defaultMessage": "これはアカシャの有効なリンクではありません"
-    },
-    {
-        "id": "app.form.navigateTitle",
-        "description": "title for the navigation modal",
-        "defaultMessage": "ここにアカシャのリンクを貼り付けてください"
-    },
-    {
-        "id": "app.form.navigateSubtitle",
-        "description": "subtitle for the navigation modal",
-        "defaultMessage": "エントリーまたはプロフィール ページに移動するリンクを入力してください"
-    },
-    {
-        "id": "app.form.shareLinkTitle",
-        "description": "title for the share link modal",
-        "defaultMessage": "Share link"
-    },
-    {
-        "id": "app.form.shareLinkSubtitle",
-        "description": "subtitle for the share link modal",
-        "defaultMessage": "これはアカシャアプリ内のみで使用できるリンクです"
-    },
-    {
-        "id": "app.form.storageNameInvalid",
-        "description": "error message for ipfs storage name field",
-        "defaultMessage": "Storage name cannot contain slash (/) character"
     }
 ]
