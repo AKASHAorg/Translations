@@ -1,0 +1,337 @@
+[
+    {
+        "id": "app.setup.authComplete",
+        "description": "title for complete profile setup page",
+        "defaultMessage": "这是您的新身份"
+    },
+    {
+        "id": "app.setup.backup",
+        "description": "backup button label",
+        "defaultMessage": "备份密钥"
+    },
+    {
+        "id": "app.setup.completeProfile",
+        "description": "description for profile complete setup page",
+        "defaultMessage": "立即完善您的个人资料，以享受完整体验！"
+    },
+    {
+        "id": "app.setup.createIdentity",
+        "description": "Create identity button label",
+        "defaultMessage": "创建新身份"
+    },
+    {
+        "id": "app.setup.getStarted",
+        "description": "welcome subtitle when there are no profiles",
+        "defaultMessage": "从创建一个新的身份开始"
+    },
+    {
+        "id": "app.setup.gethDataDirPath",
+        "description": "geth datadir path field label",
+        "defaultMessage": "Geth 数据文件夹路径"
+    },
+    {
+        "id": "app.setup.gethIPCPath",
+        "description": "geth IPC path input placeholder",
+        "defaultMessage": "Geth IPC 路径"
+    },
+    {
+        "id": "app.setup.gethCacheSize",
+        "description": "geth cache size input placeholder",
+        "defaultMessage": "Geth 缓存大小"
+    },
+    {
+        "id": "app.setup.gethNetworkId",
+        "description": "geth network id placeholder",
+        "defaultMessage": "Geth 网络 id"
+    },
+    {
+        "id": "app.setup.importKeys",
+        "description": "Label for import keys button",
+        "defaultMessage": "导入密钥"
+    },
+    {
+        "id": "app.setup.ipfsStoragePath",
+        "description": "IPFS input field label",
+        "defaultMessage": "IPFS 存储路径"
+    },
+    {
+        "id": "app.setup.ipfsStoragePathInfo",
+        "description": "tooltip with extra information about the IPFS storage path",
+        "defaultMessage": "更改此设置将重置您的配置和本地 IPFS 内容"
+    },
+    {
+        "id": "app.setup.ipfsApiPort",
+        "description": "IPFS API port input field label",
+        "defaultMessage": "IPFS API 端口"
+    },
+    {
+        "id": "app.setup.ipfsGatewayPort",
+        "description": "IPFS gateway port input field label",
+        "defaultMessage": "IPFS 网关端口"
+    },
+    {
+        "id": "app.setup.ipfsSwarmPort",
+        "description": "IPFS swarm port input field label",
+        "defaultMessage": "IPFS 群端口"
+    },
+    {
+        "id": "app.setup.configuration",
+        "description": "panel header for configuration page",
+        "defaultMessage": "配置"
+    },
+    {
+        "id": "app.setup.lightSync",
+        "description": "geth light sync option",
+        "defaultMessage": "轻量同步"
+    },
+    {
+        "id": "app.setup.lightSyncDescription",
+        "description": "info when user selects light sync mode",
+        "defaultMessage": "..."
+    },
+    {
+        "id": "app.setup.newIdentitySubtitle",
+        "description": "subtitle for new identity page",
+        "defaultMessage": "请在下面输入您的密码"
+    },
+    {
+        "id": "app.setup.normalSync",
+        "description": "geth normal sync option",
+        "defaultMessage": "常规同步"
+    },
+    {
+        "id": "app.setup.normalSyncDescription",
+        "description": "info when user selects normal sync mode",
+        "defaultMessage": "恭喜您，您是与以太坊测试网络同步的先驱！我们建议用快速设置以启用常规同步，但勇敢的人也可以选择（非常）实验性的轻量同步！:)"
+    },
+    {
+        "id": "app.setup.normalSyncDescriptionAlt",
+        "description": "more info",
+        "defaultMessage": "我们建议用快速设置以启用常规同步。但勇敢的人也可以选择实验性的轻量同步。"
+    },
+    {
+        "id": "app.setup.synchronization",
+        "description": "panel header for synchronization page",
+        "defaultMessage": "同步"
+    },
+    {
+        "id": "app.setup.syncOptions",
+        "description": "title for synchronization options",
+        "defaultMessage": "同步选项"
+    },
+    {
+        "id": "app.setup.logDetails",
+        "description": "panel header for log details page",
+        "defaultMessage": "日志详情"
+    },
+    {
+        "id": "app.setup.login",
+        "description": "title for login page",
+        "defaultMessage": "登录"
+    },
+    {
+        "id": "app.setup.welcome",
+        "description": "auth page title",
+        "defaultMessage": "欢迎！"
+    },
+    {
+        "id": "app.setup.chooseIdentity",
+        "description": "subtitle for login page",
+        "defaultMessage": "请选择一个身份登录"
+    },
+    {
+        "id": "app.setup.newIdentity",
+        "description": "panel header for new identity page",
+        "defaultMessage": "创建新身份"
+    },
+    {
+        "id": "app.setup.interestedIn",
+        "description": "title for new identity interests page",
+        "defaultMessage": "你对什么感兴趣？"
+    },
+    {
+        "id": "app.setup.interestSuggestion",
+        "description": "description for new identity interests page",
+        "defaultMessage": "我们将根据您的兴趣为您推荐最佳的阅读内容。"
+    },
+    {
+        "id": "app.setup.expressSetup",
+        "description": "Express setup option checkbox",
+        "defaultMessage": "快速设置"
+    },
+    {
+        "id": "app.setup.faucetPending",
+        "description": "message shown while faucet tx is pending",
+        "defaultMessage": "感谢您的使用！"
+    },
+    {
+        "id": "app.setup.faucetPending1",
+        "description": "message shown while faucet tx is pending",
+        "defaultMessage": "这是一些测试 ETH :)"
+    },
+    {
+        "id": "app.setup.faucetError",
+        "description": "message shown when faucet tx fails",
+        "defaultMessage": "出问题了:("
+    },
+    {
+        "id": "app.setup.faucetRetry",
+        "description": "message shown when faucet tx fails to allow user to retry the tx",
+        "defaultMessage": "点击此处重试"
+    },
+    {
+        "id": "app.setup.faucetSuccess",
+        "description": "message shown on faucet tx success",
+        "defaultMessage": "HoHoHoHo!"
+    },
+    {
+        "id": "app.setup.faucetSuccess1",
+        "description": "message shown on faucet tx success",
+        "defaultMessage": "您收到了测试 ETH！"
+    },
+    {
+        "id": "app.setup.advancedSetup",
+        "description": "Advanced setup option checkbox",
+        "defaultMessage": "高级"
+    },
+    {
+        "id": "app.setup.downloadingGeth",
+        "description": "message shown when geth is downloading",
+        "defaultMessage": "下载 Geth 客户端..."
+    },
+    {
+        "id": "app.setup.downloadingIpfs",
+        "description": "message shown when IPFS is downloading",
+        "defaultMessage": "下载 IPFS 客户端..."
+    },
+    {
+        "id": "app.setup.startingGeth",
+        "description": "message shown when Geth is starting",
+        "defaultMessage": "启动 Geth 客户端..."
+    },
+    {
+        "id": "app.setup.upgradingGeth",
+        "description": "message shown when Geth is upgrading",
+        "defaultMessage": "升级 Geth 客户端..."
+    },
+    {
+        "id": "app.setup.upgradingIpfs",
+        "description": "message shown when IPFS is upgrading",
+        "defaultMessage": "升级 IPFS 客户端..."
+    },
+    {
+        "id": "app.setup.processing",
+        "description": "message shown when processing blocks",
+        "defaultMessage": "处理中"
+    },
+    {
+        "id": "app.setup.synchronizing",
+        "description": "message shown when synchronizing with the blockchain",
+        "defaultMessage": "同步中"
+    },
+    {
+        "id": "app.setup.syncStopped",
+        "description": "message shown when synchronization was stopped",
+        "defaultMessage": "同步停止"
+    },
+    {
+        "id": "app.setup.syncCompleted",
+        "description": "message shown when synchronization is completed",
+        "defaultMessage": "同步完成"
+    },
+    {
+        "id": "app.setup.syncPaused",
+        "description": "message shown when synchronization is completed",
+        "defaultMessage": "同步暂停"
+    },
+    {
+        "id": "app.setup.onSyncStart",
+        "description": "Message to show when synchronizing",
+        "defaultMessage": "一旦同步完成，您就能够登录并享受完整的体验！我们在另一面等你！o/"
+    },
+    {
+        "id": "app.setup.afterSyncFinish",
+        "description": "Message to show after synchronization has finished",
+        "defaultMessage": "同步完成。需要启动 IPFS 服务才能继续。\n                        您可以通过头部状态条手动启动，或点击“下一步”自动启动。"
+    },
+    {
+        "id": "app.setup.noProfilesFound",
+        "description": "placeholder message shown if no local profiles were found",
+        "defaultMessage": "如果您想导入身份，请参阅此链接。"
+    },
+    {
+        "id": "app.setup.findingPeers",
+        "description": "finding peers",
+        "defaultMessage": "查找对等端点"
+    },
+    {
+        "id": "app.setup.launchingServices",
+        "description": "message to display when geth and IPFS services are about to start",
+        "defaultMessage": "服务启动中"
+    },
+    {
+        "id": "app.setup.waitingForServices",
+        "description": "default message to display in sync status",
+        "defaultMessage": "等待服务"
+    },
+    {
+        "id": "app.setup.waitingForGeth",
+        "description": "message to display when synchronization is in default state",
+        "defaultMessage": "等待 geth 客户端"
+    },
+    {
+        "id": "app.setup.peerCount",
+        "description": "number of peers connected",
+        "defaultMessage": "{peerCount, number} {peerCount, plural, one {个对等端点} few {个对等端点} many {个对等端点} other {个对等端点}}，{peerCount, plural, one {已连接} other {已连接}}"
+    },
+    {
+        "id": "app.setup.details",
+        "description": "details button label",
+        "defaultMessage": "详情"
+    },
+    {
+        "id": "app.setup.gethStopped",
+        "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
+        "defaultMessage": "Geth 服务未启用。请手动启动以获取您的个人资料。"
+    },
+    {
+        "id": "app.setup.ipfsStopped",
+        "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
+        "defaultMessage": "IPFS 服务已停止。请手动启动以获取您的个人资料。"
+    },
+    {
+        "id": "app.setup.tutorialTitle",
+        "description": "title for tutorial Modal",
+        "defaultMessage": "开始前的一些提示"
+    },
+    {
+        "id": "app.setup.tutorialEth",
+        "description": "text for tutorial Modal",
+        "defaultMessage": "此 dapp 使用测试 ETH（Ether）所以请不要发送真正的 ETH 到此 dapp 内的地址。"
+    },
+    {
+        "id": "app.setup.tutorialMana",
+        "description": "text for tutorial Modal",
+        "defaultMessage": "此 dapp 需要法力化的 AETH（法力）来进行互动。您可以通过单击右上角的 AETH 余额，然后在“转换”选项卡中选择法力化，来获得法力。"
+    },
+    {
+        "id": "app.setup.tutorialManaAlt",
+        "description": "text for tutorial Modal",
+        "defaultMessage": "或者，您可以点击侧边栏您的头像照片旁边的法力指示器，然后选择“提升”。"
+    },
+    {
+        "id": "app.setup.gethDescription",
+        "description": "geth service description",
+        "defaultMessage": "You are using a third party web3 provider."
+    },
+    {
+        "id": "app.setup.ipfsDescription",
+        "description": "ipfs service description",
+        "defaultMessage": "You are using the JavaScript implementation of IPFS."
+    },
+    {
+        "id": "app.setup.ipfsStorageName",
+        "description": "IPFS storage name input field label",
+        "defaultMessage": "IPFS storage name"
+    }
+]
