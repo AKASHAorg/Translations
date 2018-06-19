@@ -1,0 +1,112 @@
+[
+    {
+        "id": "app.action.bondAeth",
+        "description": "bond/manafy AETH",
+        "defaultMessage": "Manafy {amount} AETH"
+    },
+    {
+        "id": "app.action.claim",
+        "description": "claim/collect Essence from entry",
+        "defaultMessage": "Collect Essence for"
+    },
+    {
+        "id": "app.action.claimVote",
+        "description": "claim/collect Essence from vote on entry",
+        "defaultMessage": "Collect Essence for vote on"
+    },
+    {
+        "id": "app.action.comment",
+        "description": "publish comment on an entry",
+        "defaultMessage": "Comment on"
+    },
+    {
+        "id": "app.action.commentDownvote",
+        "description": "downvote comment on an entry",
+        "defaultMessage": "Downvote comment on"
+    },
+    {
+        "id": "app.action.commentUpvote",
+        "description": "upvote comment on an entry",
+        "defaultMessage": "Upvote comment on"
+    },
+    {
+        "id": "app.action.cycleAeth",
+        "description": "cycle manafied AETH",
+        "defaultMessage": "Cycle {amount} AETH"
+    },
+    {
+        "id": "app.action.draftPublish",
+        "description": "publish an entry",
+        "defaultMessage": "Publicar"
+    },
+    {
+        "id": "app.action.draftPublishUpdate",
+        "description": "update/edit an entry",
+        "defaultMessage": "Atualizar"
+    },
+    {
+        "id": "app.action.entryDownvote",
+        "description": "downvote an entry",
+        "defaultMessage": "Downvote {weight} on"
+    },
+    {
+        "id": "app.action.entryUpvote",
+        "description": "upvote an entry",
+        "defaultMessage": "Upvote {weight} on"
+    },
+    {
+        "id": "app.action.faucet",
+        "description": "make faucet request for funds",
+        "defaultMessage": "Request funds from faucet"
+    },
+    {
+        "id": "app.action.follow",
+        "description": "follow a profile",
+        "defaultMessage": "Seguir"
+    },
+    {
+        "id": "app.action.freeAeth",
+        "description": "collect/free cycled AETH",
+        "defaultMessage": "Collect {amount} Cycled AETH"
+    },
+    {
+        "id": "app.action.profileRegister",
+        "description": "register your profile",
+        "defaultMessage": "Registrar seu perfil"
+    },
+    {
+        "id": "app.action.profileUpdate",
+        "description": "update your profile",
+        "defaultMessage": "Atualizar seu perfil"
+    },
+    {
+        "id": "app.action.sendTip",
+        "description": "send tip to someone",
+        "defaultMessage": "Enviar gorjeta para"
+    },
+    {
+        "id": "app.action.toggleDonations",
+        "description": "change tip options (from personal settings)",
+        "defaultMessage": "Alterar opções de gorjeta"
+    },
+    {
+        "id": "app.action.transferAeth",
+        "description": "transfer AETH to someone",
+        "defaultMessage": "Transfer {tokenAmount} AETH to"
+    },
+    {
+        "id": "app.action.transferEth",
+        "description": "transfer ETH to someone",
+        "defaultMessage": "Transferir {value} ETH para"
+    },
+    {
+        "id": "app.action.transformEssence",
+        "description": "transform Essence into new AETH (forge AETH)",
+        "defaultMessage": "Transform {amount} Essence"
+    },
+    {
+        "id": "app.action.unfollow",
+        "description": "unfollow a profile",
+        "defaultMessage": "Deixar de seguir"
+    }
+]
