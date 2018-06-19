@@ -157,7 +157,7 @@
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "#{tagName} のプレビュー"
     },
     {
         "id": "app.dashboard.profile",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "掲示板を検索"
     },
     {
         "id": "app.dashboard.small",
