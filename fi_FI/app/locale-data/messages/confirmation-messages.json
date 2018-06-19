@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip of {value} ETH to {displayName}."
+        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
@@ -223,5 +223,15 @@
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
         "defaultMessage": "Älä seuraa"
+    },
+    {
+        "id": "app.confirmations.batch",
+        "description": "confirmation message for a batch of transactions",
+        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+    },
+    {
+        "id": "app.confirmations.batchTitle",
+        "description": "title for confirmation dialog for a batch of transations",
+        "defaultMessage": "Multiple transactions"
     }
 ]
