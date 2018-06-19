@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Raccogliere"
     },
     {
         "id": "app.general.collected",
@@ -632,7 +632,7 @@
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Aggiornamento"
     },
     {
         "id": "app.general.updating",
@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "versione",
         "defaultMessage": "Version"
     },
     {
