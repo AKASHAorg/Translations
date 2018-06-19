@@ -1,0 +1,12 @@
+[
+    {
+        "id": "app.search.noResults",
+        "description": "message displayed when no results are found",
+        "defaultMessage": "Nessun risultato trovato"
+    },
+    {
+        "id": "app.search.searchSomething",
+        "description": "placeholder for search input",
+        "defaultMessage": "Cerca qualcosa..."
+    }
+]

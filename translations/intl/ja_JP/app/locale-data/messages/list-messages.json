@@ -1,0 +1,62 @@
+[
+    {
+        "id": "app.list.addToList",
+        "description": "tooltip for add to list button",
+        "defaultMessage": "リストに追加"
+    },
+    {
+        "id": "app.list.addToNewList",
+        "description": "title for new list form",
+        "defaultMessage": "新しいリストに追加"
+    },
+    {
+        "id": "app.list.createNew",
+        "description": "create new list button label",
+        "defaultMessage": "新しいリストを作成"
+    },
+    {
+        "id": "app.list.descriptionPlaceholder",
+        "description": "placeholder for list description input",
+        "defaultMessage": "簡単な説明を追加"
+    },
+    {
+        "id": "app.list.deleteList",
+        "description": "delete list confirmation text",
+        "defaultMessage": "このリストを削除してもよろしいですか。"
+    },
+    {
+        "id": "app.list.editList",
+        "description": "title for edit list popover",
+        "defaultMessage": "リストを編集"
+    },
+    {
+        "id": "app.list.listName",
+        "description": "label for list name input",
+        "defaultMessage": "リスト名"
+    },
+    {
+        "id": "app.list.listNameRequired",
+        "description": "error message for empty list name input",
+        "defaultMessage": "リスト名は入力必要項目です。"
+    },
+    {
+        "id": "app.list.listNameUnique",
+        "description": "unique error message for list name input",
+        "defaultMessage": "このリストは既に存在します。"
+    },
+    {
+        "id": "app.list.namePlaceholder",
+        "description": "placeholder for list name input",
+        "defaultMessage": "リスト名を入力"
+    },
+    {
+        "id": "app.list.searchForList",
+        "description": "placeholder for list search input",
+        "defaultMessage": "リストを検索"
+    },
+    {
+        "id": "app.list.shortDescription",
+        "description": "label for list description input",
+        "defaultMessage": "簡単な説明"
+    }
+]
