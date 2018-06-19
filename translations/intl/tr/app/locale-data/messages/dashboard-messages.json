@@ -232,7 +232,7 @@
     {
         "id": "app.dashboard.previewComments",
         "description": "label for user comments column preview",
-        "defaultMessage": "{displayName} için ön izleme"
+        "defaultMessage": "{displayName} için önizleme"
     },
     {
         "id": "app.dashboard.addNewCommentsColumn",
