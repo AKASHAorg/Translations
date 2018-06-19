@@ -18,5 +18,20 @@
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
         "defaultMessage": "Cette balise est nouvelle et n'a jamais été utilisée !"
+    },
+    {
+        "id": "app.tag.tagsLeft",
+        "description": "How many tags you can add",
+        "defaultMessage": "({value} remaining)"
+    },
+    {
+        "id": "app.tag.tags",
+        "description": "plural of tag",
+        "defaultMessage": "tags"
+    },
+    {
+        "id": "app.tag.cannotEditTags",
+        "description": "",
+        "defaultMessage": "Cannot edit tags when updating an entry"
     }
 ]
