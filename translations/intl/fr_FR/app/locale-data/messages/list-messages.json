@@ -1,0 +1,62 @@
+[
+    {
+        "id": "app.list.addToList",
+        "description": "tooltip for add to list button",
+        "defaultMessage": "Ajouter à une liste"
+    },
+    {
+        "id": "app.list.addToNewList",
+        "description": "title for new list form",
+        "defaultMessage": "Ajouter à une nouvelle liste"
+    },
+    {
+        "id": "app.list.createNew",
+        "description": "create new list button label",
+        "defaultMessage": "Créer une nouvelle liste"
+    },
+    {
+        "id": "app.list.descriptionPlaceholder",
+        "description": "placeholder for list description input",
+        "defaultMessage": "Ajouter une courte description"
+    },
+    {
+        "id": "app.list.deleteList",
+        "description": "delete list confirmation text",
+        "defaultMessage": "Êtes-vous sûr de vouloir supprimer cette liste ?"
+    },
+    {
+        "id": "app.list.editList",
+        "description": "title for edit list popover",
+        "defaultMessage": "Éditer cette liste"
+    },
+    {
+        "id": "app.list.listName",
+        "description": "label for list name input",
+        "defaultMessage": "Nom de la liste"
+    },
+    {
+        "id": "app.list.listNameRequired",
+        "description": "error message for empty list name input",
+        "defaultMessage": "Un nom de liste est nécessaire"
+    },
+    {
+        "id": "app.list.listNameUnique",
+        "description": "unique error message for list name input",
+        "defaultMessage": "Cette liste existe déjà"
+    },
+    {
+        "id": "app.list.namePlaceholder",
+        "description": "placeholder for list name input",
+        "defaultMessage": "Entrer un nom de liste"
+    },
+    {
+        "id": "app.list.searchForList",
+        "description": "placeholder for list search input",
+        "defaultMessage": "Rechercher une liste..."
+    },
+    {
+        "id": "app.list.shortDescription",
+        "description": "label for list description input",
+        "defaultMessage": "Courte description"
+    }
+]
