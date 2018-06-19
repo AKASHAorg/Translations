@@ -1,0 +1,302 @@
+[
+    {
+        "id": "app.notification.bondAethSuccess",
+        "description": "notification to be displayed when bond/manafy AETH transaction was mined",
+        "defaultMessage": "You successfully manafied {amount} AETH"
+    },
+    {
+        "id": "app.notification.cycleAethSuccess",
+        "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
+        "defaultMessage": "You successfully cycled {amount} AETH"
+    },
+    {
+        "id": "app.notification.freeAethSuccess",
+        "description": "notification to be displayed when collecting cycled AETH transaction was mined",
+        "defaultMessage": "You successfully collected your cycled AETH"
+    },
+    {
+        "id": "app.notification.highlightSaveSuccess",
+        "description": "Notification to be displayed when a highlight has been saved",
+        "defaultMessage": "ハイライトが保存されました"
+    },
+    {
+        "id": "app.notification.highlightSaveSuccessInputPlaceholder",
+        "description": "Placeholder for note input after highlight save",
+        "defaultMessage": "メモを入力しますか"
+    },
+    {
+        "id": "app.notification.updatingProfile",
+        "description": "Notification to be displayed when update profile transaction is sent",
+        "defaultMessage": "プロフィールを更新しています"
+    },
+    {
+        "id": "app.notification.updateProfileSuccess",
+        "description": "Notification to be displayed when update profile transaction was mined",
+        "defaultMessage": "あなたのプロフィールが正常に更新されました"
+    },
+    {
+        "id": "app.notification.followingProfile",
+        "description": "Notification to be displayed when follow transaction is sent",
+        "defaultMessage": "{displayName} をフォロー中"
+    },
+    {
+        "id": "app.notification.followProfileSuccess",
+        "description": "Notification to be displayed when follow transaction was mined",
+        "defaultMessage": "{displayName} をフォロー中"
+    },
+    {
+        "id": "app.notification.transformEssenceSuccess",
+        "description": "notification to be displayed when transform Essence transaction was mined",
+        "defaultMessage": "正常に {amount} エッセンスを変換しました"
+    },
+    {
+        "id": "app.notification.unfollowingProfile",
+        "description": "Notification to be displayed when unfollow transaction is sent",
+        "defaultMessage": "{displayName} をフォロー解除"
+    },
+    {
+        "id": "app.notification.unfollowProfileSuccess",
+        "description": "Notification to be displayed when unfollow transaction was mined",
+        "defaultMessage": "{displayName} をフォローしていません"
+    },
+    {
+        "id": "app.notification.notEnoughEthers",
+        "description": "Notification to show when not enough ethers",
+        "defaultMessage": "十分なEtherがありません"
+    },
+    {
+        "id": "app.notification.notEnoughEthOrMana",
+        "description": "Notification when not enough eth or mana",
+        "defaultMessage": "十分なEtherもしくはManaがありません"
+    },
+    {
+        "id": "app.notification.registerProfileSuccess",
+        "description": "Notification to be displayed when register profile transaction was mined",
+        "defaultMessage": "おめでとう! プロフィールが正常に登録されました"
+    },
+    {
+        "id": "app.notification.publishCommentSuccess",
+        "description": "Notification to be displayed when publish comment transaction was mined",
+        "defaultMessage": "正常にコメントを公開しました"
+    },
+    {
+        "id": "app.notification.publishingEntry",
+        "description": "Notification for when entry is publishing",
+        "defaultMessage": "\"{title}\" 公開中"
+    },
+    {
+        "id": "app.notification.publishingNewEntryVersion",
+        "description": "Notification for when a new entry version is publishing",
+        "defaultMessage": "「{title}」を更新しています。"
+    },
+    {
+        "id": "app.notification.newVersionPublishedSuccessfully",
+        "description": "Notification for when a new version was published",
+        "defaultMessage": "エントリー「{title}」が正常に更新されました"
+    },
+    {
+        "id": "app.notification.draftPublishedSuccessfully",
+        "description": "Notification for when draft successfully registered/published",
+        "defaultMessage": "下書き「{title}」が正常に公開されました"
+    },
+    {
+        "id": "app.notification.claimSuccess",
+        "description": "Notification to be displayed when collect Essence transaction was mined",
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+    },
+    {
+        "id": "app.notification.claimVoteSuccess",
+        "description": "Notification to be displayed when collect Essence for vote transaction was mined",
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+    },
+    {
+        "id": "app.notification.downvotingEntry",
+        "description": "Notification to be displayed when entry downvote transaction is sent",
+        "defaultMessage": "{entryTitle} 反対"
+    },
+    {
+        "id": "app.notification.downvoteCommentSuccess",
+        "description": "Notification to be displayed when downvote comment transaction was mined",
+        "defaultMessage": "コメントに反対投票しました"
+    },
+    {
+        "id": "app.notification.downvoteEntrySuccess",
+        "description": "Notification to be displayed when downvote entry transaction was mined",
+        "defaultMessage": "{entryTitle} に反対投票しました"
+    },
+    {
+        "id": "app.notification.upvotingEntry",
+        "description": "Notification to be displayed when entry upvote transaction is sent",
+        "defaultMessage": "{entryTitle} 賛成"
+    },
+    {
+        "id": "app.notification.upvoteCommentSuccess",
+        "description": "Notification to be displayed when upvote comment transaction was mined",
+        "defaultMessage": "コメントに賛成票を入れました"
+    },
+    {
+        "id": "app.notification.upvoteEntrySuccess",
+        "description": "Notification to be displayed when upvote entry transaction was mined",
+        "defaultMessage": "{entryTitle} に賛成票入れました"
+    },
+    {
+        "id": "app.notification.publishingComment",
+        "description": "Notification to be displayed when comment publishing tx was sent",
+        "defaultMessage": "公開中コメント"
+    },
+    {
+        "id": "app.notification.commentPublishedSuccessfully",
+        "description": "Notification to be displayed when comment successfully published",
+        "defaultMessage": "正常にコメントされました"
+    },
+    {
+        "id": "app.notification.claiming",
+        "description": "Notification to be displayed when collect transaction is sent",
+        "defaultMessage": "Collecting Essence for {entryTitle} ..."
+    },
+    {
+        "id": "app.notification.draftSavedSuccessfully",
+        "description": "notification to show when draft was successfully saved",
+        "defaultMessage": "下書きが正常に保存されました!"
+    },
+    {
+        "id": "app.notification.draftDeletedSuccessfully",
+        "description": "notification to show when draft was successfully deleted",
+        "defaultMessage": "下書きが削除されました!"
+    },
+    {
+        "id": "app.notification.linkCopiedToClipboard",
+        "description": "notification to show when user copies profile link",
+        "defaultMessage": "リンク先をクリップボードにコピーする"
+    },
+    {
+        "id": "app.notification.sendingTip",
+        "description": "Notification to be displayed when tip transaction is sent",
+        "defaultMessage": "{displayName} にチップを送金中 ..."
+    },
+    {
+        "id": "app.notification.sendTipSuccess",
+        "description": "Notification to be displayed when tip transaction was successfully mined",
+        "defaultMessage": "{displayName} にチップしました"
+    },
+    {
+        "id": "app.notification.notificationsEnabledSuccess",
+        "description": "message to be displayed when notifications were enabled for a specific user",
+        "defaultMessage": "{displayName} が有効になっている通知"
+    },
+    {
+        "id": "app.notification.notificationsDisabledSuccess",
+        "description": "message to be displayed when notifications were disabled for a specific user",
+        "defaultMessage": "{displayName} で無効になっている通知"
+    },
+    {
+        "id": "app.notification.backupSuccess",
+        "description": "message to display when the keystore backup was generated successfully",
+        "defaultMessage": "{path} で生成されたバックアップ"
+    },
+    {
+        "id": "app.notification.saveGethSettingsSuccess",
+        "description": "Geth settings successfully saved",
+        "defaultMessage": "あなたの設定は保存されました。あなたの変更を適用するためgeth                        を再起動して下さい。"
+    },
+    {
+        "id": "app.notification.saveIpfsSettingsSuccess",
+        "description": "IPFS settings successfully saved",
+        "defaultMessage": "あなたの設定は保存されました。あなたの変更を適用するためIPFS                        を再起動して下さい。"
+    },
+    {
+        "id": "app.notification.setIpfsPortsSuccess",
+        "description": "IPFS ports successfully set",
+        "defaultMessage": "あなたのIPFS portsは設定されました。あなたの変更を適用するためIPFS                        を再起動して下さい。"
+    },
+    {
+        "id": "app.settings.themeTips",
+        "description": "theme tips",
+        "defaultMessage": "アプリをリフレッシュ後にテーマが変更します"
+    },
+    {
+        "id": "app.notification.toggleDonationsSuccess",
+        "description": "toggle accepting donations/tips transaction was succesfully mined",
+        "defaultMessage": "チップ設定を変更しました"
+    },
+    {
+        "id": "app.notification.transferAethSuccess",
+        "description": "transfer AETH transaction was successfully mined",
+        "defaultMessage": "{displayName} に {tokenAmount} AETH を送金しました"
+    },
+    {
+        "id": "app.notification.transferEthSuccess",
+        "description": "transfer ETH transaction was successfully mined",
+        "defaultMessage": "{displayName} に {value} ETH を送金しました"
+    },
+    {
+        "id": "app.notification.userSettingsSaveSuccess",
+        "description": "User settings successfully saved",
+        "defaultMessage": "個人設定は保存されました"
+    },
+    {
+        "id": "app.notification.faucetRequestSuccess",
+        "description": "message to show when faucet tx successful",
+        "defaultMessage": "テスト用のETHとAETHを受け取りました"
+    },
+    {
+        "id": "app.settings.notifFollow",
+        "description": "text for notification",
+        "defaultMessage": "フォローされました"
+    },
+    {
+        "id": "app.settings.notifComment",
+        "description": "text for notification",
+        "defaultMessage": "コメントしました"
+    },
+    {
+        "id": "app.settings.notifDonationAeth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationBoth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationEth",
+        "description": "text for notification",
+        "defaultMessage": "tipped you {eth} ETH"
+    },
+    {
+        "id": "app.settings.notifVote",
+        "description": "text for notification",
+        "defaultMessage": "…に票を入れました"
+    },
+    {
+        "id": "app.settings.notifBlockNr",
+        "description": "text for notification block number",
+        "defaultMessage": "at block number {blockNr}"
+    },
+    {
+        "id": "app.notification.errorCopiedToClipboard",
+        "description": "notification to show when user copies error info",
+        "defaultMessage": "Error copied to clipboard"
+    },
+    {
+        "id": "app.notification.welcomeTitle",
+        "description": "title for welcome/faucet notification",
+        "defaultMessage": "Welcome to AKASHA"
+    },
+    {
+        "id": "app.notification.welcomeMessage",
+        "description": "welcome/faucet notification message",
+        "defaultMessage": "To claim your test ETH gift, please click"
+    },
+    {
+        "id": "app.notification.noFunds",
+        "description": "title for faucet notification",
+        "defaultMessage": "No more funds"
+    },
+    {
+        "id": "app.notification.renewBalance",
+        "description": "description for faucet notification",
+        "defaultMessage": "To renew your balance, please click"
+    }
+]
