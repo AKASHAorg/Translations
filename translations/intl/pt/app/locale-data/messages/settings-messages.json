@@ -2,7 +2,7 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Chinês"
     },
     {
         "id": "app.settings.darkTheme",
@@ -12,12 +12,12 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Personalize suas preferências"
     },
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "Inglês"
     },
     {
         "id": "app.settings.hideContent",
@@ -72,7 +72,7 @@
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Russo"
     },
     {
         "id": "app.settings.selectLanguage",
@@ -82,7 +82,7 @@
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "Espanhol"
     },
     {
         "id": "app.settings.theme",
@@ -117,7 +117,7 @@
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Aceitar gorjetas"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
