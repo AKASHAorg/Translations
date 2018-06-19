@@ -1,0 +1,42 @@
+[
+    {
+        "id": "app.tutorial.akashaTitle",
+        "description": "akasha slide title",
+        "defaultMessage": "Bahasa Kebebasan"
+    },
+    {
+        "id": "app.tutorial.akashaContent",
+        "description": "akasha slide content",
+        "defaultMessage": "Dengan AKASHA pikiran dan gagasan kamu akan bergema sepanjang keberadaan manusia,\n                 Terimakasih kepada kekebalan jaringan Antar-planet untuk penyensoran dengan desain. Informasi                hidup dan menyebar di seluruh jaringan tanpa mengandalkan entitas tertentu,                bahkan kita juga tidak."
+    },
+    {
+        "id": "app.tutorial.ethereumTitle",
+        "description": "ethereum slide title",
+        "defaultMessage": "Didukung oleh Ethereum"
+    },
+    {
+        "id": "app.tutorial.ethereumContent",
+        "description": "ethereum slide content",
+        "defaultMessage": "Ethereum menberikan kita untuk membuat jenis aplikasi baru yang menghilangkan kebutuhan                \nuntuk membabi buta mempercayai server administrator-administrator. Terimakasih kepada sifat transparannya kita                memiliki otentikasi yang kuat, identitas, verifiability, memvoting dan                transaksi-transaksi mikro."
+    },
+    {
+        "id": "app.tutorial.ipfsTitle",
+        "description": "ipfs slide title",
+        "defaultMessage": "Ditingkatkan Oleh Sistem Berkas Antar-planet"
+    },
+    {
+        "id": "app.tutorial.ipfsContent",
+        "description": "ipfs slide content",
+        "defaultMessage": "Terimakasih untuk Sistem Berkas Antar-planet (IPFS) kami menghilangkan juga keperluan                bagi server-server untuk mendistribusikan dan menyimpan konten Anda. Ini mengizinkan pengguna-pengguna untuk mengalahkan                blokasi-blokasi penyensoran tradisional dan memberdayakan orang dengan kebebasan nyata                berekspresi."
+    },
+    {
+        "id": "app.tutorial.webTitle",
+        "description": "web slide title",
+        "defaultMessage": "Menuju Sebuah Web yang Lebih Baik Dalam Pelayanan Kemanusiaan"
+    },
+    {
+        "id": "app.tutorial.webContent",
+        "description": "web slide content",
+        "defaultMessage": "Masa depan bukan suatu tempat ke mana kita akan bepergian akan tetapi suatu tempat kita dapat untuk\n                membuatnya. Kita pantas mendapatkan sebuah web yang lebih baik dan kami sekarang memiliki peralatan untuk membuat hal itu terjadi.\n                Bersama-sama kita bisa membuat sebuah dunia di mana kebebasan berekspresi pada web adalah sesuatu yang tepat,\n                bukan sebuah fitur."
+    }
+]
