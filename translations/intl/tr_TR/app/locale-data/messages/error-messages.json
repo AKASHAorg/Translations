@@ -1,0 +1,277 @@
+[
+    {
+        "id": "app.error.reportErrorTitle",
+        "description": "title for report error modal",
+        "defaultMessage": "Hata bildir"
+    },
+    {
+        "id": "app.error.thankYouForYourFeedback",
+        "description": "thank you for feedback",
+        "defaultMessage": "Geri bildirimin için teşekkür ederiz!"
+    },
+    {
+        "id": "app.error.copyTheFollowingLines",
+        "description": "text explaining what to do to report an issue on GH",
+        "defaultMessage": "Lütfen aşağıdaki satırları kopyalayın ve {githubLink} üzerinden yeni bir konu oluşturun."
+    },
+    {
+        "id": "app.error.alsoCheckForOpenedIssues",
+        "description": "text suggesting to check for existing issues",
+        "defaultMessage": "Ayrıca bu hatayla ilgili zaten açılmış herhangi bir sorun olup olmadığını kontrol edin!"
+    },
+    {
+        "id": "app.error.backupKeys",
+        "description": "error message for backup keys action",
+        "defaultMessage": "Yedekleme üretimi başarısız oldu. Tekrar deneyin"
+    },
+    {
+        "id": "app.error.commentsDownvote",
+        "description": "error message for downvoting a comment",
+        "defaultMessage": "Yoruma eksi oy verilirkern bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.commentsPublish",
+        "description": "error message for publishing a comment",
+        "defaultMessage": "Yorum yayınlanırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.commentsUpvote",
+        "description": "error message for upvoting a comment",
+        "defaultMessage": "Bir yoruma destek oyu verilirken bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.dashboardAdd",
+        "description": "error message for creating a new board",
+        "defaultMessage": "Yeni pano kaydedilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardAddColumn",
+        "description": "error message for adding a column to a board",
+        "defaultMessage": "Yeni sütun kaydedilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardDelete",
+        "description": "error message for deleting a board",
+        "defaultMessage": "Panonuz silinirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardDeleteColumn",
+        "description": "error message for removing a column from a board",
+        "defaultMessage": "Sütununuz silinirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardGetActive",
+        "description": "error message for fetching the active board",
+        "defaultMessage": "Etkin panoyu alırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardGetAll",
+        "description": "error message for fetching all boards",
+        "defaultMessage": "Panolarınızı alırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardSetActive",
+        "description": "error message for setting the active board",
+        "defaultMessage": "Etkin pano kaydedilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.dashboardUpdateColumn",
+        "description": "error message for updating a column",
+        "defaultMessage": "Sütununu güncellerken bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.draftAutosave",
+        "description": "error message for autosaving a draft",
+        "defaultMessage": "Bu taslaktaki son değişiklikler kaydedilemiyor"
+    },
+    {
+        "id": "app.error.draftPublish",
+        "description": "error message for publishing a draft",
+        "defaultMessage": "Taslağınız yayınlanırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.entriesGetAsDrafts",
+        "description": "error message for fetching your own entries",
+        "defaultMessage": "Girdilerinizi getirmeye çalışılırken bir hata oluştu. Yalnızca yerel taslaklar gösteriliyor"
+    },
+    {
+        "id": "app.error.entryClaim",
+        "description": "error message for collecting Essence for an entry",
+        "defaultMessage": "{entryTitle} için Essence toplanırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.entryClaimVote",
+        "description": "error message for collecting Essence for a vote",
+        "defaultMessage": "{entryTitle} için Essence toplanırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.entryDownvote",
+        "description": "error message for downvoting an entry",
+        "defaultMessage": "{entryTitle} eksi oy verilirken bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.entryGetFull",
+        "description": "error message for fetching a full entry",
+        "defaultMessage": "Giriş verileri alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.entryListIterator",
+        "description": "error message for fetching entries in a list",
+        "defaultMessage": "Girişler listeye alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.entryUpvote",
+        "description": "error message for upvoting an entry",
+        "defaultMessage": "{entryTitle} upvote edilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.errorNotificationTitle",
+        "description": "title for error notifcations",
+        "defaultMessage": "Hata kodu {errorCode}"
+    },
+    {
+        "id": "app.error.fatalError",
+        "description": "title for fatal error modal",
+        "defaultMessage": "Ölümcür hata"
+    },
+    {
+        "id": "app.error.generalSettings",
+        "description": "error message for fetching general settings",
+        "defaultMessage": "Genel ayarlarınız alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethGetOptions",
+        "description": "error message for fetching geth options",
+        "defaultMessage": "Geth hizmet seçenekleri alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethGetStatus",
+        "description": "error message for fetching geth status",
+        "defaultMessage": "Geth hizmet durumu alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethGetSyncStatus",
+        "description": "error message for fetching geth synchronization status",
+        "defaultMessage": "Senkronizasyon durumu alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethSaveSettings",
+        "description": "error message for saving geth settings",
+        "defaultMessage": "Geth ayarlarınız kaydedilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethSettings",
+        "description": "error message for fetching geth settings",
+        "defaultMessage": "Geth ayarlarınız alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.gethStart",
+        "description": "error message for starting geth service",
+        "defaultMessage": "Geth hizmeti başlatılamadı"
+    },
+    {
+        "id": "app.error.gethStop",
+        "description": "error message for stopping geth service",
+        "defaultMessage": "Geth hizmeti durdurulamadı"
+    },
+    {
+        "id": "app.error.ipfsGetConfig",
+        "description": "error message for fetching IPFS service configuration",
+        "defaultMessage": "IPFS hizmet yapılandırması alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsGetPorts",
+        "description": "error message for fetching IPFS ports",
+        "defaultMessage": "IPFS hizmet bağlantı noktaları alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsSaveSettings",
+        "description": "error message for saving IPFS settings",
+        "defaultMessage": "IPFS ayarlarınız kaydedilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsSetPorts",
+        "description": "ipfs set ports error message",
+        "defaultMessage": "Ipfs hizmet bağlantı noktaları ayarı alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsSettings",
+        "description": "error message for fetching IPFS settings",
+        "defaultMessage": "IPFS ayarlarınız alınırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsStart",
+        "description": "error message for starting IPFS service",
+        "defaultMessage": "IPFS hizmeti başlatılamadı"
+    },
+    {
+        "id": "app.error.ipfsGetStatus",
+        "description": "error message for fetching IPFS service status",
+        "defaultMessage": "IPFS hizmet durumu elde edilirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.ipfsStop",
+        "description": "error message for stopping IPFS service",
+        "defaultMessage": "IPFS hizmeti durdulamadı"
+    },
+    {
+        "id": "app.error.unexpectedError",
+        "description": "a general error (with no error code)",
+        "defaultMessage": "Beklenmeyen hata"
+    },
+    {
+        "id": "app.error.profileBondAeth",
+        "description": "error message for bonding (manafying) AETH",
+        "defaultMessage": "Manafying sırasında bir hata oluştu {amount} AETH"
+    },
+    {
+        "id": "app.error.profileCycleAeth",
+        "description": "error message for cycling AETH",
+        "defaultMessage": "{amount} AETH dönüştürülürken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileFreeAeth",
+        "description": "error message for freeing AETH that was cycled",
+        "defaultMessage": "Dönüştürülen AETH'nizi toplarken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileGetLocal",
+        "description": "error message for fetching local profiles",
+        "defaultMessage": "Yerel profiller getirilirken bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.profileGetList",
+        "description": "error message for fetching a list of profiles",
+        "defaultMessage": "Profiller listesini alırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileToggleDonations",
+        "description": "error message for changing the settings for accepting tips",
+        "defaultMessage": "Bahşiş ayarlarınızı değiştirirken bir hata meydana geldi"
+    },
+    {
+        "id": "app.error.profileTransferAeth",
+        "description": "error message for transferring AETH",
+        "defaultMessage": "{tokenAmount} AETH aktarılırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileTransferEth",
+        "description": "error message for transferring ETH",
+        "defaultMessage": "{value} ETH aktarılırken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileTransformEssence",
+        "description": "error message for transforming Essence in AETH",
+        "defaultMessage": "{amount} öz dönüştürülürken bir hata oluştu"
+    },
+    {
+        "id": "app.error.profileUpdate",
+        "description": "error message for updating your profile",
+        "defaultMessage": "Profiliniz güncellenirken bir hata oluştu"
+    },
+    {
+        "id": "app.error.saveGeneralSettings",
+        "description": "error message for saving general settings",
+        "defaultMessage": "Ayarlarınız kaydedilirken bir hata oluştu"
+    }
+]
