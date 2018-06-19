@@ -140,74 +140,59 @@
         "defaultMessage": "Type your passphrase"
     },
     {
-        "id": "app.form.amountToForge",
-        "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
-    },
-    {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
         "defaultMessage": "Please select an amount to shift"
     },
     {
-        "id": "app.form.fromManafiedToCycling",
-        "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
-    },
-    {
-        "id": "app.form.fromTransferableToManafied",
-        "description": "label for shift amount slider",
-        "defaultMessage": "Da Trasferibile a Manaficato"
-    },
-    {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Conferma la password"
+        "defaultMessage": "Confirm passphrase"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Crea AETH"
+        "defaultMessage": "Forge AETH"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Libera AETH"
+        "defaultMessage": "Free AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Punteggio totale di Mana"
+        "defaultMessage": "Mana total score"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Nome"
+        "defaultMessage": "Name"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Le password non coincidono. Per favore immettile di nuovo"
+        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verifica la password"
+        "defaultMessage": "Verify passphrase"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "Questo campo è obbligatorio"
+        "defaultMessage": "This field is required"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Riduci"
+        "defaultMessage": "Shift down"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Riduci la riserva di Mana"
+        "defaultMessage": "Shift down Mana"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,17 +202,17 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Aumenta"
+        "defaultMessage": "Shift up"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Aumenta la riserva di Mana"
+        "defaultMessage": "Shift up Mana"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH genererà {value} Mana"
+        "defaultMessage": "{value} Mana will manafy {value} Transferable AETH"
     },
     {
         "id": "app.form.tips",
@@ -242,7 +227,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Saldo totale di AETH"
+        "defaultMessage": "Total AETH balance"
     },
     {
         "id": "app.form.url",
@@ -252,52 +237,52 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Il peso del voto deve essere un numero intero"
+        "defaultMessage": "Vote weight must be an integer"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Il peso del voto deve essere fra {min} e {max}"
+        "defaultMessage": "Vote weight must be between {min} and {max}"
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "Il peso del voto è obbligatorio"
+        "defaultMessage": "Vote weight is required"
     },
     {
         "id": "app.form.voteWeightExtra",
         "description": "extra information about the vote weight input",
-        "defaultMessage": "Definisci un valore fra {min} e {max}"
+        "defaultMessage": "Define a value between {min} and {max}"
     },
     {
-        "id": "app.form.notEnoughMana",
-        "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "Non hai abbastanza Mana per questa azione"
+        "id": "app.form.notEnoughFunds",
+        "description": "Error displayed when a user does not have enough funds for an action",
+        "defaultMessage": "You don't have enough funds in your balance"
     },
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "I tag possono contenere solo lettere, numeri, e un trattino ( - ) o trattino basso ( _ ) tra i caratteri."
+        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
     },
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Scegli un'opzione"
+        "defaultMessage": "Select one option"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "I tag possono avere al massino 24 caratteri."
+        "defaultMessage": "Tags can have maximum 24 characters."
     },
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Il tag {tag} è già stato aggiunto"
+        "defaultMessage": "Tag {tag} already added"
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Ricorda la mia password per"
+        "defaultMessage": "Remember my passphrase for"
     },
     {
         "id": "app.form.tipAmountError",
@@ -312,36 +297,6 @@
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Aggiorna le impostazioni"
-    },
-    {
-        "id": "app.form.navigationError",
-        "description": "error message for invalid Akasha link",
-        "defaultMessage": "Questo non è un link AKASHA valido"
-    },
-    {
-        "id": "app.form.navigateTitle",
-        "description": "title for the navigation modal",
-        "defaultMessage": "Incolla qui un link AKASHA"
-    },
-    {
-        "id": "app.form.navigateSubtitle",
-        "description": "subtitle for the navigation modal",
-        "defaultMessage": "Inserisci un link per navigare ad una voce o ad un profilo"
-    },
-    {
-        "id": "app.form.shareLinkTitle",
-        "description": "title for the share link modal",
-        "defaultMessage": "Condividi link"
-    },
-    {
-        "id": "app.form.shareLinkSubtitle",
-        "description": "subtitle for the share link modal",
-        "defaultMessage": "Questo è un link interno che può essere usato solo nell'app Akasha"
-    },
-    {
-        "id": "app.form.storageNameInvalid",
-        "description": "error message for ipfs storage name field",
-        "defaultMessage": "Storage name cannot contain slash (/) character"
+        "defaultMessage": "Update Settings"
     }
 ]
