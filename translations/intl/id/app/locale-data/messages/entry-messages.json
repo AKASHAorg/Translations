@@ -12,7 +12,7 @@
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "Kamu meningkatkan vote dengan berat {weight}"
     },
     {
         "id": "app.entry.articleEntryType",
