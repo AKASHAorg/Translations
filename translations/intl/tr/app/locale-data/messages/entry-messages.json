@@ -41,32 +41,32 @@
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
-        "description": "text for caption input placeholder",
+        "description": "simge yazısı giriş yer tutucusu için metin",
         "defaultMessage": "bir başlık ekle"
     },
     {
         "id": "app.entry.collected",
-        "description": "Essence was collected for an entry/vote",
+        "description": "Bir girdi/oy için Essence toplandı",
         "defaultMessage": "Essence toplandı"
     },
     {
         "id": "app.entry.collectEssence",
-        "description": "collect essence from a published entry or vote",
+        "description": "yayınlanmış girdiden veya oydan essence toplayın",
         "defaultMessage": "Essence Topla"
     },
     {
         "id": "app.entry.commentsCount",
-        "description": "Number of comments",
+        "description": "Yorum sayısı",
         "defaultMessage": "{count, number} {count, plural, one {yorum yap} few {yorumlar} many {yorumlar} other {yorumlar}}"
     },
     {
         "id": "app.entry.continueEditing",
-        "description": "label for continue editing button",
+        "description": "düzenlemeye devam et düğmesi için etiket",
         "defaultMessage": "Düzenlemeye devam et"
     },
     {
         "id": "app.entry.downvote",
-        "description": "downvote button tooltip",
+        "description": "downvote düğmesi ipucu aracı",
         "defaultMessage": "Downvote"
     },
     {
@@ -76,62 +76,62 @@
     },
     {
         "id": "app.entry.drafts",
-        "description": "drafts section title",
+        "description": "taslak bölüm başlığı",
         "defaultMessage": "Taslaklar"
     },
     {
         "id": "app.entry.draftsCount",
-        "description": "number of drafts",
+        "description": "taslak sayısı",
         "defaultMessage": "{count, number} {count, plural, one {taslak} few {taslaklar} many {taslaklar} other {taslaklar}}"
     },
     {
         "id": "app.entry.draftContentRequired",
-        "description": "validation message for entry with no content",
+        "description": "içeriksiz girdi için doğrulama mesajı",
         "defaultMessage": "İçerik olmadan bir makale oluşturamazsınız!"
     },
     {
         "id": "app.entry.draftDelete",
-        "description": "delete draft button label",
+        "description": "taslak düğmesi etiketini sil",
         "defaultMessage": "Taslağı sil"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
-        "description": "message to show when user wants to delete a draft",
+        "description": "kullanıcı bir taslağı silmek istediğinde gösterilen ileti",
         "defaultMessage": "Bu taslağı silmek istediğinizden emin misiniz?"
     },
     {
         "id": "app.entry.draftEdit",
-        "description": "edit draft button label",
+        "description": "taslak düğmesi etiketini düzenle",
         "defaultMessage": "Taslağı düzenle"
     },
     {
         "id": "app.entry.draftSaved",
-        "description": "draft saved status message",
+        "description": "taslak durum mesajlarına kaydedildi",
         "defaultMessage": "Taslak kaydedildi"
     },
     {
         "id": "app.entry.draftSaving",
-        "description": "saving draft status message",
+        "description": "taslak durum iletisi kaydediliyor",
         "defaultMessage": "Taslak kaydediliyor"
     },
     {
         "id": "app.entry.draftSharePreview",
-        "description": "share preview link button label",
+        "description": "öz izleme bağlantı düğmesi etiketini paylaş",
         "defaultMessage": "Önizleme bağlantısını paylaş"
     },
     {
         "id": "app.entry.edited",
-        "description": "edited label for an entry",
+        "description": "bir girdi için düzenlenmiş etiket",
         "defaultMessage": "Düzenlendi"
     },
     {
         "id": "app.entry.editEntry",
-        "description": "tooltip for Edit entry button",
+        "description": "düzenleme girdi düğmesi için ipucu aracı",
         "defaultMessage": "Girdiyi düzenle"
     },
     {
         "id": "app.entry.entriesCount",
-        "description": "number of entries",
+        "description": "girdi sayısı",
         "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
     },
     {
@@ -141,17 +141,17 @@
     },
     {
         "id": "app.entry.oneTagRequired",
-        "description": "Error message requiring at least one tag",
+        "description": "En az bir etiketi gerektiren hata mesajı",
         "defaultMessage": "En az bir etiket eklemelisiniz"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
-        "description": "Error message shown when excerpt is too long",
+        "description": "Alıntı çok uzun olduğunda gösterilen hata mesajı",
         "defaultMessage": "Alıntı 120 karakterden uzun olmamalı"
     },
     {
         "id": "app.entry.excerpt",
-        "description": "excerpts section title",
+        "description": "alıntılar bölümü başlığı",
         "defaultMessage": "alıntı"
     },
     {
@@ -176,7 +176,7 @@
     },
     {
         "id": "app.entry.license",
-        "description": "License label",
+        "description": "Lisans etiketi",
         "defaultMessage": "Lisans"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
-        "description": "Message",
+        "description": "Mesaj",
         "defaultMessage": "AKASHA dApp'ı paylaştığınız bilgisayarda açtığınızdan emin olun."
     },
     {
@@ -236,12 +236,12 @@
     },
     {
         "id": "app.entry.noTitle",
-        "description": "when a draft has no title",
+        "description": "bir taslak başlıksız olduğunda",
         "defaultMessage": "Yeni taslak"
     },
     {
         "id": "app.entry.noVotes",
-        "description": "Placeholder for empty votes list",
+        "description": "Boş oyların listesi için yer tutucu",
         "defaultMessage": "Oy yok"
     },
     {
@@ -251,33 +251,33 @@
     },
     {
         "id": "app.entry.originalVersion",
-        "description": "label for original version",
-        "defaultMessage": "Original"
+        "description": "orijinal versiyon için etiket",
+        "defaultMessage": "Orijinal"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
-        "description": "cannot use a tag",
+        "description": "bir etiket kullanılamıyor",
         "defaultMessage": "Etiketlerden biri kullanılamaz!"
     },
     {
         "id": "app.entry.publicDiscussion",
-        "description": "entry comments section title",
+        "description": "girdi yorumları bölüm başlığı",
         "defaultMessage": "Genel tartışma"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Yayınlanan"
     },
     {
         "id": "app.entry.publishOptions",
-        "description": "publish options panel title",
+        "description": "yayınlama seçenekleri paneli başlığı",
         "defaultMessage": "Yayınlama seçenekleri"
     },
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "oku"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
@@ -291,17 +291,17 @@
     },
     {
         "id": "app.entry.saveHighlight",
-        "description": "save highlight button label",
+        "description": "vurgu düğmesi etiketini kaydet",
         "defaultMessage": "Vurguyu kaydet"
     },
     {
         "id": "app.entry.score",
-        "description": "entry score",
+        "description": "girdi skoru",
         "defaultMessage": "Puan"
     },
     {
         "id": "app.entry.searchProfile",
-        "description": "placeholder for profile column",
+        "description": "profil sütunu için yer tutucu",
         "defaultMessage": "Bir profili ara"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "id": "app.entry.title",
-        "description": "placeholder for draft title input",
+        "description": "taslak başlığı girişi için yer tutucu",
         "defaultMessage": "Başlık"
     },
     {
@@ -351,22 +351,22 @@
     },
     {
         "id": "app.entry.upvote",
-        "description": "upvote button tooltip",
+        "description": "downvote düğmesi ipucu aracı",
         "defaultMessage": "Desteok oyu"
     },
     {
         "id": "app.entry.version",
-        "description": "entry version",
+        "description": "girdi versiyonu",
         "defaultMessage": "sürüm"
     },
     {
         "id": "app.entry.versionHistory",
-        "description": "version history dialog title",
+        "description": "sürüm geçmişi diyalog başlığı",
         "defaultMessage": "Sürüm geçmişi"
     },
     {
         "id": "app.entry.versionNumber",
-        "description": "label for version number",
+        "description": "sürüm numarası için etiket",
         "defaultMessage": "{index} Sürümü"
     },
     {
@@ -376,17 +376,17 @@
     },
     {
         "id": "app.entry.votePercentage",
-        "description": "vote percentage distribution between downvotes and upvotes",
+        "description": "downvotes ve upvotes arasında oy yüzdesi dağılımı",
         "defaultMessage": "Destek Oyları - %{upvote} · Eksi Oylar - %{downvote}"
     },
     {
         "id": "app.entry.votingOwnComment",
-        "description": "tooltip for vote button for your own comment",
+        "description": "yorumunuz için oy düğmesi için ipucu aracı",
         "defaultMessage": "Kendi yorumuna oy veremezsin"
     },
     {
         "id": "app.entry.votingPeriod",
-        "description": "voting period for an entry has ended",
+        "description": "bir giriş için oylama dönemi sona erdi",
         "defaultMessage": "Oylama süresi sona erdi"
     },
     {
@@ -401,22 +401,22 @@
     },
     {
         "id": "app.entry.wordsCount",
-        "description": "number of words in an entry",
+        "description": "bir girdideki kelime sayısı",
         "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
     },
     {
         "id": "app.entry.writeComment",
-        "description": "input placeholder for writing a comment",
+        "description": "bir yorum yazmak için giriş yer tutucusu",
         "defaultMessage": "Bir yorum yaz"
     },
     {
         "id": "app.entry.writeReplyTo",
-        "description": "placeholder for writing a reply to someone {name}",
+        "description": "birisine {name} bir yanıt yazmak için yer tutucu",
         "defaultMessage": "{name} kişisine bir cevap yaz"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
-        "description": "Message shown when all drafts are deleted",
+        "description": "Tüm taslaklar silindiğinde gösterilen mesaj",
         "defaultMessage": "Hiç taslağınız yok."
     },
     {
