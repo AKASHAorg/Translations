@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Kolekt"
     },
     {
         "id": "app.general.collected",
@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "bersyon",
         "defaultMessage": "Version"
     },
     {
