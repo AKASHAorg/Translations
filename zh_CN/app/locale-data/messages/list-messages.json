@@ -1,0 +1,62 @@
+[
+    {
+        "id": "app.list.addToList",
+        "description": "tooltip for add to list button",
+        "defaultMessage": "添加到目录"
+    },
+    {
+        "id": "app.list.addToNewList",
+        "description": "title for new list form",
+        "defaultMessage": "添加到新目录"
+    },
+    {
+        "id": "app.list.createNew",
+        "description": "create new list button label",
+        "defaultMessage": "创建新目录"
+    },
+    {
+        "id": "app.list.descriptionPlaceholder",
+        "description": "placeholder for list description input",
+        "defaultMessage": "添加简短叙述"
+    },
+    {
+        "id": "app.list.deleteList",
+        "description": "delete list confirmation text",
+        "defaultMessage": "您确定要删除此目录吗？"
+    },
+    {
+        "id": "app.list.editList",
+        "description": "title for edit list popover",
+        "defaultMessage": "编辑此目录"
+    },
+    {
+        "id": "app.list.listName",
+        "description": "label for list name input",
+        "defaultMessage": "目录名称"
+    },
+    {
+        "id": "app.list.listNameRequired",
+        "description": "error message for empty list name input",
+        "defaultMessage": "目录名称必填"
+    },
+    {
+        "id": "app.list.listNameUnique",
+        "description": "unique error message for list name input",
+        "defaultMessage": "此目录已存在"
+    },
+    {
+        "id": "app.list.namePlaceholder",
+        "description": "placeholder for list name input",
+        "defaultMessage": "键入目录名称"
+    },
+    {
+        "id": "app.list.searchForList",
+        "description": "placeholder for list search input",
+        "defaultMessage": "搜索目录..."
+    },
+    {
+        "id": "app.list.shortDescription",
+        "description": "label for list description input",
+        "defaultMessage": "简短叙述"
+    }
+]
