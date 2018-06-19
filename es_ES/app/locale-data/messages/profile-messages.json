@@ -15,14 +15,24 @@
         "defaultMessage": "FOTO DE PORTADA"
     },
     {
+        "id": "app.profile.backgroundImageTooltip",
+        "description": "Background image section tooltip",
+        "defaultMessage": "Please upload a picture with a ratio of 2:1"
+    },
+    {
+        "id": "app.profile.aboutMeCharCount",
+        "description": "About Me character counter title",
+        "defaultMessage": "Characters left:"
+    },
+    {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
         "defaultMessage": "About me"
     },
     {
-        "id": "app.profile.collectEssence",
-        "description": "collect essence from entries and votes (button label)",
-        "defaultMessage": "Collect Essence"
+        "id": "app.profile.essenceReady",
+        "description": "title for Essence popover",
+        "defaultMessage": "Ready to collect"
     },
     {
         "id": "app.profile.contacts",
@@ -42,7 +52,7 @@
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No Cycling AETH pending"
+        "defaultMessage": "No AETH cycling in progress"
     },
     {
         "id": "app.profile.cyclingProcess",
@@ -62,7 +72,12 @@
     {
         "id": "app.profile.karmaLevel",
         "description": "Karma level",
-        "defaultMessage": "Karma lvl. {karmaLevel}"
+        "defaultMessage": "Karma lvl {karmaLevel}"
+    },
+    {
+        "id": "app.profile.linksPlaceholder",
+        "description": "Links placeholder text",
+        "defaultMessage": "Type or paste your link"
     },
     {
         "id": "app.profile.linksTitle",
@@ -141,8 +156,8 @@
     },
     {
         "id": "app.profile.followings",
-        "description": "Label for followings card",
-        "defaultMessage": "Followings"
+        "description": "Label for following card",
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followingsCount",
@@ -175,9 +190,19 @@
         "defaultMessage": "My profile"
     },
     {
+        "id": "app.profile.noPendingTransactions",
+        "description": "placeholder message for empty pending transactions log",
+        "defaultMessage": "You have no pending transactions"
+    },
+    {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles"
+        "defaultMessage": "No profiles yet"
+    },
+    {
+        "id": "app.profile.noTransactions",
+        "description": "placeholder message for empty transactions history log",
+        "defaultMessage": "You have no transactions"
     },
     {
         "id": "app.profile.overview",
@@ -240,6 +265,11 @@
         "defaultMessage": "Send to"
     },
     {
+        "id": "app.profile.sentTip",
+        "description": "sent tip action",
+        "defaultMessage": "Sent tip"
+    },
+    {
         "id": "app.profile.support",
         "description": "support/tip a user",
         "defaultMessage": "Support"
@@ -265,6 +295,16 @@
         "defaultMessage": "Total balance"
     },
     {
+        "id": "app.profile.transactionsLog",
+        "description": "title for transactions log panel",
+        "defaultMessage": "Transactions log"
+    },
+    {
+        "id": "app.profile.transactionsLogSubtitle",
+        "description": "subtitle for transactions log panel",
+        "defaultMessage": "Your interactions with the blockchain"
+    },
+    {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
         "defaultMessage": "Dejar de seguir"
@@ -273,5 +313,20 @@
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
         "defaultMessage": "Your ethereum address"
+    },
+    {
+        "id": "app.profile.noNotifications",
+        "description": "placeholder message for empty notifcations panel log",
+        "defaultMessage": "You have not received any new notifications"
+    },
+    {
+        "id": "app.profile.profiles",
+        "description": "plural form of profile :)",
+        "defaultMessage": "profiles"
+    },
+    {
+        "id": "app.profile.comments",
+        "description": "label for profile comments column",
+        "defaultMessage": "Comments"
     }
 ]
