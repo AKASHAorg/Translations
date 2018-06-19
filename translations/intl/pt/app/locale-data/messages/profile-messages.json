@@ -2,17 +2,17 @@
     {
         "id": "app.profile.amountPlaceholder",
         "description": "placeholder for amount input",
-        "defaultMessage": "Digite um valor"
+        "defaultMessage": "Type an amount"
     },
     {
         "id": "app.profile.avatarTitle",
         "description": "Avatar section title",
-        "defaultMessage": "FOTO DO PERFIL"
+        "defaultMessage": "PROFILE PICTURE"
     },
     {
         "id": "app.profile.backgroundImageTitle",
         "description": "Background image section title",
-        "defaultMessage": "FOTO DA CAPA"
+        "defaultMessage": "COVER PHOTO"
     },
     {
         "id": "app.profile.backgroundImageTooltip",
@@ -27,7 +27,7 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "Sobre mim"
+        "defaultMessage": "About me"
     },
     {
         "id": "app.profile.essenceReady",
@@ -37,17 +37,17 @@
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Contatos"
+        "defaultMessage": "Contacts"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Valor disponível {amount} AETH"
+        "defaultMessage": "Amount available {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling completo"
+        "defaultMessage": "Cycling complete"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
@@ -57,7 +57,7 @@
     {
         "id": "app.profile.cyclingProcess",
         "description": "cycling process in progress",
-        "defaultMessage": "Processo de Cycling"
+        "defaultMessage": "Cycling process"
     },
     {
         "id": "app.profile.editProfileTitle",
@@ -67,7 +67,7 @@
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Digite algo sobre você"
+        "defaultMessage": "Type something about you"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -92,27 +92,27 @@
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "Remover link"
+        "defaultMessage": "remove link"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Outros endereços de crypto"
+        "defaultMessage": "Other crypto addresses"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "Adicione o endereço crypto-moedas"
+        "defaultMessage": "Add cryptocurrency address"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "Nome da crypto-moeda"
+        "defaultMessage": "Cryptocurrency name"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "Endereço da crypto-moeda"
+        "defaultMessage": "Cryptocurrency address"
     },
     {
         "id": "app.profile.registerProfile",
@@ -122,17 +122,17 @@
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "Remover link da crypto moeda"
+        "defaultMessage": "Remove cryptocurrency link"
     },
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Entradas"
+        "defaultMessage": "Entries"
     },
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Serguir"
+        "defaultMessage": "Follow"
     },
     {
         "id": "app.profile.updateProfile",
@@ -142,52 +142,52 @@
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Seguidores"
+        "defaultMessage": "Followers"
     },
     {
         "id": "app.profile.followersCount",
         "description": "number of followers",
-        "defaultMessage": "{followers, number} {followers, plural, one {seguidor} other {seguidores}}"
+        "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
     },
     {
         "id": "app.profile.following",
         "description": "following an user",
-        "defaultMessage": "Seguindo"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "Seguindo"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followingsCount",
         "description": "number of followings",
-        "defaultMessage": "{followings, number} {followings, plural, one {te seguindo} other {te seguindo}}"
+        "defaultMessage": "{followings, number} {followings, plural, one {following} other {followings}}"
     },
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "Destaques"
+        "defaultMessage": "Highlights"
     },
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Listas"
+        "defaultMessage": "Lists"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "Meu saldo"
+        "defaultMessage": "My balance"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "Minhas entradas"
+        "defaultMessage": "My entries"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "Meu perfil"
+        "defaultMessage": "My profile"
     },
     {
         "id": "app.profile.noPendingTransactions",
@@ -207,62 +207,62 @@
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Visão geral"
+        "defaultMessage": "Overview"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "Este nome de usuário não existe"
+        "defaultMessage": "This username doesn't exist"
     },
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Configurações"
+        "defaultMessage": "Settings"
     },
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receber"
+        "defaultMessage": "Receive"
     },
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Digite um nome de usuário ou cole um endereço ethereum"
+        "defaultMessage": "Type a username or paste an ethereum address"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Metas e recompensas"
+        "defaultMessage": "Rewards and goals"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Guardar para mais tarde"
+        "defaultMessage": "Save for later"
     },
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Enviar"
+        "defaultMessage": "Send"
     },
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Enviar gorjeta"
+        "defaultMessage": "Send tip"
     },
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Enviando gorjeta..."
+        "defaultMessage": "Sending tip ..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Enviar gorjeta para {name}"
+        "defaultMessage": "Send tip to {name}"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Enviar para"
+        "defaultMessage": "Send to"
     },
     {
         "id": "app.profile.sentTip",
@@ -272,27 +272,27 @@
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Suporte"
+        "defaultMessage": "Support"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Com suporte"
+        "defaultMessage": "Supported"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supportando"
+        "defaultMessage": "Supporting"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Quantidade de gorjeta"
+        "defaultMessage": "Tip amount"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Saldo total"
+        "defaultMessage": "Total balance"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -307,12 +307,12 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Deixar de seguir"
+        "defaultMessage": "Unfollow"
     },
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Seu endereço de ethereum"
+        "defaultMessage": "Your ethereum address"
     },
     {
         "id": "app.profile.noNotifications",
@@ -327,6 +327,6 @@
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "Comentários"
+        "defaultMessage": "Comments"
     }
 ]
