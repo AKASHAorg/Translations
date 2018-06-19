@@ -1,0 +1,332 @@
+[
+    {
+        "id": "app.profile.amountPlaceholder",
+        "description": "placeholder for amount input",
+        "defaultMessage": "Kirjoita summa"
+    },
+    {
+        "id": "app.profile.avatarTitle",
+        "description": "Avatar section title",
+        "defaultMessage": "PROFIILIKUVA"
+    },
+    {
+        "id": "app.profile.backgroundImageTitle",
+        "description": "Background image section title",
+        "defaultMessage": "KANSIKUVA"
+    },
+    {
+        "id": "app.profile.backgroundImageTooltip",
+        "description": "Background image section tooltip",
+        "defaultMessage": "Lataa kuva kuvasuhteella 2:1"
+    },
+    {
+        "id": "app.profile.aboutMeCharCount",
+        "description": "About Me character counter title",
+        "defaultMessage": "Merkkiä jäljellä:"
+    },
+    {
+        "id": "app.profile.aboutMeTitle",
+        "description": "About Me section title",
+        "defaultMessage": "Minusta"
+    },
+    {
+        "id": "app.profile.essenceReady",
+        "description": "title for Essence popover",
+        "defaultMessage": "Ready to collect"
+    },
+    {
+        "id": "app.profile.contacts",
+        "description": "Contacts card title",
+        "defaultMessage": "Yhteyshenkilöt"
+    },
+    {
+        "id": "app.profile.cycledAmountAvailable",
+        "description": "amount of cycled AETH available to be collected",
+        "defaultMessage": "Käytettävissä {amount} AETHIA"
+    },
+    {
+        "id": "app.profile.cyclingComplete",
+        "description": "cycling process complete",
+        "defaultMessage": "Kierrätys valmis"
+    },
+    {
+        "id": "app.profile.cyclingPlaceholder",
+        "description": "placeholder for empty cycling AETH table",
+        "defaultMessage": "No AETH cycling in progress"
+    },
+    {
+        "id": "app.profile.cyclingProcess",
+        "description": "cycling process in progress",
+        "defaultMessage": "Kierrätys prosessi"
+    },
+    {
+        "id": "app.profile.editProfileTitle",
+        "description": "Edit profile page title",
+        "defaultMessage": "Muokkaa profiilitietoja"
+    },
+    {
+        "id": "app.profile.shortDescriptionLabel",
+        "description": "Label for Short description text field",
+        "defaultMessage": "Kirjoita jotain sinusta"
+    },
+    {
+        "id": "app.profile.karmaLevel",
+        "description": "Karma level",
+        "defaultMessage": "Karma taso {karmaLevel}"
+    },
+    {
+        "id": "app.profile.linksPlaceholder",
+        "description": "Links placeholder text",
+        "defaultMessage": "Kirjoita tai liitä linkki"
+    },
+    {
+        "id": "app.profile.linksTitle",
+        "description": "Links section title",
+        "defaultMessage": "LINKIT"
+    },
+    {
+        "id": "app.profile.addLinkButtontitle",
+        "description": "title for add link button",
+        "defaultMessage": "Lisää uusi linkki"
+    },
+    {
+        "id": "app.profile.removeLinkButtonTitle",
+        "description": "tooltip for Remove Link button",
+        "defaultMessage": "poista linkki"
+    },
+    {
+        "id": "app.profile.cryptoAddresses",
+        "description": "crypto addresses section title",
+        "defaultMessage": "Muut crypto osoitteet"
+    },
+    {
+        "id": "app.profile.addCryptoAddress",
+        "description": "add crypto address button label",
+        "defaultMessage": "Lisää cryptovaluutan osoite"
+    },
+    {
+        "id": "app.profile.cryptoName",
+        "description": "crypto name label",
+        "defaultMessage": "Cryptovaluutan nimi"
+    },
+    {
+        "id": "app.profile.cryptoAddress",
+        "description": "crypto address label",
+        "defaultMessage": "Cryptovaluutan osoite"
+    },
+    {
+        "id": "app.profile.registerProfile",
+        "description": "register profile button label",
+        "defaultMessage": "Rekisteröi profiili"
+    },
+    {
+        "id": "app.profile.removeCryptoButtonTitle",
+        "description": "remove crypto button label",
+        "defaultMessage": "Poista cryptovaluutan linkki"
+    },
+    {
+        "id": "app.profile.entries",
+        "description": "Title for entries column",
+        "defaultMessage": "Tapahtumat"
+    },
+    {
+        "id": "app.profile.follow",
+        "description": "follow a profile",
+        "defaultMessage": "Seuraa"
+    },
+    {
+        "id": "app.profile.updateProfile",
+        "description": "update a profile",
+        "defaultMessage": "Päivitä profiili"
+    },
+    {
+        "id": "app.profile.followers",
+        "description": "Label for followers tab",
+        "defaultMessage": "Seuraajat"
+    },
+    {
+        "id": "app.profile.followersCount",
+        "description": "number of followers",
+        "defaultMessage": "{followers, number} {followers, plural, one {seuraaja} other {seuraajat}}\n"
+    },
+    {
+        "id": "app.profile.following",
+        "description": "following an user",
+        "defaultMessage": "Seurattavat"
+    },
+    {
+        "id": "app.profile.followings",
+        "description": "Label for following card",
+        "defaultMessage": "Seurattavat"
+    },
+    {
+        "id": "app.profile.followingsCount",
+        "description": "number of followings",
+        "defaultMessage": "{followings, number} {followings, plural, one {seuraa} other {seurattavat}}\n"
+    },
+    {
+        "id": "app.profile.highlights",
+        "description": "title for highlights card",
+        "defaultMessage": "Kohokohdat"
+    },
+    {
+        "id": "app.profile.lists",
+        "description": "Title for lists card",
+        "defaultMessage": "Listat"
+    },
+    {
+        "id": "app.profile.myBalance",
+        "description": "Title for my balance card",
+        "defaultMessage": "Minun saldo"
+    },
+    {
+        "id": "app.profile.myEntries",
+        "description": "Title for my entries",
+        "defaultMessage": "Artikkelit"
+    },
+    {
+        "id": "app.profile.myProfile",
+        "description": "Title for profile overview sidebar",
+        "defaultMessage": "Profiili"
+    },
+    {
+        "id": "app.profile.noPendingTransactions",
+        "description": "placeholder message for empty pending transactions log",
+        "defaultMessage": "Sinulla ei ole tapahtumia vireillä"
+    },
+    {
+        "id": "app.entry.noProfiles",
+        "description": "placeholder for empty profiles list",
+        "defaultMessage": "No profiles yet"
+    },
+    {
+        "id": "app.profile.noTransactions",
+        "description": "placeholder message for empty transactions history log",
+        "defaultMessage": "Sinulla ei ole tapahtumia"
+    },
+    {
+        "id": "app.profile.overview",
+        "description": "Title for overview card",
+        "defaultMessage": "Yleiskatsaus"
+    },
+    {
+        "id": "app.profile.profileDoesntExist",
+        "description": "placeholder message for entry list when username does not exist",
+        "defaultMessage": "Tätä käyttäjätunnusta ei ole olemassa"
+    },
+    {
+        "id": "app.profile.settings",
+        "description": "Title for profile settings",
+        "defaultMessage": "Asetukset"
+    },
+    {
+        "id": "app.profile.receive",
+        "description": "Receive button label",
+        "defaultMessage": "Vastaanota"
+    },
+    {
+        "id": "app.profile.receiverPlaceholder",
+        "description": "Placeholder for receiver input",
+        "defaultMessage": "Kirjoita käyttäjänimi tai liitä ethereum osoite"
+    },
+    {
+        "id": "app.profile.rewardsAndGoals",
+        "description": "Title for rewards and goals card",
+        "defaultMessage": "Palkinnot ja tavoitteet"
+    },
+    {
+        "id": "app.profile.saveForLater",
+        "description": "Save for later button label",
+        "defaultMessage": "Tallenna myöhempää käyttöä varten"
+    },
+    {
+        "id": "app.profile.send",
+        "description": "send button label",
+        "defaultMessage": "Lähetä"
+    },
+    {
+        "id": "app.profile.sendTip",
+        "description": "tooltip for send tip button",
+        "defaultMessage": "Lähetä tippiä"
+    },
+    {
+        "id": "app.profile.sendingTip",
+        "description": "tooltip for send tip button when waiting for transaction",
+        "defaultMessage": "Tippiä lähetetään ..."
+    },
+    {
+        "id": "app.profile.sendTipTo",
+        "description": "title for send tip form",
+        "defaultMessage": "Tippiä lähetetään {name} käyttäjälle"
+    },
+    {
+        "id": "app.profile.sendTo",
+        "description": "label for receiver input",
+        "defaultMessage": "Lähetä"
+    },
+    {
+        "id": "app.profile.sentTip",
+        "description": "sent tip action",
+        "defaultMessage": "Lähetä tippiä"
+    },
+    {
+        "id": "app.profile.support",
+        "description": "support/tip a user",
+        "defaultMessage": "Tuki"
+    },
+    {
+        "id": "app.profile.supported",
+        "description": "supported by someone",
+        "defaultMessage": "Tuettu"
+    },
+    {
+        "id": "app.profile.supporting",
+        "description": "supporting someone",
+        "defaultMessage": "Tuetaan"
+    },
+    {
+        "id": "app.profile.tipAmount",
+        "description": "placeholder for tip amount input",
+        "defaultMessage": "Tipin määrä"
+    },
+    {
+        "id": "app.profile.totalBalance",
+        "description": "total ETH balance",
+        "defaultMessage": "Kokonaissaldo"
+    },
+    {
+        "id": "app.profile.transactionsLog",
+        "description": "title for transactions log panel",
+        "defaultMessage": "Tapahtumaloki"
+    },
+    {
+        "id": "app.profile.transactionsLogSubtitle",
+        "description": "subtitle for transactions log panel",
+        "defaultMessage": "Vuorovaikutuksesi blockchainin kanssa"
+    },
+    {
+        "id": "app.profile.unfollow",
+        "description": "unfollow a profile",
+        "defaultMessage": "Älä seuraa"
+    },
+    {
+        "id": "app.profile.yourEthAddress",
+        "description": "label for ethereum address input",
+        "defaultMessage": "Ethereum osoitteesi"
+    },
+    {
+        "id": "app.profile.noNotifications",
+        "description": "placeholder message for empty notifcations panel log",
+        "defaultMessage": "You have not received any new notifications"
+    },
+    {
+        "id": "app.profile.profiles",
+        "description": "plural form of profile :)",
+        "defaultMessage": "profiles"
+    },
+    {
+        "id": "app.profile.comments",
+        "description": "label for profile comments column",
+        "defaultMessage": "Kommentit"
+    }
+]
