@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Articolo"
+        "defaultMessage": "Article entries"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -35,24 +35,19 @@
         "defaultMessage": "Impossibile estrarre informazioni dal sito Web! Per favore prova un altro indirizzo"
     },
     {
-        "id": "app.entry.cannotRetrieveLicense",
-        "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Impossibile recuperare le informazioni sulla licenza."
-    },
-    {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "aggiungere una didascalia"
+        "defaultMessage": "add a caption"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Raccolta di Essenze"
+        "defaultMessage": "Essence collected"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Raccogli Essenza"
+        "defaultMessage": "Collect Essence"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,7 +57,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continua a modificare"
+        "defaultMessage": "Continue editing"
     },
     {
         "id": "app.entry.downvote",
@@ -72,12 +67,12 @@
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Bozza"
+        "defaultMessage": "Draft"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Bozze"
+        "defaultMessage": "Drafts"
     },
     {
         "id": "app.entry.draftsCount",
@@ -87,47 +82,47 @@
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "Non puoi creare un articolo senza contenuto!"
+        "defaultMessage": "You can't create an article without content!"
     },
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Elimina bozza"
+        "defaultMessage": "Delete draft"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Sei sicuro di voler eliminare questa bozza?"
+        "defaultMessage": "Are you sure you want to delete this draft?"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Modifica bozza"
+        "defaultMessage": "Edit draft"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Bozza salvata"
+        "defaultMessage": "Draft saved"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Salvataggio della bozza"
+        "defaultMessage": "Saving draft"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Condividi il link di anteprima"
+        "defaultMessage": "Share preview link"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Modificato"
+        "defaultMessage": "Edited"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Modifica la voce"
+        "defaultMessage": "Edit entry"
     },
     {
         "id": "app.entry.entriesCount",
@@ -137,72 +132,72 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Inserisci un indirizzo, per es. www.akasha.world"
+        "defaultMessage": "Enter an address. eg. www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "Devi aggiungere almeno un tag"
+        "defaultMessage": "You must add at least one tag"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Estratto non deve essere più lungo di 120 caratteri"
+        "defaultMessage": "Excerpt must not be longer than 120 characters"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "estratto"
+        "defaultMessage": "excerpt"
     },
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Immagine in primo piano"
+        "defaultMessage": "Featured image"
     },
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "Questo contenuto ha un punteggio inferiore a {punteggio}."
+        "defaultMessage": "This content has a score lower than {score}."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "Puoi cambiare questo valore dal tuo"
+        "defaultMessage": "You can change this value from your"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "impostazioni personali"
+        "defaultMessage": "personal settings"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "Licenza"
+        "defaultMessage": "License"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Link entries"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Carica più risposte"
+        "defaultMessage": "Load more replies"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Caricamento delle bozze..."
+        "defaultMessage": "Loading drafts..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Versione locale"
+        "defaultMessage": "Local version"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Assicurati di aprire AKASHA dApp sul computer da cui hai pubblicato."
+        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
     },
     {
         "id": "app.entry.newComments",
@@ -212,67 +207,57 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "No comments found"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Non sono state trovate bozze corrispondenti ai criteri di ricerca."
+        "defaultMessage": "No drafts matching your search criteria were found."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries yet"
+        "defaultMessage": "No entries"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "Nessuna nuova voce"
-    },
-    {
-        "id": "app.entry.nothingToCollect",
-        "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "Non c'è Essenza da raccogliere da questa voce"
+        "defaultMessage": "No new entries"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "Nuova bozza"
+        "defaultMessage": "No title"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "Nessun voto"
+        "defaultMessage": "No votes"
     },
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "Stai visualizzando un vecchio"
+        "defaultMessage": "You are now viewing an older"
     },
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Originale"
-    },
-    {
-        "id": "app.entry.oneOfTheTagsCannotBeUsed",
-        "description": "cannot use a tag",
-        "defaultMessage": "Uno dei tag non può essere utilizzato!"
+        "defaultMessage": "Original"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Discussione pubblica"
+        "defaultMessage": "Public discussion"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Pubblicato"
+        "defaultMessage": "Published"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Opzioni di pubblicazione"
+        "defaultMessage": "Publish options"
     },
     {
         "id": "app.entry.readTime",
@@ -282,12 +267,12 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Risoluzione dell'hash IPFS..."
+        "defaultMessage": "Resolving ipfs hash..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Sei sicuro di voler ripristinare questa bozza?"
+        "defaultMessage": "Are you sure you want to revert this draft?"
     },
     {
         "id": "app.entry.saveHighlight",
@@ -297,22 +282,22 @@
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Punteggio"
+        "defaultMessage": "Score"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Cerca un profilo"
+        "defaultMessage": "Search for a profile"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Cerca un tag"
+        "defaultMessage": "Search for a tag"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Visualizza comunque"
+        "defaultMessage": "Show anyway"
     },
     {
         "id": "app.entry.showLess",
@@ -322,17 +307,12 @@
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Mostra il commento completo"
+        "defaultMessage": "Show full comment"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Inizia a commentare"
-    },
-    {
-        "id": "app.entry.startANewDraft",
-        "description": "message to start a new draft",
-        "defaultMessage": "Crea una bozza ora!"
+        "defaultMessage": "Start comment"
     },
     {
         "id": "app.entry.title",
@@ -342,17 +322,17 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Il titolo non deve essere vuoto"
+        "defaultMessage": "Title must not be empty"
     },
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Non posso determinare l'autore della voce"
+        "defaultMessage": "Cannot resolve entry author"
     },
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Votare sopra"
     },
     {
         "id": "app.entry.version",
@@ -362,17 +342,17 @@
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Cronologia delle versioni"
+        "defaultMessage": "Version history"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Versione {index}"
+        "defaultMessage": "Version {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Il tuo voto è in sospeso"
+        "defaultMessage": "Your vote is pending"
     },
     {
         "id": "app.entry.votePercentage",
@@ -382,22 +362,22 @@
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "Non puoi votare il tuo commento"
+        "defaultMessage": "You cannot vote your own comment"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "Il periodo di voto è terminato"
+        "defaultMessage": "The voting period has ended"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Gli utenti possono ancora votare sulla voce ma il mana bruciato per questi voti non può essere raccolto dall'autore o da chi vota."
+        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "C'è stato un errore durante il tentativo di recupero informazioni sul sito web"
+        "defaultMessage": "An error occured while trying to fetch website info"
     },
     {
         "id": "app.entry.wordsCount",
@@ -407,96 +387,11 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Scrivi un commento"
+        "defaultMessage": "Write a comment"
     },
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Scrivi una risposta a {name}"
-    },
-    {
-        "id": "app.entry.youHaveNoDrafts",
-        "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "Non hai bozze."
-    },
-    {
-        "id": "app.entry.draftAll",
-        "description": "all drafts",
-        "defaultMessage": "Tutte le bozze"
-    },
-    {
-        "id": "app.entry.entriesAll",
-        "description": "",
-        "defaultMessage": "Tutte le voci"
-    },
-    {
-        "id": "app.entry.publishedAll",
-        "description": "all published entries",
-        "defaultMessage": "Tutte le voci"
-    },
-    {
-        "id": "app.entry.draftEntryCategory",
-        "description": "entry type suffix by category",
-        "defaultMessage": "bozze"
-    },
-    {
-        "id": "app.entry.publishedEntryCategory",
-        "description": "entry type suffix by category",
-        "defaultMessage": "voci"
-    },
-    {
-        "id": "app.entry.gotoMyDrafts",
-        "description": "go to my drafts button label",
-        "defaultMessage": "Vai alle mie bozze"
-    },
-    {
-        "id": "app.entry.myEntries",
-        "description": "my entries label title",
-        "defaultMessage": "Le mie voci"
-    },
-    {
-        "id": "app.entry.draftRevert",
-        "description": "button label to revert changes",
-        "defaultMessage": "Annulla le modifiche"
-    },
-    {
-        "id": "app.entry.linkDisabled",
-        "description": "tooltip for link button in comment editor",
-        "defaultMessage": "Devi prima selezionare del testo"
-    },
-    {
-        "id": "app.entry.linkPlaceholder",
-        "description": "placeholder for the link input in editors",
-        "defaultMessage": "Digita il link e premi invio"
-    },
-    {
-        "id": "app.entry.loadingImage",
-        "description": "placeholder when an image is loading",
-        "defaultMessage": "Caricamento dell'immagine"
-    },
-    {
-        "id": "app.entry.entries",
-        "description": "plural form of entry! :)",
-        "defaultMessage": "voci"
-    },
-    {
-        "id": "app.leaveAComment",
-        "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Be the first one to write a comment!"
-    },
-    {
-        "id": "app.entry.commentedOn",
-        "description": "commented on",
-        "defaultMessage": "commented on"
-    },
-    {
-        "id": "app.entry.repliedOn",
-        "description": "replied on",
-        "defaultMessage": "replied on a comment on"
-    },
-    {
-        "id": "app.entry.loadComments",
-        "description": "label for load comments button",
-        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "Write a reply to {name}"
     }
 ]
