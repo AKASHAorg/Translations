@@ -15,114 +15,99 @@
         "defaultMessage": "FOTO SAMPUL"
     },
     {
-        "id": "app.profile.backgroundImageTooltip",
-        "description": "Background image section tooltip",
-        "defaultMessage": "Silahkan unggah gambar dengan rasio 2:1"
-    },
-    {
-        "id": "app.profile.aboutMeCharCount",
-        "description": "About Me character counter title",
-        "defaultMessage": "Karakter tersisa:"
-    },
-    {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "Tentang saya"
+        "defaultMessage": "About me"
     },
     {
-        "id": "app.profile.essenceReady",
-        "description": "title for Essence popover",
-        "defaultMessage": "Ready to collect"
+        "id": "app.profile.collectEssence",
+        "description": "collect essence from entries and votes (button label)",
+        "defaultMessage": "Collect Essence"
     },
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "Kontak"
+        "defaultMessage": "Contacts"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "Jumlah yang tersedia {amount} AETH"
+        "defaultMessage": "Amount available {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cycling selesai"
+        "defaultMessage": "Cycling complete"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "No AETH cycling in progress"
+        "defaultMessage": "No Cycling AETH pending"
     },
     {
         "id": "app.profile.cyclingProcess",
         "description": "cycling process in progress",
-        "defaultMessage": "Proses Cycling"
+        "defaultMessage": "Cycling process"
     },
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "Mengedit Informasi Profil"
+        "defaultMessage": "Edit Profile Information"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "Ketik sesuatu tentang anda"
+        "defaultMessage": "Type something about you"
     },
     {
         "id": "app.profile.karmaLevel",
         "description": "Karma level",
-        "defaultMessage": "Karma lvl {karmaLevel}"
-    },
-    {
-        "id": "app.profile.linksPlaceholder",
-        "description": "Links placeholder text",
-        "defaultMessage": "Ketik atau tempelkan link kamu"
+        "defaultMessage": "Karma lvl. {karmaLevel}"
     },
     {
         "id": "app.profile.linksTitle",
         "description": "Links section title",
-        "defaultMessage": "LINK"
+        "defaultMessage": "LINKS"
     },
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "Tambahkan sebuah link baru"
+        "defaultMessage": "Add a new link"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "menghapus link"
+        "defaultMessage": "remove link"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "Alamat kripo lainnya"
+        "defaultMessage": "Other crypto addresses"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "Tambahkan alamat mata uang kripto"
+        "defaultMessage": "Add cryptocurrency address"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "Nama mata uang kripto"
+        "defaultMessage": "Cryptocurrency name"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "Alamat mata uang kripto"
+        "defaultMessage": "Cryptocurrency address"
     },
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "Mendaftarkan Profil"
+        "defaultMessage": "Register Profile"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "Menghapus link mata uang kripto"
+        "defaultMessage": "Remove cryptocurrency link"
     },
     {
         "id": "app.profile.entries",
@@ -137,12 +122,12 @@
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "Perbarui Profil"
+        "defaultMessage": "Update Profile"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "Pengikut-pengikut"
+        "defaultMessage": "Followers"
     },
     {
         "id": "app.profile.followersCount",
@@ -152,12 +137,12 @@
     {
         "id": "app.profile.following",
         "description": "following an user",
-        "defaultMessage": "Mengikuti"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followings",
-        "description": "Label for following card",
-        "defaultMessage": "Mengikuti"
+        "description": "Label for followings card",
+        "defaultMessage": "Followings"
     },
     {
         "id": "app.profile.followingsCount",
@@ -172,47 +157,37 @@
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "Daftar"
+        "defaultMessage": "Lists"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "Saldo saya"
+        "defaultMessage": "My balance"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "Entri saya"
+        "defaultMessage": "My entries"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "Profil saya"
-    },
-    {
-        "id": "app.profile.noPendingTransactions",
-        "description": "placeholder message for empty pending transactions log",
-        "defaultMessage": "Anda tidak memiliki transaksi yang tertunda"
+        "defaultMessage": "My profile"
     },
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles yet"
-    },
-    {
-        "id": "app.profile.noTransactions",
-        "description": "placeholder message for empty transactions history log",
-        "defaultMessage": "Anda tidak memiliki transaksi"
+        "defaultMessage": "No profiles"
     },
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Ikhtisar"
+        "defaultMessage": "Overview"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "Nama pengguna ini tidak ada"
+        "defaultMessage": "This username doesn't exist"
     },
     {
         "id": "app.profile.settings",
@@ -222,22 +197,22 @@
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Menerima"
+        "defaultMessage": "Receive"
     },
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Ketik nama pengguna atau tempel alamat ethereum"
+        "defaultMessage": "Type a username or paste an ethereum address"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Hadiah dan cita-cita"
+        "defaultMessage": "Rewards and goals"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Simpan untuk nanti"
+        "defaultMessage": "Save for later"
     },
     {
         "id": "app.profile.send",
@@ -257,52 +232,37 @@
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Mengirim tip ke {name}"
+        "defaultMessage": "Send tip to {name}"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Mengirim ke"
-    },
-    {
-        "id": "app.profile.sentTip",
-        "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "Send to"
     },
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Dukungan"
+        "defaultMessage": "Support"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Didukung"
+        "defaultMessage": "Supported"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Mendukung"
+        "defaultMessage": "Supporting"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Jumlah Tip"
+        "defaultMessage": "Tip amount"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total saldo"
-    },
-    {
-        "id": "app.profile.transactionsLog",
-        "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
-    },
-    {
-        "id": "app.profile.transactionsLogSubtitle",
-        "description": "subtitle for transactions log panel",
-        "defaultMessage": "Interaksi kamu dengan blockchain"
+        "defaultMessage": "Total balance"
     },
     {
         "id": "app.profile.unfollow",
@@ -312,21 +272,6 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Alamat ethereum anda"
-    },
-    {
-        "id": "app.profile.noNotifications",
-        "description": "placeholder message for empty notifcations panel log",
-        "defaultMessage": "You have not received any new notifications"
-    },
-    {
-        "id": "app.profile.profiles",
-        "description": "plural form of profile :)",
-        "defaultMessage": "profiles"
-    },
-    {
-        "id": "app.profile.comments",
-        "description": "label for profile comments column",
-        "defaultMessage": "Komentar"
+        "defaultMessage": "Your ethereum address"
     }
 ]
