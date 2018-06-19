@@ -1,0 +1,52 @@
+[
+    {
+        "id": "app.chat.joinedChannels",
+        "description": "header for joined channels list",
+        "defaultMessage": "Suosikki kanavat"
+    },
+    {
+        "id": "app.chat.recentChannels",
+        "description": "header for recent channels list",
+        "defaultMessage": "Viimeksi nähdyt kanavat"
+    },
+    {
+        "id": "app.chat.joinChannel",
+        "description": "title for join channel dialog",
+        "defaultMessage": "Liity kanavalle"
+    },
+    {
+        "id": "app.chat.channelName",
+        "description": "label for channel input field",
+        "defaultMessage": "Kanavan nimi"
+    },
+    {
+        "id": "app.chat.inputPlaceholder",
+        "description": "placeholder for chat input",
+        "defaultMessage": "Kirjoita jotain kivaa ja paina \"Enter\" lähettääksesi viesti"
+    },
+    {
+        "id": "app.chat.emptyChannelInputError",
+        "description": "error message displayed when the channel input field is empty",
+        "defaultMessage": "Kanavan nimen ei pitäisi olla tyhjä"
+    },
+    {
+        "id": "app.chat.startWithAlphanumericError",
+        "description": "error message displayed when the channel name does not begin with alphanumeric character",
+        "defaultMessage": "Kanavan nimen on alettava pienillä kirjainmerkeillä"
+    },
+    {
+        "id": "app.chat.illegalCharactersFormat",
+        "description": "error message displayed when the channel name does not respect the requested format",
+        "defaultMessage": "Vain pienet aakkosnumeeriset merkit, viivat (-) ja alaviivat (_) sallittu"
+    },
+    {
+        "id": "app.chat.channelTooLongError",
+        "description": "error message displayed when the channel name is too long",
+        "defaultMessage": "Kanavan nimessä saa olla enintään 32 merkkiä"
+    },
+    {
+        "id": "app.chat.channelDisclaimer",
+        "description": "disclaimer for custom chat channels",
+        "defaultMessage": "Tämä kanava on lyhytaikainen, viestit häviävät 24 tunnin kuluttua julkaisemisesta"
+    }
+]
