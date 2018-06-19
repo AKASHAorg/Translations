@@ -1,0 +1,912 @@
+[
+    {
+        "id": "app.general.abort",
+        "description": "abort/cancel button label",
+        "defaultMessage": "中止"
+    },
+    {
+        "id": "app.general.action",
+        "description": "action",
+        "defaultMessage": "动作"
+    },
+    {
+        "id": "app.general.aComment",
+        "description": "a random comment",
+        "defaultMessage": "一条评论"
+    },
+    {
+        "id": "app.general.add",
+        "description": "add",
+        "defaultMessage": "添加"
+    },
+    {
+        "id": "app.general.addImage",
+        "description": "placeholder for image uploader component",
+        "defaultMessage": "拖放以添加图像。"
+    },
+    {
+        "id": "app.general.addImageDragged",
+        "description": "message to show when user is dragging an image over",
+        "defaultMessage": "很好！把它放在这里！"
+    },
+    {
+        "id": "app.general.addNewEntry",
+        "description": "tooltip for sidebar add entry button",
+        "defaultMessage": "添加新条目"
+    },
+    {
+        "id": "app.general.addTo",
+        "description": "add to",
+        "defaultMessage": "添加到"
+    },
+    {
+        "id": "app.general.aeth",
+        "description": "aeth token",
+        "defaultMessage": "AETH"
+    },
+    {
+        "id": "app.general.akasha",
+        "description": "AKASHA",
+        "defaultMessage": "阿喀莎"
+    },
+    {
+        "id": "app.general.amount",
+        "description": "currency amount",
+        "defaultMessage": "数量"
+    },
+    {
+        "id": "app.general.anEntry",
+        "description": "a random entry",
+        "defaultMessage": "一个条目"
+    },
+    {
+        "id": "app.general.anEntryVote",
+        "description": "an entry vote",
+        "defaultMessage": "一个条目投票"
+    },
+    {
+        "id": "app.general.appPreferences",
+        "description": "application settings/preferences",
+        "defaultMessage": "应用设置"
+    },
+    {
+        "id": "app.general.back",
+        "description": "navigate back",
+        "defaultMessage": "返回"
+    },
+    {
+        "id": "app.general.block",
+        "description": "block number",
+        "defaultMessage": "区块"
+    },
+    {
+        "id": "app.general.cancel",
+        "description": "cancel button label",
+        "defaultMessage": "取消"
+    },
+    {
+        "id": "app.general.chat",
+        "description": "tooltip for sidebar chat button",
+        "defaultMessage": "聊天"
+    },
+    {
+        "id": "app.general.chooseImage",
+        "description": "tooltip to show when user hovers image uploader component and no image selected",
+        "defaultMessage": "选择一张图像"
+    },
+    {
+        "id": "app.general.chooseAnotherImage",
+        "description": "tooltip to show when user hovers image uploader and an image is already selected",
+        "defaultMessage": "选择其他图像"
+    },
+    {
+        "id": "app.general.close",
+        "description": "close",
+        "defaultMessage": "关闭"
+    },
+    {
+        "id": "app.general.collect",
+        "description": "collect",
+        "defaultMessage": "收集"
+    },
+    {
+        "id": "app.general.collected",
+        "description": "collected",
+        "defaultMessage": "已收集"
+    },
+    {
+        "id": "app.general.comments",
+        "description": "entry comments",
+        "defaultMessage": "评论"
+    },
+    {
+        "id": "app.general.confirm",
+        "description": "confirm button label",
+        "defaultMessage": "确认"
+    },
+    {
+        "id": "app.general.confirmedAtBlock",
+        "description": "transaction/action confirmed at block number x",
+        "defaultMessage": "在块#{blockNr} 已确认"
+    },
+    {
+        "id": "app.general.copy",
+        "description": "copy",
+        "defaultMessage": "复制"
+    },
+    {
+        "id": "app.general.counter",
+        "description": "counter",
+        "defaultMessage": "计数"
+    },
+    {
+        "id": "app.general.create",
+        "description": "Create button label",
+        "defaultMessage": "创建"
+    },
+    {
+        "id": "app.general.created",
+        "description": "created",
+        "defaultMessage": "已创建"
+    },
+    {
+        "id": "app.general.cycling",
+        "description": "AETH cycling state",
+        "defaultMessage": "轮回"
+    },
+    {
+        "id": "app.general.delete",
+        "description": "Delete something button label",
+        "defaultMessage": "删除"
+    },
+    {
+        "id": "app.general.done",
+        "description": "",
+        "defaultMessage": "完成"
+    },
+    {
+        "id": "app.general.downloading",
+        "description": "downloading geth/IPFS service",
+        "defaultMessage": "下载中"
+    },
+    {
+        "id": "app.general.edit",
+        "description": "Edit button label",
+        "defaultMessage": "编辑"
+    },
+    {
+        "id": "app.general.editProfile",
+        "description": "Edit profile button label",
+        "defaultMessage": "编辑个人资料"
+    },
+    {
+        "id": "app.general.entries",
+        "description": "entries",
+        "defaultMessage": "条目"
+    },
+    {
+        "id": "app.general.essence",
+        "description": "essence",
+        "defaultMessage": "精气"
+    },
+    {
+        "id": "app.general.essenceTotal",
+        "description": "popover title",
+        "defaultMessage": "总精气值"
+    },
+    {
+        "id": "app.general.essenceTotalScore",
+        "description": "essence total score",
+        "defaultMessage": "精气总分"
+    },
+    {
+        "id": "app.general.eth",
+        "description": "ether symbol",
+        "defaultMessage": "ETH"
+    },
+    {
+        "id": "app.general.ethereumAddress",
+        "description": "Placeholder for ethereum address field.",
+        "defaultMessage": "以太坊地址"
+    },
+    {
+        "id": "app.general.failedAtBlock",
+        "description": "transaction/action failed at block number x",
+        "defaultMessage": "在块#{blockNr} 失败"
+    },
+    {
+        "id": "app.general.forged",
+        "description": "new AETH created from Essence",
+        "defaultMessage": "已提炼"
+    },
+    {
+        "id": "app.general.forward",
+        "description": "forward",
+        "defaultMessage": "转发"
+    },
+    {
+        "id": "app.general.generatingPreview",
+        "description": "placeholder to show while an image preview is being generated",
+        "defaultMessage": "生成预览"
+    },
+    {
+        "id": "app.general.gethServiceOff",
+        "description": "geth service is stopped",
+        "defaultMessage": "Geth 服务关闭"
+    },
+    {
+        "id": "app.general.gethServiceOn",
+        "description": "geth service is started",
+        "defaultMessage": "Geth 服务开启"
+    },
+    {
+        "id": "app.general.help",
+        "description": "Help button label",
+        "defaultMessage": "帮助"
+    },
+    {
+        "id": "app.general.history",
+        "description": "transactions history",
+        "defaultMessage": "历史"
+    },
+    {
+        "id": "app.general.hoursCount",
+        "description": "hours count",
+        "defaultMessage": "{hours, number} {hours, plural, one {小时} other {小时}}"
+    },
+    {
+        "id": "app.general.ipfsServiceOff",
+        "description": "IPFS service is stopped",
+        "defaultMessage": "IPFS 服务关闭"
+    },
+    {
+        "id": "app.general.ipfsServiceOn",
+        "description": "IPFS service is started",
+        "defaultMessage": "IPFS 服务开启"
+    },
+    {
+        "id": "app.general.join",
+        "description": "join button label",
+        "defaultMessage": "加入"
+    },
+    {
+        "id": "app.general.karma",
+        "description": "karma",
+        "defaultMessage": "业力"
+    },
+    {
+        "id": "app.general.karmaTotalScore",
+        "description": "karma total score",
+        "defaultMessage": "业力总分"
+    },
+    {
+        "id": "app.general.learnMore",
+        "description": "",
+        "defaultMessage": "了解更多信息"
+    },
+    {
+        "id": "app.general.leave",
+        "description": "leave button label",
+        "defaultMessage": "离开"
+    },
+    {
+        "id": "app.general.logs",
+        "description": "Services (geth/IPFS) logs",
+        "defaultMessage": "日志"
+    },
+    {
+        "id": "app.general.logout",
+        "description": "Logout button label",
+        "defaultMessage": "注销"
+    },
+    {
+        "id": "app.general.mana",
+        "description": "mana",
+        "defaultMessage": "法力"
+    },
+    {
+        "id": "app.general.manaBurned",
+        "description": "mana burned",
+        "defaultMessage": "总消耗法力"
+    },
+    {
+        "id": "app.general.manaPool",
+        "description": "mana pool",
+        "defaultMessage": "Total Mana Consumed"
+    },
+    {
+        "id": "app.general.manafied",
+        "description": "AETH manafied/bonded state",
+        "defaultMessage": "法力化"
+    },
+    {
+        "id": "app.general.minutesCount",
+        "description": "short form of minutes count",
+        "defaultMessage": "{minutes, number} 分钟"
+    },
+    {
+        "id": "app.general.next",
+        "description": "Label for Next button",
+        "defaultMessage": "下一步"
+    },
+    {
+        "id": "app.general.no",
+        "description": "no (for confirmations)",
+        "defaultMessage": "否"
+    },
+    {
+        "id": "app.general.noPeersAvailable",
+        "description": "couldn't find any IPFS peers for a specific content",
+        "defaultMessage": "无可用对端节点"
+    },
+    {
+        "id": "app.general.notes",
+        "description": "notes",
+        "defaultMessage": "注意"
+    },
+    {
+        "id": "app.general.notFound",
+        "description": "not found",
+        "defaultMessage": "没找到"
+    },
+    {
+        "id": "app.general.notifications",
+        "description": "notifications",
+        "defaultMessage": "通知"
+    },
+    {
+        "id": "app.general.ok",
+        "description": "Ok",
+        "defaultMessage": "好"
+    },
+    {
+        "id": "app.general.okTutorial",
+        "description": "Label for tutorial modal btn",
+        "defaultMessage": "好的, 明白了!"
+    },
+    {
+        "id": "app.general.pause",
+        "description": "pause button label",
+        "defaultMessage": "暂停"
+    },
+    {
+        "id": "app.general.pending",
+        "description": "an action is pending",
+        "defaultMessage": "进行中"
+    },
+    {
+        "id": "app.general.pendingConfirmation",
+        "description": "an action is pending confirmation",
+        "defaultMessage": "确认进行中"
+    },
+    {
+        "id": "app.general.people",
+        "description": "people",
+        "defaultMessage": "用户"
+    },
+    {
+        "id": "app.general.preview",
+        "description": "preview",
+        "defaultMessage": "预览"
+    },
+    {
+        "id": "app.general.processingImage",
+        "description": "Message to show while images are being precessed",
+        "defaultMessage": "图片处理中"
+    },
+    {
+        "id": "app.general.profileOverview",
+        "description": "tooltip for profile overview button",
+        "defaultMessage": "个人资料概览"
+    },
+    {
+        "id": "app.general.publish",
+        "description": "button label for publish action",
+        "defaultMessage": "发布"
+    },
+    {
+        "id": "app.general.publishing",
+        "description": "button label when draft is publishing",
+        "defaultMessage": "发布中"
+    },
+    {
+        "id": "app.general.received",
+        "description": "received",
+        "defaultMessage": "收到"
+    },
+    {
+        "id": "app.general.receivedAmount",
+        "description": "incoming transactions",
+        "defaultMessage": "+{amount} {symbol} 从"
+    },
+    {
+        "id": "app.general.refresh",
+        "description": "refresh/reload",
+        "defaultMessage": "刷新"
+    },
+    {
+        "id": "app.general.rename",
+        "description": "rename",
+        "defaultMessage": "重命名"
+    },
+    {
+        "id": "app.general.reply",
+        "description": "reply",
+        "defaultMessage": "回复"
+    },
+    {
+        "id": "app.general.reset",
+        "description": "Reset form",
+        "defaultMessage": "重置"
+    },
+    {
+        "id": "app.general.resume",
+        "description": "resume button label",
+        "defaultMessage": "恢复"
+    },
+    {
+        "id": "app.general.retry",
+        "description": "Retry",
+        "defaultMessage": "重试"
+    },
+    {
+        "id": "app.general.requestTestAEthers",
+        "description": "",
+        "defaultMessage": "请求 AETHERS"
+    },
+    {
+        "id": "app.general.requestTestEthers",
+        "description": "button label to request test ethers",
+        "defaultMessage": "请求测试ETH"
+    },
+    {
+        "id": "app.general.requestTestEthersTitle",
+        "description": "",
+        "defaultMessage": "请求测试ETH!"
+    },
+    {
+        "id": "app.general.requestTestAEthersTitle",
+        "description": "",
+        "defaultMessage": "请求AKASHA ETH!"
+    },
+    {
+        "id": "app.general.running",
+        "description": "service status",
+        "defaultMessage": "运行中"
+    },
+    {
+        "id": "app.general.save",
+        "description": "Save changes in a form",
+        "defaultMessage": "保存"
+    },
+    {
+        "id": "app.general.saveForLater",
+        "description": "Save for later (button label)",
+        "defaultMessage": "稍后保存"
+    },
+    {
+        "id": "app.general.search",
+        "description": "tooltip for sidebar search button",
+        "defaultMessage": "搜索"
+    },
+    {
+        "id": "app.general.seeOnEtherscan",
+        "description": "tooltip for link to etherscan for transaction details",
+        "defaultMessage": "在Etherscan上查看"
+    },
+    {
+        "id": "app.general.send",
+        "description": "send button label",
+        "defaultMessage": "发送"
+    },
+    {
+        "id": "app.general.sent",
+        "description": "sent (past for send)",
+        "defaultMessage": "已发送"
+    },
+    {
+        "id": "app.general.settings",
+        "description": "settings button label",
+        "defaultMessage": "设置"
+    },
+    {
+        "id": "app.general.sidebarTooltipDashboard",
+        "description": "tooltip text for sidebar dashboard button",
+        "defaultMessage": "面板"
+    },
+    {
+        "id": "app.general.sidebarTooltipProfile",
+        "description": "tooltip text for sidebar profile button",
+        "defaultMessage": "我的个人资料"
+    },
+    {
+        "id": "app.general.sidebarTooltipCommunity",
+        "description": "tooltip text for sidebar community button",
+        "defaultMessage": "社区: 即将到来"
+    },
+    {
+        "id": "app.general.sidebarTooltipSearch",
+        "description": "tooltip text for sidebar search button",
+        "defaultMessage": "搜索"
+    },
+    {
+        "id": "app.general.sidebarTooltipChat",
+        "description": "tooltip text for sidebar chat button",
+        "defaultMessage": "聊天 (即将到来)"
+    },
+    {
+        "id": "app.general.sidebarTooltipDraftText",
+        "description": "tooltip text for sidebar draft text entry button",
+        "defaultMessage": "文本条目"
+    },
+    {
+        "id": "app.general.sidebarTooltipDraftLink",
+        "description": "tooltip text for sidebar draft link entry button",
+        "defaultMessage": "链接条目"
+    },
+    {
+        "id": "app.general.shift",
+        "description": "convert tokens",
+        "defaultMessage": "转移"
+    },
+    {
+        "id": "app.general.skipStep",
+        "description": "label for skip button",
+        "defaultMessage": "跳过此步骤"
+    },
+    {
+        "id": "app.general.start",
+        "description": "start button label",
+        "defaultMessage": "开始"
+    },
+    {
+        "id": "app.general.starting",
+        "description": "service status",
+        "defaultMessage": "正在开始"
+    },
+    {
+        "id": "app.general.stopped",
+        "description": "service status",
+        "defaultMessage": "已停止"
+    },
+    {
+        "id": "app.general.stream",
+        "description": "tooltip for sidebar stream button",
+        "defaultMessage": "流"
+    },
+    {
+        "id": "app.general.submit",
+        "description": "submit button label",
+        "defaultMessage": "提交"
+    },
+    {
+        "id": "app.general.tags",
+        "description": "tags",
+        "defaultMessage": "标签"
+    },
+    {
+        "id": "app.general.terms",
+        "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
+        "defaultMessage": "即将继续创建您的账号并使用AKASHA，视为您接受我们的                         {termsLink}，如果您不同意，您将不能使用                         AKASHA。"
+    },
+    {
+        "id": "app.general.termsOfService",
+        "description": "Terms of Service and Privacy Policy",
+        "defaultMessage": "服务条款和隐私政策"
+    },
+    {
+        "id": "app.general.transactionFailed",
+        "description": "transaction has failed",
+        "defaultMessage": "交易失败"
+    },
+    {
+        "id": "app.general.transferable",
+        "description": "AETH transferable/free state",
+        "defaultMessage": "可转换"
+    },
+    {
+        "id": "app.general.transform",
+        "description": "change the state of AETH tokens",
+        "defaultMessage": "转换"
+    },
+    {
+        "id": "app.general.transformAethers",
+        "description": "manafy/lock aeth",
+        "defaultMessage": "法力化 AETH"
+    },
+    {
+        "id": "app.general.translate",
+        "description": "translate",
+        "defaultMessage": "翻译"
+    },
+    {
+        "id": "app.general.usernameFirst",
+        "description": "tooltip title for profile complete submit button",
+        "defaultMessage": "请先选择您的用户名!"
+    },
+    {
+        "id": "app.general.userSettings",
+        "description": "user settings menu item",
+        "defaultMessage": "用户设置"
+    },
+    {
+        "id": "app.general.update",
+        "description": "Update data",
+        "defaultMessage": "更新"
+    },
+    {
+        "id": "app.general.updating",
+        "description": "button label when entry is updating",
+        "defaultMessage": "正在更新"
+    },
+    {
+        "id": "app.general.upgrading",
+        "description": "Upgrading services",
+        "defaultMessage": "正在升级"
+    },
+    {
+        "id": "app.general.viewProfile",
+        "description": "View profile",
+        "defaultMessage": "浏览个人资料"
+    },
+    {
+        "id": "app.general.vote",
+        "description": "Vote",
+        "defaultMessage": "投票"
+    },
+    {
+        "id": "app.general.wallet",
+        "description": "wallet",
+        "defaultMessage": "钱包"
+    },
+    {
+        "id": "app.general.wailting",
+        "description": "",
+        "defaultMessage": "正在等待"
+    },
+    {
+        "id": "app.general.yes",
+        "description": "yes (as a confirmation)",
+        "defaultMessage": "是"
+    },
+    {
+        "id": "app.general.comment",
+        "description": "entry comment",
+        "defaultMessage": "评论"
+    },
+    {
+        "id": "app.general.publishEntries",
+        "description": "action title",
+        "defaultMessage": "发布条目"
+    },
+    {
+        "id": "app.general.karmaPopoverTooltip",
+        "description": "karmaPopoverTooltip",
+        "defaultMessage": "当你收集精气时, 你的业力会增加。"
+    },
+    {
+        "id": "app.general.createTags",
+        "description": "Create tags action title",
+        "defaultMessage": "创建标签"
+    },
+    {
+        "id": "app.general.karmaLeaderboard",
+        "description": "karma leaderboard title",
+        "defaultMessage": "原始名誉"
+    },
+    {
+        "id": "app.general.karmaLevel",
+        "description": "karma level",
+        "defaultMessage": "{karmaLevel} 级别"
+    },
+    {
+        "id": "app.general.karmaLevelInfo",
+        "description": "karma level info",
+        "defaultMessage": "在当前级别, 您可以:"
+    },
+    {
+        "id": "app.general.karmaScore",
+        "description": "karma score",
+        "defaultMessage": "{profileKarmaScore} 业力"
+    },
+    {
+        "id": "app.general.showMore",
+        "description": "button label",
+        "defaultMessage": "显示更多"
+    },
+    {
+        "id": "app.general.noFollowings",
+        "description": "info when user is not following anyone",
+        "defaultMessage": "Follow someone to see your proto-reputation network"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeArticle",
+        "description": "tooltip text for sidebar draft text entry button",
+        "defaultMessage": "文章"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeLink",
+        "description": "tooltip text for sidebar draft link entry button",
+        "defaultMessage": "链接"
+    },
+    {
+        "id": "app.general.sidebarEntryTypeImage",
+        "description": "",
+        "defaultMessage": "图片"
+    },
+    {
+        "id": "应用.常规.您",
+        "description": "",
+        "defaultMessage": "您"
+    },
+    {
+        "id": "app.general.waitASecond",
+        "description": "title for external navigation modal",
+        "defaultMessage": "Hold on a second"
+    },
+    {
+        "id": "app.general.externalNavigationWarning",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "You are about to navigate to an external URL."
+    },
+    {
+        "id": "app.general.collectAll",
+        "description": "collect all Essence",
+        "defaultMessage": "收集所有"
+    },
+    {
+        "id": "app.general.noTransactionsTitle",
+        "description": "no transactions message title",
+        "defaultMessage": "No transactions yet"
+    },
+    {
+        "id": "app.general.noTransactionsDescription",
+        "description": "no transaction message description",
+        "defaultMessage": "Your transactions will be displayed here"
+    },
+    {
+        "id": "app.general.noEssenceToCollectTitle",
+        "description": "message title when you don`t have any essence to collect",
+        "defaultMessage": "没有精气可以收集"
+    },
+    {
+        "id": "app.general.noEssenceToCollectDescription",
+        "description": "message description when you don`t have any essence to collect",
+        "defaultMessage": "Generate Essence by posting and interacting"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedTitle",
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "No essence collected"
+    },
+    {
+        "id": "app.general.noEssenceWasCollectedDescription",
+        "description": "message for essence history popover, when there is not transaction history",
+        "defaultMessage": "Generate Essence by posting and interacting"
+    },
+    {
+        "id": "app.entry.startTypingToSearch",
+        "description": "start typing to search",
+        "defaultMessage": "开始输入并搜索"
+    },
+    {
+        "id": "app.entry.searchingNoResults",
+        "description": "searching for a term returned no results message",
+        "defaultMessage": "搜索 \"{searchTerm}\" 返回 0 {resource}。请尝试另外的关键词!"
+    },
+    {
+        "id": "app.general.go",
+        "description": "go",
+        "defaultMessage": "执行"
+    },
+    {
+        "id": "app.general.navigateToLink",
+        "description": "tooltip for navigate to link button",
+        "defaultMessage": "导航到链接"
+    },
+    {
+        "id": "app.general.share",
+        "description": "share",
+        "defaultMessage": "分享"
+    },
+    {
+        "id": "app.general.trustedDomain",
+        "description": "title for external navigation modal checkbox for trusted domains",
+        "defaultMessage": "Trusted Domain"
+    },
+    {
+        "id": "app.general.viewAll",
+        "description": "view all",
+        "defaultMessage": "View All"
+    },
+    {
+        "id": "app.general.reload",
+        "description": "reload",
+        "defaultMessage": "Reload"
+    },
+    {
+        "id": "app.general.reportIssue",
+        "description": "report issue",
+        "defaultMessage": "Report issue"
+    },
+    {
+        "id": "app.general.loadMore",
+        "description": "load more",
+        "defaultMessage": "Load more"
+    },
+    {
+        "id": "app.general.externalNavigationAreYouSure",
+        "description": "warning displayed when clicking an external link",
+        "defaultMessage": "Are you sure you want to go there?"
+    },
+    {
+        "id": "app.general.loadingImage",
+        "description": "message to display when an image is in loading state",
+        "defaultMessage": "加载图像中"
+    },
+    {
+        "id": "app.general.loadingImageFailed",
+        "description": "message to show when an image failed to load",
+        "defaultMessage": "Cannot load image :("
+    },
+    {
+        "id": "app.general.or",
+        "description": "or",
+        "defaultMessage": "or"
+    },
+    {
+        "id": "app.general.sidebarTooltipGuest",
+        "description": "tooltip text for sidebar guest mode",
+        "defaultMessage": "Not available in guest mode"
+    },
+    {
+        "id": "app.general.guestMode",
+        "description": "title for guest mode button",
+        "defaultMessage": "Guest Mode"
+    },
+    {
+        "id": "app.general.guestModeInfo",
+        "description": "info for guest mode modal",
+        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
+    },
+    {
+        "id": "app.general.unlockVault",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
+    },
+    {
+        "id": "app.general.thanks",
+        "description": "thanks",
+        "defaultMessage": "Thanks!"
+    },
+    {
+        "id": "app.general.loginUnlock",
+        "description": "info for guest mode modal",
+        "defaultMessage": "Login by unlocking your Metamask"
+    },
+    {
+        "id": "app.general.here",
+        "description": "here",
+        "defaultMessage": "here"
+    },
+    {
+        "id": "app.general.version",
+        "description": "版本",
+        "defaultMessage": "Version"
+    },
+    {
+        "id": "app.general.and",
+        "description": "and",
+        "defaultMessage": "and"
+    },
+    {
+        "id": "app.general.accept",
+        "description": "accept",
+        "defaultMessage": "Accept"
+    },
+    {
+        "id": "app.general.decline",
+        "description": "decline",
+        "defaultMessage": "Decline"
+    }
+]
