@@ -1,0 +1,52 @@
+[
+    {
+        "id": "app.chat.joinedChannels",
+        "description": "header for joined channels list",
+        "defaultMessage": "Mga i-starred na chanel"
+    },
+    {
+        "id": "app.chat.recentChannels",
+        "description": "header for recent channels list",
+        "defaultMessage": "Mga sariwang chanel"
+    },
+    {
+        "id": "app.chat.joinChannel",
+        "description": "title for join channel dialog",
+        "defaultMessage": "Sumali sa chanel"
+    },
+    {
+        "id": "app.chat.channelName",
+        "description": "label for channel input field",
+        "defaultMessage": "Pangalan ng Chanel"
+    },
+    {
+        "id": "app.chat.inputPlaceholder",
+        "description": "placeholder for chat input",
+        "defaultMessage": "Magsulat ng kahit anong mabuti at pinduting ang \"Enter\" upang mapadala ito"
+    },
+    {
+        "id": "app.chat.emptyChannelInputError",
+        "description": "error message displayed when the channel input field is empty",
+        "defaultMessage": "Ang pangalan ng chanel ay hindi dapat walang laman"
+    },
+    {
+        "id": "app.chat.startWithAlphanumericError",
+        "description": "error message displayed when the channel name does not begin with alphanumeric character",
+        "defaultMessage": "Ang pangalan ng chanel ay dapat magsisimula sa maliit na alphanumerik na karakter"
+    },
+    {
+        "id": "app.chat.illegalCharactersFormat",
+        "description": "error message displayed when the channel name does not respect the requested format",
+        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+    },
+    {
+        "id": "app.chat.channelTooLongError",
+        "description": "error message displayed when the channel name is too long",
+        "defaultMessage": "Channel name must not have more than 32 characters"
+    },
+    {
+        "id": "app.chat.channelDisclaimer",
+        "description": "disclaimer for custom chat channels",
+        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+    }
+]
