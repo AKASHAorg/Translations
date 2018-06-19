@@ -1,0 +1,52 @@
+[
+    {
+        "id": "app.chat.joinedChannels",
+        "description": "header for joined channels list",
+        "defaultMessage": "Markierte Kanäle"
+    },
+    {
+        "id": "app.chat.recentChannels",
+        "description": "header for recent channels list",
+        "defaultMessage": "Neueste Kanäle"
+    },
+    {
+        "id": "app.chat.joinChannel",
+        "description": "title for join channel dialog",
+        "defaultMessage": "Kanal beitreten"
+    },
+    {
+        "id": "app.chat.channelName",
+        "description": "label for channel input field",
+        "defaultMessage": "Name des Kanals"
+    },
+    {
+        "id": "app.chat.inputPlaceholder",
+        "description": "placeholder for chat input",
+        "defaultMessage": "Schreibe etwas Nettes und drücke \"Enter\", um es abzusenden"
+    },
+    {
+        "id": "app.chat.emptyChannelInputError",
+        "description": "error message displayed when the channel input field is empty",
+        "defaultMessage": "Name des Kanals darf nicht leer sein"
+    },
+    {
+        "id": "app.chat.startWithAlphanumericError",
+        "description": "error message displayed when the channel name does not begin with alphanumeric character",
+        "defaultMessage": "Name des Kanals muss mit einem kleingeschriebenen, alphanumerischen Zeichen beginnen"
+    },
+    {
+        "id": "app.chat.illegalCharactersFormat",
+        "description": "error message displayed when the channel name does not respect the requested format",
+        "defaultMessage": "Nur kleingeschriebene alphanumerische Zeichen, Bindestriche (-) und Unterstriche (_) erlaubt"
+    },
+    {
+        "id": "app.chat.channelTooLongError",
+        "description": "error message displayed when the channel name is too long",
+        "defaultMessage": "Name des Kanals darf nicht länger als 32 Zeichen sein"
+    },
+    {
+        "id": "app.chat.channelDisclaimer",
+        "description": "disclaimer for custom chat channels",
+        "defaultMessage": "Dieser Kanal ist vergänglich, Nachrichten werden 24 Stunden nach ihrer Veröffentlichung verschwinden"
+    }
+]
