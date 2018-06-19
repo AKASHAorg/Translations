@@ -722,12 +722,12 @@
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Makale"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "Bağlantı"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "sürüm",
         "defaultMessage": "Version"
     },
     {
