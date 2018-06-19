@@ -267,7 +267,7 @@
     {
         "id": "app.form.voteWeightExtra",
         "description": "extra information about the vote weight input",
-        "defaultMessage": "Define a value between {min} and {max}"
+        "defaultMessage": "{min} と {max} の間の値を設定してください"
     },
     {
         "id": "app.form.notEnoughMana",
