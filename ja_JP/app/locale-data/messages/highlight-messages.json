@@ -1,0 +1,32 @@
+[
+    {
+        "id": "app.highlight.addYourNotes",
+        "description": "placeholder for highlight notes textarea",
+        "defaultMessage": "ここにメモを追加する"
+    },
+    {
+        "id": "app.highlight.addNote",
+        "description": "label for add note button",
+        "defaultMessage": "メモを追加"
+    },
+    {
+        "id": "app.highlight.delete",
+        "description": "content for delete highlight modal",
+        "defaultMessage": "このハイライトを削除しますか"
+    },
+    {
+        "id": "app.highlight.deleteHighlight",
+        "description": "label for delete highlight button",
+        "defaultMessage": "ハイライトを削除する"
+    },
+    {
+        "id": "app.highlight.editNote",
+        "description": "label for edit note button",
+        "defaultMessage": "メモを編集"
+    },
+    {
+        "id": "app.highlight.startEntry",
+        "description": "label for start an entry button",
+        "defaultMessage": "投稿を始める"
+    }
+]
