@@ -12,7 +12,7 @@
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Aceitar gorjetas"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
@@ -122,7 +122,7 @@
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Endereço Ethereum"
     },
     {
         "id": "app.form.from",
@@ -141,98 +141,98 @@
     },
     {
         "id": "app.form.amountToForge",
-        "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "description": "rótulo para o controle deslizante de intensidade AETH",
+        "defaultMessage": "Selecione a quantidade de essência para ser transformada"
     },
     {
         "id": "app.form.amountToShift",
-        "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "description": "rótulo para o controle deslizante de intensidade de shift",
+        "defaultMessage": "Por favor, selecione uma quantidade a deslocar"
     },
     {
         "id": "app.form.fromManafiedToCycling",
-        "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "description": "rótulo para o controle deslizante de intensidade de shift",
+        "defaultMessage": "Do campo de mana para circulante"
     },
     {
         "id": "app.form.fromTransferableToManafied",
-        "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "description": "rótulo para o controle deslizante de intensidade de shift",
+        "defaultMessage": "De transferíveis para Manafied"
     },
     {
         "id": "app.form.confirmPassphrase",
-        "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "description": "rótulo para entrada de confirmação de senha",
+        "defaultMessage": "Confirmar senha"
     },
     {
         "id": "app.form.forgeAeth",
-        "description": "transform Essence into new AETH",
+        "description": "transformar essência em AETH novo",
         "defaultMessage": "Forge AETH"
     },
     {
         "id": "app.form.freeAeth",
-        "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "description": "rótulo de graça valor AETH",
+        "defaultMessage": "AETH grátis"
     },
     {
         "id": "app.form.manaTotalScore",
-        "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "description": "etiqueta para a pontuação total de mana",
+        "defaultMessage": "Pontuação total de mana"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nome"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Senhas diferentes. Por favor, digite as senhas novamente"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Verifique sua senha"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Este campo é obrigatório"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Diminuir"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Diminuir Mana Pool"
     },
     {
         "id": "app.form.shiftDownManaHelp",
         "description": "label for shift down Mana slider",
-        "defaultMessage": "{value} Mana will transform {value} Manafied AETH to Cycling AETH that can be collected in 7 days."
+        "defaultMessage": "{value} Mana serão transformados em {value} Manafied AETH para Cycling AETH que podem ser coletados em 7 duas."
     },
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Aumentar"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Aumentar Mana Pool"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH will generate {value} Mana"
+        "defaultMessage": "{value} AETH irão gerar {value} Mana"
     },
     {
         "id": "app.form.tips",
         "description": "label for tips",
-        "defaultMessage": "TIPS"
+        "defaultMessage": "GORJETAS"
     },
     {
         "id": "app.form.title",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "Saldo total de AETH"
     },
     {
         "id": "app.form.url",
@@ -252,66 +252,66 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Vote weight must be an integer"
+        "defaultMessage": "O peso do voto deve ser um número inteiro"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Vote weight must be between {min} and {max}"
+        "defaultMessage": "O peso do voto deve ser entre {min} e {max}"
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "Vote weight is required"
+        "defaultMessage": "Peso do voto é exigido"
     },
     {
         "id": "app.form.voteWeightExtra",
-        "description": "extra information about the vote weight input",
-        "defaultMessage": "Define a value between {min} and {max}"
+        "description": "informações extras sobre a entrada de peso de voto",
+        "defaultMessage": "Definir um valor entre {min} e {max}"
     },
     {
         "id": "app.form.notEnoughMana",
-        "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "You don't have enough Mana for this action"
+        "description": "Erro exibido quando um usuário não tiver suficiente Mana para uma ação",
+        "defaultMessage": "Você não tem suficiente Mana para esta ação"
     },
     {
         "id": "app.form.alphanumericError",
-        "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "description": "Erro exibido quando uma marca contém caracteres inválidos",
+        "defaultMessage": "Tags podem conter somente letras, números e um traço (-) ou sublinhado (_) entre os personagens."
     },
     {
         "id": "app.form.selectOneOption",
-        "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "description": "Rótulo para campo selecione simples",
+        "defaultMessage": "Selecione uma opção"
     },
     {
         "id": "app.form.tooLongError",
-        "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "description": "Erro exibido quando uma etiqueta contém mais de 24 caracteres",
+        "defaultMessage": "Etiquetas podem ter máximos 24 caracteres."
     },
     {
         "id": "app.form.tagAlreadyAdded",
-        "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "description": "Erro exibido ao tentar adicionar uma marca que já existe",
+        "defaultMessage": "{tag} de marca já adicionado"
     },
     {
         "id": "app.form.rememberPassFor",
-        "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "description": "Rótulo para a caixa de seleção lembrar senha",
+        "defaultMessage": "Lembrar minha senha para"
     },
     {
         "id": "app.form.tipAmountError",
-        "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "description": "Erro exibido quando o volume da gorjeta é menor do que o mínimo valor permitido",
+        "defaultMessage": "A quantidade deve ser pelo menos {minAmount} AETH"
     },
     {
         "id": "app.form.to",
-        "description": "to",
-        "defaultMessage": "To"
+        "description": "para",
+        "defaultMessage": "Para"
     },
     {
         "id": "app.form.updateSettings",
-        "description": "label for update settings button",
+        "description": "rótulo para o botão de configurações de atualização",
         "defaultMessage": "Update Settings"
     },
     {
