@@ -1,0 +1,52 @@
+[
+    {
+        "id": "app.validator.required",
+        "description": "When some field is required to be filled.",
+        "defaultMessage": "字段必填"
+    },
+    {
+        "id": "app.validator.min",
+        "description": "When a field has less than minimum accepted number of characters",
+        "defaultMessage": "至少必须 {min} 个字符。"
+    },
+    {
+        "id": "app.validator.max",
+        "description": "When a field has more that maximum accepted number of characters",
+        "defaultMessage": "不能超过 {max} 个字符。"
+    },
+    {
+        "id": "app.validator.invalidCharacters",
+        "description": "When a field does not start with a letter or contains invalid characters",
+        "defaultMessage": "必须以字母开头，并且只包含有效字符"
+    },
+    {
+        "id": "app.validator.passphraseNotMatching",
+        "description": "When the passphrases fields are different (when confirming the passphrase)",
+        "defaultMessage": "喔噢！密码验证与第一个不一致！"
+    },
+    {
+        "id": "app.validator.lowercase",
+        "description": "only lowercase letters",
+        "defaultMessage": "应只包含小写字母"
+    },
+    {
+        "id": "app.validator.akashaIdExists",
+        "description": "When the chosen username was already registered",
+        "defaultMessage": "用户名已注册！"
+    },
+    {
+        "id": "app.validator.akashaIdNotValid",
+        "description": "When the akashaId is not valid",
+        "defaultMessage": "只允许使用小写字母和数字组成的字符"
+    },
+    {
+        "id": "app.validator.validAddress",
+        "description": "A valid address (URL) is required",
+        "defaultMessage": "必须是有效的地址"
+    },
+    {
+        "id": "app.validator.maxExcerptLength",
+        "description": "Info message about maximum length of an excerpt",
+        "defaultMessage": "摘录最多可以有120个字符"
+    }
+]
