@@ -1,0 +1,32 @@
+[
+    {
+        "id": "app.highlight.addYourNotes",
+        "description": "placeholder for highlight notes textarea",
+        "defaultMessage": "Tambahkan catatan anda di sini"
+    },
+    {
+        "id": "app.highlight.addNote",
+        "description": "label for add note button",
+        "defaultMessage": "Menambah catatan"
+    },
+    {
+        "id": "app.highlight.delete",
+        "description": "content for delete highlight modal",
+        "defaultMessage": "Apakah anda ingin menghapus sorotan ini?"
+    },
+    {
+        "id": "app.highlight.deleteHighlight",
+        "description": "label for delete highlight button",
+        "defaultMessage": "Hapus sorotan"
+    },
+    {
+        "id": "app.highlight.editNote",
+        "description": "label for edit note button",
+        "defaultMessage": "Mengedit catatan"
+    },
+    {
+        "id": "app.highlight.startEntry",
+        "description": "label for start an entry button",
+        "defaultMessage": "Mulai memasukkan"
+    }
+]
