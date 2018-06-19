@@ -60,94 +60,84 @@
         "defaultMessage": "Artık {displayName} izliyorsunuz"
     },
     {
-        "id": "app.notification.notEnoughEthers",
-        "description": "Notification to show when not enough ethers",
-        "defaultMessage": "Yeterli eterler yok."
-    },
-    {
-        "id": "app.notification.notEnoughEthOrMana",
-        "description": "Notification when not enough eth or mana",
-        "defaultMessage": "Yeterli eterler yok."
-    },
-    {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profil başarıyla kayıtlı!"
+        "defaultMessage": "Profil başarıyla güncelleştirildi"
     },
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "Yorumunuzu başarıyla yayınladınız"
+        "defaultMessage": "You successfully published a comment"
     },
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Yayınlanıyor \"{title}\"."
+        "defaultMessage": "Publishing \"{title}\"."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "\"{title}\" güncelleştiriliyor."
+        "defaultMessage": "Updating \"{title}\"."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "\"{title}\" girdisi başarılı bir şekilde güncellendi."
+        "defaultMessage": "Entry updated successfully"
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "\"{title}\" taslağı başarılı bir şekilde yayınlandı."
+        "defaultMessage": "Entry published successfully"
     },
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "{entryTitle} için özü başarıyla topladın."
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "{entryTitle} için Essence'i başarılı bir şekilde topladın"
+        "defaultMessage": "You successfully collected Essence for {entryTitle}"
     },
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "{entryTitle} düşük oy veriliyor..."
+        "defaultMessage": "Downvoting {entryTitle} ..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "Bir yorumu başarılı bir şekilde eksilediniz"
+        "defaultMessage": "You successfully downvoted a comment"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "{entryTitle} başarıyla eksilediniz"
+        "defaultMessage": "You successfully downvoted {entryTitle}"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "{entryTitle} oy veriliyor ..."
+        "defaultMessage": "Upvoting {entryTitle} ..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "Bir yorumu başarıyla oyladın"
+        "defaultMessage": "You successfully upvoted a comment"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "Başarıyla oyladın {entryTitle}"
+        "defaultMessage": "You successfully upvoted {entryTitle}"
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Yorum yayımlama"
+        "defaultMessage": "Publishing comment"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Yorum başarıyla yayınladı"
+        "defaultMessage": "Comment published successfully"
     },
     {
         "id": "app.notification.claiming",
@@ -157,146 +147,81 @@
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Taslak başarıyla kaydedildi!"
+        "defaultMessage": "Draft successfully saved!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Taslak başarıyla silindi!"
+        "defaultMessage": "Draft successfully deleted!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Bağlantı panoya kopyalandı"
+        "defaultMessage": "Link copied to clipboard"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "{displayName}'e bahşiş gönderiliyor ..."
+        "defaultMessage": "Sending tip to {displayName} ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "{displayName} kişisine başarıyla bahşiş verdiniz"
+        "defaultMessage": "You have successfully tipped {displayName}"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "{displayName} için bildirimler etkinleştirildi"
+        "defaultMessage": "Notifications enabled for {displayName}"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "{displayName} için bildirimler devre dışı bırakıldı"
+        "defaultMessage": "Notifications disabled for {displayName}"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Yedekleme, {path} adresinde oluşturuldu"
+        "defaultMessage": "Backup was generated at {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "Ayarlarınızı başarılı bir şekilde kaydettiniz. Değişikliklerinizin uygulanması için geth hizmetini yeniden başlatmanız gerekir."
+        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "Ayarlarınızı başarılı bir şekilde kaydettiniz. Değişikliklerin uygulanması için\n                        IPFS  hizmetini tekrar başlatmanız gerekiyor."
+        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "IPFS bağlantı noktalarını başarılı bir şekilde ayarladınız. Değişikliklerin uygulanması için\n                        IPFS  hizmetini tekrar başlatmanız gerekiyor."
+        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
     },
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Temanız uygulamayı yenilediğinizde değişecek."
+        "defaultMessage": "Your theme will change after refreshing the app."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "Başarıyla ipucu ayarınızı değiştirdiniz"
+        "defaultMessage": "You succesfully changed your tips settings"
     },
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "{tokenAmount} AETH'yi başarılı bir şekilde {displayName}'e transfer ettiniz"
+        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "{value} ETH'yi {displayName}'e başarılı bir şekilde transfer ettiniz"
+        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "Kişisel ayarlarınızı başarıyla kaydettiğiniz"
-    },
-    {
-        "id": "app.notification.faucetRequestSuccess",
-        "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
-    },
-    {
-        "id": "app.settings.notifFollow",
-        "description": "text for notification",
-        "defaultMessage": "followed you"
-    },
-    {
-        "id": "app.settings.notifComment",
-        "description": "text for notification",
-        "defaultMessage": "commented on"
-    },
-    {
-        "id": "app.settings.notifDonationAeth",
-        "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
-    },
-    {
-        "id": "app.settings.notifDonationBoth",
-        "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
-    },
-    {
-        "id": "app.settings.notifDonationEth",
-        "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
-    },
-    {
-        "id": "app.settings.notifVote",
-        "description": "text for notification",
-        "defaultMessage": "voted on"
-    },
-    {
-        "id": "app.settings.notifBlockNr",
-        "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
-    },
-    {
-        "id": "app.notification.errorCopiedToClipboard",
-        "description": "notification to show when user copies error info",
-        "defaultMessage": "Error copied to clipboard"
-    },
-    {
-        "id": "app.notification.welcomeTitle",
-        "description": "title for welcome/faucet notification",
-        "defaultMessage": "Welcome to AKASHA"
-    },
-    {
-        "id": "app.notification.welcomeMessage",
-        "description": "welcome/faucet notification message",
-        "defaultMessage": "To claim your test ETH gift, please click"
-    },
-    {
-        "id": "app.notification.noFunds",
-        "description": "title for faucet notification",
-        "defaultMessage": "No more funds"
-    },
-    {
-        "id": "app.notification.renewBalance",
-        "description": "description for faucet notification",
-        "defaultMessage": "To renew your balance, please click"
+        "defaultMessage": "You have successfully saved your personal settings"
     }
 ]
