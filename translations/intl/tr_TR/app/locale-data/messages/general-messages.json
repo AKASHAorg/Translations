@@ -35,24 +35,14 @@
         "defaultMessage": "Yeni girdi ekle"
     },
     {
-        "id": "app.general.addTo",
-        "description": "add to",
-        "defaultMessage": "Add To"
-    },
-    {
         "id": "app.general.aeth",
         "description": "aeth token",
         "defaultMessage": "AETH"
     },
     {
-        "id": "app.general.akasha",
-        "description": "AKASHA",
-        "defaultMessage": "AKASHA"
-    },
-    {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Miktar"
+        "defaultMessage": "Amount"
     },
     {
         "id": "app.general.anEntry",
@@ -65,44 +55,44 @@
         "defaultMessage": "an entry vote"
     },
     {
-        "id": "app.general.appPreferences",
-        "description": "application settings/preferences",
-        "defaultMessage": "Uygulama tercihleri"
+        "id": "app.general.akasha",
+        "description": "AKASHA",
+        "defaultMessage": "AKASHA"
     },
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Geri"
+        "defaultMessage": "Back"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Blok"
+        "defaultMessage": "Block"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "İptal"
+        "defaultMessage": "Cancel"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Sohbet"
+        "defaultMessage": "Chat"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Bir resim seçin"
+        "defaultMessage": "Choose an image"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Başka bir resim seçin"
+        "defaultMessage": "Choose another image"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Kapat"
+        "defaultMessage": "Close"
     },
     {
         "id": "app.general.collect",
@@ -122,17 +112,12 @@
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Onayla"
-    },
-    {
-        "id": "app.general.confirmedAtBlock",
-        "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Confirm"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Kopyala"
+        "defaultMessage": "Copy"
     },
     {
         "id": "app.general.counter",
@@ -142,12 +127,12 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Oluştur"
+        "defaultMessage": "Create"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Oluşturuldu"
+        "defaultMessage": "Created"
     },
     {
         "id": "app.general.cycling",
@@ -157,22 +142,17 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Sil"
-    },
-    {
-        "id": "app.general.done",
-        "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Delete"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Indiriliyor"
+        "defaultMessage": "Downloading"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Düzenle"
+        "defaultMessage": "Edit"
     },
     {
         "id": "app.general.editProfile",
@@ -190,14 +170,9 @@
         "defaultMessage": "Essence"
     },
     {
-        "id": "app.general.essenceTotal",
-        "description": "popover title",
-        "defaultMessage": "Total Essence"
-    },
-    {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence toplam skor"
+        "defaultMessage": "Essence total score"
     },
     {
         "id": "app.general.eth",
@@ -210,44 +185,34 @@
         "defaultMessage": "Ethereum adresi"
     },
     {
-        "id": "app.general.failedAtBlock",
-        "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
-    },
-    {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
         "defaultMessage": "Forged"
     },
     {
-        "id": "app.general.forward",
-        "description": "forward",
-        "defaultMessage": "Forward"
-    },
-    {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Önizleme oluşturuluyor"
+        "defaultMessage": "Generating preview"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth servisi kapalı"
+        "defaultMessage": "Geth service OFF"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth servisi AÇIK"
+        "defaultMessage": "Geth service ON"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Yardım"
+        "defaultMessage": "Help"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "Geçmiş"
+        "defaultMessage": "History"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,17 +222,17 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS servisi KAPALI"
+        "defaultMessage": "IPFS service OFF"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS hizmeti AÇIK"
+        "defaultMessage": "IPFS service ON"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Katıl"
+        "defaultMessage": "Join"
     },
     {
         "id": "app.general.karma",
@@ -280,24 +245,19 @@
         "defaultMessage": "Karma total score"
     },
     {
-        "id": "app.general.learnMore",
-        "description": "",
-        "defaultMessage": "Learn More"
-    },
-    {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Ayrıl"
+        "defaultMessage": "Leave"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Kayıtlar"
+        "defaultMessage": "Logs"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Çıkış Yap"
+        "defaultMessage": "Logout"
     },
     {
         "id": "app.general.mana",
@@ -307,12 +267,7 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Toplam harcanan Mana"
-    },
-    {
-        "id": "app.general.manaPool",
-        "description": "mana pool",
-        "defaultMessage": "Total Mana Consumed"
+        "defaultMessage": "Total Mana burned"
     },
     {
         "id": "app.general.manafied",
@@ -337,7 +292,7 @@
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "Uygun eş yok"
+        "defaultMessage": "No peers available"
     },
     {
         "id": "app.general.notes",
@@ -347,12 +302,7 @@
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Bulunamadı"
-    },
-    {
-        "id": "app.general.notifications",
-        "description": "notifications",
-        "defaultMessage": "Notifications"
+        "defaultMessage": "Not found"
     },
     {
         "id": "app.general.ok",
@@ -360,14 +310,9 @@
         "defaultMessage": "Ok"
     },
     {
-        "id": "app.general.okTutorial",
-        "description": "Label for tutorial modal btn",
-        "defaultMessage": "Tamam anladım!"
-    },
-    {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Duraklat"
+        "defaultMessage": "Pause"
     },
     {
         "id": "app.general.pending",
@@ -375,14 +320,9 @@
         "defaultMessage": "Pending"
     },
     {
-        "id": "app.general.pendingConfirmation",
-        "description": "an action is pending confirmation",
-        "defaultMessage": "Onay bekleniyor"
-    },
-    {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "İnsanlar"
+        "defaultMessage": "People"
     },
     {
         "id": "app.general.preview",
@@ -397,7 +337,7 @@
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profil genel bakış"
+        "defaultMessage": "Profile overview"
     },
     {
         "id": "app.general.publish",
@@ -422,77 +362,52 @@
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Yenile"
+        "defaultMessage": "Refresh"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Yeniden adlandır"
+        "defaultMessage": "Rename"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Yanıt"
+        "defaultMessage": "Reply"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Sıfırla"
+        "defaultMessage": "Reset"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Devam et"
+        "defaultMessage": "Resume"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Tekrar dene"
-    },
-    {
-        "id": "app.general.requestTestAEthers",
-        "description": "",
-        "defaultMessage": "Request AETHERS"
-    },
-    {
-        "id": "app.general.requestTestEthers",
-        "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
-    },
-    {
-        "id": "app.general.requestTestEthersTitle",
-        "description": "",
-        "defaultMessage": "Request Test Ethers!"
-    },
-    {
-        "id": "app.general.requestTestAEthersTitle",
-        "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "Retry"
     },
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "Çalışıyor"
+        "defaultMessage": "Running"
     },
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Kaydet"
+        "defaultMessage": "Save"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "sonraya sakla"
+        "defaultMessage": "save for later"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Ara"
-    },
-    {
-        "id": "app.general.seeOnEtherscan",
-        "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "Etherscan'da görüntünle"
+        "defaultMessage": "Search"
     },
     {
         "id": "app.general.send",
@@ -502,7 +417,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Gönderilen"
+        "defaultMessage": "Sent"
     },
     {
         "id": "app.general.settings",
@@ -512,37 +427,37 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Gösterge paneli"
+        "defaultMessage": "Dashboard"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "Profilim"
+        "defaultMessage": "My Profile"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Topluluk: yakında"
+        "defaultMessage": "Community: coming soon"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Ara"
+        "defaultMessage": "Search"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Sohbet (yakında)"
+        "defaultMessage": "Chat: coming soon"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Girdi metni"
+        "defaultMessage": "Text Entry"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Girdi bağlantısı"
+        "defaultMessage": "Link Entry"
     },
     {
         "id": "app.general.shift",
@@ -552,22 +467,22 @@
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Bu adımı atla"
+        "defaultMessage": "Skip this step"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Başla"
+        "defaultMessage": "Start"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Başlangıç"
+        "defaultMessage": "Starting"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Durduruldu"
+        "defaultMessage": "Stopped"
     },
     {
         "id": "app.general.stream",
@@ -577,7 +492,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Gönder"
+        "defaultMessage": "Submit"
     },
     {
         "id": "app.general.tags",
@@ -587,326 +502,56 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "Hesabınızı oluşturmaya ve AKASHA kullanmaya devam ederek, \n                         bizim {termsLink}'ı kabul ediyorsunuz. Kabul etmezseniz\n                         AKASHA'yı kullanamazsınız."
+        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Hizmet şartları ve gizlilik politikası"
+        "defaultMessage": "Terms of Service and Privacy Policy"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "İşlem başarısız oldu"
+        "defaultMessage": "Transaction has failed"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transfer edilebilir"
+        "defaultMessage": "Transferable"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Dönüştür"
-    },
-    {
-        "id": "app.general.transformAethers",
-        "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
-    },
-    {
-        "id": "app.general.translate",
-        "description": "translate",
-        "defaultMessage": "Çevir"
-    },
-    {
-        "id": "app.general.usernameFirst",
-        "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Lütfen önce kullanıcı adınızı seçiniz!"
-    },
-    {
-        "id": "app.general.userSettings",
-        "description": "user settings menu item",
-        "defaultMessage": "Kullanıcı ayarları"
+        "defaultMessage": "Transform"
     },
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Güncelle"
+        "defaultMessage": "Güncelleştir"
     },
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Güncelleniyor"
+        "defaultMessage": "Updating"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Yükseltiliyor"
-    },
-    {
-        "id": "app.general.viewProfile",
-        "description": "View profile",
-        "defaultMessage": "Profili Görüntüle"
+        "defaultMessage": "Upgrading"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Oy"
+        "defaultMessage": "Vote"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Cüzdan"
-    },
-    {
-        "id": "app.general.wailting",
-        "description": "",
-        "defaultMessage": "Bekleniyor"
+        "defaultMessage": "Wallet"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Evet"
-    },
-    {
-        "id": "app.general.comment",
-        "description": "girdi yorumu",
-        "defaultMessage": "Yorum"
-    },
-    {
-        "id": "app.general.publishEntries",
-        "description": "eylem başlığı",
-        "defaultMessage": "Girdileri Yayınla"
-    },
-    {
-        "id": "app.general.karmaPopoverTooltip",
-        "description": "karmaPopoverTooltip",
-        "defaultMessage": "Her Essence topladığınızda Karmanız yükselecektir."
-    },
-    {
-        "id": "app.general.createTags",
-        "description": "Etiketleri oluştur eylem başlığı",
-        "defaultMessage": "Etiket Oluştur"
-    },
-    {
-        "id": "app.general.karmaLeaderboard",
-        "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
-    },
-    {
-        "id": "app.general.karmaLevel",
-        "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
-    },
-    {
-        "id": "app.general.karmaLevelInfo",
-        "description": "karma level info",
-        "defaultMessage": "Mevcut seviyenizde şunları yapabilirsiniz:"
-    },
-    {
-        "id": "app.general.karmaScore",
-        "description": "karma score",
-        "defaultMessage": "{profileKarmaScore} Karma"
-    },
-    {
-        "id": "app.general.showMore",
-        "description": "düğme etiketi",
-        "defaultMessage": "Daha fazla göster"
-    },
-    {
-        "id": "app.general.noFollowings",
-        "description": "info when user is not following anyone",
-        "defaultMessage": "Follow someone to see your proto-reputation network"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeArticle",
-        "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Makale"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeLink",
-        "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Bağlantı"
-    },
-    {
-        "id": "app.general.sidebarEntryTypeImage",
-        "description": "",
-        "defaultMessage": "Resim"
-    },
-    {
-        "id": "app.general.you",
-        "description": "",
-        "defaultMessage": "You"
-    },
-    {
-        "id": "app.general.waitASecond",
-        "description": "title for external navigation modal",
-        "defaultMessage": "Hold on a second"
-    },
-    {
-        "id": "app.general.externalNavigationWarning",
-        "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL."
-    },
-    {
-        "id": "app.general.collectAll",
-        "description": "collect all Essence",
-        "defaultMessage": "Collect all"
-    },
-    {
-        "id": "app.general.noTransactionsTitle",
-        "description": "no transactions message title",
-        "defaultMessage": "No transactions yet"
-    },
-    {
-        "id": "app.general.noTransactionsDescription",
-        "description": "no transaction message description",
-        "defaultMessage": "Your transactions will be displayed here"
-    },
-    {
-        "id": "app.general.noEssenceToCollectTitle",
-        "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
-    },
-    {
-        "id": "app.general.noEssenceToCollectDescription",
-        "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "Generate Essence by posting and interacting"
-    },
-    {
-        "id": "app.general.noEssenceWasCollectedTitle",
-        "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "No essence collected"
-    },
-    {
-        "id": "app.general.noEssenceWasCollectedDescription",
-        "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "Generate Essence by posting and interacting"
-    },
-    {
-        "id": "app.entry.startTypingToSearch",
-        "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
-    },
-    {
-        "id": "app.entry.searchingNoResults",
-        "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
-    },
-    {
-        "id": "app.general.go",
-        "description": "go",
-        "defaultMessage": "Go"
-    },
-    {
-        "id": "app.general.navigateToLink",
-        "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
-    },
-    {
-        "id": "app.general.share",
-        "description": "share",
-        "defaultMessage": "Share"
-    },
-    {
-        "id": "app.general.trustedDomain",
-        "description": "title for external navigation modal checkbox for trusted domains",
-        "defaultMessage": "Trusted Domain"
-    },
-    {
-        "id": "app.general.viewAll",
-        "description": "view all",
-        "defaultMessage": "View All"
-    },
-    {
-        "id": "app.general.reload",
-        "description": "reload",
-        "defaultMessage": "Reload"
-    },
-    {
-        "id": "app.general.reportIssue",
-        "description": "report issue",
-        "defaultMessage": "Report issue"
-    },
-    {
-        "id": "app.general.loadMore",
-        "description": "load more",
-        "defaultMessage": "Load more"
-    },
-    {
-        "id": "app.general.externalNavigationAreYouSure",
-        "description": "warning displayed when clicking an external link",
-        "defaultMessage": "Are you sure you want to go there?"
-    },
-    {
-        "id": "app.general.loadingImage",
-        "description": "message to display when an image is in loading state",
-        "defaultMessage": "Loading image"
-    },
-    {
-        "id": "app.general.loadingImageFailed",
-        "description": "message to show when an image failed to load",
-        "defaultMessage": "Cannot load image :("
-    },
-    {
-        "id": "app.general.or",
-        "description": "or",
-        "defaultMessage": "or"
-    },
-    {
-        "id": "app.general.sidebarTooltipGuest",
-        "description": "tooltip text for sidebar guest mode",
-        "defaultMessage": "Not available in guest mode"
-    },
-    {
-        "id": "app.general.guestMode",
-        "description": "title for guest mode button",
-        "defaultMessage": "Guest Mode"
-    },
-    {
-        "id": "app.general.guestModeInfo",
-        "description": "info for guest mode modal",
-        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
-    },
-    {
-        "id": "app.general.unlockVault",
-        "description": "info for guest mode modal",
-        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
-    },
-    {
-        "id": "app.general.thanks",
-        "description": "thanks",
-        "defaultMessage": "Thanks!"
-    },
-    {
-        "id": "app.general.loginUnlock",
-        "description": "info for guest mode modal",
-        "defaultMessage": "Login by unlocking your Metamask"
-    },
-    {
-        "id": "app.general.here",
-        "description": "here",
-        "defaultMessage": "here"
-    },
-    {
-        "id": "app.general.version",
-        "description": "sürüm",
-        "defaultMessage": "Version"
-    },
-    {
-        "id": "app.general.and",
-        "description": "and",
-        "defaultMessage": "and"
-    },
-    {
-        "id": "app.general.accept",
-        "description": "accept",
-        "defaultMessage": "Accept"
-    },
-    {
-        "id": "app.general.decline",
-        "description": "decline",
-        "defaultMessage": "Decline"
+        "defaultMessage": "Yes"
     }
 ]
