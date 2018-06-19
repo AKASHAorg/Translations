@@ -1,0 +1,62 @@
+[
+    {
+        "id": "app.list.addToList",
+        "description": "tooltip for add to list button",
+        "defaultMessage": "Idagdag sa listahan"
+    },
+    {
+        "id": "app.list.addToNewList",
+        "description": "title for new list form",
+        "defaultMessage": "Add to a new list"
+    },
+    {
+        "id": "app.list.createNew",
+        "description": "create new list button label",
+        "defaultMessage": "Create a new list"
+    },
+    {
+        "id": "app.list.descriptionPlaceholder",
+        "description": "placeholder for list description input",
+        "defaultMessage": "Add a short description"
+    },
+    {
+        "id": "app.list.deleteList",
+        "description": "delete list confirmation text",
+        "defaultMessage": "Are you sure you want to delete this list?"
+    },
+    {
+        "id": "app.list.editList",
+        "description": "title for edit list popover",
+        "defaultMessage": "Edit this list"
+    },
+    {
+        "id": "app.list.listName",
+        "description": "label for list name input",
+        "defaultMessage": "List name"
+    },
+    {
+        "id": "app.list.listNameRequired",
+        "description": "error message for empty list name input",
+        "defaultMessage": "List name is required"
+    },
+    {
+        "id": "app.list.listNameUnique",
+        "description": "unique error message for list name input",
+        "defaultMessage": "This list already exists"
+    },
+    {
+        "id": "app.list.namePlaceholder",
+        "description": "placeholder for list name input",
+        "defaultMessage": "Type list name"
+    },
+    {
+        "id": "app.list.searchForList",
+        "description": "placeholder for list search input",
+        "defaultMessage": "Search for a list..."
+    },
+    {
+        "id": "app.list.shortDescription",
+        "description": "label for list description input",
+        "defaultMessage": "Short description"
+    }
+]
