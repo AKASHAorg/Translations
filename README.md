@@ -12,4 +12,4 @@ Feel free to [check our blog](https://blog.akasha.world/) and [get in touch](htt
 
 Want to contribute to AKASHA? Aweeeeesome!
 
-Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/CONTRIBUTING.md) :metal:
+Please, check [CONTRIBUTING](https://github.com/AkashaProject/PM/blob/master/handbook/sections/CONTRIBUTING.md) :metal:
