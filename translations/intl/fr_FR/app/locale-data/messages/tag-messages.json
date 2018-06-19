@@ -1,0 +1,22 @@
+[
+    {
+        "id": "app.tag.addTag",
+        "description": "placeholder for tag editor field",
+        "defaultMessage": "#categorie..."
+    },
+    {
+        "id": "app.tag.notEnoughKarma",
+        "description": "message to display when user does not have enough karma to create a tag",
+        "defaultMessage": "Désolé ! Vous n'avez pas assez de karma pour créer des balises."
+    },
+    {
+        "id": "app.tag.tagDoesntExist",
+        "description": "placeholder message for entry list when tag does not exist",
+        "defaultMessage": "Cette balise n’existe pas"
+    },
+    {
+        "id": "app.tag.tagNotCreated",
+        "description": "Message to display when the tag was not created before",
+        "defaultMessage": "Cette balise est nouvelle et n'a jamais été utilisée !"
+    }
+]
