@@ -2,12 +2,12 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abortar"
+        "defaultMessage": "Abort"
     },
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Ação"
+        "defaultMessage": "Action"
     },
     {
         "id": "app.general.aComment",
@@ -17,12 +17,12 @@
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Adicionar"
+        "defaultMessage": "Add"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Arraste e solte para adicionar uma imagem."
+        "defaultMessage": "Drag and drop to add an image."
     },
     {
         "id": "app.general.addImageDragged",
@@ -72,7 +72,7 @@
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Voltar"
+        "defaultMessage": "Back"
     },
     {
         "id": "app.general.block",
@@ -82,7 +82,7 @@
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancelar"
+        "defaultMessage": "Cancel"
     },
     {
         "id": "app.general.chat",
@@ -92,17 +92,17 @@
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Escolha uma imagem"
+        "defaultMessage": "Choose an image"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Escolha outra imagem"
+        "defaultMessage": "Choose another image"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Fechar"
+        "defaultMessage": "Close"
     },
     {
         "id": "app.general.collect",
@@ -117,12 +117,12 @@
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comentários"
+        "defaultMessage": "Comments"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirmar"
+        "defaultMessage": "Confirm"
     },
     {
         "id": "app.general.confirmedAtBlock",
@@ -132,7 +132,7 @@
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copiar"
+        "defaultMessage": "Copy"
     },
     {
         "id": "app.general.counter",
@@ -142,7 +142,7 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Criar"
+        "defaultMessage": "Create"
     },
     {
         "id": "app.general.created",
@@ -157,7 +157,7 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Deletar"
+        "defaultMessage": "Delete"
     },
     {
         "id": "app.general.done",
@@ -172,17 +172,17 @@
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Editar"
+        "defaultMessage": "Edit"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Editar perfil"
+        "defaultMessage": "Edit profile"
     },
     {
         "id": "app.general.entries",
         "description": "entries",
-        "defaultMessage": "Entradas"
+        "defaultMessage": "Entries"
     },
     {
         "id": "app.general.essence",
@@ -207,7 +207,7 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Endereço Ethereum"
+        "defaultMessage": "Ethereum address"
     },
     {
         "id": "app.general.failedAtBlock",
@@ -232,22 +232,22 @@
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Serviço Geth DESABILITADO"
+        "defaultMessage": "Geth service OFF"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Serivço Geth HABILITADO"
+        "defaultMessage": "Geth service ON"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Ajuda"
+        "defaultMessage": "Help"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "Histórico"
+        "defaultMessage": "History"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,12 +257,12 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "Serviço IPFS DESABILITADO"
+        "defaultMessage": "IPFS service OFF"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "Serivço IPFS HABILITADO"
+        "defaultMessage": "IPFS service ON"
     },
     {
         "id": "app.general.join",
@@ -287,7 +287,7 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Sair"
+        "defaultMessage": "Leave"
     },
     {
         "id": "app.general.logs",
@@ -497,7 +497,7 @@
     {
         "id": "app.general.send",
         "description": "send button label",
-        "defaultMessage": "Enviar"
+        "defaultMessage": "Send"
     },
     {
         "id": "app.general.sent",
@@ -507,7 +507,7 @@
     {
         "id": "app.general.settings",
         "description": "settings button label",
-        "defaultMessage": "Configurações"
+        "defaultMessage": "Settings"
     },
     {
         "id": "app.general.sidebarTooltipDashboard",
