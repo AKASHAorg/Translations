@@ -117,7 +117,7 @@
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Serguir"
     },
     {
         "id": "app.confirmations.freeAeth",
@@ -142,7 +142,7 @@
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "Registrar perfil"
     },
     {
         "id": "app.confirmations.profileUpdate",
@@ -152,7 +152,7 @@
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "Atualizar perfil"
     },
     {
         "id": "app.confirmations.sendTip",
@@ -162,7 +162,7 @@
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Enviar gorjeta"
     },
     {
         "id": "app.confirmations.createTag",
@@ -222,7 +222,7 @@
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Deixar de seguir"
     },
     {
         "id": "app.confirmations.batch",
