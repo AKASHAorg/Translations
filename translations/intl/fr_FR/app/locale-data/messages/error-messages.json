@@ -1,0 +1,312 @@
+[
+    {
+        "id": "app.error.reportErrorTitle",
+        "description": "title for report error modal",
+        "defaultMessage": "Signaler une erreur"
+    },
+    {
+        "id": "app.error.thankYouForYourFeedback",
+        "description": "thank you for feedback",
+        "defaultMessage": "Merci pour votre commentaire !"
+    },
+    {
+        "id": "app.error.copyTheFollowingLines",
+        "description": "text explaining what to do to report an issue on GH",
+        "defaultMessage": "Veuillez copier les lignes ci-dessous et créer un nouveau rapport d'erreur sur {githubLink}."
+    },
+    {
+        "id": "app.error.alsoCheckForOpenedIssues",
+        "description": "text suggesting to check for existing issues",
+        "defaultMessage": "Veuillez aussi vérifier qu'il n'existe pas déjà d'autres rapports ouverts concernant cette erreur !"
+    },
+    {
+        "id": "app.error.backupKeys",
+        "description": "error message for backup keys action",
+        "defaultMessage": "La création de la sauvegarde a échoué. Veuillez réessayer"
+    },
+    {
+        "id": "app.error.commentsDownvote",
+        "description": "error message for downvoting a comment",
+        "defaultMessage": "Une erreur s'est produite pendant le vote contre un commentaire"
+    },
+    {
+        "id": "app.error.commentsPublish",
+        "description": "error message for publishing a comment",
+        "defaultMessage": "Une erreur s'est produite pendant la publication d'un commentaire"
+    },
+    {
+        "id": "app.error.commentsUpvote",
+        "description": "error message for upvoting a comment",
+        "defaultMessage": "Une erreur s'est produite pendant le vote pour un commentaire"
+    },
+    {
+        "id": "app.error.dashboardAdd",
+        "description": "error message for creating a new board",
+        "defaultMessage": "Une erreur est survenue lors de l'enregistrement du nouveau tableau"
+    },
+    {
+        "id": "app.error.dashboardAddColumn",
+        "description": "error message for adding a column to a board",
+        "defaultMessage": "Une erreur s'est produite pendant l'enregistrement de la nouvelle colonne"
+    },
+    {
+        "id": "app.error.dashboardDelete",
+        "description": "error message for deleting a board",
+        "defaultMessage": "Une erreur est survenue lors de la suppression du tableau"
+    },
+    {
+        "id": "app.error.dashboardDeleteColumn",
+        "description": "error message for removing a column from a board",
+        "defaultMessage": "Une erreur s'est produite pendant la suppression de votre colonne"
+    },
+    {
+        "id": "app.error.dashboardGetActive",
+        "description": "error message for fetching the active board",
+        "defaultMessage": "Une erreur est survenue lors de l'accès au tableau actif"
+    },
+    {
+        "id": "app.error.dashboardGetAll",
+        "description": "error message for fetching all boards",
+        "defaultMessage": "Une erreur est survenue lors de l'accès à vos tableaux"
+    },
+    {
+        "id": "app.error.dashboardSetActive",
+        "description": "error message for setting the active board",
+        "defaultMessage": "Une erreur est survenue lors de l'enregistrement du tableau actif"
+    },
+    {
+        "id": "app.error.dashboardUpdateColumn",
+        "description": "error message for updating a column",
+        "defaultMessage": "Une erreur s'est produite pendant la mise à jour de votre colonne"
+    },
+    {
+        "id": "app.error.draftAutosave",
+        "description": "error message for autosaving a draft",
+        "defaultMessage": "Échec de l'enregistrement des derniers changements sur ce brouillon"
+    },
+    {
+        "id": "app.error.draftPublish",
+        "description": "error message for publishing a draft",
+        "defaultMessage": "Une erreur s'est produite pendant la publication de votre brouillon"
+    },
+    {
+        "id": "app.error.entriesGetAsDrafts",
+        "description": "error message for fetching your own entries",
+        "defaultMessage": "Une erreur s'est produite pendant la récupération de vos entrées. Affichage des brouillons enregistrés localement uniquement"
+    },
+    {
+        "id": "app.error.entryClaim",
+        "description": "error message for collecting Essence for an entry",
+        "defaultMessage": "Une erreur s'est produite pendant la récupération de l'Essence pour {entryTitle}"
+    },
+    {
+        "id": "app.error.entryClaimVote",
+        "description": "error message for collecting Essence for a vote",
+        "defaultMessage": "Une erreur s'est produite pendant la récupération de l'Essence pour {entryTitle}"
+    },
+    {
+        "id": "app.error.entryDownvote",
+        "description": "error message for downvoting an entry",
+        "defaultMessage": "Une erreur s'est produite pendant le vote contre {entryTitle}"
+    },
+    {
+        "id": "app.error.entryGetFull",
+        "description": "error message for fetching a full entry",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention des données de l'entrée"
+    },
+    {
+        "id": "app.error.entryListIterator",
+        "description": "error message for fetching entries in a list",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention des entrées dans une liste"
+    },
+    {
+        "id": "app.error.entryUpvote",
+        "description": "error message for upvoting an entry",
+        "defaultMessage": "Une erreur s'est produite pendant le vote pour {entryTitle}"
+    },
+    {
+        "id": "app.error.errorNotificationTitle",
+        "description": "title for error notifcations",
+        "defaultMessage": "Code d'erreur {errorCode}"
+    },
+    {
+        "id": "app.error.fatalError",
+        "description": "title for fatal error modal",
+        "defaultMessage": "Erreur fatale"
+    },
+    {
+        "id": "app.error.generalSettings",
+        "description": "error message for fetching general settings",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention de vos paramètres généraux"
+    },
+    {
+        "id": "app.error.gethGetOptions",
+        "description": "error message for fetching geth options",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention des options du service Geth"
+    },
+    {
+        "id": "app.error.gethGetStatus",
+        "description": "error message for fetching geth status",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention du statut du service Geth"
+    },
+    {
+        "id": "app.error.gethGetSyncStatus",
+        "description": "error message for fetching geth synchronization status",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention du statut de synchronisation"
+    },
+    {
+        "id": "app.error.gethSaveSettings",
+        "description": "error message for saving geth settings",
+        "defaultMessage": "Une erreur s'est produite pendant l'enregistrement de vos paramètres Geth"
+    },
+    {
+        "id": "app.error.gethSettings",
+        "description": "error message for fetching geth settings",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention de vos paramètres Geth"
+    },
+    {
+        "id": "app.error.gethStart",
+        "description": "error message for starting geth service",
+        "defaultMessage": "Échec du démarrage du service Geth"
+    },
+    {
+        "id": "app.error.gethStop",
+        "description": "error message for stopping geth service",
+        "defaultMessage": "Échec de l'arrêt du service Geth"
+    },
+    {
+        "id": "app.error.ipfsGetConfig",
+        "description": "error message for fetching IPFS service configuration",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention de la configuration du service IPFS"
+    },
+    {
+        "id": "app.error.ipfsGetPorts",
+        "description": "error message for fetching IPFS ports",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention des ports du service IPFS"
+    },
+    {
+        "id": "app.error.ipfsSaveSettings",
+        "description": "error message for saving IPFS settings",
+        "defaultMessage": "Une erreur s'est produite pendant l'enregistrement de vos paramètres IPFS"
+    },
+    {
+        "id": "app.error.ipfsSetPorts",
+        "description": "ipfs set ports error message",
+        "defaultMessage": "Une erreur s'est produite pendant la définition des ports du service IPFS"
+    },
+    {
+        "id": "app.error.ipfsSettings",
+        "description": "error message for fetching IPFS settings",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention de vos paramètres IPFS"
+    },
+    {
+        "id": "app.error.ipfsStart",
+        "description": "error message for starting IPFS service",
+        "defaultMessage": "Échec du démarrage du service IPFS"
+    },
+    {
+        "id": "app.error.ipfsGetStatus",
+        "description": "error message for fetching IPFS service status",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention du statut du service IPFS"
+    },
+    {
+        "id": "app.error.ipfsStop",
+        "description": "error message for stopping IPFS service",
+        "defaultMessage": "Échec de l'arrêt du service IPFS"
+    },
+    {
+        "id": "app.error.unexpectedError",
+        "description": "a general error (with no error code)",
+        "defaultMessage": "Erreur inattendue"
+    },
+    {
+        "id": "app.error.profileBondAeth",
+        "description": "error message for bonding (manafying) AETH",
+        "defaultMessage": "Une erreur s'est produite pendant la Manafication de {amount} AETH"
+    },
+    {
+        "id": "app.error.profileCycleAeth",
+        "description": "error message for cycling AETH",
+        "defaultMessage": "Une erreur s'est produite pendant le cyclage de {amount} AETH"
+    },
+    {
+        "id": "app.error.profileFreeAeth",
+        "description": "error message for freeing AETH that was cycled",
+        "defaultMessage": "Une erreur s'est produite pendant la récupération de votre AETH cyclé"
+    },
+    {
+        "id": "app.error.profileGetLocal",
+        "description": "error message for fetching local profiles",
+        "defaultMessage": "Une erreur s'est produite pendant la récupération des profils locaux"
+    },
+    {
+        "id": "app.error.profileGetList",
+        "description": "error message for fetching a list of profiles",
+        "defaultMessage": "Une erreur s'est produite pendant l'obtention de la liste des profils"
+    },
+    {
+        "id": "app.error.profileToggleDonations",
+        "description": "error message for changing the settings for accepting tips",
+        "defaultMessage": "Une erreur s'est produite pendant la modification de vos paramètres de dons"
+    },
+    {
+        "id": "app.error.profileTransferAeth",
+        "description": "error message for transferring AETH",
+        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+    },
+    {
+        "id": "app.error.profileTransferEth",
+        "description": "error message for transferring ETH",
+        "defaultMessage": "An error occured while transferring {value} ETH"
+    },
+    {
+        "id": "app.error.profileTransformEssence",
+        "description": "error message for transforming Essence in AETH",
+        "defaultMessage": "An error occured while transforming {amount} Essence"
+    },
+    {
+        "id": "app.error.profileUpdate",
+        "description": "error message for updating your profile",
+        "defaultMessage": "An error occured while updating your profile"
+    },
+    {
+        "id": "app.error.saveGeneralSettings",
+        "description": "error message for saving general settings",
+        "defaultMessage": "An error occurred while saving your settings"
+    },
+    {
+        "id": "app.error.appErrorTitle",
+        "description": "Title message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Ah snap!"
+    },
+    {
+        "id": "app.error.appErrorSubtitle",
+        "description": "Subtitle message to display when the app crashes because of an unexpected error",
+        "defaultMessage": "Something went terribly wrong."
+    },
+    {
+        "id": "app.error.copyError",
+        "description": "label for copy to clipboard button",
+        "defaultMessage": "Copy error to clipboard"
+    },
+    {
+        "id": "app.error.profileFaucet",
+        "description": "error message for faucet request",
+        "defaultMessage": "An error occurred while requesting funds from faucet"
+    },
+    {
+        "id": "app.error.profileRegister",
+        "description": "error message for registering your profile",
+        "defaultMessage": "An error occured while registering your profile"
+    },
+    {
+        "id": "app.error.profileFollow",
+        "description": "error message for profile follow",
+        "defaultMessage": "An error occurred while following {ethAddress}"
+    },
+    {
+        "id": "app.error.profileUnfollow",
+        "description": "error message for profile unfollow",
+        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
+    }
+]
