@@ -1,0 +1,132 @@
+[
+    {
+        "id": "app.settings.chinese",
+        "description": "app language",
+        "defaultMessage": "Chinois"
+    },
+    {
+        "id": "app.settings.darkTheme",
+        "description": "theme switch",
+        "defaultMessage": "Thème sombre"
+    },
+    {
+        "id": "app.settings.description",
+        "description": "Description for app settings",
+        "defaultMessage": "Customize your app settings"
+    },
+    {
+        "id": "app.settings.english",
+        "description": "app language",
+        "defaultMessage": "Anglais"
+    },
+    {
+        "id": "app.settings.hideContent",
+        "description": "title for \"hide content\" settings",
+        "defaultMessage": "Cacher le contenu"
+    },
+    {
+        "id": "app.settings.hideContentDescription",
+        "description": "description for \"hide content\" settings",
+        "defaultMessage": "Ne pas voir de contenu ayant un score en-dessous d'une certaine valeur"
+    },
+    {
+        "id": "app.settings.hideCommentsLabel",
+        "description": "label for \"hide comments content\" checkbox",
+        "defaultMessage": "Cacher les commentaires ayant un score inférieur à"
+    },
+    {
+        "id": "app.settings.hideEntriesLabel",
+        "description": "label for \"hide entries content\" checkbox",
+        "defaultMessage": "Cacher les entrées ayant un score inférieur à"
+    },
+    {
+        "id": "app.settings.passphraseOptions",
+        "description": "title for profile passphrase options",
+        "defaultMessage": "Options de phrase secrète"
+    },
+    {
+        "id": "app.settings.passphraseOptionsDescription",
+        "description": "description for profile passphrase options",
+        "defaultMessage": "Choisir quand vous demander votre mot de passe"
+    },
+    {
+        "id": "app.settings.licenseOptions",
+        "description": "title for profile default license options",
+        "defaultMessage": "Options de publication"
+    },
+    {
+        "id": "app.settings.licenseOptionsDescription",
+        "description": "description for default license options",
+        "defaultMessage": "Choisir la licence par défaut pour les articles que vous publiez"
+    },
+    {
+        "id": "app.settings.language",
+        "description": "title for language form item",
+        "defaultMessage": "Langue"
+    },
+    {
+        "id": "app.settings.lightTheme",
+        "description": "theme switch",
+        "defaultMessage": "Thème clair"
+    },
+    {
+        "id": "app.settings.russian",
+        "description": "app language",
+        "defaultMessage": "Russe"
+    },
+    {
+        "id": "app.settings.selectLanguage",
+        "description": "title for language selector",
+        "defaultMessage": "CHOISIR UNE LANGUE"
+    },
+    {
+        "id": "app.settings.spanish",
+        "description": "app language",
+        "defaultMessage": "Espagnol"
+    },
+    {
+        "id": "app.settings.theme",
+        "description": "theme switch title",
+        "defaultMessage": "Thème de l'application"
+    },
+    {
+        "id": "app.settings.themeLabel",
+        "description": "theme switch label",
+        "defaultMessage": "Personnaliser l'apparence de l'éditeur Akasha"
+    },
+    {
+        "id": "app.settings.tipsDescription",
+        "description": "description for profile tips options",
+        "defaultMessage": "Choisissez une option pour les dons"
+    },
+    {
+        "id": "app.settings.tipsOptions",
+        "description": "title for profile tips options",
+        "defaultMessage": "Tips Options"
+    },
+    {
+        "id": "app.settings.tipsInfo",
+        "description": "info for profile tips options",
+        "defaultMessage": "Changing this option will involve sending a transaction"
+    },
+    {
+        "id": "app.settings.tipsAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Accepter les dons"
+    },
+    {
+        "id": "app.settings.tipsDoNotAccept",
+        "description": "label for profile tips option",
+        "defaultMessage": "Do not accept tips"
+    },
+    {
+        "id": "app.settings.title",
+        "description": "Title for app settings",
+        "defaultMessage": "App settings"
+    },
+    {
+        "id": "app.settings.update",
+        "description": "description for update buton",
+        "defaultMessage": "Mettre à jour les paramètres"
+    }
+]
