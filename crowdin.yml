@@ -1,4 +1,0 @@
-files:
-  - source: /translations/intl/en/app/locale-data/messages/*.json
-    translation: >-
-      /translations/intl/%locale_with_underscore%/app/locale-data/messages/%original_file_name%
