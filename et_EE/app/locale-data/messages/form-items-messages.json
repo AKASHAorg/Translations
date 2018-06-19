@@ -140,9 +140,24 @@
         "defaultMessage": "Type your passphrase"
     },
     {
+        "id": "app.form.amountToForge",
+        "description": "label for forge AETH amount slider",
+        "defaultMessage": "Select the amount of Essence to be transformed"
+    },
+    {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
         "defaultMessage": "Please select an amount to shift"
+    },
+    {
+        "id": "app.form.fromManafiedToCycling",
+        "description": "label for shift amount slider",
+        "defaultMessage": "From Manafied to Cycling"
+    },
+    {
+        "id": "app.form.fromTransferableToManafied",
+        "description": "label for shift amount slider",
+        "defaultMessage": "From Transferable to Manafied"
     },
     {
         "id": "app.form.confirmPassphrase",
@@ -187,12 +202,12 @@
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Shift down"
+        "defaultMessage": "Decrease"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Shift down Mana"
+        "defaultMessage": "Decrease Mana Pool"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -202,17 +217,17 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Shift up"
+        "defaultMessage": "Increase"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Shift up Mana"
+        "defaultMessage": "Increase Mana Pool"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} Mana will manafy {value} Transferable AETH"
+        "defaultMessage": "{value} AETH will generate {value} Mana"
     },
     {
         "id": "app.form.tips",
@@ -255,9 +270,9 @@
         "defaultMessage": "Define a value between {min} and {max}"
     },
     {
-        "id": "app.form.notEnoughFunds",
-        "description": "Error displayed when a user does not have enough funds for an action",
-        "defaultMessage": "You don't have enough funds in your balance"
+        "id": "app.form.notEnoughMana",
+        "description": "Error displayed when a user does not have enough Mana for an action",
+        "defaultMessage": "You don't have enough Mana for this action"
     },
     {
         "id": "app.form.alphanumericError",
@@ -298,5 +313,35 @@
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
         "defaultMessage": "Update Settings"
+    },
+    {
+        "id": "app.form.navigationError",
+        "description": "error message for invalid Akasha link",
+        "defaultMessage": "This is not a valid AKASHA link"
+    },
+    {
+        "id": "app.form.navigateTitle",
+        "description": "title for the navigation modal",
+        "defaultMessage": "Paste an AKASHA link here"
+    },
+    {
+        "id": "app.form.navigateSubtitle",
+        "description": "subtitle for the navigation modal",
+        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+    },
+    {
+        "id": "app.form.shareLinkTitle",
+        "description": "title for the share link modal",
+        "defaultMessage": "Share link"
+    },
+    {
+        "id": "app.form.shareLinkSubtitle",
+        "description": "subtitle for the share link modal",
+        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+    },
+    {
+        "id": "app.form.storageNameInvalid",
+        "description": "error message for ipfs storage name field",
+        "defaultMessage": "Storage name cannot contain slash (/) character"
     }
 ]
