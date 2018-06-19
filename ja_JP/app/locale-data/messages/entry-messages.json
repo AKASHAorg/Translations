@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article entries"
+        "defaultMessage": "Article"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -33,6 +33,11 @@
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
         "defaultMessage": "Webサイトから情報を取得することはできません! 別のアドレスをお試しください。"
+    },
+    {
+        "id": "app.entry.cannotRetrieveLicense",
+        "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
+        "defaultMessage": "Cannot retrieve licence info."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
@@ -177,7 +182,7 @@
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link entries"
+        "defaultMessage": "Link"
     },
     {
         "id": "app.entry.loadMoreReplies",
@@ -207,7 +212,7 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments found"
+        "defaultMessage": "No comments yet."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
@@ -217,7 +222,7 @@
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries"
+        "defaultMessage": "No entries yet"
     },
     {
         "id": "app.entry.noNewEntries",
@@ -225,9 +230,14 @@
         "defaultMessage": "No new entries"
     },
     {
+        "id": "app.entry.nothingToCollect",
+        "description": "explainer message for not being able to collect when balance is 0 Essence",
+        "defaultMessage": "There is no Essence to collect from this entry"
+    },
+    {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "No title"
+        "defaultMessage": "New draft"
     },
     {
         "id": "app.entry.noVotes",
@@ -243,6 +253,11 @@
         "id": "app.entry.originalVersion",
         "description": "label for original version",
         "defaultMessage": "Original"
+    },
+    {
+        "id": "app.entry.oneOfTheTagsCannotBeUsed",
+        "description": "cannot use a tag",
+        "defaultMessage": "One of the tags cannot be used!"
     },
     {
         "id": "app.entry.publicDiscussion",
@@ -315,6 +330,11 @@
         "defaultMessage": "Start comment"
     },
     {
+        "id": "app.entry.startANewDraft",
+        "description": "message to start a new draft",
+        "defaultMessage": "Create a draft now!"
+    },
+    {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
         "defaultMessage": "題名"
@@ -337,7 +357,7 @@
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "バージョン"
+        "defaultMessage": "version"
     },
     {
         "id": "app.entry.versionHistory",
@@ -393,5 +413,90 @@
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
         "defaultMessage": "Write a reply to {name}"
+    },
+    {
+        "id": "app.entry.youHaveNoDrafts",
+        "description": "Message shown when all drafts are deleted",
+        "defaultMessage": "You have no drafts."
+    },
+    {
+        "id": "app.entry.draftAll",
+        "description": "all drafts",
+        "defaultMessage": "All Drafts"
+    },
+    {
+        "id": "app.entry.entriesAll",
+        "description": "",
+        "defaultMessage": "All Entries"
+    },
+    {
+        "id": "app.entry.publishedAll",
+        "description": "all published entries",
+        "defaultMessage": "All entries"
+    },
+    {
+        "id": "app.entry.draftEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "drafts"
+    },
+    {
+        "id": "app.entry.publishedEntryCategory",
+        "description": "entry type suffix by category",
+        "defaultMessage": "entries"
+    },
+    {
+        "id": "app.entry.gotoMyDrafts",
+        "description": "go to my drafts button label",
+        "defaultMessage": "Go to my drafts"
+    },
+    {
+        "id": "app.entry.myEntries",
+        "description": "my entries label title",
+        "defaultMessage": "My Entries"
+    },
+    {
+        "id": "app.entry.draftRevert",
+        "description": "button label to revert changes",
+        "defaultMessage": "Revert changes"
+    },
+    {
+        "id": "app.entry.linkDisabled",
+        "description": "tooltip for link button in comment editor",
+        "defaultMessage": "You must select some text first"
+    },
+    {
+        "id": "app.entry.linkPlaceholder",
+        "description": "placeholder for the link input in editors",
+        "defaultMessage": "Type the link and press enter"
+    },
+    {
+        "id": "app.entry.loadingImage",
+        "description": "placeholder when an image is loading",
+        "defaultMessage": "Loading image"
+    },
+    {
+        "id": "app.entry.entries",
+        "description": "plural form of entry! :)",
+        "defaultMessage": "entries"
+    },
+    {
+        "id": "app.leaveAComment",
+        "description": "when user searches for a draft and nothing found",
+        "defaultMessage": "Be the first one to write a comment!"
+    },
+    {
+        "id": "app.entry.commentedOn",
+        "description": "commented on",
+        "defaultMessage": "commented on"
+    },
+    {
+        "id": "app.entry.repliedOn",
+        "description": "replied on",
+        "defaultMessage": "replied on a comment on"
+    },
+    {
+        "id": "app.entry.loadComments",
+        "description": "label for load comments button",
+        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
     }
 ]
