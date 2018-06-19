@@ -1,0 +1,302 @@
+[
+    {
+        "id": "app.notification.bondAethSuccess",
+        "description": "notification to be displayed when bond/manafy AETH transaction was mined",
+        "defaultMessage": "您成功法力化 {amount} AETH"
+    },
+    {
+        "id": "app.notification.cycleAethSuccess",
+        "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
+        "defaultMessage": "您成功轮回 {amount} AETH"
+    },
+    {
+        "id": "app.notification.freeAethSuccess",
+        "description": "notification to be displayed when collecting cycled AETH transaction was mined",
+        "defaultMessage": "您成功收集了您轮回的 AETH"
+    },
+    {
+        "id": "app.notification.highlightSaveSuccess",
+        "description": "Notification to be displayed when a highlight has been saved",
+        "defaultMessage": "此精粹已保存！"
+    },
+    {
+        "id": "app.notification.highlightSaveSuccessInputPlaceholder",
+        "description": "Placeholder for note input after highlight save",
+        "defaultMessage": "是否要键入注解？"
+    },
+    {
+        "id": "app.notification.updatingProfile",
+        "description": "Notification to be displayed when update profile transaction is sent",
+        "defaultMessage": "您的个人资料正在更新..."
+    },
+    {
+        "id": "app.notification.updateProfileSuccess",
+        "description": "Notification to be displayed when update profile transaction was mined",
+        "defaultMessage": "您的个人资料已成功更新"
+    },
+    {
+        "id": "app.notification.followingProfile",
+        "description": "Notification to be displayed when follow transaction is sent",
+        "defaultMessage": "关注 {displayName}..."
+    },
+    {
+        "id": "app.notification.followProfileSuccess",
+        "description": "Notification to be displayed when follow transaction was mined",
+        "defaultMessage": "现在您已关注 {displayName}"
+    },
+    {
+        "id": "app.notification.transformEssenceSuccess",
+        "description": "notification to be displayed when transform Essence transaction was mined",
+        "defaultMessage": "您成功转换了{amount} 精气"
+    },
+    {
+        "id": "app.notification.unfollowingProfile",
+        "description": "Notification to be displayed when unfollow transaction is sent",
+        "defaultMessage": "取消关注 {displayName}..."
+    },
+    {
+        "id": "app.notification.unfollowProfileSuccess",
+        "description": "Notification to be displayed when unfollow transaction was mined",
+        "defaultMessage": "您不再关注 {displayName}"
+    },
+    {
+        "id": "app.notification.notEnoughEthers",
+        "description": "Notification to show when not enough ethers",
+        "defaultMessage": "您没有足够的以太币。"
+    },
+    {
+        "id": "app.notification.notEnoughEthOrMana",
+        "description": "Notification when not enough eth or mana",
+        "defaultMessage": "您没有足够的以太币或法力。"
+    },
+    {
+        "id": "app.notification.registerProfileSuccess",
+        "description": "Notification to be displayed when register profile transaction was mined",
+        "defaultMessage": "击个掌！个人资料已经成功注册！"
+    },
+    {
+        "id": "app.notification.publishCommentSuccess",
+        "description": "Notification to be displayed when publish comment transaction was mined",
+        "defaultMessage": "您成功发表了评论"
+    },
+    {
+        "id": "app.notification.publishingEntry",
+        "description": "Notification for when entry is publishing",
+        "defaultMessage": "发布“{title}”。"
+    },
+    {
+        "id": "app.notification.publishingNewEntryVersion",
+        "description": "Notification for when a new entry version is publishing",
+        "defaultMessage": "更新“{title}”。"
+    },
+    {
+        "id": "app.notification.newVersionPublishedSuccessfully",
+        "description": "Notification for when a new version was published",
+        "defaultMessage": "条目“{title}”成功更新。"
+    },
+    {
+        "id": "app.notification.draftPublishedSuccessfully",
+        "description": "Notification for when draft successfully registered/published",
+        "defaultMessage": "草稿“{title}”成功发布。"
+    },
+    {
+        "id": "app.notification.claimSuccess",
+        "description": "Notification to be displayed when collect Essence transaction was mined",
+        "defaultMessage": "您成功收集了 {entryTitle} 的精气"
+    },
+    {
+        "id": "app.notification.claimVoteSuccess",
+        "description": "Notification to be displayed when collect Essence for vote transaction was mined",
+        "defaultMessage": "您成功收集了 {entryTitle} 的精气"
+    },
+    {
+        "id": "app.notification.downvotingEntry",
+        "description": "Notification to be displayed when entry downvote transaction is sent",
+        "defaultMessage": "否决 {entryTitle}..."
+    },
+    {
+        "id": "app.notification.downvoteCommentSuccess",
+        "description": "Notification to be displayed when downvote comment transaction was mined",
+        "defaultMessage": "您成功否决了评论"
+    },
+    {
+        "id": "app.notification.downvoteEntrySuccess",
+        "description": "Notification to be displayed when downvote entry transaction was mined",
+        "defaultMessage": "您成功否决了 {entryTitle}"
+    },
+    {
+        "id": "app.notification.upvotingEntry",
+        "description": "Notification to be displayed when entry upvote transaction is sent",
+        "defaultMessage": "赞同 {entryTitle}..."
+    },
+    {
+        "id": "app.notification.upvoteCommentSuccess",
+        "description": "Notification to be displayed when upvote comment transaction was mined",
+        "defaultMessage": "您成功赞同了评论"
+    },
+    {
+        "id": "app.notification.upvoteEntrySuccess",
+        "description": "Notification to be displayed when upvote entry transaction was mined",
+        "defaultMessage": "您成功赞同了 {entryTitle}"
+    },
+    {
+        "id": "app.notification.publishingComment",
+        "description": "Notification to be displayed when comment publishing tx was sent",
+        "defaultMessage": "发表评论"
+    },
+    {
+        "id": "app.notification.commentPublishedSuccessfully",
+        "description": "Notification to be displayed when comment successfully published",
+        "defaultMessage": "成功发表了评论"
+    },
+    {
+        "id": "app.notification.claiming",
+        "description": "Notification to be displayed when collect transaction is sent",
+        "defaultMessage": "收集 {entryTitle} 的精气..."
+    },
+    {
+        "id": "app.notification.draftSavedSuccessfully",
+        "description": "notification to show when draft was successfully saved",
+        "defaultMessage": "草稿成功保存！"
+    },
+    {
+        "id": "app.notification.draftDeletedSuccessfully",
+        "description": "notification to show when draft was successfully deleted",
+        "defaultMessage": "草稿已成功删除！"
+    },
+    {
+        "id": "app.notification.linkCopiedToClipboard",
+        "description": "notification to show when user copies profile link",
+        "defaultMessage": "链接已复制到剪贴板"
+    },
+    {
+        "id": "app.notification.sendingTip",
+        "description": "Notification to be displayed when tip transaction is sent",
+        "defaultMessage": "向 {displayName} 发送小费 ..."
+    },
+    {
+        "id": "app.notification.sendTipSuccess",
+        "description": "Notification to be displayed when tip transaction was successfully mined",
+        "defaultMessage": "您已成功地向 {displayName} 付小费"
+    },
+    {
+        "id": "app.notification.notificationsEnabledSuccess",
+        "description": "message to be displayed when notifications were enabled for a specific user",
+        "defaultMessage": "启用 {displayName} 的通知"
+    },
+    {
+        "id": "app.notification.notificationsDisabledSuccess",
+        "description": "message to be displayed when notifications were disabled for a specific user",
+        "defaultMessage": "禁用 {displayName} 的通知"
+    },
+    {
+        "id": "app.notification.backupSuccess",
+        "description": "message to display when the keystore backup was generated successfully",
+        "defaultMessage": "备份已生成放在 {path} "
+    },
+    {
+        "id": "app.notification.saveGethSettingsSuccess",
+        "description": "Geth settings successfully saved",
+        "defaultMessage": "您已成功保存了设置。要应用所做的更改，您需要重新启动 geth 服务。"
+    },
+    {
+        "id": "app.notification.saveIpfsSettingsSuccess",
+        "description": "IPFS settings successfully saved",
+        "defaultMessage": "您已成功保存了设置。要应用所做的更改，您需要重新启动 IPFS 服务。"
+    },
+    {
+        "id": "app.notification.setIpfsPortsSuccess",
+        "description": "IPFS ports successfully set",
+        "defaultMessage": "您已成功设置了 IPFS 端口。要应用所做的更改，您需要重新启动 IPFS 服务。"
+    },
+    {
+        "id": "app.settings.themeTips",
+        "description": "theme tips",
+        "defaultMessage": "您的主题将在刷新应用程序后更改。"
+    },
+    {
+        "id": "app.notification.toggleDonationsSuccess",
+        "description": "toggle accepting donations/tips transaction was succesfully mined",
+        "defaultMessage": "您成功地更改了您的小费设置"
+    },
+    {
+        "id": "app.notification.transferAethSuccess",
+        "description": "transfer AETH transaction was successfully mined",
+        "defaultMessage": "您成功转给 {displayName} {tokenAmount} AETH"
+    },
+    {
+        "id": "app.notification.transferEthSuccess",
+        "description": "transfer ETH transaction was successfully mined",
+        "defaultMessage": "您成功转给 {displayName} {value} ETH"
+    },
+    {
+        "id": "app.notification.userSettingsSaveSuccess",
+        "description": "User settings successfully saved",
+        "defaultMessage": "您已成功保存您的个人设置"
+    },
+    {
+        "id": "app.notification.faucetRequestSuccess",
+        "description": "message to show when faucet tx successful",
+        "defaultMessage": "您已经成功地接收了用于测试的ETH和部分AETH"
+    },
+    {
+        "id": "app.settings.notifFollow",
+        "description": "text for notification",
+        "defaultMessage": "关注您"
+    },
+    {
+        "id": "app.settings.notifComment",
+        "description": "text for notification",
+        "defaultMessage": "评论"
+    },
+    {
+        "id": "app.settings.notifDonationAeth",
+        "description": "text for notification",
+        "defaultMessage": "打赏{aeth} ETH"
+    },
+    {
+        "id": "app.settings.notifDonationBoth",
+        "description": "text for notification",
+        "defaultMessage": "打赏{eth} ETH和{aeth} AETH"
+    },
+    {
+        "id": "app.settings.notifDonationEth",
+        "description": "text for notification",
+        "defaultMessage": "打赏{eth} ETH"
+    },
+    {
+        "id": "app.settings.notifVote",
+        "description": "text for notification",
+        "defaultMessage": "赞成"
+    },
+    {
+        "id": "app.settings.notifBlockNr",
+        "description": "text for notification block number",
+        "defaultMessage": "在块编号 {blockNr}"
+    },
+    {
+        "id": "app.notification.errorCopiedToClipboard",
+        "description": "notification to show when user copies error info",
+        "defaultMessage": "Error copied to clipboard"
+    },
+    {
+        "id": "app.notification.welcomeTitle",
+        "description": "title for welcome/faucet notification",
+        "defaultMessage": "Welcome to AKASHA"
+    },
+    {
+        "id": "app.notification.welcomeMessage",
+        "description": "welcome/faucet notification message",
+        "defaultMessage": "To claim your test ETH gift, please click"
+    },
+    {
+        "id": "app.notification.noFunds",
+        "description": "title for faucet notification",
+        "defaultMessage": "No more funds"
+    },
+    {
+        "id": "app.notification.renewBalance",
+        "description": "description for faucet notification",
+        "defaultMessage": "To renew your balance, please click"
+    }
+]
