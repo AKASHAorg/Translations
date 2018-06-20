@@ -82,27 +82,27 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "面板名称"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "面板名称必填"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "此面板已存在"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "Are you sure you want to delete this column?"
+        "defaultMessage": "您确定要删除这一栏吗？"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "Are you sure you want to delete {name}?"
+        "defaultMessage": "您确定要删除 {name} 吗？"
     },
     {
         "id": "app.dashboard.firstDashboard",
@@ -112,17 +112,17 @@
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Large"
+        "defaultMessage": "放大"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "最新条目"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "目录"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -132,12 +132,12 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "我的面板"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "输入面板名称"
     },
     {
         "id": "app.dashboard.noDashboard",
