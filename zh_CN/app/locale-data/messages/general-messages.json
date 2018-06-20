@@ -52,7 +52,7 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "数量"
     },
     {
         "id": "app.general.anEntry",
@@ -72,37 +72,37 @@
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "返回"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "区块"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "取消"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "聊天"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "选择一张图像"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "选择其他图像"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "关闭"
     },
     {
         "id": "app.general.collect",
@@ -112,17 +112,17 @@
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "已收集"
     },
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "评论"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "确认"
     },
     {
         "id": "app.general.confirmedAtBlock",
@@ -132,32 +132,32 @@
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "复制"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "计数器"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "创建"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "已创建"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "Cycling"
+        "defaultMessage": "循环"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "删除"
     },
     {
         "id": "app.general.done",
@@ -167,17 +167,17 @@
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "下载中"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "编辑"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "编辑个人资料"
     },
     {
         "id": "app.general.entries",
@@ -187,7 +187,7 @@
     {
         "id": "app.general.essence",
         "description": "essence",
-        "defaultMessage": "Essence"
+        "defaultMessage": "精气"
     },
     {
         "id": "app.general.essenceTotal",
@@ -227,12 +227,12 @@
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "生成预览"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Geth 服务关闭"
     },
     {
         "id": "app.general.gethServiceOn",
@@ -242,42 +242,42 @@
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "帮助"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "历史"
     },
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {小时} other {小时}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "IPFS 服务关闭"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "IPFS 服务开启"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "加入"
     },
     {
         "id": "app.general.karma",
         "description": "karma",
-        "defaultMessage": "Karma"
+        "defaultMessage": "业力"
     },
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "业力总分"
     },
     {
         "id": "app.general.learnMore",
@@ -287,27 +287,27 @@
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "离开"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "日志"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "注销"
     },
     {
         "id": "app.general.mana",
         "description": "mana",
-        "defaultMessage": "Mana"
+        "defaultMessage": "法力"
     },
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "总消耗法力"
     },
     {
         "id": "app.general.manaPool",
@@ -317,37 +317,37 @@
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "Manafied"
+        "defaultMessage": "法力化"
     },
     {
         "id": "app.general.minutesCount",
         "description": "short form of minutes count",
-        "defaultMessage": "{minutes, number} min"
+        "defaultMessage": "{minutes, number} 分钟"
     },
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "下一步"
     },
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "否"
     },
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "无可用对等端点"
     },
     {
         "id": "app.general.notes",
         "description": "notes",
-        "defaultMessage": "Notes"
+        "defaultMessage": "注意"
     },
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "没找到"
     },
     {
         "id": "app.general.notifications",
@@ -357,7 +357,7 @@
     {
         "id": "app.general.ok",
         "description": "Ok",
-        "defaultMessage": "Ok"
+        "defaultMessage": "好"
     },
     {
         "id": "app.general.okTutorial",
@@ -367,12 +367,12 @@
     {
         "id": "app.general.pause",
         "description": "pause button label",
-        "defaultMessage": "Pause"
+        "defaultMessage": "暂停"
     },
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "待确认"
     },
     {
         "id": "app.general.pendingConfirmation",
@@ -392,12 +392,12 @@
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "图像处理中"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "个人资料概览"
     },
     {
         "id": "app.general.publish",
@@ -557,27 +557,27 @@
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "开始"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "已开始"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "已停止"
     },
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "Stream"
+        "defaultMessage": "流"
     },
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "提交"
     },
     {
         "id": "app.general.tags",
@@ -587,27 +587,27 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "如您继续创建账号并使用 AKASHA，视为您同意我们的 {termsLink}。\\n                         如果您不同意，您不可使用 AKASHA。"
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "服务条款和隐私政策"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "交易失败"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "可转换"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Transform"
+        "defaultMessage": "转换"
     },
     {
         "id": "app.general.transformAethers",
