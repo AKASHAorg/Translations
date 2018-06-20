@@ -147,32 +147,32 @@
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "预览 {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "预览 {displayName}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "预览 #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "用户"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "搜索面板..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "缩小"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,12 +182,12 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "标签"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
         "description": "Column placeholder title",
-        "defaultMessage": "A new world awaits you!"
+        "defaultMessage": "添加栏"
     },
     {
         "id": "app.dashboard.noColumns",
@@ -232,7 +232,7 @@
     {
         "id": "app.dashboard.previewComments",
         "description": "label for user comments column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "预览 {displayName}"
     },
     {
         "id": "app.dashboard.addNewCommentsColumn",
