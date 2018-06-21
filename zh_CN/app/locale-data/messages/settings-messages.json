@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "自定义应用程序首选项"
     },
     {
         "id": "app.settings.english",
@@ -107,12 +107,12 @@
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "小费选项"
     },
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "更改此选项将导致发送一笔交易"
     },
     {
         "id": "app.settings.tipsAccept",
@@ -122,12 +122,12 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "不接受小费"
     },
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "应用程序设置"
     },
     {
         "id": "app.settings.update",
