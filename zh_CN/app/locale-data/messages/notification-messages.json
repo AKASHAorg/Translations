@@ -97,7 +97,7 @@
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "草稿“{title}”成功发布。"
     },
     {
         "id": "app.notification.claimSuccess",
@@ -222,17 +222,17 @@
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "您成功转给 {displayName} {tokenAmount} AETH"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "您成功转给 {displayName} {value} ETH"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "您已成功保存您的个人设置"
     },
     {
         "id": "app.notification.faucetRequestSuccess",
