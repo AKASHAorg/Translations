@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "验证过程已完成！"
     },
     {
         "id": "app.setup.backup",
@@ -27,32 +27,32 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Geth 数据文件夹路径"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Geth IPC 路径"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Geth 缓存大小"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Geth 网络 id"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "导入密钥"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "IPFS 存储路径"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -62,27 +62,27 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "IPFS API 端口"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPFS 网关端口"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "IPFS 群端口"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "配置"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "轻量同步"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -92,12 +92,12 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "请在下面输入您的密码"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "正常同步"
     },
     {
         "id": "app.setup.normalSyncDescription",
@@ -112,32 +112,32 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "同步"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "同步选项"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "日志详情"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "登录"
     },
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "欢迎！"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "请选择一个身份登录"
     },
     {
         "id": "app.setup.newIdentity",
@@ -147,17 +147,17 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "你对什么感兴趣？"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "我们将根据您的兴趣为您推荐最佳的阅读内容。"
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "快速设置"
     },
     {
         "id": "app.setup.faucetPending",
