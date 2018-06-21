@@ -197,7 +197,7 @@
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "No profiles yet"
+        "defaultMessage": "无个人资料"
     },
     {
         "id": "app.profile.noTransactions",
@@ -207,12 +207,12 @@
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "Overview"
+        "defaultMessage": "概览"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "This username doesn't exist"
+        "defaultMessage": "此用户名不存在"
     },
     {
         "id": "app.profile.settings",
@@ -222,22 +222,22 @@
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "Receive"
+        "defaultMessage": "接收"
     },
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Type a username or paste an ethereum address"
+        "defaultMessage": "键入用户名或粘贴以太坊地址"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Rewards and goals"
+        "defaultMessage": "奖励和目标"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Save for later"
+        "defaultMessage": "稍后保存"
     },
     {
         "id": "app.profile.send",
@@ -252,17 +252,17 @@
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Sending tip ..."
+        "defaultMessage": "小费发送中..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Send tip to {name}"
+        "defaultMessage": "向 {name} 发送小费"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "发送到"
     },
     {
         "id": "app.profile.sentTip",
@@ -272,27 +272,27 @@
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "支持"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "已支持"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "支持中"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "小费数量"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "总结余"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -312,7 +312,7 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "您的以太坊地址"
     },
     {
         "id": "app.profile.noNotifications",
