@@ -247,12 +247,12 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "您的计算机当前正在和以太坊全球计算机网络进行同步。\\n                        一旦同步完成，您就可以登录并享受完整的 AKASHA 体验。"
+        "defaultMessage": "您的计算机当前正在和以太坊全球计算机网络进行同步。 一旦同步完成，您就可以登录并享受完整的 AKASHA 体验。"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "同步完成。需要启动 IPFS 服务才能继续。\\n                        您可以通过头部状态条手动启动，或点击“下一步”自动启动。"
+        "defaultMessage": "同步完成。需要启动 IPFS 服务才能继续。您可以通过头部状态条手动启动，或点击“下一步”自动启动。"
     },
     {
         "id": "app.setup.noProfilesFound",
