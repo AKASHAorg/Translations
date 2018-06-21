@@ -437,7 +437,7 @@
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "草稿"
     },
     {
         "id": "app.entry.publishedEntryCategory",
