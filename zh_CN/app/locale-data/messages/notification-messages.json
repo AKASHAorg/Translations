@@ -72,27 +72,27 @@
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "您的个人资料已成功更新"
     },
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "You successfully published a comment"
+        "defaultMessage": "您成功发表了评论"
     },
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publishing \"{title}\"."
+        "defaultMessage": "发布“{title}”。"
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Updating \"{title}\"."
+        "defaultMessage": "更新“{title}”。"
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "条目“{title}”成功更新。"
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
@@ -102,112 +102,112 @@
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "您成功收集了 {entryTitle} 的精气"
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "您成功收集了 {entryTitle} 的精气"
     },
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "否决 {entryTitle}..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "您成功否决了评论"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "您成功否决了 {entryTitle}"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "赞同 {entryTitle}..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "You successfully upvoted a comment"
+        "defaultMessage": "您成功赞同了评论"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "You successfully upvoted {entryTitle}"
+        "defaultMessage": "您成功赞同了 {entryTitle}"
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publishing comment"
+        "defaultMessage": "发表评论"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comment published successfully"
+        "defaultMessage": "成功发表了评论"
     },
     {
         "id": "app.notification.claiming",
         "description": "Notification to be displayed when collect transaction is sent",
-        "defaultMessage": "Collecting Essence for {entryTitle} ..."
+        "defaultMessage": "收集 {entryTitle} 的精气..."
     },
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "草稿成功保存！"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "草稿已成功删除！"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "链接已复制到剪贴板"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "向 {displayName} 发送小费 ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "您已成功地向 {displayName} 付小费"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "启用 {displayName} 的通知"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "禁用 {displayName} 的通知"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "备份已生成放在 {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "您已成功保存了设置。要应用所做的更改，您需要重新启动 geth 服务。"
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "您已成功保存了设置。要应用所做的更改，您需要重新启动 IPFS 服务。"
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "您已成功设置了 IPFS 端口。要应用所做的更改，您需要重新启动 IPFS 服务。"
     },
     {
         "id": "app.settings.themeTips",
@@ -217,7 +217,7 @@
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "You succesfully changed your tips settings"
+        "defaultMessage": "您成功地更改了您的小费设置"
     },
     {
         "id": "app.notification.transferAethSuccess",
