@@ -237,7 +237,7 @@
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Geth 服务开启"
     },
     {
         "id": "app.general.help",
@@ -422,32 +422,32 @@
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "刷新"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "更名"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "回复"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "重置"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "恢复"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "重试"
     },
     {
         "id": "app.general.requestTestAEthers",
@@ -477,17 +477,17 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "保存"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "稍后保存"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "搜索"
     },
     {
         "id": "app.general.seeOnEtherscan",
@@ -517,7 +517,7 @@
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "我的个人资料"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
@@ -527,7 +527,7 @@
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "搜索"
     },
     {
         "id": "app.general.sidebarTooltipChat",
@@ -642,7 +642,7 @@
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "升级中"
     },
     {
         "id": "app.general.viewProfile",
@@ -652,12 +652,12 @@
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "投票"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "钱包"
     },
     {
         "id": "app.general.wailting",
@@ -667,7 +667,7 @@
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "是"
     },
     {
         "id": "app.general.comment",
