@@ -27,7 +27,7 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "About me"
+        "defaultMessage": "关于我"
     },
     {
         "id": "app.profile.essenceReady",
