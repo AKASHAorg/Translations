@@ -82,27 +82,27 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "面板名称"
+        "defaultMessage": "Board name"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "面板名称必填"
+        "defaultMessage": "Board name is required"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "此面板已存在"
+        "defaultMessage": "This board already exists"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "您确定要删除这一栏吗？"
+        "defaultMessage": "Are you sure you want to delete this column?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "您确定要删除 {name} 吗？"
+        "defaultMessage": "Are you sure you want to delete {name}?"
     },
     {
         "id": "app.dashboard.firstDashboard",
@@ -112,17 +112,17 @@
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "放大"
+        "defaultMessage": "Large"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "最新条目"
+        "defaultMessage": "Latest entries"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "目录"
+        "defaultMessage": "List"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -132,12 +132,12 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "我的面板"
+        "defaultMessage": "My boards"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "输入面板名称"
+        "defaultMessage": "Type board name"
     },
     {
         "id": "app.dashboard.noDashboard",
@@ -147,32 +147,32 @@
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "预览 {listName}"
+        "defaultMessage": "Preview for {listName}"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "预览 {displayName}"
+        "defaultMessage": "Preview for {displayName}"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "预览 #{tagName}"
+        "defaultMessage": "Preview for #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "用户"
+        "defaultMessage": "User"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "搜索面板..."
+        "defaultMessage": "Search for a board..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "缩小"
+        "defaultMessage": "Small"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,12 +182,12 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "标签"
+        "defaultMessage": "Tag"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
         "description": "Column placeholder title",
-        "defaultMessage": "添加栏"
+        "defaultMessage": "A new world awaits you!"
     },
     {
         "id": "app.dashboard.noColumns",
@@ -232,7 +232,7 @@
     {
         "id": "app.dashboard.previewComments",
         "description": "label for user comments column preview",
-        "defaultMessage": "预览 {displayName}"
+        "defaultMessage": "Preview for {displayName}"
     },
     {
         "id": "app.dashboard.addNewCommentsColumn",
