@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "验证过程已完成！"
+        "defaultMessage": "This is your new identity"
     },
     {
         "id": "app.setup.backup",
@@ -27,32 +27,32 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth 数据文件夹路径"
+        "defaultMessage": "Geth Datadir path"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC 路径"
+        "defaultMessage": "Geth IPC path"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth 缓存大小"
+        "defaultMessage": "Geth cache size"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth 网络 id"
+        "defaultMessage": "Geth network id"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "导入密钥"
+        "defaultMessage": "Import keys"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS 存储路径"
+        "defaultMessage": "IPFS storage path"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -62,27 +62,27 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API 端口"
+        "defaultMessage": "IPFS API port"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS 网关端口"
+        "defaultMessage": "IPFS gateway port"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS 群端口"
+        "defaultMessage": "IPFS swarm port"
     },
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "配置"
+        "defaultMessage": "Configuration"
     },
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "轻量同步"
+        "defaultMessage": "Light sync"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -92,12 +92,12 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "请在下面输入您的密码"
+        "defaultMessage": "Please enter your passphrase below"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "正常同步"
+        "defaultMessage": "Normal sync"
     },
     {
         "id": "app.setup.normalSyncDescription",
@@ -112,32 +112,32 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "同步"
+        "defaultMessage": "Synchronization"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "同步选项"
+        "defaultMessage": "Sync options"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "日志详情"
+        "defaultMessage": "Log details"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "登录"
+        "defaultMessage": "Login"
     },
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "欢迎！"
+        "defaultMessage": "Welcome!"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "请选择一个身份登录"
+        "defaultMessage": "Please select one identity to login"
     },
     {
         "id": "app.setup.newIdentity",
@@ -147,17 +147,17 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "你对什么感兴趣？"
+        "defaultMessage": "What are you interested in?"
     },
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "我们将根据您的兴趣为您推荐最佳的阅读内容。"
+        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "快速设置"
+        "defaultMessage": "Express setup"
     },
     {
         "id": "app.setup.faucetPending",
@@ -192,112 +192,112 @@
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "高级"
+        "defaultMessage": "Advanced"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "下载 Geth 客户端..."
+        "defaultMessage": "Downloading Geth client..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "下载 IPFS 客户端..."
+        "defaultMessage": "Downloading IPFS client..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "启动 Geth 客户端..."
+        "defaultMessage": "Starting Geth client..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "升级 Geth 客户端..."
+        "defaultMessage": "Upgrading Geth client..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "升级 IPFS 客户端..."
+        "defaultMessage": "Upgrading IPFS client..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "处理中"
+        "defaultMessage": "Processing"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "同步中"
+        "defaultMessage": "Synchronizing"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "同步停止"
+        "defaultMessage": "Synchronization was stopped"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "同步完成"
+        "defaultMessage": "Synchronization completed"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "同步暂停"
+        "defaultMessage": "Synchronization is paused"
     },
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "您的计算机当前正在和以太坊全球计算机网络进行同步。 一旦同步完成，您就可以登录并享受完整的 AKASHA 体验。"
+        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "同步完成。需要启动 IPFS 服务才能继续。您可以通过头部状态条手动启动，或点击“下一步”自动启动。"
+        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "没有个人资料。创建一个新的身份或导入一个现有的。"
+        "defaultMessage": "If you want to import an identity please see this link."
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "查找对等端点"
+        "defaultMessage": "Finding peers"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "服务启动中"
+        "defaultMessage": "Launching services"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "等待服务"
+        "defaultMessage": "Waiting for services"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "等待 geth 客户端"
+        "defaultMessage": "Waiting for geth client"
     },
     {
         "id": "app.setup.peerCount",
         "description": "number of peers connected",
-        "defaultMessage": " {peerCount, number} {peerCount, plural, one {个对等端点} few {个对等端点} many {个对等端点} other {个对等端点}}，{peerCount, plural, one {已连接} other {已连接}}"
+        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}} {peerCount, plural, one {connected} other {connected}}"
     },
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "详情"
+        "defaultMessage": "details"
     },
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth 服务未启用。请手动启动以获取您的个人资料。"
+        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS 服务已停止。请手动启动以获取您的个人资料。"
+        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
     },
     {
         "id": "app.setup.tutorialTitle",
