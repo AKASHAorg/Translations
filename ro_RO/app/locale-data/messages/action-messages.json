@@ -7,17 +7,17 @@
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Colectează Esența pentru"
+        "defaultMessage": "Collect Essence for"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Colectează Esența pentru votul pe"
+        "defaultMessage": "Collect Essence for vote on"
     },
     {
         "id": "app.action.comment",
         "description": "publish comment on an entry",
-        "defaultMessage": "Comentariu pe"
+        "defaultMessage": "Comment on"
     },
     {
         "id": "app.action.commentDownvote",
@@ -37,12 +37,12 @@
     {
         "id": "app.action.draftPublish",
         "description": "publish an entry",
-        "defaultMessage": "Publică"
+        "defaultMessage": "Publish"
     },
     {
         "id": "app.action.draftPublishUpdate",
         "description": "update/edit an entry",
-        "defaultMessage": "Actualizează"
+        "defaultMessage": "Update"
     },
     {
         "id": "app.action.entryDownvote",
