@@ -52,7 +52,7 @@
     {
         "id": "app.akasha.terms.registrationBody",
         "description": "registration and identity section content",
-        "defaultMessage": "13 AKASHA is all about privacy. You may create an Identity using the credentials of your choice or maintain multiple Identities. However, as AKASHA runs on the Ethereum Platform, the use of AKASHA involves certain payments. Accordingly, you will not use AKASHA if you are under 13 years old."
+        "defaultMessage": "13 Você pode criar uma Identidade usando as credenciais de sua escolha ou manter diversas Identidades. Contudo, como AKASHA funciona na plataforma Ethereum, o uso de AKASHA involve certos pagamentos. Em consequência, você não poderá utilizar AKASHA se você tem menos de 39 anos"
     },
     {
         "id": "app.akasha.terms.paymentOfFeesTitle",
@@ -67,7 +67,7 @@
     {
         "id": "app.akasha.terms.advertisementTitle",
         "description": "advertisement section title",
-        "defaultMessage": "6. Advertisement"
+        "defaultMessage": "Everton Moreira"
     },
     {
         "id": "app.akasha.terms.advertisementBody",
