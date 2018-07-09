@@ -2,7 +2,7 @@
     {
         "id": "app.akasha.terms.version",
         "description": "terms and conditions version information",
-        "defaultMessage": "Versão 2 / Novembro de 2016"
+        "defaultMessage": "Versão 2 / junho 2018"
     },
     {
         "id": "app.akasha.terms.title",
@@ -17,7 +17,7 @@
     {
         "id": "app.akasha.terms.privacyTitle",
         "description": "privacy section title",
-        "defaultMessage": "1. Privacidade"
+        "defaultMessage": "Livre"
     },
     {
         "id": "app.akasha.terms.privacyBody",
@@ -27,7 +27,7 @@
     {
         "id": "app.akasha.terms.sharingYourContentTitle",
         "description": "sharing content section title",
-        "defaultMessage": "2. Compartilhando Seu Conteúdo e Informação"
+        "defaultMessage": "2. Compartilhando Seu Conteúdo e Informação "
     },
     {
         "id": "app.akasha.terms.sharingYourContentBody",
@@ -47,7 +47,7 @@
     {
         "id": "app.akasha.terms.registrationTitle",
         "description": "registration and identity section title",
-        "defaultMessage": "4. Registro e Identidade"
+        "defaultMessage": "4"
     },
     {
         "id": "app.akasha.terms.registrationBody",
