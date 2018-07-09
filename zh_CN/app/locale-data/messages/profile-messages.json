@@ -27,7 +27,7 @@
     {
         "id": "app.profile.aboutMeTitle",
         "description": "About Me section title",
-        "defaultMessage": "关于我"
+        "defaultMessage": "About me"
     },
     {
         "id": "app.profile.essenceReady",
@@ -37,37 +37,37 @@
     {
         "id": "app.profile.contacts",
         "description": "Contacts card title",
-        "defaultMessage": "联系方式"
+        "defaultMessage": "Contacts"
     },
     {
         "id": "app.profile.cycledAmountAvailable",
         "description": "amount of cycled AETH available to be collected",
-        "defaultMessage": "可用数量 {amount} AETH"
+        "defaultMessage": "Amount available {amount} AETH"
     },
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "轮回完成"
+        "defaultMessage": "Cycling complete"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
         "description": "placeholder for empty cycling AETH table",
-        "defaultMessage": "没有待轮回的 AETH"
+        "defaultMessage": "No AETH cycling in progress"
     },
     {
         "id": "app.profile.cyclingProcess",
         "description": "cycling process in progress",
-        "defaultMessage": "轮回处理"
+        "defaultMessage": "Cycling process"
     },
     {
         "id": "app.profile.editProfileTitle",
         "description": "Edit profile page title",
-        "defaultMessage": "编辑个人信息"
+        "defaultMessage": "Edit Profile Information"
     },
     {
         "id": "app.profile.shortDescriptionLabel",
         "description": "Label for Short description text field",
-        "defaultMessage": "写一些与你有关的东西"
+        "defaultMessage": "Type something about you"
     },
     {
         "id": "app.profile.karmaLevel",
@@ -77,52 +77,52 @@
     {
         "id": "app.profile.linksPlaceholder",
         "description": "Links placeholder text",
-        "defaultMessage": "链接"
+        "defaultMessage": "Type or paste your link"
     },
     {
         "id": "app.profile.linksTitle",
         "description": "Links section title",
-        "defaultMessage": "链接"
+        "defaultMessage": "LINKS"
     },
     {
         "id": "app.profile.addLinkButtontitle",
         "description": "title for add link button",
-        "defaultMessage": "添加链接"
+        "defaultMessage": "Add a new link"
     },
     {
         "id": "app.profile.removeLinkButtonTitle",
         "description": "tooltip for Remove Link button",
-        "defaultMessage": "移除链接"
+        "defaultMessage": "remove link"
     },
     {
         "id": "app.profile.cryptoAddresses",
         "description": "crypto addresses section title",
-        "defaultMessage": "其他加密地址"
+        "defaultMessage": "Other crypto addresses"
     },
     {
         "id": "app.profile.addCryptoAddress",
         "description": "add crypto address button label",
-        "defaultMessage": "添加加密货币地址"
+        "defaultMessage": "Add cryptocurrency address"
     },
     {
         "id": "app.profile.cryptoName",
         "description": "crypto name label",
-        "defaultMessage": "加密货币名称"
+        "defaultMessage": "Cryptocurrency name"
     },
     {
         "id": "app.profile.cryptoAddress",
         "description": "crypto address label",
-        "defaultMessage": "加密货币地址"
+        "defaultMessage": "Cryptocurrency address"
     },
     {
         "id": "app.profile.registerProfile",
         "description": "register profile button label",
-        "defaultMessage": "注册个人资料"
+        "defaultMessage": "Register Profile"
     },
     {
         "id": "app.profile.removeCryptoButtonTitle",
         "description": "remove crypto button label",
-        "defaultMessage": "移除加密货币链接"
+        "defaultMessage": "Remove cryptocurrency link"
     },
     {
         "id": "app.profile.entries",
@@ -137,57 +137,57 @@
     {
         "id": "app.profile.updateProfile",
         "description": "update a profile",
-        "defaultMessage": "更新个人资料"
+        "defaultMessage": "Update Profile"
     },
     {
         "id": "app.profile.followers",
         "description": "Label for followers tab",
-        "defaultMessage": "关注者"
+        "defaultMessage": "Followers"
     },
     {
         "id": "app.profile.followersCount",
         "description": "number of followers",
-        "defaultMessage": "{followers, number} {followers, plural, one {关注者} other {关注者}}"
+        "defaultMessage": "{followers, number} {followers, plural, one {follower} other {followers}}"
     },
     {
         "id": "app.profile.following",
         "description": "following an user",
-        "defaultMessage": "关注"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followings",
         "description": "Label for following card",
-        "defaultMessage": "关注"
+        "defaultMessage": "Following"
     },
     {
         "id": "app.profile.followingsCount",
         "description": "number of followings",
-        "defaultMessage": "{followings, number} {followings, plural, one {关注} other {关注}}"
+        "defaultMessage": "{followings, number} {followings, plural, one {following} other {followings}}"
     },
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "精粹"
+        "defaultMessage": "Highlights"
     },
     {
         "id": "app.profile.lists",
         "description": "Title for lists card",
-        "defaultMessage": "目录"
+        "defaultMessage": "Lists"
     },
     {
         "id": "app.profile.myBalance",
         "description": "Title for my balance card",
-        "defaultMessage": "我的余额"
+        "defaultMessage": "My balance"
     },
     {
         "id": "app.profile.myEntries",
         "description": "Title for my entries",
-        "defaultMessage": "我的条目"
+        "defaultMessage": "My entries"
     },
     {
         "id": "app.profile.myProfile",
         "description": "Title for profile overview sidebar",
-        "defaultMessage": "我的个人资料"
+        "defaultMessage": "My profile"
     },
     {
         "id": "app.profile.noPendingTransactions",
@@ -197,7 +197,7 @@
     {
         "id": "app.entry.noProfiles",
         "description": "placeholder for empty profiles list",
-        "defaultMessage": "无个人资料"
+        "defaultMessage": "No profiles yet"
     },
     {
         "id": "app.profile.noTransactions",
@@ -207,12 +207,12 @@
     {
         "id": "app.profile.overview",
         "description": "Title for overview card",
-        "defaultMessage": "概览"
+        "defaultMessage": "Overview"
     },
     {
         "id": "app.profile.profileDoesntExist",
         "description": "placeholder message for entry list when username does not exist",
-        "defaultMessage": "此用户名不存在"
+        "defaultMessage": "This username doesn't exist"
     },
     {
         "id": "app.profile.settings",
@@ -222,22 +222,22 @@
     {
         "id": "app.profile.receive",
         "description": "Receive button label",
-        "defaultMessage": "接收"
+        "defaultMessage": "Receive"
     },
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "键入用户名或粘贴以太坊地址"
+        "defaultMessage": "Type a username or paste an ethereum address"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "奖励和目标"
+        "defaultMessage": "Rewards and goals"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "稍后保存"
+        "defaultMessage": "Save for later"
     },
     {
         "id": "app.profile.send",
@@ -252,17 +252,17 @@
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "小费发送中..."
+        "defaultMessage": "Sending tip ..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "向 {name} 发送小费"
+        "defaultMessage": "Send tip to {name}"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "发送到"
+        "defaultMessage": "Send to"
     },
     {
         "id": "app.profile.sentTip",
@@ -272,27 +272,27 @@
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "支持"
+        "defaultMessage": "Support"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "已支持"
+        "defaultMessage": "Supported"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "支持中"
+        "defaultMessage": "Supporting"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "小费数量"
+        "defaultMessage": "Tip amount"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "总结余"
+        "defaultMessage": "Total balance"
     },
     {
         "id": "app.profile.transactionsLog",
@@ -312,7 +312,7 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "您的以太坊地址"
+        "defaultMessage": "Your ethereum address"
     },
     {
         "id": "app.profile.noNotifications",
@@ -327,6 +327,6 @@
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "评论"
+        "defaultMessage": "Comments"
     }
 ]
