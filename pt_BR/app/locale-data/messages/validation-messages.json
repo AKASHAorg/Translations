@@ -2,17 +2,17 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "esse campo é obrigatório"
+        "defaultMessage": "field is required"
     },
     {
         "id": "app.validator.min",
         "description": "When a field has less than minimum accepted number of characters",
-        "defaultMessage": "precisa ter pelo menos {min} caracteres."
+        "defaultMessage": "must be at least {min} characters long."
     },
     {
         "id": "app.validator.max",
         "description": "When a field has more that maximum accepted number of characters",
-        "defaultMessage": "não deve ter mais de {max} caracteres."
+        "defaultMessage": "must not have more than {max} characters."
     },
     {
         "id": "app.validator.invalidCharacters",
@@ -22,12 +22,12 @@
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Opa! Verificação de senha é diferente da primeira!"
+        "defaultMessage": "Oups! Passphrase verification is different than first one!"
     },
     {
         "id": "app.validator.lowercase",
         "description": "only lowercase letters",
-        "defaultMessage": "deve conter apenas letras minúsculas"
+        "defaultMessage": "should contain only lowercase letters"
     },
     {
         "id": "app.validator.akashaIdExists",
