@@ -22,12 +22,12 @@
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "Downvote comment on"
+        "defaultMessage": "反対コメント"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "Upvote comment on"
+        "defaultMessage": "賛成コメント"
     },
     {
         "id": "app.action.cycleAeth",
