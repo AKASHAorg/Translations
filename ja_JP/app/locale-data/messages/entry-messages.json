@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "記事"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -42,7 +42,7 @@
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "解説を追加"
     },
     {
         "id": "app.entry.collected",
@@ -72,12 +72,12 @@
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Draft"
+        "defaultMessage": "下書き"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "下書き"
     },
     {
         "id": "app.entry.draftsCount",
@@ -92,7 +92,7 @@
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "下書きを削除"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
@@ -102,32 +102,32 @@
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "下書きを編集"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "保存済み下書き"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "下書きを保存中"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "プレビューリンクをシェア"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "編集済み"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "投稿を編集"
     },
     {
         "id": "app.entry.entriesCount",
@@ -177,12 +177,12 @@
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "ライセンス"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "リンク"
     },
     {
         "id": "app.entry.loadMoreReplies",
@@ -237,7 +237,7 @@
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "新しい下書き"
     },
     {
         "id": "app.entry.noVotes",
@@ -252,7 +252,7 @@
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Original"
+        "defaultMessage": "オリジナル"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
