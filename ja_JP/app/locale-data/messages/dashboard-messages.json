@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "購読中のフィード"
+        "defaultMessage": "フォロー中のフィード"
     },
     {
         "id": "app.dashboard.tag",
