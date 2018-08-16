@@ -62,7 +62,7 @@
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "フィードを購読中"
+        "defaultMessage": "購読中のフィード"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -77,7 +77,7 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "新しい掲示板を作成する"
+        "defaultMessage": "新しい掲示板を作成"
     },
     {
         "id": "app.dashboard.dashboardName",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "フィードを購読中"
+        "defaultMessage": "購読中のフィード"
     },
     {
         "id": "app.dashboard.tag",
