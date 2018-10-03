@@ -72,37 +72,37 @@
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "戻る"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "ブロック"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "キャンセル"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "チャット"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "画像を選択"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "別の画像を選択"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "閉じる"
     },
     {
         "id": "app.general.collect",
@@ -117,12 +117,12 @@
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "コメント"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "確認"
     },
     {
         "id": "app.general.confirmedAtBlock",
@@ -132,7 +132,7 @@
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "コピー"
     },
     {
         "id": "app.general.counter",
@@ -142,12 +142,12 @@
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "作成"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "作成済み"
     },
     {
         "id": "app.general.cycling",
@@ -157,12 +157,12 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "削除"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "完了"
     },
     {
         "id": "app.general.downloading",
