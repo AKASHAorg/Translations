@@ -167,17 +167,17 @@
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "ダウンロード中"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "編集"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "プロフィールの編集"
     },
     {
         "id": "app.general.entries",
@@ -222,7 +222,7 @@
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "進む"
     },
     {
         "id": "app.general.generatingPreview",
@@ -242,12 +242,12 @@
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "ヘルプ"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "履歴"
     },
     {
         "id": "app.general.hoursCount",
@@ -267,7 +267,7 @@
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "参加"
     },
     {
         "id": "app.general.karma",
@@ -297,7 +297,7 @@
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "ログアウト"
     },
     {
         "id": "app.general.mana",
@@ -422,7 +422,7 @@
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "リフレッシュ"
     },
     {
         "id": "app.general.rename",
@@ -432,12 +432,12 @@
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "返信"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "リセット"
     },
     {
         "id": "app.general.resume",
@@ -477,7 +477,7 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "保存"
     },
     {
         "id": "app.general.saveForLater",
@@ -487,7 +487,7 @@
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "検索"
     },
     {
         "id": "app.general.seeOnEtherscan",
@@ -502,7 +502,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "送信済み"
     },
     {
         "id": "app.general.settings",
@@ -512,12 +512,12 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "ダッシュ ボード"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "プロフィール"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
@@ -527,17 +527,17 @@
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "検索"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "チャット (もうすぐ公開)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Text Entry"
+        "defaultMessage": "テキストの入力"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
@@ -547,7 +547,7 @@
     {
         "id": "app.general.shift",
         "description": "convert tokens",
-        "defaultMessage": "Shift"
+        "defaultMessage": "シフト"
     },
     {
         "id": "app.general.skipStep",
