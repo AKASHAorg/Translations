@@ -7,12 +7,12 @@
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Collect Essence for"
+        "defaultMessage": "Собрать эссенцию за"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Collect Essence for vote on"
+        "defaultMessage": "Собрать эссенцию за голос в"
     },
     {
         "id": "app.action.comment",
