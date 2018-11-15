@@ -2,7 +2,7 @@
     {
         "id": "app.action.bondAeth",
         "description": "bond/manafy AETH",
-        "defaultMessage": "Manafy {amount} AETH"
+        "defaultMessage": "Манафицировать {amount} AETH"
     },
     {
         "id": "app.action.claim",
@@ -37,12 +37,12 @@
     {
         "id": "app.action.draftPublish",
         "description": "publish an entry",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Опубликовать"
     },
     {
         "id": "app.action.draftPublishUpdate",
         "description": "update/edit an entry",
-        "defaultMessage": "Update"
+        "defaultMessage": "Обновить"
     },
     {
         "id": "app.action.entryDownvote",
@@ -62,7 +62,7 @@
     {
         "id": "app.action.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Читать"
     },
     {
         "id": "app.action.freeAeth",
@@ -72,12 +72,12 @@
     {
         "id": "app.action.profileRegister",
         "description": "register your profile",
-        "defaultMessage": "Register your profile"
+        "defaultMessage": "Зарегистрировать профиль"
     },
     {
         "id": "app.action.profileUpdate",
         "description": "update your profile",
-        "defaultMessage": "Update your profile"
+        "defaultMessage": "Обновить профиль"
     },
     {
         "id": "app.action.sendTip",
@@ -87,17 +87,17 @@
     {
         "id": "app.action.toggleDonations",
         "description": "change tip options (from personal settings)",
-        "defaultMessage": "Change tip options"
+        "defaultMessage": "Изменить настройки чаевых"
     },
     {
         "id": "app.action.transferAeth",
         "description": "transfer AETH to someone",
-        "defaultMessage": "Transfer {tokenAmount} AETH to"
+        "defaultMessage": "Отправить {tokenAmount}"
     },
     {
         "id": "app.action.transferEth",
         "description": "transfer ETH to someone",
-        "defaultMessage": "Transfer {value} ETH to"
+        "defaultMessage": "Отправить {value} ETH"
     },
     {
         "id": "app.action.transformEssence",
@@ -107,6 +107,6 @@
     {
         "id": "app.action.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Отписаться"
     }
 ]
