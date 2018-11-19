@@ -37,16 +37,16 @@
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Только строчные буквенно-цифровые символы, дефисы (-) и знаки подчеркивания (_)."
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Название канала не может быть длиннее 32 символов."
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Этот канал является эфемерным. Сообщения в нем исчезнут в течение 24 часов с момента публикации."
     }
 ]
