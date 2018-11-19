@@ -2,12 +2,12 @@
     {
         "id": "app.list.addToList",
         "description": "tooltip for add to list button",
-        "defaultMessage": "Add to list"
+        "defaultMessage": "Добавить в список"
     },
     {
         "id": "app.list.addToNewList",
         "description": "title for new list form",
-        "defaultMessage": "Add to a new list"
+        "defaultMessage": "Добавить в новый список"
     },
     {
         "id": "app.list.createNew",
