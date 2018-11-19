@@ -37,27 +37,27 @@
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Подтвердите голос против этого комментария."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Против"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "оставлять комментарии"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Подтвердите голос за этот комментарий."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "За"
     },
     {
         "id": "app.confirmations.cycleAeth",
@@ -97,7 +97,7 @@
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Против"
     },
     {
         "id": "app.confirmations.entryUpvote",
@@ -107,7 +107,7 @@
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "За"
     },
     {
         "id": "app.confirmations.follow",
