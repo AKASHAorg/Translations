@@ -127,52 +127,52 @@
     {
         "id": "app.dashboard.listDeleted",
         "description": "message displayed when the list used in a list column was deleted",
-        "defaultMessage": "This list was deleted. Please remove this column"
+        "defaultMessage": "Этот список был удален. Удалите данную колонку."
     },
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "My boards"
+        "defaultMessage": "Мои доски"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Type board name"
+        "defaultMessage": "Напишите название доски"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "No boards found"
+        "defaultMessage": "Доски не найдены"
     },
     {
         "id": "app.dashboard.previewList",
         "description": "label for list column preview",
-        "defaultMessage": "Preview for {listName}"
+        "defaultMessage": "{listName}: предварительный просмотр"
     },
     {
         "id": "app.dashboard.previewProfile",
         "description": "label for user column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "{displayName}: предварительный просмотр"
     },
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "#{tagName}: предварительный просмотр"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "Пользователь"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Искать доску..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Уменьшить"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,27 +182,27 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "Тег"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
         "description": "Column placeholder title",
-        "defaultMessage": "A new world awaits you!"
+        "defaultMessage": "Вас ждет новый мир!"
     },
     {
         "id": "app.dashboard.noColumns",
         "description": "Column placeholder message",
-        "defaultMessage": "Your favorite topics and users at your fingertips."
+        "defaultMessage": "Любимые темы и пользователи у вас под рукой."
     },
     {
         "id": "app.dashboard.addFirstColumn",
         "description": "add first column button label",
-        "defaultMessage": "Add first column"
+        "defaultMessage": "Создайте первую колонку"
     },
     {
         "id": "app.dashboard.createNewListColumnSubtitle",
         "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
+        "defaultMessage": "Создайте список"
     },
     {
         "id": "app.dashboard.akashaBoard",
@@ -212,32 +212,32 @@
     {
         "id": "app.dashboard.newBoard",
         "description": "label for dashboard popover new board button",
-        "defaultMessage": "New board"
+        "defaultMessage": "Новая доска"
     },
     {
         "id": "app.dashboard.createNewSubtitle",
         "description": "subtitle for creating a new board modal",
-        "defaultMessage": "Please insert the name of your board"
+        "defaultMessage": "Введите название своей доски"
     },
     {
         "id": "app.dashboard.modalInputPlaceholder",
         "description": "placeholder for new dashboard modal input",
-        "defaultMessage": "Type the name of your board here"
+        "defaultMessage": "Напишите название своей доски"
     },
     {
         "id": "app.dashboard.comments",
         "description": "label for user comments column",
-        "defaultMessage": "User comments"
+        "defaultMessage": "Комментарии пользователей"
     },
     {
         "id": "app.dashboard.previewComments",
         "description": "label for user comments column preview",
-        "defaultMessage": "Preview for {displayName}"
+        "defaultMessage": "{displayName}: предварительный просмотр"
     },
     {
         "id": "app.dashboard.addNewCommentsColumn",
         "description": "panel title for adding a new comments column",
-        "defaultMessage": "User comments column"
+        "defaultMessage": "Колонка комментариев пользователей"
     },
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
