@@ -2,127 +2,127 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Добавить колонку"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "Добавить колонку"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "Выберите тип колонки"
     },
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "Список"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "Выберите список"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "Пользователь"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "Выберите пользователя"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "Тег"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "Выберите тег"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Добавить на доску"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Создать новую доску"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "Коллекция"
     },
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Лента читаемых"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Сначала создайте доску"
     },
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "Создать доску"
     },
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Создать новую доску"
     },
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Название доски"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "У доски должно быть название"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "Доска уже существует"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
         "description": "confirmation message for deleting a column",
-        "defaultMessage": "Are you sure you want to delete this column?"
+        "defaultMessage": "Уверены, что хотите удалить эту колонку?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "Are you sure you want to delete {name}?"
+        "defaultMessage": "Уверены, что хотите удалить «{name}»?"
     },
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "My board"
+        "defaultMessage": "Моя доска"
     },
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Large"
+        "defaultMessage": "Увеличить"
     },
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "Последние публикации"
     },
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "Список"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Лента читаемых"
     },
     {
         "id": "app.dashboard.tag",
@@ -242,6 +242,6 @@
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
         "description": "panel subtitle for adding a new comments column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "Выберите пользователя"
     }
 ]
