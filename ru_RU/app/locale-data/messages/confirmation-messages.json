@@ -157,81 +157,81 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Подтвердите отправку чаевых {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Отправить чаевые"
     },
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "Подтвердите создание #{value}."
     },
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "Создать тег"
     },
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "Подтвердите изменение настроек чаевых."
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "Изменить настройки чаевых"
     },
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "Подтвердите отправку {tokenAmount} AETH пользователю {displayName}."
     },
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "Отправить AETH"
     },
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "Подтвердите отправку {value} ETH пользователю {displayName}."
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "Отправить ETH"
     },
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "Подтвердите преобразование {amount} ед. эссенции"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Преобразовать эссенцию"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "Подтвердите отказ от подписки на {displayName}."
     },
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Отписаться"
     },
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Подтвердите отправку транзакций ({txCount})."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Несколько транзакций"
     }
 ]
