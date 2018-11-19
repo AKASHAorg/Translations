@@ -722,7 +722,7 @@
     {
         "id": "app.general.sidebarEntryTypeArticle",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Article"
+        "defaultMessage": "Статья"
     },
     {
         "id": "app.general.sidebarEntryTypeLink",
