@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Собрать"
     },
     {
         "id": "app.general.collected",
