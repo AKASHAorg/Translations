@@ -32,7 +32,7 @@
     {
         "id": "app.action.cycleAeth",
         "description": "cycle manafied AETH",
-        "defaultMessage": "Cycle {amount} AETH"
+        "defaultMessage": "Преобразовать {amount} AETH"
     },
     {
         "id": "app.action.draftPublish",
@@ -67,7 +67,7 @@
     {
         "id": "app.action.freeAeth",
         "description": "collect/free cycled AETH",
-        "defaultMessage": "Collect {amount} Cycled AETH"
+        "defaultMessage": "Собрать преобразованный AETH ({amount})"
     },
     {
         "id": "app.action.profileRegister",
@@ -102,7 +102,7 @@
     {
         "id": "app.action.transformEssence",
         "description": "transform Essence into new AETH (forge AETH)",
-        "defaultMessage": "Transform {amount} Essence"
+        "defaultMessage": "Преобразовать эссенцию ({amount})"
     },
     {
         "id": "app.action.unfollow",
