@@ -672,7 +672,7 @@
     {
         "id": "app.general.comment",
         "description": "entry comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "оставлять комментарии"
     },
     {
         "id": "app.general.publishEntries",
