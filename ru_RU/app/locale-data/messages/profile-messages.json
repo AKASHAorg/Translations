@@ -132,7 +132,7 @@
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Читать"
     },
     {
         "id": "app.profile.updateProfile",
