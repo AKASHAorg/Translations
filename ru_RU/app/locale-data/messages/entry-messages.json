@@ -27,32 +27,32 @@
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Вы можете собрать эссенцию, если ваш голос соответствует голосу большинства (например, вы проголосовали за публикацию с положительным рейтингом)."
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Не удается извлечь информацию с веб-сайта! Попробуйте ввести другой адрес."
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Не удается получить информацию о лицензии."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "добавить подпись"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Эссенция собрана"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Собрать эссенцию"
     },
     {
         "id": "app.entry.commentsCount",
