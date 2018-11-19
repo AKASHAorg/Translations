@@ -67,7 +67,7 @@
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Против"
     },
     {
         "id": "app.entry.draft",
@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "За"
     },
     {
         "id": "app.entry.version",
