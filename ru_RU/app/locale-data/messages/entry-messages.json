@@ -7,22 +7,22 @@
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "You downvoted with weight {weight}"
+        "defaultMessage": "Вы проголосовали против с силой голоса {weight}"
     },
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "Вы проголосовали за с силой голоса {weight}"
     },
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Статья"
     },
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "Вы можете собрать эссенцию, если ваша публикация имеет положительный рейтинг."
     },
     {
         "id": "app.entry.cannotClaimVote",
