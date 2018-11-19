@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "Изображения в формате JPG, GIF или PNG"
     },
     {
         "id": "app.entry.alreadyDownvoted",
