@@ -77,7 +77,7 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Créer une nouvelle tableau"
+        "defaultMessage": "Créer un nouveau tableau"
     },
     {
         "id": "app.dashboard.dashboardName",
