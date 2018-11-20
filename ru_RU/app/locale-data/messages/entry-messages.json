@@ -202,7 +202,7 @@
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Откройте децентрализованное приложение AKASHA на компьютере, с которого вы отправили публикацию."
     },
     {
         "id": "app.entry.newComments",
@@ -212,37 +212,37 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "Комментарии пока отсутствуют."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Черновики с указанными критериями поиска не найдены."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries yet"
+        "defaultMessage": "Публикации пока отсутствуют."
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Новые публикации пока отсутствуют."
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Эссенция за эту публикацию отсутствует."
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Новый черновик"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Нет голосов"
     },
     {
         "id": "app.entry.olderVersion",
@@ -252,27 +252,27 @@
     {
         "id": "app.entry.originalVersion",
         "description": "label for original version",
-        "defaultMessage": "Original"
+        "defaultMessage": "Исходный текст"
     },
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Один из тегов использовать нельзя!"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Публичное обсуждение"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Опубликовано"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Параметры публикации"
     },
     {
         "id": "app.entry.readTime",
@@ -282,67 +282,67 @@
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Преобразование хеша ipfs..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Уверены, что хотите вернуться к предыдущей версии этого черновика?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Сохранить выделение"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Рейтинг"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Искать профиль"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Искать тег"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Показать все равно"
     },
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Скрыть комментарий"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Показать комментарий полностью"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Написать комментарий"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Создайте черновик!"
     },
     {
         "id": "app.entry.title",
         "description": "placeholder for draft title input",
-        "defaultMessage": "Title"
+        "defaultMessage": "Название"
     },
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Название не может быть пустым"
     },
     {
         "id": "app.entry.tooltipAuthor",
