@@ -7,22 +7,22 @@
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Désolé ! Vous n'avez pas assez de karma pour créer des balises."
+        "defaultMessage": "Désolé ! Vous n'avez pas assez de karma pour créer des tags."
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "Cette balise n’existe pas"
+        "defaultMessage": "Ce tag n’existe pas"
     },
     {
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
-        "defaultMessage": "Cette balise est nouvelle et n'a jamais été utilisée !"
+        "defaultMessage": "Ce tag est nouveau et n'a jamais été utilisé !"
     },
     {
         "id": "app.tag.tagsLeft",
         "description": "How many tags you can add",
-        "defaultMessage": "({value} remaining)"
+        "defaultMessage": "({value} restant)"
     },
     {
         "id": "app.tag.tags",
@@ -32,6 +32,6 @@
     {
         "id": "app.tag.cannotEditTags",
         "description": "",
-        "defaultMessage": "Il n'est pas possible d'éditer les balises lors d'une modification du contenu"
+        "defaultMessage": "Il n'est pas possible d'éditer les tags lors d'une modification du contenu"
     }
 ]
