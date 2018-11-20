@@ -362,42 +362,42 @@
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "История версий"
     },
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "Версия {index}"
     },
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Ваш голос еще не подтвержден"
     },
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "За - {upvote}% · Против - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Нельзя голосовать за свой собственный комментарий."
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "Период голосования закончился."
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Пользователи все еще могут голосовать за публикацию, однако автор или голосующие не смогут собрать использованную на голосование ману."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Произошла ошибка при попытке получить информация о веб-сайте."
     },
     {
         "id": "app.entry.wordsCount",
