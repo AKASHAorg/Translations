@@ -292,27 +292,27 @@
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Le service Geth ne fonctionne pas. Veuillez le démarrer manuellement afin de récupérer                        vos profils."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Le service IPFS s'est arrêté. Veuillez le démarrer manuellement afin de récupérer                        vos profils."
     },
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "A few tips before you get started"
+        "defaultMessage": "Quelques conseils avant de commencer"
     },
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "Cette dapp utilise de l'ETH (Ether) de test, donc veillez à NE PAS envoyer de l'ETH réel aux adresses de la dapp."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "La dapp nécessite Manafied AETH (Mana) pour interagir. Vous pouvez obtenir du Mana en cliquant sur le solde de votre AETH dans le coin supérieur droit, en sélectionnant \"Manafy\" dans l'onglet transformation."
     },
     {
         "id": "app.setup.tutorialManaAlt",
