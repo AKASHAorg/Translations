@@ -227,17 +227,17 @@
     {
         "id": "app.profile.receiverPlaceholder",
         "description": "Placeholder for receiver input",
-        "defaultMessage": "Type a username or paste an ethereum address"
+        "defaultMessage": "Entrez un nom d'utilisateur ou collez une adresse ethereum"
     },
     {
         "id": "app.profile.rewardsAndGoals",
         "description": "Title for rewards and goals card",
-        "defaultMessage": "Rewards and goals"
+        "defaultMessage": "Récompenses et objectifs"
     },
     {
         "id": "app.profile.saveForLater",
         "description": "Save for later button label",
-        "defaultMessage": "Save for later"
+        "defaultMessage": "Mémoriser pour plus tard"
     },
     {
         "id": "app.profile.send",
@@ -252,57 +252,57 @@
     {
         "id": "app.profile.sendingTip",
         "description": "tooltip for send tip button when waiting for transaction",
-        "defaultMessage": "Sending tip ..."
+        "defaultMessage": "Envoi du don..."
     },
     {
         "id": "app.profile.sendTipTo",
         "description": "title for send tip form",
-        "defaultMessage": "Send tip to {name}"
+        "defaultMessage": "Envoyer un don à {name}"
     },
     {
         "id": "app.profile.sendTo",
         "description": "label for receiver input",
-        "defaultMessage": "Send to"
+        "defaultMessage": "Envoyer à"
     },
     {
         "id": "app.profile.sentTip",
         "description": "sent tip action",
-        "defaultMessage": "Sent tip"
+        "defaultMessage": "Don envoyé"
     },
     {
         "id": "app.profile.support",
         "description": "support/tip a user",
-        "defaultMessage": "Support"
+        "defaultMessage": "Soutenir"
     },
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "Soutenus"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "Vos soutiens"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Montant du don"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Solde total"
     },
     {
         "id": "app.profile.transactionsLog",
         "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
+        "defaultMessage": "Journal des transactions"
     },
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Vos interactions avec la blockchain"
     },
     {
         "id": "app.profile.unfollow",
@@ -312,21 +312,21 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Votre adresse ethereum"
     },
     {
         "id": "app.profile.noNotifications",
         "description": "placeholder message for empty notifcations panel log",
-        "defaultMessage": "You have not received any new notifications"
+        "defaultMessage": "Vous n’avez pas de nouvelles notifications"
     },
     {
         "id": "app.profile.profiles",
         "description": "plural form of profile :)",
-        "defaultMessage": "profiles"
+        "defaultMessage": "profils"
     },
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Commentaires"
     }
 ]
