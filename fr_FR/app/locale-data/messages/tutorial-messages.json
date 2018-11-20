@@ -22,7 +22,7 @@
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Enhanced By The Inter-Planetary File System"
+        "defaultMessage": "Fiabilité renforcée grâce au système de fichier décentralisé"
     },
     {
         "id": "app.tutorial.ipfsContent",
@@ -32,7 +32,7 @@
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Towards A Better Web In Service Of Humanity"
+        "defaultMessage": "Vers un internet amélioré, au service de l'Humanité"
     },
     {
         "id": "app.tutorial.webContent",
