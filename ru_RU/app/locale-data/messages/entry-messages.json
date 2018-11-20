@@ -407,7 +407,7 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Напишите комментарий"
     },
     {
         "id": "app.entry.writeReplyTo",
