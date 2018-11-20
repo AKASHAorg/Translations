@@ -22,7 +22,7 @@
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Fiabilité renforcée grâce au système de fichier décentralisé"
+        "defaultMessage": "Fiabilité renforcée grâce au système de fichier décentralisé (IPFS)"
     },
     {
         "id": "app.tutorial.ipfsContent",
@@ -37,6 +37,6 @@
     {
         "id": "app.tutorial.webContent",
         "description": "web slide content",
-        "defaultMessage": "The future isn't some place where we are going to go but a place we get to\n                create. We deserve a better web and we now have the tools to make it happen.\n                Together we can create a world where freedom of expression on the web is a right,\n                not a feature."
+        "defaultMessage": "L'avenir n'est pas défini par où nous allons, mais par ce que l'on créer. Nous méritons un web meilleur et nous avons maintenant les outils pour y arriver. Ensemble, nous pouvons façonner un monde où la liberté d'expression sur le web est un droit plus qu'une fonctionnalité."
     }
 ]
