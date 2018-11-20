@@ -27,22 +27,22 @@
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Chemin d'accès de Geth Datadir"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Chemin d'accès de Geth IPC"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Taille du cache Geth"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Identifiant réseau Geth"
     },
     {
         "id": "app.setup.importKeys",
@@ -52,7 +52,7 @@
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "Chemin d'accès du stockage IPFS"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -62,12 +62,12 @@
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "Port API de IPFS"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "Port d'entrée IPFS"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
@@ -197,27 +197,27 @@
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Téléchargement du client Geth..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "Téléchargement du client IPFS..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Démarrage du client Geth..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Mise à niveau du client Geth..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "Mise à niveau du client IPFS..."
     },
     {
         "id": "app.setup.processing",
@@ -317,21 +317,21 @@
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
+        "defaultMessage": "Alternativement, vous pouvez cliquer sur l’indicateur de Mana sur la barre latérale, à côté de votre photo de profil puis sur augmenter."
     },
     {
         "id": "app.setup.gethDescription",
         "description": "geth service description",
-        "defaultMessage": "You are using a third party web3 provider."
+        "defaultMessage": "Vous utilisez un fournisseur tiers de web3."
     },
     {
         "id": "app.setup.ipfsDescription",
         "description": "ipfs service description",
-        "defaultMessage": "You are using the JavaScript implementation of IPFS."
+        "defaultMessage": "Vous utilisez l'implémentation JavaSCript de IPFS."
     },
     {
         "id": "app.setup.ipfsStorageName",
         "description": "IPFS storage name input field label",
-        "defaultMessage": "IPFS storage name"
+        "defaultMessage": "Chemin d'accès du stockage IPFS"
     }
 ]
