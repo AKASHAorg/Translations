@@ -187,12 +187,12 @@
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Загрузить больше ответов"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Загрузка черновика..."
     },
     {
         "id": "app.entry.localVersion",
