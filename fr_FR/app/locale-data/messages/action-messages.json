@@ -52,7 +52,7 @@
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Upvote {weight} on"
+        "defaultMessage": "Commenter favorablement de {weight}"
     },
     {
         "id": "app.action.faucet",
@@ -102,7 +102,7 @@
     {
         "id": "app.action.transformEssence",
         "description": "transform Essence into new AETH (forge AETH)",
-        "defaultMessage": "Transform {amount} Essence"
+        "defaultMessage": "Transformer {amount} Essence"
     },
     {
         "id": "app.action.unfollow",
