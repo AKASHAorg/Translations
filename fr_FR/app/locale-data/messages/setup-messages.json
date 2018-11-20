@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Voici votre nouvelle identité"
     },
     {
         "id": "app.setup.backup",
@@ -22,7 +22,7 @@
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "Commencez par créer un nouveau profil !"
     },
     {
         "id": "app.setup.gethDataDirPath",
