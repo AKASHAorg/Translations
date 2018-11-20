@@ -2,17 +2,17 @@
     {
         "id": "app.action.bondAeth",
         "description": "bond/manafy AETH",
-        "defaultMessage": "Manafy {amount} AETH"
+        "defaultMessage": "Convertir en Mana {amount} AETH"
     },
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Collect Essence for"
+        "defaultMessage": "Collecter de l'Essence pour"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Collect Essence for vote on"
+        "defaultMessage": "Collecter de l'Essence pour commenter sur"
     },
     {
         "id": "app.action.comment",
@@ -32,7 +32,7 @@
     {
         "id": "app.action.cycleAeth",
         "description": "cycle manafied AETH",
-        "defaultMessage": "Cycle {amount} AETH"
+        "defaultMessage": "Mettre en cycle {amount} AETH"
     },
     {
         "id": "app.action.draftPublish",
