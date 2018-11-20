@@ -12,7 +12,7 @@
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Personnaliser vos préférences d'application"
     },
     {
         "id": "app.settings.english",
@@ -102,17 +102,17 @@
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "Veuillez enregistrer votre profil avant de changer cette option"
     },
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "Options des dons"
     },
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "Changer cette option implique l'envoi d'une transaction"
     },
     {
         "id": "app.settings.tipsAccept",
@@ -122,12 +122,12 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "Ne pas accepter les dons"
     },
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Préférences de l'application"
     },
     {
         "id": "app.settings.update",
@@ -137,12 +137,12 @@
     {
         "id": "app.settings.notificationsPreference",
         "description": "title for notification settings",
-        "defaultMessage": "Notifications Settings"
+        "defaultMessage": "Paramètres des notifications"
     },
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "Dons"
     },
     {
         "id": "app.settings.votes",
