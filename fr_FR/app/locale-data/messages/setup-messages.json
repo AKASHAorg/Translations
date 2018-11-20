@@ -47,7 +47,7 @@
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Importer des clés"
     },
     {
         "id": "app.setup.ipfsStoragePath",
@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "En changeant ceci, vous réinitialiserez votre configuration ainsi que votre contenu IPFS local"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -152,17 +152,17 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Nous vous suggérons des éléments à lire selon vos centres d'intérêts."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Installation rapide"
     },
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "Merci pour votre attention !"
     },
     {
         "id": "app.setup.faucetPending1",
