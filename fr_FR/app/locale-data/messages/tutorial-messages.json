@@ -32,7 +32,7 @@
     {
         "id": "app.tutorial.webTitle",
         "description": "web slide title",
-        "defaultMessage": "Vers un internet amélioré, au service de l'Humanité"
+        "defaultMessage": "Vers un web amélioré, au service de l'Humanité"
     },
     {
         "id": "app.tutorial.webContent",
