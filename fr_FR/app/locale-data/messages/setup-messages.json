@@ -102,42 +102,42 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+        "defaultMessage": "Félicitations, vous êtes un pionnier en vous synchronisant avec le réseau test d'Ethereum ! Nous vous recommandons une synchronisation normale avec le paramétrage par défaut. Les plus courageux peuvent aussi choisir la (très) expérimentale synchronisation partielle"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
+        "defaultMessage": "Nous vous recommandons une synchronisation normale avec le paramétrage par défaut. Les plus courageux peuvent aussi choisir la synchronisation partielle expérimentale."
     },
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "Synchronisation"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "Options de synchronisation"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "Détails du journal"
     },
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "Connexion"
     },
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "Bienvenue!"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "Veuillez sélectionner un profil pour vous connecter"
     },
     {
         "id": "app.setup.newIdentity",
