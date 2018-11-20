@@ -82,127 +82,127 @@
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publishing \"{title}\"."
+        "defaultMessage": "Publication de \"{title}\"."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Updating \"{title}\"."
+        "defaultMessage": "Mise à jour de \"{title}\"."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "L'entrée \"{title}\" a été mise à jour."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "Le brouillon \"{title}\" a été publié."
     },
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "L'Essence pour {entryTitle} a été collectée"
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "L'Essence pour {entryTitle} a été collectée"
     },
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "Vote défavorable sur {entryTitle} ..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "Vous avez voté contre un commentaire"
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "Vous avez voté contre {entryTitle}"
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "Vote pour {entryTitle} ..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "You successfully upvoted a comment"
+        "defaultMessage": "Vous avez voté pour un commentaire"
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "You successfully upvoted {entryTitle}"
+        "defaultMessage": "Vous avez voté pour {entryTitle}"
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publishing comment"
+        "defaultMessage": "Publication du commentaire"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comment published successfully"
+        "defaultMessage": "Commentaire publié"
     },
     {
         "id": "app.notification.claiming",
         "description": "Notification to be displayed when collect transaction is sent",
-        "defaultMessage": "Collecting Essence for {entryTitle} ..."
+        "defaultMessage": "Récupération de l'Essence pour {entryTitle} ..."
     },
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "Brouillon sauvegardé !"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "Brouillon supprimé !"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "Lien copié au presse-papier"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "Envoi du don à {displayName} ..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "Vous avez envoyé un don à {displayName}"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "Notifications activées pour {displayName}"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "Notifications désactivées pour {displayName}"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "Sauvegarde créée dans {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "Vos paramètres ont été sauvegardés. Vous devez redémarrer le service                        Geth pour que vos changements soient pris en compte."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Vos paramètres ont été sauvegardés. Vous devez redémarrer le service                        IPFS pour que vos changements soient pris en compte."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
