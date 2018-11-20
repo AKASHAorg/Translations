@@ -82,7 +82,7 @@
     {
         "id": "app.action.sendTip",
         "description": "send tip to someone",
-        "defaultMessage": "Faire un don"
+        "defaultMessage": "Faire un don à"
     },
     {
         "id": "app.action.toggleDonations",
