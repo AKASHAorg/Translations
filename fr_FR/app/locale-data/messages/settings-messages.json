@@ -167,7 +167,7 @@
     {
         "id": "app.settings.trustedDomainsOptionsDescription",
         "description": "description for trusted domains user settings",
-        "defaultMessage": "External links to which you can navigate without being prompted"
+        "defaultMessage": "Liens externes avez lesquels vous pouvez naviguer sans être invité"
     },
     {
         "id": "app.settings.arabic",
