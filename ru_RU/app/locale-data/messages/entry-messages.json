@@ -412,87 +412,87 @@
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Write a reply to {name}"
+        "defaultMessage": "Написать ответ {name}"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "Черновики отсутствуют."
     },
     {
         "id": "app.entry.draftAll",
         "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "defaultMessage": "Все черновики"
     },
     {
         "id": "app.entry.entriesAll",
         "description": "",
-        "defaultMessage": "All Entries"
+        "defaultMessage": "Все публикации"
     },
     {
         "id": "app.entry.publishedAll",
         "description": "all published entries",
-        "defaultMessage": "All entries"
+        "defaultMessage": "Все публикации"
     },
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "черновики"
     },
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "defaultMessage": "публикации"
     },
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Go to my drafts"
+        "defaultMessage": "К моим черновикам"
     },
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Мои публикации"
     },
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "Отменить изменения"
     },
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Сначала нужно выбрать текст."
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Начните набирать адрес и нажмите Enter."
     },
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Загрузка изображения"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "публикации"
     },
     {
         "id": "app.leaveAComment",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Be the first one to write a comment!"
+        "defaultMessage": "Будьте первым, кто напишет комментарий!"
     },
     {
         "id": "app.entry.commentedOn",
         "description": "commented on",
-        "defaultMessage": "commented on"
+        "defaultMessage": "прокомментировал"
     },
     {
         "id": "app.entry.repliedOn",
         "description": "replied on",
-        "defaultMessage": "replied on a comment on"
+        "defaultMessage": "ответил на комментарий на"
     },
     {
         "id": "app.entry.loadComments",
