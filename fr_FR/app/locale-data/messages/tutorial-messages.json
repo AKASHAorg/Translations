@@ -27,7 +27,7 @@
     {
         "id": "app.tutorial.ipfsContent",
         "description": "ipfs slide content",
-        "defaultMessage": "Thanks to the Inter-Planetary File System (IPFS) we removed also the need\n                for servers to distribute and store your content. This allows users to circumvent\n                traditional censorship blockades and empowers people with real freedom of\n                expression."
+        "defaultMessage": "Grâce au système de fichier inter-planétaire (IPFS), nous avons supprimé l'obligation de stocker et distribuer votre contenu via des serveurs. Ceci permet aux utilisateurs de contourner le blocus traditionnel de censure et habilite les personnes d'une véritable liberté d'expression."
     },
     {
         "id": "app.tutorial.webTitle",
