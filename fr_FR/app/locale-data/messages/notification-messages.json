@@ -17,7 +17,7 @@
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "Sauvegardé comme élément marquant !"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
@@ -62,22 +62,22 @@
     {
         "id": "app.notification.notEnoughEthers",
         "description": "Notification to show when not enough ethers",
-        "defaultMessage": "You don`t have enough ethers."
+        "defaultMessage": "Vous n'avez pas assez d'ether."
     },
     {
         "id": "app.notification.notEnoughEthOrMana",
         "description": "Notification when not enough eth or mana",
-        "defaultMessage": "You don`t have enough ethers or mana."
+        "defaultMessage": "Vous n'avez pas assez d'ether ou de mana."
     },
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "Félicitations, votre profil a été enregistré !"
     },
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "You successfully published a comment"
+        "defaultMessage": "Votre commentaire a été publié"
     },
     {
         "id": "app.notification.publishingEntry",
