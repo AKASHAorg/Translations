@@ -167,32 +167,32 @@
     {
         "id": "app.setup.faucetPending1",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Here are some test ETH :)"
+        "defaultMessage": "Voici quelques ETH de test :)"
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "Quelque chose n'a pas fonctionné :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Cliquer ici pour réessayer"
     },
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "HoHoHoHo!"
+        "defaultMessage": "HoHoHoHo !"
     },
     {
         "id": "app.setup.faucetSuccess1",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You received test ETH!"
+        "defaultMessage": "Vous avez reçu des ETH de test !"
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Avancé"
     },
     {
         "id": "app.setup.downloadingGeth",
@@ -222,62 +222,62 @@
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "Traitement"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "Synchronisation"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Synchronization was stopped"
+        "defaultMessage": "La synchronisation s'est arrêtée"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization completed"
+        "defaultMessage": "Synchronisation terminée"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization is paused"
+        "defaultMessage": "Synchronisation en pause"
     },
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "Vous serez en mesure de vous connecter et de profiter de l'expérience complète dès que la synchronisation sera terminée ! Nous vous attendons de l'autre côté ! o /"
     },
     {
         "id": "app.setup.afterSyncFinish",
         "description": "Message to show after synchronization has finished",
-        "defaultMessage": "Synchronization is complete. IPFS service needs to be started in order to\n                        continue. You can start it manually from the status bar in the header or\n                        click NEXT to start it automatically."
+        "defaultMessage": "La synchronisation est terminée. Le service IPFS doit être démarré pour continuer. Vous pouvez le démarrer manuellement depuis la barre d'état dans l'en-tête ou en cliquant sur SUIVANT pour le démarrer automatiquement."
     },
     {
         "id": "app.setup.noProfilesFound",
         "description": "placeholder message shown if no local profiles were found",
-        "defaultMessage": "If you want to import an identity please see this link."
+        "defaultMessage": "Si vous souhaitez importer un profil, veuillez suivre ce lien."
     },
     {
         "id": "app.setup.findingPeers",
         "description": "finding peers",
-        "defaultMessage": "Finding peers"
+        "defaultMessage": "Recherche de pairs"
     },
     {
         "id": "app.setup.launchingServices",
         "description": "message to display when geth and IPFS services are about to start",
-        "defaultMessage": "Launching services"
+        "defaultMessage": "Lancement des services"
     },
     {
         "id": "app.setup.waitingForServices",
         "description": "default message to display in sync status",
-        "defaultMessage": "Waiting for services"
+        "defaultMessage": "En attente des services"
     },
     {
         "id": "app.setup.waitingForGeth",
         "description": "message to display when synchronization is in default state",
-        "defaultMessage": "Waiting for geth client"
+        "defaultMessage": "En attente du client Geth"
     },
     {
         "id": "app.setup.peerCount",
@@ -287,7 +287,7 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "détails"
     },
     {
         "id": "app.setup.gethStopped",
