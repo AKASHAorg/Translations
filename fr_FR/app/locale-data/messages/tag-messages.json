@@ -32,6 +32,6 @@
     {
         "id": "app.tag.cannotEditTags",
         "description": "",
-        "defaultMessage": "Cannot edit tags when updating an entry"
+        "defaultMessage": "Il n'est pas possible d'éditer les balises lors d'une modification du contenu"
     }
 ]
