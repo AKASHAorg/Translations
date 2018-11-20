@@ -67,7 +67,7 @@
     {
         "id": "app.action.freeAeth",
         "description": "collect/free cycled AETH",
-        "defaultMessage": "Collect {amount} Cycled AETH"
+        "defaultMessage": "Collecter les {amount} AETH redistribués"
     },
     {
         "id": "app.action.profileRegister",
