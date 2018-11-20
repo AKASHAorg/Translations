@@ -47,7 +47,7 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choisir quand vous demander votre mot de passe"
+        "defaultMessage": "Choisir quand votre mot de passe est requis"
     },
     {
         "id": "app.settings.licenseOptions",
@@ -152,17 +152,17 @@
     {
         "id": "app.settings.notificationsInfo",
         "description": "description for notification preferences",
-        "defaultMessage": "Your notification preferences for Akasha"
+        "defaultMessage": "Vos préférences de notification pour Akasha"
     },
     {
         "id": "app.settings.trustedDomainsOptions",
         "description": "Title for trusted domains user settings",
-        "defaultMessage": "Trusted Domains"
+        "defaultMessage": "Domaines de confiance"
     },
     {
         "id": "app.settings.trustedDomainsManage",
         "description": "manage trusted domains",
-        "defaultMessage": "Manage your trusted domains here"
+        "defaultMessage": "Gérer vos domaines de confiance ici"
     },
     {
         "id": "app.settings.trustedDomainsOptionsDescription",
@@ -172,12 +172,12 @@
     {
         "id": "app.settings.arabic",
         "description": "arabic language",
-        "defaultMessage": "Arabic"
+        "defaultMessage": "Arabe"
     },
     {
         "id": "app.settings.chineseSimplified",
         "description": "chinese simplified language",
-        "defaultMessage": "Chinese (Simplified)"
+        "defaultMessage": "Chinois (simplifié)"
     },
     {
         "id": "app.settings.filipino",
@@ -187,56 +187,56 @@
     {
         "id": "app.settings.finnish",
         "description": "Finnish language",
-        "defaultMessage": "Finnish"
+        "defaultMessage": "Finnois"
     },
     {
         "id": "app.settings.french",
         "description": "french language",
-        "defaultMessage": "French"
+        "defaultMessage": "Français"
     },
     {
         "id": "app.settings.german",
         "description": "german language",
-        "defaultMessage": "German"
+        "defaultMessage": "Allemand"
     },
     {
         "id": "app.settings.indonesian",
         "description": "indonesian language",
-        "defaultMessage": "Indonesian"
+        "defaultMessage": "Indonésien"
     },
     {
         "id": "app.settings.italian",
         "description": "italian language",
-        "defaultMessage": "Italian"
+        "defaultMessage": "Italien"
     },
     {
         "id": "app.settings.japanese",
         "description": "japanese language",
-        "defaultMessage": "Japanese"
+        "defaultMessage": "Japonais"
     },
     {
         "id": "app.settings.korean",
         "description": "korean language",
-        "defaultMessage": "Korean"
+        "defaultMessage": "Coréen"
     },
     {
         "id": "app.settings.portuguese",
         "description": "portuguese language",
-        "defaultMessage": "Portuguese"
+        "defaultMessage": "Portugais"
     },
     {
         "id": "app.settings.portugueseBrazilian",
         "description": "portuguese brazilian language",
-        "defaultMessage": "Portuguese, Brazilian"
+        "defaultMessage": "Portugais, brésilien"
     },
     {
         "id": "app.settings.turkish",
         "description": "turkish language",
-        "defaultMessage": "Turkish"
+        "defaultMessage": "Turc"
     },
     {
         "id": "app.settings.ukrainian",
         "description": "ukrainian language",
-        "defaultMessage": "Ukrainian"
+        "defaultMessage": "Ukrainien"
     }
 ]
