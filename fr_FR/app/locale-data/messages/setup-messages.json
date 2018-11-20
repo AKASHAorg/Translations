@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "Voici votre nouvelle identité"
+        "defaultMessage": "Voici votre nouveau profil"
     },
     {
         "id": "app.setup.backup",
@@ -82,7 +82,7 @@
     {
         "id": "app.setup.lightSync",
         "description": "geth light sync option",
-        "defaultMessage": "Light sync"
+        "defaultMessage": "Synchronisation partielle"
     },
     {
         "id": "app.setup.lightSyncDescription",
@@ -92,12 +92,12 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "Veuillez entrer votre phrase secrète ci-dessous"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "Synchronisation normale"
     },
     {
         "id": "app.setup.normalSyncDescription",
