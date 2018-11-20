@@ -207,87 +207,87 @@
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Les ports IPFS ont été définis. Vous devez redémarrer le service                        IPFS pour que vos changements soient pris en compte."
     },
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "Votre thème sera modifié après avoir actualisé l'application."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "You succesfully changed your tips settings"
+        "defaultMessage": "Vos paramètres de dons ont été modifiés"
     },
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "Vous avez transféré {tokenAmount} AETH à {displayName}"
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "Vous avez transféré {value} ETH à {displayName}"
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "Vos paramètres personnels ont été sauvegardés"
     },
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "Vous avez reçu des ETH de test et quelques AETH"
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "vous suit"
     },
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "à commenté"
     },
     {
         "id": "app.settings.notifDonationAeth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
+        "defaultMessage": "vous fait part de {aeth} AETH"
     },
     {
         "id": "app.settings.notifDonationBoth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+        "defaultMessage": "vous fait part de {eth} ETH ainsi que {aeth} AETH"
     },
     {
         "id": "app.settings.notifDonationEth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
+        "defaultMessage": "vous fait part de {eth} ETH"
     },
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "à voté à propos de"
     },
     {
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
+        "defaultMessage": "au block numéro {blockNr}"
     },
     {
         "id": "app.notification.errorCopiedToClipboard",
         "description": "notification to show when user copies error info",
-        "defaultMessage": "Error copied to clipboard"
+        "defaultMessage": "Erreur copiée dans le presse-papier"
     },
     {
         "id": "app.notification.welcomeTitle",
         "description": "title for welcome/faucet notification",
-        "defaultMessage": "Welcome to AKASHA"
+        "defaultMessage": "Bienvenue sur AKASHA"
     },
     {
         "id": "app.notification.welcomeMessage",
         "description": "welcome/faucet notification message",
-        "defaultMessage": "To claim your test ETH gift, please click"
+        "defaultMessage": "Pour recevoir vos ETH de test, veuillez cliquer ici"
     },
     {
         "id": "app.notification.noFunds",
