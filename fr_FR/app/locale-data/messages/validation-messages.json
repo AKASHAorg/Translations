@@ -32,7 +32,7 @@
     {
         "id": "app.validator.akashaIdExists",
         "description": "When the chosen username was already registered",
-        "defaultMessage": "Ce nom d'utilisateur est déjà enregistré !"
+        "defaultMessage": "Ce nom d'utilisateur est déjà utilisé !"
     },
     {
         "id": "app.validator.akashaIdNotValid",
