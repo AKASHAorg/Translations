@@ -2,12 +2,12 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Сообщить об ошибке"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Спасибо за отзыв!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
