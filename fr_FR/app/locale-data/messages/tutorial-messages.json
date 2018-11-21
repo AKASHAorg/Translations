@@ -7,7 +7,7 @@
     {
         "id": "app.tutorial.akashaContent",
         "description": "akasha slide content",
-        "defaultMessage": "Avec AKASHA, vos idées et pensées feront écho le long de l'existence de l'humanité,\n                grâce à un réseau à l'échelle planétaire immunisé contre la censure de par sa conception. L'information\n                vit et se propage à travers le réseau sans avoir à compter sur une entité particulière,\n                même pas nous."
+        "defaultMessage": "Avec AKASHA, vos idées et pensées feront écho le long de l'existence de l'humanité, grâce à un réseau à l'échelle planétaire immunisé contre la censure de par sa conception. L'information vit et se propage à travers le réseau sans avoir à compter sur une entité particulière, même pas nous."
     },
     {
         "id": "app.tutorial.ethereumTitle",
@@ -17,7 +17,7 @@
     {
         "id": "app.tutorial.ethereumContent",
         "description": "ethereum slide content",
-        "defaultMessage": "Ethereum nous a permis de construire un nouveau type d’application qui supprime le besoin de                faire une confiance aveugle aux administrateurs de serveurs. Grâce à sa transparences, nous                avons une authentification, une identité, une vérifiabilité, un vote et                des micro-transactions fiables."
+        "defaultMessage": "Ethereum nous a permis de construire un nouveau type d’application qui supprime le besoin de faire une confiance aveugle aux administrateurs de serveurs. Grâce à sa transparences, nous avons une authentification, une identité, une vérifiabilité, un vote et des micro-transactions fiables."
     },
     {
         "id": "app.tutorial.ipfsTitle",
