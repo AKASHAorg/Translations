@@ -112,7 +112,7 @@
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Vote défavorable sur {entryTitle} ..."
+        "defaultMessage": "Vote contre {entryTitle}..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
