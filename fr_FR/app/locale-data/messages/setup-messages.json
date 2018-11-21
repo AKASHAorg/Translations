@@ -137,7 +137,7 @@
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Veuillez sélectionner un profil pour vous connecter"
+        "defaultMessage": "Veuillez sélectionner une identité pour vous connecter"
     },
     {
         "id": "app.setup.newIdentity",
