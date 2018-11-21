@@ -2,12 +2,12 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez manafier {amount} AETH"
+        "defaultMessage": "Veuillez confirmer que vous souhaitez manaformer {amount} AETH"
     },
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafier"
+        "defaultMessage": "Manaformer"
     },
     {
         "id": "app.confirmations.claim",
@@ -227,11 +227,11 @@
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez envoyer à {txCount} des transactions."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Transactions multiples"
     }
 ]
