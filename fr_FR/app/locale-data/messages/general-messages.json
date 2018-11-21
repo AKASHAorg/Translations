@@ -27,7 +27,7 @@
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Déposer l'image ici"
+        "defaultMessage": "Bien ! Déposez cela juste ici !"
     },
     {
         "id": "app.general.addNewEntry",
@@ -112,7 +112,7 @@
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Récupéré"
+        "defaultMessage": "Récupérée"
     },
     {
         "id": "app.general.comments",
@@ -147,7 +147,7 @@
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Créés"
+        "defaultMessage": "Créé"
     },
     {
         "id": "app.general.cycling",
@@ -382,7 +382,7 @@
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "Gens"
+        "defaultMessage": "Personnes"
     },
     {
         "id": "app.general.preview",
@@ -417,7 +417,7 @@
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} , {symbol} , de"
+        "defaultMessage": "+{amount} {symbol} de"
     },
     {
         "id": "app.general.refresh",
@@ -452,12 +452,12 @@
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Demande AETHERS"
+        "defaultMessage": "Demander des AETHERs"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Demande essai ETH"
+        "defaultMessage": "Demander des ETH de test"
     },
     {
         "id": "app.general.requestTestEthersTitle",
