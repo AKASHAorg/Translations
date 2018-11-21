@@ -72,7 +72,7 @@
     {
         "id": "app.setup.ipfsSwarmPort",
         "description": "IPFS swarm port input field label",
-        "defaultMessage": "IPFS swarm port"
+        "defaultMessage": "Port IPFS swarm"
     },
     {
         "id": "app.setup.configuration",
@@ -282,7 +282,7 @@
     {
         "id": "app.setup.peerCount",
         "description": "number of peers connected",
-        "defaultMessage": "{peerCount, number} {peerCount, plural, one {peer} few {peers} many {peers} other {peers}} {peerCount, plural, one {connected} other {connected}}"
+        "defaultMessage": "{peerCount, number} {peerCount, plural, one {pair} few {pairs} many {pairs} other {pairs}}, {peerCount, plural, one {connecté} other {connectés}}"
     },
     {
         "id": "app.setup.details",
@@ -297,7 +297,7 @@
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "Le service IPFS s'est arrêté. Veuillez le démarrer manuellement afin de récupérer                        vos profils."
+        "defaultMessage": "Le service IPFS s'est arrêté. Veuillez le démarrer manuellement afin de récupérer vos profils."
     },
     {
         "id": "app.setup.tutorialTitle",
