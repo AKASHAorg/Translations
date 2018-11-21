@@ -77,7 +77,7 @@
     {
         "id": "app.form.maxManafiedAethAmount",
         "description": "maximum amount of Manafied AETH (AETH that can be cycled)",
-        "defaultMessage": "{manafied} AETH manafié"
+        "defaultMessage": "{manafied} AETH manaformé"
     },
     {
         "id": "app.form.transformEssence",
