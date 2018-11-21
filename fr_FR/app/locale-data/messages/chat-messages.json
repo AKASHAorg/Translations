@@ -22,7 +22,7 @@
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Écrivez quelque chose de convenable et appuyez sur « Enter » pour l’envoyer"
     },
     {
         "id": "app.chat.emptyChannelInputError",
