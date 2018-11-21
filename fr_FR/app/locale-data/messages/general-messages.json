@@ -412,87 +412,87 @@
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "reçu"
     },
     {
         "id": "app.general.receivedAmount",
         "description": "incoming transactions",
-        "defaultMessage": "+{amount} {symbol} from"
+        "defaultMessage": "+{amount} , {symbol} , de"
     },
     {
         "id": "app.general.refresh",
         "description": "refresh/reload",
-        "defaultMessage": "Refresh"
+        "defaultMessage": "Actualiser"
     },
     {
         "id": "app.general.rename",
         "description": "rename",
-        "defaultMessage": "Rename"
+        "defaultMessage": "Renommer"
     },
     {
         "id": "app.general.reply",
         "description": "reply",
-        "defaultMessage": "Reply"
+        "defaultMessage": "Répondre"
     },
     {
         "id": "app.general.reset",
         "description": "Reset form",
-        "defaultMessage": "Reset"
+        "defaultMessage": "Réinitialiser"
     },
     {
         "id": "app.general.resume",
         "description": "resume button label",
-        "defaultMessage": "Resume"
+        "defaultMessage": "Reprendre"
     },
     {
         "id": "app.general.retry",
         "description": "Retry",
-        "defaultMessage": "Retry"
+        "defaultMessage": "Réessayer"
     },
     {
         "id": "app.general.requestTestAEthers",
         "description": "",
-        "defaultMessage": "Request AETHERS"
+        "defaultMessage": "Demande AETHERS"
     },
     {
         "id": "app.general.requestTestEthers",
         "description": "button label to request test ethers",
-        "defaultMessage": "Request test ETH"
+        "defaultMessage": "Demande essai ETH"
     },
     {
         "id": "app.general.requestTestEthersTitle",
         "description": "",
-        "defaultMessage": "Request Test Ethers!"
+        "defaultMessage": "Demande d'ETH de test!"
     },
     {
         "id": "app.general.requestTestAEthersTitle",
         "description": "",
-        "defaultMessage": "Request AKASHA Ethers!"
+        "defaultMessage": "Demandez les Ethers AKASHA !"
     },
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "Running"
+        "defaultMessage": "En cours d’exécution"
     },
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Enregistrer"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "mémoriser pour plus tard"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Rechercher"
     },
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Voir sur Etherscan"
     },
     {
         "id": "app.general.send",
@@ -502,7 +502,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Envoyé"
     },
     {
         "id": "app.general.settings",
@@ -512,47 +512,47 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "Tableau de bord"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Mon profil"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Communauté : bientôt disponible"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Rechercher"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Discussion instantanée (bientôt disponible)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
         "description": "tooltip text for sidebar draft text entry button",
-        "defaultMessage": "Text Entry"
+        "defaultMessage": "Saisie de texte"
     },
     {
         "id": "app.general.sidebarTooltipDraftLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link Entry"
+        "defaultMessage": "Saisie de lien"
     },
     {
         "id": "app.general.shift",
         "description": "convert tokens",
-        "defaultMessage": "Shift"
+        "defaultMessage": "Déplacer"
     },
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Skip this step"
+        "defaultMessage": "Ignorer cette étape"
     },
     {
         "id": "app.general.start",
@@ -817,12 +817,12 @@
     {
         "id": "app.general.viewAll",
         "description": "view all",
-        "defaultMessage": "View All"
+        "defaultMessage": "Voir tout"
     },
     {
         "id": "app.general.reload",
         "description": "reload",
-        "defaultMessage": "Reload"
+        "defaultMessage": "Recharger"
     },
     {
         "id": "app.general.reportIssue",
@@ -847,22 +847,22 @@
     {
         "id": "app.general.loadingImageFailed",
         "description": "message to show when an image failed to load",
-        "defaultMessage": "Cannot load image :("
+        "defaultMessage": "Impossible de charger l'image  :("
     },
     {
         "id": "app.general.or",
         "description": "or",
-        "defaultMessage": "or"
+        "defaultMessage": "ou"
     },
     {
         "id": "app.general.sidebarTooltipGuest",
         "description": "tooltip text for sidebar guest mode",
-        "defaultMessage": "Not available in guest mode"
+        "defaultMessage": "Non disponible en mode invité"
     },
     {
         "id": "app.general.guestMode",
         "description": "title for guest mode button",
-        "defaultMessage": "Guest Mode"
+        "defaultMessage": "Mode invité"
     },
     {
         "id": "app.general.guestModeInfo",
@@ -872,22 +872,22 @@
     {
         "id": "app.general.unlockVault",
         "description": "info for guest mode modal",
-        "defaultMessage": "Please refresh the page to login after unlocking Metamask."
+        "defaultMessage": "Veuillez actualiser la page pour vous connecter après avoir débloqué Metamask."
     },
     {
         "id": "app.general.thanks",
         "description": "thanks",
-        "defaultMessage": "Thanks!"
+        "defaultMessage": "Merci !"
     },
     {
         "id": "app.general.loginUnlock",
         "description": "info for guest mode modal",
-        "defaultMessage": "Login by unlocking your Metamask"
+        "defaultMessage": "Connexion en déverrouillant votre Metamask"
     },
     {
         "id": "app.general.here",
         "description": "here",
-        "defaultMessage": "here"
+        "defaultMessage": "ici"
     },
     {
         "id": "app.general.version",
@@ -897,16 +897,16 @@
     {
         "id": "app.general.and",
         "description": "and",
-        "defaultMessage": "and"
+        "defaultMessage": "et"
     },
     {
         "id": "app.general.accept",
         "description": "accept",
-        "defaultMessage": "Accept"
+        "defaultMessage": "Accepter"
     },
     {
         "id": "app.general.decline",
         "description": "decline",
-        "defaultMessage": "Decline"
+        "defaultMessage": "Décliner"
     }
 ]
