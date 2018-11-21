@@ -137,57 +137,57 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "Ошибка при получении ваших общих настроек."
+        "defaultMessage": "Ошибка при получении общих настроек."
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "Ошибка при получении опций услуги geth."
+        "defaultMessage": "Ошибка при получении опций geth."
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "Ошибка при получении статуса услуги geth."
+        "defaultMessage": "Ошибка при получении статуса geth."
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "Ошибка при получении статуса синхронизации."
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "Ошибка при сохранении настроек geth."
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "Ошибка при получении настроек geth."
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Не удалось запустить geth."
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Не удалось остановить geth."
     },
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "An error occurred while getting IPFS service config"
+        "defaultMessage": "Ошибка при получении конфигурации IPFS."
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "An error occurred while getting IPFS service ports"
+        "defaultMessage": "Ошибка при получении служебных портов IPFS."
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "An error occurred while saving your IPFS settings"
+        "defaultMessage": "Ошибка при сохранении настроек IPFS."
     },
     {
         "id": "app.error.ipfsSetPorts",
