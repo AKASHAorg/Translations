@@ -67,7 +67,7 @@
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "Ошибка при загрузки ваших досок."
+        "defaultMessage": "Ошибка при загрузке ваших досок."
     },
     {
         "id": "app.error.dashboardSetActive",
@@ -92,47 +92,47 @@
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "Ошибка при попытке получить ваши публикации. Отображаются только черновики, сохраненные на вашем устройстве."
     },
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Ошибка при сборе эссенции за публикацию «{entryTitle}»."
     },
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "Ошибка при сборе эссенции за публикацию «{entryTitle}»."
     },
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "Ошибка при голосовании против публикации «{entryTitle}»."
     },
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "Ошибка при загрузке данных публикации."
     },
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "Ошибка при загрузке публикаций из списка."
     },
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "Ошибка при голосовании за публикацию «{entryTitle}»."
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Код ошибки {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Критическая ошибка"
     },
     {
         "id": "app.error.generalSettings",
