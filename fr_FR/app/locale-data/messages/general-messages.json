@@ -587,47 +587,47 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "By proceeding to create your account and use AKASHA, you are agreeing to\n                         our {termsLink}. If you do not agree, you cannot use\n                         AKASHA."
+        "defaultMessage": "En créant votre compte et en utilisant AKASHA, vous acceptez                         nos {termsLink}.  Si vous ne les acceptez pas, vous ne pouvez pas utiliser                         AKASHA."
     },
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "Conditions d'Utilisation et Politique de Confidentialité"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "La transaction a échoué"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "Transférable"
     },
     {
         "id": "app.general.transform",
         "description": "change the state of AETH tokens",
-        "defaultMessage": "Transform"
+        "defaultMessage": "Transformer"
     },
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "Manafy AETH"
+        "defaultMessage": "Convertir de l'AETH en Mana"
     },
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "Traduire"
     },
     {
         "id": "app.general.usernameFirst",
         "description": "tooltip title for profile complete submit button",
-        "defaultMessage": "Please choose your username first!"
+        "defaultMessage": "Veuillez d'abord choisir votre nom d'utilisateur !"
     },
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Paramètres de l'utilisateur"
     },
     {
         "id": "app.general.update",
@@ -637,37 +637,37 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Mise à jour"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "Mise à niveau"
     },
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "Voir le profil"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "Voter"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "Portefeuille"
     },
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "En attente"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "Oui"
     },
     {
         "id": "app.general.comment",
@@ -677,17 +677,17 @@
     {
         "id": "app.general.publishEntries",
         "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "defaultMessage": "Publier des entrées"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Votre karma augmente à chaque fois que vous récupérez de l'Essence."
     },
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Créer des tags"
     },
     {
         "id": "app.general.karmaLeaderboard",
@@ -697,12 +697,12 @@
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "Niveau {karmaLevel}"
     },
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "À votre niveau actuel, vous pouvez :"
     },
     {
         "id": "app.general.karmaScore",
@@ -712,7 +712,7 @@
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "Voir plus"
     },
     {
         "id": "app.general.noFollowings",
