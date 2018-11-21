@@ -317,7 +317,7 @@
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "Ce n’est pas un lien AKASHA valide"
+        "defaultMessage": "Ceci n’est pas un lien AKASHA valide"
     },
     {
         "id": "app.form.navigateTitle",
