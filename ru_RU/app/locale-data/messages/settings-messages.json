@@ -132,7 +132,7 @@
     {
         "id": "app.settings.update",
         "description": "description for update buton",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Обновить настройки"
     },
     {
         "id": "app.settings.notificationsPreference",
