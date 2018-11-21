@@ -332,7 +332,7 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Créer un brouillon maintenant !"
     },
     {
         "id": "app.entry.title",
@@ -342,12 +342,12 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Le titre ne doit pas être vide"
     },
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Impossible de distinguer l'auteur de l'entrée"
     },
     {
         "id": "app.entry.upvote",
@@ -362,7 +362,7 @@
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Historique des versions"
     },
     {
         "id": "app.entry.versionNumber",
@@ -372,131 +372,131 @@
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Votre vote est en attente"
     },
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "Votes pour - {upvote}% · Votes contre - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Vous ne pouvez pas voter pour votre propre commentaire"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "La période de vote est échue"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Les utilisateurs peuvent encore voter sur l'entrée, mais le Mana brûlé pour ces votes ne pourra pas être récupéré par l'auteur ou par les votants."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Une erreur s'est produite pendant la récupération des informations du site web"
     },
     {
         "id": "app.entry.wordsCount",
         "description": "number of words in an entry",
-        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+        "defaultMessage": "{words, number} {words, plural, one {mot} few {mots} many {mots} other {mots}}"
     },
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Écrire un commentaire"
     },
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Write a reply to {name}"
+        "defaultMessage": "Écrire une réponse à {name}"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "Vous n'avez aucun brouillon."
     },
     {
         "id": "app.entry.draftAll",
         "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "defaultMessage": "Tous les brouillons"
     },
     {
         "id": "app.entry.entriesAll",
         "description": "",
-        "defaultMessage": "All Entries"
+        "defaultMessage": "Toutes les entrées"
     },
     {
         "id": "app.entry.publishedAll",
         "description": "all published entries",
-        "defaultMessage": "All entries"
+        "defaultMessage": "Toutes les entrées"
     },
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "brouillons"
     },
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "defaultMessage": "entrées"
     },
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Go to my drafts"
+        "defaultMessage": "Voir mes brouillons"
     },
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Mes entrées"
     },
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "Annuler les changements"
     },
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Premièrement, vous devez sélectionner du texte"
     },
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Tapez le lien et appuyez sur entrée"
     },
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Chargement de l'image"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "entrées"
     },
     {
         "id": "app.leaveAComment",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Be the first one to write a comment!"
+        "defaultMessage": "Soyez le premier à écrire un commentaire !"
     },
     {
         "id": "app.entry.commentedOn",
         "description": "commented on",
-        "defaultMessage": "commented on"
+        "defaultMessage": "à commenté"
     },
     {
         "id": "app.entry.repliedOn",
         "description": "replied on",
-        "defaultMessage": "replied on a comment on"
+        "defaultMessage": "à répondu à propos du commentaire de"
     },
     {
         "id": "app.entry.loadComments",
         "description": "label for load comments button",
-        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
     }
 ]
