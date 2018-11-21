@@ -262,7 +262,7 @@
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "Une erreur s'est produite pendant la transformation des {amount} Essences"
+        "defaultMessage": "Une erreur s'est produite pendant la transformation de {amount} Essences"
     },
     {
         "id": "app.error.profileUpdate",
@@ -292,7 +292,7 @@
     {
         "id": "app.error.profileFaucet",
         "description": "error message for faucet request",
-        "defaultMessage": "Une erreur s’est produite durant la demande des fonds du \"faucet\""
+        "defaultMessage": "Une erreur s’est produite durant la demande des fonds du \"faucet\" (robinet de distribution)"
     },
     {
         "id": "app.error.profileRegister",
