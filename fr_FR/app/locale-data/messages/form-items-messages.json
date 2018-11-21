@@ -97,12 +97,12 @@
     {
         "id": "app.form.transformManafiedDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will cycle back into transferable AETH in 7 days. {amount} Mana will no longer regenerate."
+        "defaultMessage": "{amount} AETH sera sorti du cycle comme AETH transférable dans 7 jours. {amount} Mana ne sera plus régénéré."
     },
     {
         "id": "app.form.transformTransferableDisclaimer",
         "description": "disclaimer message for transforming manafied/bonded AETH to cycling AETH",
-        "defaultMessage": "{amount} AETH will generate {amount} Mana every 24 hours for as long as it is kept in this state."
+        "defaultMessage": "{amount} AETH générera {amount} Mana toutes les 24 heures tant qu'il restera dans cet état."
     },
     {
         "id": "app.form.firstName",
@@ -152,7 +152,7 @@
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "Mis en cycle du Mana"
     },
     {
         "id": "app.form.fromTransferableToManafied",
