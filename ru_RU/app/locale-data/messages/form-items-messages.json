@@ -87,12 +87,12 @@
     {
         "id": "app.form.transformEssenceDisclaimer",
         "description": "disclaimer message for transforming Essence to AETH",
-        "defaultMessage": "{amount} Essence will forge {value} new AETH in your balance."
+        "defaultMessage": "Эссенция ({amount} ед.) позволит получить на ваш баланс {value} ед. нового AETH."
     },
     {
         "id": "app.form.transformEssenceMin",
         "description": "disclaimer message for minimum amount of essence that can be transformed",
-        "defaultMessage": "You need to transform minimum 1000 Essence"
+        "defaultMessage": "Нужно преобразовать не менее 1000 ед. эссенции."
     },
     {
         "id": "app.form.transformManafiedDisclaimer",
