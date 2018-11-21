@@ -202,7 +202,7 @@
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Veuillez vous assurer d'avoir ouvert la dapp AKASHA sur l'ordinateur où vous avez publié."
+        "defaultMessage": "Veuillez vous assurer d'avoir ouvert la dApp d'AKASHA sur l'ordinateur où vous avez publié."
     },
     {
         "id": "app.entry.newComments",
