@@ -287,16 +287,16 @@
     {
         "id": "app.notification.welcomeMessage",
         "description": "welcome/faucet notification message",
-        "defaultMessage": "Pour recevoir vos ETH de test, veuillez cliquer ici"
+        "defaultMessage": "Pour recevoir vos ETH de test, veuillez cliquer"
     },
     {
         "id": "app.notification.noFunds",
         "description": "title for faucet notification",
-        "defaultMessage": "No more funds"
+        "defaultMessage": "Pas plus de fonds"
     },
     {
         "id": "app.notification.renewBalance",
         "description": "description for faucet notification",
-        "defaultMessage": "To renew your balance, please click"
+        "defaultMessage": "Pour renouveler le solde, veuillez cliquer"
     }
 ]
