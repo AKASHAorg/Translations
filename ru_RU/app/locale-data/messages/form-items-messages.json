@@ -107,52 +107,52 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Имя"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Фамилия"
     },
     {
         "id": "app.form.akashaId",
         "description": "Placeholder for username (Akasha ID) input",
-        "defaultMessage": "Username"
+        "defaultMessage": "Имя пользователя"
     },
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "ETH-адрес"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "Из"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Парольная фраза"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Введите парольную фразу"
     },
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Выберите количество эссенции для преобразования"
     },
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Выберите количество для переноса"
     },
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Manafied to Cycling"
+        "defaultMessage": "Из манафицированной в преобразованную"
     },
     {
         "id": "app.form.fromTransferableToManafied",
