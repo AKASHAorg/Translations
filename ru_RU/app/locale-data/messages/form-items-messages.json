@@ -292,12 +292,12 @@
     {
         "id": "app.form.tagAlreadyAdded",
         "description": "Error displayed when trying to add a tag that already exists",
-        "defaultMessage": "Tag {tag} already added"
+        "defaultMessage": "Тег «{tag}» уже добавлен."
     },
     {
         "id": "app.form.rememberPassFor",
         "description": "Label for checkbox to remember passphrase",
-        "defaultMessage": "Remember my passphrase for"
+        "defaultMessage": "Запомнить парольную фразу для"
     },
     {
         "id": "app.form.tipAmountError",
