@@ -2,77 +2,77 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Обо мне"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Нужно ввести имя пользователя или адрес Ethereum."
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Принимать чаевые"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Введите имя пользователя"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Извините, у вас недостаточно эфира для тестирования!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "Для публикации профиля необходимо пополнить кошелек с тестовым эфиром."
     },
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "Сумма AETH"
     },
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Требуемая сумма"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "Сумма ETH"
     },
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "Введите имя"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Введите фамилию"
     },
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "Можно перевести {aeth} AETH"
     },
     {
         "id": "app.form.maxAethAmountLabel",
         "description": "label for maximum AETH amount input field",
-        "defaultMessage": "max. {balance}"
+        "defaultMessage": "макс. {balance}"
     },
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "Доступно эссенции: {essence}"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "Можно перевести {eth} ETH"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
