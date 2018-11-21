@@ -2,17 +2,17 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "Vous avez manafié {amount} AETH"
+        "defaultMessage": "Vous avez manaformé {amount} AETH"
     },
     {
         "id": "app.notification.cycleAethSuccess",
         "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
-        "defaultMessage": "Vous avez cyclé {amount} AETH"
+        "defaultMessage": "Vous avez mis en cycle {amount} AETH"
     },
     {
         "id": "app.notification.freeAethSuccess",
         "description": "notification to be displayed when collecting cycled AETH transaction was mined",
-        "defaultMessage": "Vous avez récupéré votre AETH cyclé"
+        "defaultMessage": "Vous avez récupéré votre AETH mis en cycle"
     },
     {
         "id": "app.notification.highlightSaveSuccess",
