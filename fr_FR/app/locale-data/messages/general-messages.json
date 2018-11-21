@@ -62,7 +62,7 @@
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "un vote sur une entrée"
     },
     {
         "id": "app.general.appPreferences",
@@ -307,17 +307,17 @@
     {
         "id": "app.general.manaBurned",
         "description": "mana burned",
-        "defaultMessage": "Total Mana burned"
+        "defaultMessage": "Mana total brûlé"
     },
     {
         "id": "app.general.manaPool",
         "description": "mana pool",
-        "defaultMessage": "Total Mana Consumed"
+        "defaultMessage": "Mana total consumé"
     },
     {
         "id": "app.general.manafied",
         "description": "AETH manafied/bonded state",
-        "defaultMessage": "Manafied"
+        "defaultMessage": "Mana mis en cycle"
     },
     {
         "id": "app.general.minutesCount",
@@ -327,17 +327,17 @@
     {
         "id": "app.general.next",
         "description": "Label for Next button",
-        "defaultMessage": "Next"
+        "defaultMessage": "Suivant"
     },
     {
         "id": "app.general.no",
         "description": "no (for confirmations)",
-        "defaultMessage": "No"
+        "defaultMessage": "Non"
     },
     {
         "id": "app.general.noPeersAvailable",
         "description": "couldn't find any IPFS peers for a specific content",
-        "defaultMessage": "No peers available"
+        "defaultMessage": "Aucun pair disponible"
     },
     {
         "id": "app.general.notes",
@@ -347,7 +347,7 @@
     {
         "id": "app.general.notFound",
         "description": "not found",
-        "defaultMessage": "Not found"
+        "defaultMessage": "Aucun résultat"
     },
     {
         "id": "app.general.notifications",
@@ -362,7 +362,7 @@
     {
         "id": "app.general.okTutorial",
         "description": "Label for tutorial modal btn",
-        "defaultMessage": "Ok, Got It!"
+        "defaultMessage": "Ok, compris !"
     },
     {
         "id": "app.general.pause",
@@ -372,32 +372,32 @@
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "En attente"
     },
     {
         "id": "app.general.pendingConfirmation",
         "description": "an action is pending confirmation",
-        "defaultMessage": "Pending confirmation"
+        "defaultMessage": "Confirmation en attente"
     },
     {
         "id": "app.general.people",
         "description": "people",
-        "defaultMessage": "People"
+        "defaultMessage": "Gens"
     },
     {
         "id": "app.general.preview",
         "description": "preview",
-        "defaultMessage": "Preview"
+        "defaultMessage": "Aperçu"
     },
     {
         "id": "app.general.processingImage",
         "description": "Message to show while images are being precessed",
-        "defaultMessage": "Processing image"
+        "defaultMessage": "Traitement de l'image"
     },
     {
         "id": "app.general.profileOverview",
         "description": "tooltip for profile overview button",
-        "defaultMessage": "Profile overview"
+        "defaultMessage": "Vue d'ensemble du profil"
     },
     {
         "id": "app.general.publish",
@@ -407,7 +407,7 @@
     {
         "id": "app.general.publishing",
         "description": "button label when draft is publishing",
-        "defaultMessage": "Publishing"
+        "defaultMessage": "Publication"
     },
     {
         "id": "app.general.received",
@@ -727,7 +727,7 @@
     {
         "id": "app.general.sidebarEntryTypeLink",
         "description": "tooltip text for sidebar draft link entry button",
-        "defaultMessage": "Link"
+        "defaultMessage": "Lien"
     },
     {
         "id": "app.general.sidebarEntryTypeImage",
@@ -737,82 +737,82 @@
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "Vous"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Hold on a second"
+        "defaultMessage": "Un instant s'il-vous-plait"
     },
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL."
+        "defaultMessage": "Vous allez vers un URL externe."
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "Tout récupérer"
     },
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions yet"
+        "defaultMessage": "Aucune transaction"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "Your transactions will be displayed here"
+        "defaultMessage": "Vos transactions seront affichées ici"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
         "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
+        "defaultMessage": "Pas d'essence à récupérer"
     },
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "Generate Essence by posting and interacting"
+        "defaultMessage": "Générer de l'Essence en postant et en intéragissant"
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
         "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "No essence collected"
+        "defaultMessage": "Pas d'essence récupérée"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "Generate Essence by posting and interacting"
+        "defaultMessage": "Générer de l'Essence en postant et en intéragissant"
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "Commencez à taper pour rechercher"
     },
     {
         "id": "app.entry.searchingNoResults",
         "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+        "defaultMessage": "Votre recherche \"{searchTerm}\" affiche 0 {resource}. Veuillez essayer autre chose !"
     },
     {
         "id": "app.general.go",
         "description": "go",
-        "defaultMessage": "Go"
+        "defaultMessage": "Aller"
     },
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "Utiliser le lien"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "Partager"
     },
     {
         "id": "app.general.trustedDomain",
         "description": "title for external navigation modal checkbox for trusted domains",
-        "defaultMessage": "Trusted Domain"
+        "defaultMessage": "Domaines de confiance"
     },
     {
         "id": "app.general.viewAll",
