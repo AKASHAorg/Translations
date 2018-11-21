@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez envoyer un don à {displayName}."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez faire un don à {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
@@ -227,7 +227,7 @@
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez envoyer à {txCount} des transactions."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez envoyer {txCount} transactions."
     },
     {
         "id": "app.confirmations.batchTitle",
