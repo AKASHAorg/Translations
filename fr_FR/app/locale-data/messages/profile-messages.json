@@ -47,7 +47,7 @@
     {
         "id": "app.profile.cyclingComplete",
         "description": "cycling process complete",
-        "defaultMessage": "Cyclage terminé"
+        "defaultMessage": "Cycle terminé"
     },
     {
         "id": "app.profile.cyclingPlaceholder",
