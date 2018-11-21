@@ -62,12 +62,12 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez cycler {amount} AETH"
+        "defaultMessage": "Veuillez confirmer que vous souhaitez créer un cycle de {amount} AETH"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycler"
+        "defaultMessage": "Créer un cycle"
     },
     {
         "id": "app.confirmations.draftPublish",
@@ -122,7 +122,7 @@
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer votre AETH cyclé"
+        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer votre AETH mis en cycle"
     },
     {
         "id": "app.confirmations.freeAethTitle",
@@ -172,7 +172,7 @@
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Créer la balise"
+        "defaultMessage": "Créer le tag"
     },
     {
         "id": "app.confirmation.toggleDonations",
