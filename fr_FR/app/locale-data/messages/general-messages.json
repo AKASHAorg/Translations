@@ -181,7 +181,7 @@
     },
     {
         "id": "app.general.entries",
-        "description": "entries",
+        "description": "entrées",
         "defaultMessage": "Entrées"
     },
     {
@@ -252,7 +252,7 @@
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {heure} other {heures}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
