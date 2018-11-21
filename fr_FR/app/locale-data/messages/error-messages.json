@@ -302,11 +302,11 @@
     {
         "id": "app.error.profileFollow",
         "description": "error message for profile follow",
-        "defaultMessage": "An error occurred while following {ethAddress}"
+        "defaultMessage": "Une erreur s'est produite pendant l'abonnement {ethAddress}"
     },
     {
         "id": "app.error.profileUnfollow",
         "description": "error message for profile unfollow",
-        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
+        "defaultMessage": "Une erreur s'est produite pendant le désabonnement {ethAddress}"
     }
 ]
