@@ -37,7 +37,7 @@
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Ajouter à"
     },
     {
         "id": "app.general.aeth",
@@ -52,12 +52,12 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Quantité"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "une entrée"
     },
     {
         "id": "app.general.anEntryVote",
@@ -67,42 +67,42 @@
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Préférences"
     },
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "Retour"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "Bloquer"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "Annuler"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "Messagerie instantanée"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "Choisir une image"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "Choisir une autre image"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "Fermer"
     },
     {
         "id": "app.general.collect",
@@ -112,72 +112,72 @@
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "Récupéré"
     },
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Commentaires"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Confirmer"
     },
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Confirmé au bloc #{blockNr}"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Copier"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "Compteur"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Créer"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Créés"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "Cycling"
+        "defaultMessage": "En cycle"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Supprimer"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Terminé"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Téléchargements"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "Éditer"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "Éditer le profil"
     },
     {
         "id": "app.general.entries",
@@ -192,12 +192,12 @@
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "Essence totale"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "Score total en Essence"
     },
     {
         "id": "app.general.eth",
@@ -212,42 +212,42 @@
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "Échec au bloc #{blockNr}"
     },
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "Forgé"
     },
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "Faire suivre"
     },
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Création de l'aperçu"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Service Geth OFF"
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Service Geth ON"
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Aide"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "Historique"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,17 +257,17 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "Service IPFS OFF"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "Service IPFS ON"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Rejoindre"
     },
     {
         "id": "app.general.karma",
@@ -277,27 +277,27 @@
     {
         "id": "app.general.karmaTotalScore",
         "description": "karma total score",
-        "defaultMessage": "Karma total score"
+        "defaultMessage": "Score total de Karma"
     },
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "En savoir plus"
     },
     {
         "id": "app.general.leave",
         "description": "leave button label",
-        "defaultMessage": "Leave"
+        "defaultMessage": "Quitter"
     },
     {
         "id": "app.general.logs",
         "description": "Services (geth/IPFS) logs",
-        "defaultMessage": "Logs"
+        "defaultMessage": "Registres"
     },
     {
         "id": "app.general.logout",
         "description": "Logout button label",
-        "defaultMessage": "Logout"
+        "defaultMessage": "Déconnexion"
     },
     {
         "id": "app.general.mana",
@@ -557,17 +557,17 @@
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "Démarrer"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "Démarrage"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "Arrêté"
     },
     {
         "id": "app.general.stream",
@@ -577,7 +577,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "Envoyer"
     },
     {
         "id": "app.general.tags",
