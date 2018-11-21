@@ -12,82 +12,82 @@
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Скопируйте следующие строки и сообщите о проблеме на {githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "Также убедитесь, что о данной ошибке еще не сообщалось!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "Ошибка при создании резервной копии. Повторите попытку."
     },
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "Ошибка при голосовании против комментария."
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "Ошибка при публикации комментария."
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "Ошибка при голосовании за комментарий."
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Ошибка при сохранении новой доски."
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Ошибка при сохранении новой колонки."
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "Ошибка при удалении вашей доски."
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Ошибка при удалении вашей колонки."
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "Ошибка при загрузке активной доски."
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "Ошибка при загрузки ваших досок."
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "Ошибка при сохранении активной доски."
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "Ошибка при обновлении вашей колонки."
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Не удается сохранить последние изменения в этом черновике."
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "Ошибка при публикации черновика."
     },
     {
         "id": "app.error.entriesGetAsDrafts",
