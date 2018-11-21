@@ -312,7 +312,7 @@
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "La dapp nécessite Manafied AETH (Mana) pour interagir. Vous pouvez obtenir du Mana en cliquant sur le solde de votre AETH dans le coin supérieur droit, en sélectionnant \"Manafy\" dans l'onglet transformation."
+        "defaultMessage": "La dapp nécessite de l'AETH Manaformé (Mana) pour interagir. Vous pouvez obtenir du Mana en cliquant sur le solde de votre AETH dans le coin supérieur droit, en sélectionnant \"Manaformer\" dans l'onglet transformation."
     },
     {
         "id": "app.setup.tutorialManaAlt",
