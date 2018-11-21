@@ -327,21 +327,21 @@
     {
         "id": "app.form.navigateSubtitle",
         "description": "subtitle for the navigation modal",
-        "defaultMessage": "Insert a link to navigate to an entry or a profile page"
+        "defaultMessage": "Вставьте ссылку на публикацию или профиль."
     },
     {
         "id": "app.form.shareLinkTitle",
         "description": "title for the share link modal",
-        "defaultMessage": "Share link"
+        "defaultMessage": "Поделиться ссылкой"
     },
     {
         "id": "app.form.shareLinkSubtitle",
         "description": "subtitle for the share link modal",
-        "defaultMessage": "This is an internal link that can only be used inside the Akasha app"
+        "defaultMessage": "Это внутренняя ссылка, которую можно использовать только внутри приложения Akasha."
     },
     {
         "id": "app.form.storageNameInvalid",
         "description": "error message for ipfs storage name field",
-        "defaultMessage": "Storage name cannot contain slash (/) character"
+        "defaultMessage": "Имя хранилища не может содержать знак косой черты (/)."
     }
 ]
