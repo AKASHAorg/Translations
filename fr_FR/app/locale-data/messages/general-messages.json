@@ -572,7 +572,7 @@
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "Stream"
+        "defaultMessage": "Flux de données"
     },
     {
         "id": "app.general.submit",
@@ -692,7 +692,7 @@
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
+        "defaultMessage": "Proto-réputation"
     },
     {
         "id": "app.general.karmaLevel",
@@ -717,7 +717,7 @@
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "Follow someone to see your proto-reputation network"
+        "defaultMessage": "Suivre quelqu'un pour voir votre réseau de proto-réputation"
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
@@ -827,22 +827,22 @@
     {
         "id": "app.general.reportIssue",
         "description": "report issue",
-        "defaultMessage": "Report issue"
+        "defaultMessage": "Signaler un problème"
     },
     {
         "id": "app.general.loadMore",
         "description": "load more",
-        "defaultMessage": "Load more"
+        "defaultMessage": "Charger plus"
     },
     {
         "id": "app.general.externalNavigationAreYouSure",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "Are you sure you want to go there?"
+        "defaultMessage": "Êtes-vous sûr de vouloir quitter ?"
     },
     {
         "id": "app.general.loadingImage",
         "description": "message to display when an image is in loading state",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Chargement de l'image"
     },
     {
         "id": "app.general.loadingImageFailed",
@@ -867,7 +867,7 @@
     {
         "id": "app.general.guestModeInfo",
         "description": "info for guest mode modal",
-        "defaultMessage": "While in guest mode you have access to a limited part of the Akasha app, and cannot do any action that requires a transaction."
+        "defaultMessage": "En mode invité, vous avez accès à une partie limitée de l'application Akasha. Vous ne pouvez donc pas effectuer une action requérant une transaction."
     },
     {
         "id": "app.general.unlockVault",
