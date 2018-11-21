@@ -137,17 +137,17 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "Ошибка при получении ваших общих настроек."
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "Ошибка при получении опций услуги geth."
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "Ошибка при получении статуса услуги geth."
     },
     {
         "id": "app.error.gethGetSyncStatus",
