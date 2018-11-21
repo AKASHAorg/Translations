@@ -192,57 +192,57 @@
     {
         "id": "app.error.ipfsSetPorts",
         "description": "ipfs set ports error message",
-        "defaultMessage": "An error occurred while setting ipfs service ports"
+        "defaultMessage": "Ошибка при настройке служебных портов IFPS."
     },
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "An error occurred while getting your IPFS settings"
+        "defaultMessage": "Ошибка при получении настроек IPFS."
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "Не удалось запустить IPFS."
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "An error occurred while getting IPFS service status"
+        "defaultMessage": "Ошибка при получении статуса IPFS."
     },
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "Не удалось остановить IPFS."
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "Неожиданная ошибка"
     },
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "An error occured while manafying {amount} AETH"
+        "defaultMessage": "Ошибка при манафикации {amount} AETH."
     },
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "An error occured while cycling {amount} AETH"
+        "defaultMessage": "Ошибка при преобразовании {amount} AETH."
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "An error occured while collecting your cycled AETH"
+        "defaultMessage": "Ошибка при сборе преобразованного AETH."
     },
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "Ошибка при получении локальных профилей."
     },
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "Ошибка при загрузке списка профилей."
     },
     {
         "id": "app.error.profileToggleDonations",
