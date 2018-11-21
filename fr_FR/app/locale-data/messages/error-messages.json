@@ -252,27 +252,27 @@
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "Une erreur s'est produite pendant le transfère des {tokenAmount} AETH"
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "Une erreur s'est produite pendant le transfère des {value} ETH"
     },
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "Une erreur s'est produite pendant la transformation des {amount} Essences"
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Une erreur s'est produite pendant la mise à jour de votre profil"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Une erreur s'est produite pendant l'enregistrement de vos paramètres"
     },
     {
         "id": "app.error.appErrorTitle",
@@ -282,22 +282,22 @@
     {
         "id": "app.error.appErrorSubtitle",
         "description": "Subtitle message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Something went terribly wrong."
+        "defaultMessage": "Quelque chose n'a pas fonctionné correctement."
     },
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Copy error to clipboard"
+        "defaultMessage": "Erreur de copie dans le presse-papiers"
     },
     {
         "id": "app.error.profileFaucet",
         "description": "error message for faucet request",
-        "defaultMessage": "An error occurred while requesting funds from faucet"
+        "defaultMessage": "Une erreur s’est produite durant la demande des fonds du \"faucet\""
     },
     {
         "id": "app.error.profileRegister",
         "description": "error message for registering your profile",
-        "defaultMessage": "An error occured while registering your profile"
+        "defaultMessage": "Une erreur s'est produite pendant l'enregistrement de votre profil"
     },
     {
         "id": "app.error.profileFollow",
