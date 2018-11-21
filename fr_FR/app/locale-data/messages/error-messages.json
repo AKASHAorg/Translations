@@ -222,17 +222,17 @@
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "Une erreur s'est produite pendant la Manafication de {amount} AETH"
+        "defaultMessage": "Une erreur s'est produite pendant la manaformation de {amount} AETH"
     },
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "Une erreur s'est produite pendant le cyclage de {amount} AETH"
+        "defaultMessage": "Une erreur s'est produite pendant la mise en cycle de {amount} AETH"
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "Une erreur s'est produite pendant la récupération de votre AETH cyclé"
+        "defaultMessage": "Une erreur s'est produite pendant la récupération de votre AETH en cycle"
     },
     {
         "id": "app.error.profileGetLocal",
