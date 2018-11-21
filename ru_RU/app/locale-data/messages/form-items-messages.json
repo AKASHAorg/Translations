@@ -267,27 +267,27 @@
     {
         "id": "app.form.voteWeightExtra",
         "description": "extra information about the vote weight input",
-        "defaultMessage": "Define a value between {min} and {max}"
+        "defaultMessage": "Выберите значение между {min} и {max}."
     },
     {
         "id": "app.form.notEnoughMana",
         "description": "Error displayed when a user does not have enough Mana for an action",
-        "defaultMessage": "You don't have enough Mana for this action"
+        "defaultMessage": "У вас недостаточно маны для данного действия."
     },
     {
         "id": "app.form.alphanumericError",
         "description": "Error displayed when a tag contains invalid characters",
-        "defaultMessage": "Tags can contain only letters, numbers, and one dash ( - ) or underscore ( _ ) between characters."
+        "defaultMessage": "Теги могут содержать только буквы, цифры и один дефис ( - ) или знак нижнего подчеркивания ( _ ) между символами. "
     },
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "Выберите один из вариантов"
     },
     {
         "id": "app.form.tooLongError",
         "description": "Error displayed when a tag contains more than 24 characters",
-        "defaultMessage": "Tags can have maximum 24 characters."
+        "defaultMessage": "Теги не могут быть длиннее 24 символов."
     },
     {
         "id": "app.form.tagAlreadyAdded",
