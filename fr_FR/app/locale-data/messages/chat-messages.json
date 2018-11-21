@@ -12,7 +12,7 @@
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Rejoindre chaîne"
+        "defaultMessage": "Rejoindre une chaîne"
     },
     {
         "id": "app.chat.channelName",
@@ -37,16 +37,16 @@
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Uniquement les minuscules des caractères alphanumériques. Les tirets (-) et les tirets bas (_) sont autorisés"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Le nom de la chaîne ne doit pas contenir plus de 32 caractères"
+        "defaultMessage": "Le nom de la chaine ne doit pas contenir plus de 32 caractères"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "Cette chaîne est éphémère, les messages disparaîtront 24h après publication"
+        "defaultMessage": "Cette chaîne est éphémère, les messages disparaîtront 24h après leur publication"
     }
 ]
