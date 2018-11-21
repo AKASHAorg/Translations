@@ -167,82 +167,82 @@
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Vous pouvez modifier cette valeur depuis votre"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "paramètres personnels"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "Licence"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "Lien"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Charger plus de réponses"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Chargement des brouillons..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Version locale"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Veuillez vous assurer d'avoir ouvert la dapp AKASHA sur l'ordinateur où vous avez publié."
     },
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} nouveau(x) {count, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
     },
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "Aucun commentaire."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Aucun brouillon correspondant à votre recherche n'a été trouvé."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries yet"
+        "defaultMessage": "Acune entrée"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Pas de nouvelles entrées"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Il n'y a pas d'Essence à récupérer sur cette entrée"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Nouveau brouillon"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Aucun vote"
     },
     {
         "id": "app.entry.olderVersion",
