@@ -212,27 +212,27 @@
     {
         "id": "app.form.shiftDownManaHelp",
         "description": "label for shift down Mana slider",
-        "defaultMessage": "{value} Mana will transform {value} Manafied AETH to Cycling AETH that can be collected in 7 days."
+        "defaultMessage": "Мана ({value} ед.) позволяет превратить {value} ед. манафицированного AETH в преобразованный AETH, который можно собрать через 7 дней."
     },
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Увеличить"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Увеличить пул маны"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH will generate {value} Mana"
+        "defaultMessage": "AETH ({value} ед.) позволит сгенерировать {value} ед. маны"
     },
     {
         "id": "app.form.tips",
         "description": "label for tips",
-        "defaultMessage": "TIPS"
+        "defaultMessage": "ЧАЕВЫЕ"
     },
     {
         "id": "app.form.title",
@@ -242,27 +242,27 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "Общий баланс AETH"
     },
     {
         "id": "app.form.url",
         "description": "Placeholder for url input field",
-        "defaultMessage": "URL"
+        "defaultMessage": "URL-адрес"
     },
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Vote weight must be an integer"
+        "defaultMessage": "Вес голоса должен быть целым числом."
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Vote weight must be between {min} and {max}"
+        "defaultMessage": "Вес голоса должен составлять от {min} до {max}."
     },
     {
         "id": "app.form.voteWeightRequired",
         "description": "Error displayed when vote weight is not specified",
-        "defaultMessage": "Vote weight is required"
+        "defaultMessage": "Нужно указать вес голоса."
     },
     {
         "id": "app.form.voteWeightExtra",
