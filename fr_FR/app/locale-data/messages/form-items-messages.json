@@ -152,12 +152,12 @@
     {
         "id": "app.form.fromManafiedToCycling",
         "description": "label for shift amount slider",
-        "defaultMessage": "Mis en cycle du Mana"
+        "defaultMessage": "Mis en cycle de l'unité Manaformé"
     },
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "Manaformation de l'unité transférable"
     },
     {
         "id": "app.form.confirmPassphrase",
@@ -212,7 +212,7 @@
     {
         "id": "app.form.shiftDownManaHelp",
         "description": "label for shift down Mana slider",
-        "defaultMessage": "{value} Mana will transform {value} Manafied AETH to Cycling AETH that can be collected in 7 days."
+        "defaultMessage": "{value} Mana se transformera en {value} AETH Manaformé pour que l'AETH mis en cycle puisse être récupéré dans 7 jours."
     },
     {
         "id": "app.form.shiftUp",
