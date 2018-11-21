@@ -302,27 +302,27 @@
     {
         "id": "app.form.tipAmountError",
         "description": "Error displayed when the tip amount is smaller than the minimum allowed value",
-        "defaultMessage": "The amount should be at least {minAmount} AETH"
+        "defaultMessage": "Количество AETH не может быть меньше {minAmount}."
     },
     {
         "id": "app.form.to",
         "description": "to",
-        "defaultMessage": "To"
+        "defaultMessage": "Кому"
     },
     {
         "id": "app.form.updateSettings",
         "description": "label for update settings button",
-        "defaultMessage": "Update Settings"
+        "defaultMessage": "Обновить настройки"
     },
     {
         "id": "app.form.navigationError",
         "description": "error message for invalid Akasha link",
-        "defaultMessage": "This is not a valid AKASHA link"
+        "defaultMessage": "Недействительная ссылка AKASHA"
     },
     {
         "id": "app.form.navigateTitle",
         "description": "title for the navigation modal",
-        "defaultMessage": "Paste an AKASHA link here"
+        "defaultMessage": "Вставьте ссылку AKASHA"
     },
     {
         "id": "app.form.navigateSubtitle",
