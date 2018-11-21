@@ -62,7 +62,7 @@
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Abonné au flux de données"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Abonné au flux de données"
     },
     {
         "id": "app.dashboard.tag",
