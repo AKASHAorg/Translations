@@ -112,7 +112,7 @@
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Mieux visible"
+        "defaultMessage": "Mode agrandi"
     },
     {
         "id": "app.dashboard.latest",
@@ -172,7 +172,7 @@
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Moins visible"
+        "defaultMessage": "Mode étroit"
     },
     {
         "id": "app.dashboard.stream",
