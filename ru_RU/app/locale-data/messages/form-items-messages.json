@@ -157,57 +157,57 @@
     {
         "id": "app.form.fromTransferableToManafied",
         "description": "label for shift amount slider",
-        "defaultMessage": "From Transferable to Manafied"
+        "defaultMessage": "Из доступной для отправки в манафицированную"
     },
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Подтвердите парольную фразу"
     },
     {
         "id": "app.form.forgeAeth",
         "description": "transform Essence into new AETH",
-        "defaultMessage": "Forge AETH"
+        "defaultMessage": "Получить AETH"
     },
     {
         "id": "app.form.freeAeth",
         "description": "label for free AETH value",
-        "defaultMessage": "Free AETH"
+        "defaultMessage": "Бесплатный AETH"
     },
     {
         "id": "app.form.manaTotalScore",
         "description": "label for mana total score",
-        "defaultMessage": "Mana total score"
+        "defaultMessage": "Итого маны"
     },
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Имя"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Парольные фразы не совпадают. Введите парольные фразы снова."
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Проверка парольной фразы"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Это поле является обязательным"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Уменьшить"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Уменьшить пул маны"
     },
     {
         "id": "app.form.shiftDownManaHelp",
