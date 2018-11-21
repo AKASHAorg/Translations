@@ -2,17 +2,17 @@
     {
         "id": "app.action.bondAeth",
         "description": "bond/manafy AETH",
-        "defaultMessage": "Convertir en Mana {amount} AETH"
+        "defaultMessage": "Manaformer {amount} AETH"
     },
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Collecter de l'Essence pour"
+        "defaultMessage": "Récupération de l'Essence pour"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Collecter de l'Essence pour commenter sur"
+        "defaultMessage": "Récupérer de l'Essence pour commenter sur"
     },
     {
         "id": "app.action.comment",
@@ -47,17 +47,17 @@
     {
         "id": "app.action.entryDownvote",
         "description": "downvote an entry",
-        "defaultMessage": "Commenter défavorablement de {weight}"
+        "defaultMessage": "Voter défavorablement de {weight}"
     },
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Commenter favorablement de {weight}"
+        "defaultMessage": "Voter favorablement de {weight}"
     },
     {
         "id": "app.action.faucet",
         "description": "make faucet request for funds",
-        "defaultMessage": "Demande de fonds par le \"faucet\""
+        "defaultMessage": "Demande de fonds par le faucet (robinet de distribution)"
     },
     {
         "id": "app.action.follow",
