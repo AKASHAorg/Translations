@@ -587,7 +587,7 @@
     {
         "id": "app.general.terms",
         "description": "Terms agreement for account creation.\n                        Do not translate {termsLink} and {privacyLink}!",
-        "defaultMessage": "En créant votre compte et en utilisant AKASHA, vous acceptez                         nos {termsLink}.  Si vous ne les acceptez pas, vous ne pouvez pas utiliser                         AKASHA."
+        "defaultMessage": "En créant votre compte et en utilisant AKASHA, vous acceptez nos {termsLink}. Si vous ne les acceptez pas, vous ne pouvez pas utiliser AKASHA."
     },
     {
         "id": "app.general.termsOfService",
@@ -612,7 +612,7 @@
     {
         "id": "app.general.transformAethers",
         "description": "manafy/lock aeth",
-        "defaultMessage": "Convertir de l'AETH en Mana"
+        "defaultMessage": "Manaformer de l'AETH"
     },
     {
         "id": "app.general.translate",
@@ -747,7 +747,7 @@
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "Vous allez vers un URL externe."
+        "defaultMessage": "Vous allez naviguer sur un URL externe."
     },
     {
         "id": "app.general.collectAll",
