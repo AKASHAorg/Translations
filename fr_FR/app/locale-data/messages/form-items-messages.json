@@ -7,7 +7,7 @@
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Vous devez spécifier un nom d'utilisateur ou une adresse ethereum"
     },
     {
         "id": "app.form.acceptTips",
@@ -142,7 +142,7 @@
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Sélectionner la quantité d'Essence à transformer"
     },
     {
         "id": "app.form.amountToShift",
