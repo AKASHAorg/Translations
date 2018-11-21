@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez envoyer un don à {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
