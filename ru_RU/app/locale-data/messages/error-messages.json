@@ -247,57 +247,57 @@
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "Ошибка при изменении настроек чаевых."
     },
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "Ошибка при передаче {tokenAmount} AETH."
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "Ошибка при передаче {value} ETH."
     },
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "Ошибка при преобразовании {amount} эссенции."
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Ошибка при обновлении профиля."
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Ошибка при сохранении настроек."
     },
     {
         "id": "app.error.appErrorTitle",
         "description": "Title message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Ah snap!"
+        "defaultMessage": "Ну и ну!"
     },
     {
         "id": "app.error.appErrorSubtitle",
         "description": "Subtitle message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Something went terribly wrong."
+        "defaultMessage": "Что-то пошло совершенно не так."
     },
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Copy error to clipboard"
+        "defaultMessage": "Скопируйте ошибку в буфер обмена."
     },
     {
         "id": "app.error.profileFaucet",
         "description": "error message for faucet request",
-        "defaultMessage": "An error occurred while requesting funds from faucet"
+        "defaultMessage": "Ошибка при запросе средств из «крана»."
     },
     {
         "id": "app.error.profileRegister",
         "description": "error message for registering your profile",
-        "defaultMessage": "An error occured while registering your profile"
+        "defaultMessage": "Ошибка при регистрации профиля."
     },
     {
         "id": "app.error.profileFollow",
