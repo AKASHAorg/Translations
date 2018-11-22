@@ -122,82 +122,82 @@
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Подтвердить"
     },
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Подтверждено в блоке #{blockNr}"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Копировать"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "Счетчик"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Создать"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Создано"
     },
     {
         "id": "app.general.cycling",
         "description": "AETH cycling state",
-        "defaultMessage": "Cycling"
+        "defaultMessage": "Преобразование"
     },
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Удалить"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Готово"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Загрузка"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "Редактировать"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "Редактировать профиль"
     },
     {
         "id": "app.general.entries",
         "description": "публикации",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Публикации"
     },
     {
         "id": "app.general.essence",
         "description": "essence",
-        "defaultMessage": "Essence"
+        "defaultMessage": "Эссенция"
     },
     {
         "id": "app.general.essenceTotal",
         "description": "popover title",
-        "defaultMessage": "Total Essence"
+        "defaultMessage": "Всего эссенции"
     },
     {
         "id": "app.general.essenceTotalScore",
         "description": "essence total score",
-        "defaultMessage": "Essence total score"
+        "defaultMessage": "Итоговый рейтинг в эссенции"
     },
     {
         "id": "app.general.eth",
@@ -212,42 +212,42 @@
     {
         "id": "app.general.failedAtBlock",
         "description": "transaction/action failed at block number x",
-        "defaultMessage": "Failed at block #{blockNr}"
+        "defaultMessage": "Ошибка в блоке #{blockNr}"
     },
     {
         "id": "app.general.forged",
         "description": "new AETH created from Essence",
-        "defaultMessage": "Forged"
+        "defaultMessage": "Получено"
     },
     {
         "id": "app.general.forward",
         "description": "forward",
-        "defaultMessage": "Forward"
+        "defaultMessage": "Вперед"
     },
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Генерируется предварительный просмотр"
     },
     {
         "id": "app.general.gethServiceOff",
         "description": "geth service is stopped",
-        "defaultMessage": "Geth service OFF"
+        "defaultMessage": "Geth выкл."
     },
     {
         "id": "app.general.gethServiceOn",
         "description": "geth service is started",
-        "defaultMessage": "Geth service ON"
+        "defaultMessage": "Geth вкл."
     },
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Справка"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "История"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,7 +257,7 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "IPFS выкл."
     },
     {
         "id": "app.general.ipfsServiceOn",
