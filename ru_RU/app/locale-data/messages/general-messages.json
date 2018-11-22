@@ -2,42 +2,42 @@
     {
         "id": "app.general.abort",
         "description": "abort/cancel button label",
-        "defaultMessage": "Abort"
+        "defaultMessage": "Отменить"
     },
     {
         "id": "app.general.action",
         "description": "action",
-        "defaultMessage": "Action"
+        "defaultMessage": "Действие"
     },
     {
         "id": "app.general.aComment",
         "description": "a random comment",
-        "defaultMessage": "a comment"
+        "defaultMessage": "комментарий"
     },
     {
         "id": "app.general.add",
         "description": "add",
-        "defaultMessage": "Add"
+        "defaultMessage": "Добавить"
     },
     {
         "id": "app.general.addImage",
         "description": "placeholder for image uploader component",
-        "defaultMessage": "Drag and drop to add an image."
+        "defaultMessage": "Перетащите изображение сюда для его добавления."
     },
     {
         "id": "app.general.addImageDragged",
         "description": "message to show when user is dragging an image over",
-        "defaultMessage": "Cool! Drop it just here!"
+        "defaultMessage": "Классно! Оставлю это здесь!"
     },
     {
         "id": "app.general.addNewEntry",
         "description": "tooltip for sidebar add entry button",
-        "defaultMessage": "Add new entry"
+        "defaultMessage": "Добавить новую публикацию"
     },
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "Добавить в"
     },
     {
         "id": "app.general.aeth",
@@ -52,57 +52,57 @@
     {
         "id": "app.general.amount",
         "description": "currency amount",
-        "defaultMessage": "Amount"
+        "defaultMessage": "Сумма"
     },
     {
         "id": "app.general.anEntry",
         "description": "a random entry",
-        "defaultMessage": "an entry"
+        "defaultMessage": "публикацию"
     },
     {
         "id": "app.general.anEntryVote",
         "description": "an entry vote",
-        "defaultMessage": "an entry vote"
+        "defaultMessage": "голос за публикацию"
     },
     {
         "id": "app.general.appPreferences",
         "description": "application settings/preferences",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Настройки приложения"
     },
     {
         "id": "app.general.back",
         "description": "navigate back",
-        "defaultMessage": "Back"
+        "defaultMessage": "Назад"
     },
     {
         "id": "app.general.block",
         "description": "block number",
-        "defaultMessage": "Block"
+        "defaultMessage": "Заблокировать"
     },
     {
         "id": "app.general.cancel",
         "description": "cancel button label",
-        "defaultMessage": "Cancel"
+        "defaultMessage": "Отмена"
     },
     {
         "id": "app.general.chat",
         "description": "tooltip for sidebar chat button",
-        "defaultMessage": "Chat"
+        "defaultMessage": "Чат"
     },
     {
         "id": "app.general.chooseImage",
         "description": "tooltip to show when user hovers image uploader component and no image selected",
-        "defaultMessage": "Choose an image"
+        "defaultMessage": "Выберите изображение"
     },
     {
         "id": "app.general.chooseAnotherImage",
         "description": "tooltip to show when user hovers image uploader and an image is already selected",
-        "defaultMessage": "Choose another image"
+        "defaultMessage": "Выбрать другое изображение"
     },
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "Закрыть"
     },
     {
         "id": "app.general.collect",
@@ -112,12 +112,12 @@
     {
         "id": "app.general.collected",
         "description": "collected",
-        "defaultMessage": "Collected"
+        "defaultMessage": "Собрано"
     },
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Комментарии"
     },
     {
         "id": "app.general.confirm",
