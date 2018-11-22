@@ -127,7 +127,7 @@
     {
         "id": "app.settings.title",
         "description": "Title for app settings",
-        "defaultMessage": "App preferences"
+        "defaultMessage": "Настройки приложения"
     },
     {
         "id": "app.settings.update",
