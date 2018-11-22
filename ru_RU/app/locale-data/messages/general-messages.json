@@ -627,7 +627,7 @@
     {
         "id": "app.general.userSettings",
         "description": "user settings menu item",
-        "defaultMessage": "User settings"
+        "defaultMessage": "Пользовательские настройки"
     },
     {
         "id": "app.general.update",
@@ -637,37 +637,37 @@
     {
         "id": "app.general.updating",
         "description": "button label when entry is updating",
-        "defaultMessage": "Updating"
+        "defaultMessage": "Обновление"
     },
     {
         "id": "app.general.upgrading",
         "description": "Upgrading services",
-        "defaultMessage": "Upgrading"
+        "defaultMessage": "Обновление"
     },
     {
         "id": "app.general.viewProfile",
         "description": "View profile",
-        "defaultMessage": "View profile"
+        "defaultMessage": "Просмотр профиля"
     },
     {
         "id": "app.general.vote",
         "description": "Vote",
-        "defaultMessage": "Vote"
+        "defaultMessage": "Голосование"
     },
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "Кошелек"
     },
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "Ожидание"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "Да"
     },
     {
         "id": "app.general.comment",
