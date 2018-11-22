@@ -677,47 +677,47 @@
     {
         "id": "app.general.publishEntries",
         "description": "action title",
-        "defaultMessage": "Publish Entries"
+        "defaultMessage": "Опубликовать"
     },
     {
         "id": "app.general.karmaPopoverTooltip",
         "description": "karmaPopoverTooltip",
-        "defaultMessage": "Your Karma will increase whenever you collect Essence."
+        "defaultMessage": "Ваша карма увеличивается каждый раз, когда вы собираете эссенцию."
     },
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "Создать теги"
     },
     {
         "id": "app.general.karmaLeaderboard",
         "description": "karma leaderboard title",
-        "defaultMessage": "Proto-Reputation"
+        "defaultMessage": "Проторепутация"
     },
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "Уровень {karmaLevel}"
     },
     {
         "id": "app.general.karmaLevelInfo",
         "description": "karma level info",
-        "defaultMessage": "At your current level you can:"
+        "defaultMessage": "На текущем уровне вы можете:"
     },
     {
         "id": "app.general.karmaScore",
         "description": "karma score",
-        "defaultMessage": "{profileKarmaScore} Karma"
+        "defaultMessage": "Карма: {profileKarmaScore}"
     },
     {
         "id": "app.general.showMore",
         "description": "button label",
-        "defaultMessage": "Show more"
+        "defaultMessage": "Показать больше"
     },
     {
         "id": "app.general.noFollowings",
         "description": "info when user is not following anyone",
-        "defaultMessage": "Follow someone to see your proto-reputation network"
+        "defaultMessage": "Чтобы увидеть свою сеть проторепутации, подпишитесь на кого-нибудь."
     },
     {
         "id": "app.general.sidebarEntryTypeArticle",
@@ -732,62 +732,62 @@
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "Изображение"
     },
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "Вы"
     },
     {
         "id": "app.general.waitASecond",
         "description": "title for external navigation modal",
-        "defaultMessage": "Hold on a second"
+        "defaultMessage": "Подождите"
     },
     {
         "id": "app.general.externalNavigationWarning",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "You are about to navigate to an external URL."
+        "defaultMessage": "Вы собираетесь перейти по внешней ссылке."
     },
     {
         "id": "app.general.collectAll",
         "description": "collect all Essence",
-        "defaultMessage": "Collect all"
+        "defaultMessage": "Собрать все"
     },
     {
         "id": "app.general.noTransactionsTitle",
         "description": "no transactions message title",
-        "defaultMessage": "No transactions yet"
+        "defaultMessage": "Транзакции отсутствуют"
     },
     {
         "id": "app.general.noTransactionsDescription",
         "description": "no transaction message description",
-        "defaultMessage": "Your transactions will be displayed here"
+        "defaultMessage": "Здесь будут отображаться ваши транзакции"
     },
     {
         "id": "app.general.noEssenceToCollectTitle",
         "description": "message title when you don`t have any essence to collect",
-        "defaultMessage": "No essence to collect"
+        "defaultMessage": "Нет эссенции для сбора"
     },
     {
         "id": "app.general.noEssenceToCollectDescription",
         "description": "message description when you don`t have any essence to collect",
-        "defaultMessage": "Generate Essence by posting and interacting"
+        "defaultMessage": "Генерируйте эссенцию, создавая публикации и взаимодействуя с другими пользователями."
     },
     {
         "id": "app.general.noEssenceWasCollectedTitle",
         "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "No essence collected"
+        "defaultMessage": "Эссенция не собрана"
     },
     {
         "id": "app.general.noEssenceWasCollectedDescription",
         "description": "message for essence history popover, when there is not transaction history",
-        "defaultMessage": "Generate Essence by posting and interacting"
+        "defaultMessage": "Генерируйте эссенцию, создавая публикации и взаимодействуя с другими пользователями."
     },
     {
         "id": "app.entry.startTypingToSearch",
         "description": "start typing to search",
-        "defaultMessage": "Start typing to search"
+        "defaultMessage": "Введите текст для поиска"
     },
     {
         "id": "app.entry.searchingNoResults",
