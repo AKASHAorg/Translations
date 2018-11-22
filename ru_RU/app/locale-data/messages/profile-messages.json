@@ -127,7 +127,7 @@
     {
         "id": "app.profile.entries",
         "description": "Title for entries column",
-        "defaultMessage": "Entries"
+        "defaultMessage": "Публикации"
     },
     {
         "id": "app.profile.follow",
