@@ -2,11 +2,11 @@
     {
         "id": "app.search.noResults",
         "description": "message displayed when no results are found",
-        "defaultMessage": "No results found"
+        "defaultMessage": "Нет результатов"
     },
     {
         "id": "app.search.searchSomething",
         "description": "placeholder for search input",
-        "defaultMessage": "Search something..."
+        "defaultMessage": "Введите слово для поиска..."
     }
 ]
