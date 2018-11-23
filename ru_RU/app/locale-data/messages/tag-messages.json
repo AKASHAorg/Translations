@@ -2,22 +2,22 @@
     {
         "id": "app.tag.addTag",
         "description": "placeholder for tag editor field",
-        "defaultMessage": "#category..."
+        "defaultMessage": "#категория..."
     },
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Sorry! You don't have enough karma to create tags."
+        "defaultMessage": "Извините! У вас недостаточно кармы для создания тегов."
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This tag doesn't exist"
+        "defaultMessage": "Этого тега не существует."
     },
     {
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
-        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
+        "defaultMessage": "Это новый тег, который еще не был создан!"
     },
     {
         "id": "app.tag.tagsLeft",
@@ -27,11 +27,11 @@
     {
         "id": "app.tag.tags",
         "description": "plural of tag",
-        "defaultMessage": "tags"
+        "defaultMessage": "тегов"
     },
     {
         "id": "app.tag.cannotEditTags",
         "description": "",
-        "defaultMessage": "Cannot edit tags when updating an entry"
+        "defaultMessage": "Нельзя редактировать теги при обновлении публикации."
     }
 ]
