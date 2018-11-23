@@ -797,47 +797,47 @@
     {
         "id": "app.general.go",
         "description": "go",
-        "defaultMessage": "Go"
+        "defaultMessage": "Перейти"
     },
     {
         "id": "app.general.navigateToLink",
         "description": "tooltip for navigate to link button",
-        "defaultMessage": "Navigate to link"
+        "defaultMessage": "Перейдите по ссылке"
     },
     {
         "id": "app.general.share",
         "description": "share",
-        "defaultMessage": "Share"
+        "defaultMessage": "Поделиться"
     },
     {
         "id": "app.general.trustedDomain",
         "description": "title for external navigation modal checkbox for trusted domains",
-        "defaultMessage": "Trusted Domain"
+        "defaultMessage": "Доверенный домен"
     },
     {
         "id": "app.general.viewAll",
         "description": "view all",
-        "defaultMessage": "View All"
+        "defaultMessage": "Просмотреть все"
     },
     {
         "id": "app.general.reload",
         "description": "reload",
-        "defaultMessage": "Reload"
+        "defaultMessage": "Перезагрузить"
     },
     {
         "id": "app.general.reportIssue",
         "description": "report issue",
-        "defaultMessage": "Report issue"
+        "defaultMessage": "Сообщить об ошибке"
     },
     {
         "id": "app.general.loadMore",
         "description": "load more",
-        "defaultMessage": "Load more"
+        "defaultMessage": "Загрузить больше"
     },
     {
         "id": "app.general.externalNavigationAreYouSure",
         "description": "warning displayed when clicking an external link",
-        "defaultMessage": "Are you sure you want to go there?"
+        "defaultMessage": "Уверены, что хотите перейти туда?"
     },
     {
         "id": "app.general.loadingImage",
@@ -847,22 +847,22 @@
     {
         "id": "app.general.loadingImageFailed",
         "description": "message to show when an image failed to load",
-        "defaultMessage": "Cannot load image :("
+        "defaultMessage": "Невозможно загрузить изображение :("
     },
     {
         "id": "app.general.or",
         "description": "or",
-        "defaultMessage": "or"
+        "defaultMessage": "или"
     },
     {
         "id": "app.general.sidebarTooltipGuest",
         "description": "tooltip text for sidebar guest mode",
-        "defaultMessage": "Not available in guest mode"
+        "defaultMessage": "Недоступно для незарегистрированных пользователей,"
     },
     {
         "id": "app.general.guestMode",
         "description": "title for guest mode button",
-        "defaultMessage": "Guest Mode"
+        "defaultMessage": "Гостевой режим"
     },
     {
         "id": "app.general.guestModeInfo",
