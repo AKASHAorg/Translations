@@ -217,7 +217,7 @@
     {
         "id": "app.profile.settings",
         "description": "Title for profile settings",
-        "defaultMessage": "Settings"
+        "defaultMessage": "Настройки"
     },
     {
         "id": "app.profile.receive",
@@ -242,7 +242,7 @@
     {
         "id": "app.profile.send",
         "description": "send button label",
-        "defaultMessage": "Send"
+        "defaultMessage": "Отправить"
     },
     {
         "id": "app.profile.sendTip",
