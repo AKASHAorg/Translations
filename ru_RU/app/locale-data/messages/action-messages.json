@@ -22,12 +22,12 @@
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "Downvote comment on"
+        "defaultMessage": "Проголосовать против комментария на"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "Upvote comment on"
+        "defaultMessage": "Проголосовать за комментарий на"
     },
     {
         "id": "app.action.cycleAeth",
@@ -47,17 +47,17 @@
     {
         "id": "app.action.entryDownvote",
         "description": "downvote an entry",
-        "defaultMessage": "Downvote {weight} on"
+        "defaultMessage": "Проголосовать (сила голоса {weight}) против"
     },
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Upvote {weight} on"
+        "defaultMessage": "Проголосовать (сила голоса {weight}) за"
     },
     {
         "id": "app.action.faucet",
         "description": "make faucet request for funds",
-        "defaultMessage": "Request funds from faucet"
+        "defaultMessage": "Запросить средства из «крана»."
     },
     {
         "id": "app.action.follow",
