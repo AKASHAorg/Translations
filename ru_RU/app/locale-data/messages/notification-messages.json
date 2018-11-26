@@ -27,67 +27,67 @@
     {
         "id": "app.notification.updatingProfile",
         "description": "Notification to be displayed when update profile transaction is sent",
-        "defaultMessage": "Your profile is updating ..."
+        "defaultMessage": "Ваш профиль обновляется..."
     },
     {
         "id": "app.notification.updateProfileSuccess",
         "description": "Notification to be displayed when update profile transaction was mined",
-        "defaultMessage": "Your profile was successfully updated"
+        "defaultMessage": "Ваш профиль был успешно обновлен."
     },
     {
         "id": "app.notification.followingProfile",
         "description": "Notification to be displayed when follow transaction is sent",
-        "defaultMessage": "Following {displayName} ..."
+        "defaultMessage": "Подписываемся на {displayName}..."
     },
     {
         "id": "app.notification.followProfileSuccess",
         "description": "Notification to be displayed when follow transaction was mined",
-        "defaultMessage": "You are now following {displayName}"
+        "defaultMessage": "Вы подписаны на {displayName}"
     },
     {
         "id": "app.notification.transformEssenceSuccess",
         "description": "notification to be displayed when transform Essence transaction was mined",
-        "defaultMessage": "You successfully transformed {amount} Essence"
+        "defaultMessage": "Вы успешно преобразовали {amount} ед. эссенции."
     },
     {
         "id": "app.notification.unfollowingProfile",
         "description": "Notification to be displayed when unfollow transaction is sent",
-        "defaultMessage": "Unfollowing {displayName} ..."
+        "defaultMessage": "Отписываемся от {displayName}..."
     },
     {
         "id": "app.notification.unfollowProfileSuccess",
         "description": "Notification to be displayed when unfollow transaction was mined",
-        "defaultMessage": "You are not following {displayName} anymore"
+        "defaultMessage": "Вы больше не подписаны на {displayName}."
     },
     {
         "id": "app.notification.notEnoughEthers",
         "description": "Notification to show when not enough ethers",
-        "defaultMessage": "You don`t have enough ethers."
+        "defaultMessage": "У вас недостаточно эфира."
     },
     {
         "id": "app.notification.notEnoughEthOrMana",
         "description": "Notification when not enough eth or mana",
-        "defaultMessage": "You don`t have enough ethers or mana."
+        "defaultMessage": "У вас недостаточно эфира или маны."
     },
     {
         "id": "app.notification.registerProfileSuccess",
         "description": "Notification to be displayed when register profile transaction was mined",
-        "defaultMessage": "Highfives! Profile successfully registered!"
+        "defaultMessage": "Ура! Профиль успешно зарегистрирован!"
     },
     {
         "id": "app.notification.publishCommentSuccess",
         "description": "Notification to be displayed when publish comment transaction was mined",
-        "defaultMessage": "You successfully published a comment"
+        "defaultMessage": "Вы успешно опубликовали комментарий."
     },
     {
         "id": "app.notification.publishingEntry",
         "description": "Notification for when entry is publishing",
-        "defaultMessage": "Publishing \"{title}\"."
+        "defaultMessage": "Публикация «{title}»."
     },
     {
         "id": "app.notification.publishingNewEntryVersion",
         "description": "Notification for when a new entry version is publishing",
-        "defaultMessage": "Updating \"{title}\"."
+        "defaultMessage": "Обновление «{title}»."
     },
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
