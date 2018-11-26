@@ -117,7 +117,7 @@
     {
         "id": "app.notification.downvoteCommentSuccess",
         "description": "Notification to be displayed when downvote comment transaction was mined",
-        "defaultMessage": "You successfully downvoted a comment"
+        "defaultMessage": "Вы успешно проголосовали против комментария."
     },
     {
         "id": "app.notification.downvoteEntrySuccess",
