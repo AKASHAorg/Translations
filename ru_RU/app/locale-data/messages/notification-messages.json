@@ -2,12 +2,12 @@
     {
         "id": "app.notification.bondAethSuccess",
         "description": "notification to be displayed when bond/manafy AETH transaction was mined",
-        "defaultMessage": "You successfully manafied {amount} AETH"
+        "defaultMessage": "Вы успешно манафицировали {amount} AETH."
     },
     {
         "id": "app.notification.cycleAethSuccess",
         "description": "notification to be displayed when unlock/cycle AETH transaction was mined",
-        "defaultMessage": "You successfully cycled {amount} AETH"
+        "defaultMessage": "Вы успешно преобразовали {amount} AETH."
     },
     {
         "id": "app.notification.freeAethSuccess",
