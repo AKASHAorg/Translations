@@ -12,17 +12,17 @@
     {
         "id": "app.notification.freeAethSuccess",
         "description": "notification to be displayed when collecting cycled AETH transaction was mined",
-        "defaultMessage": "You successfully collected your cycled AETH"
+        "defaultMessage": "Вы собрали преобразованный AETH."
     },
     {
         "id": "app.notification.highlightSaveSuccess",
         "description": "Notification to be displayed when a highlight has been saved",
-        "defaultMessage": "The highlight has been saved!"
+        "defaultMessage": "Выделение сохранено!"
     },
     {
         "id": "app.notification.highlightSaveSuccessInputPlaceholder",
         "description": "Placeholder for note input after highlight save",
-        "defaultMessage": "Do you want to type a note?"
+        "defaultMessage": "Хотите создать примечание?"
     },
     {
         "id": "app.notification.updatingProfile",
