@@ -92,27 +92,27 @@
     {
         "id": "app.notification.newVersionPublishedSuccessfully",
         "description": "Notification for when a new version was published",
-        "defaultMessage": "Entry \"{title}\" successfully updated."
+        "defaultMessage": "Публикация «{title}» успешно обновлена."
     },
     {
         "id": "app.notification.draftPublishedSuccessfully",
         "description": "Notification for when draft successfully registered/published",
-        "defaultMessage": "Draft \"{title}\" successfully published."
+        "defaultMessage": "Черновик «{title}» успешно опубликован."
     },
     {
         "id": "app.notification.claimSuccess",
         "description": "Notification to be displayed when collect Essence transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "Вы собрали эссенцию за «{entryTitle}»."
     },
     {
         "id": "app.notification.claimVoteSuccess",
         "description": "Notification to be displayed when collect Essence for vote transaction was mined",
-        "defaultMessage": "You successfully collected Essence for {entryTitle}"
+        "defaultMessage": "Вы собрали эссенцию за «{entryTitle}»."
     },
     {
         "id": "app.notification.downvotingEntry",
         "description": "Notification to be displayed when entry downvote transaction is sent",
-        "defaultMessage": "Downvoting {entryTitle} ..."
+        "defaultMessage": "Голосуем против «{entryTitle}»..."
     },
     {
         "id": "app.notification.downvoteCommentSuccess",
