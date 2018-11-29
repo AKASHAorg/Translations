@@ -247,7 +247,7 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "Vous serez en mesure de vous connecter et de profiter de l'expérience complète dès que la synchronisation sera terminée ! Nous vous attendons de l'autre côté ! o /"
+        "defaultMessage": "Vous serez en mesure de vous connecter et de profiter de l'expérience complète dès que la synchronisation sera terminée ! Nous vous attendons de l'autre côté ! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
