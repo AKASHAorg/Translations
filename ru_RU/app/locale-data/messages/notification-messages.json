@@ -122,82 +122,82 @@
     {
         "id": "app.notification.downvoteEntrySuccess",
         "description": "Notification to be displayed when downvote entry transaction was mined",
-        "defaultMessage": "You successfully downvoted {entryTitle}"
+        "defaultMessage": "Вы успешно проголосовали против публикации «{entryTitle}»."
     },
     {
         "id": "app.notification.upvotingEntry",
         "description": "Notification to be displayed when entry upvote transaction is sent",
-        "defaultMessage": "Upvoting {entryTitle} ..."
+        "defaultMessage": "Голосуем за «{entryTitle}»..."
     },
     {
         "id": "app.notification.upvoteCommentSuccess",
         "description": "Notification to be displayed when upvote comment transaction was mined",
-        "defaultMessage": "You successfully upvoted a comment"
+        "defaultMessage": "Вы успешно проголосовали за комментарий."
     },
     {
         "id": "app.notification.upvoteEntrySuccess",
         "description": "Notification to be displayed when upvote entry transaction was mined",
-        "defaultMessage": "You successfully upvoted {entryTitle}"
+        "defaultMessage": "Вы успешно проголосовали за публикацию «{entryTitle}»."
     },
     {
         "id": "app.notification.publishingComment",
         "description": "Notification to be displayed when comment publishing tx was sent",
-        "defaultMessage": "Publishing comment"
+        "defaultMessage": "Публикация комментария"
     },
     {
         "id": "app.notification.commentPublishedSuccessfully",
         "description": "Notification to be displayed when comment successfully published",
-        "defaultMessage": "Comment published successfully"
+        "defaultMessage": "Комментарий успешно опубликован"
     },
     {
         "id": "app.notification.claiming",
         "description": "Notification to be displayed when collect transaction is sent",
-        "defaultMessage": "Collecting Essence for {entryTitle} ..."
+        "defaultMessage": "Сбор эссенции за «{entryTitle}»..."
     },
     {
         "id": "app.notification.draftSavedSuccessfully",
         "description": "notification to show when draft was successfully saved",
-        "defaultMessage": "Draft successfully saved!"
+        "defaultMessage": "Черновик сохранен!"
     },
     {
         "id": "app.notification.draftDeletedSuccessfully",
         "description": "notification to show when draft was successfully deleted",
-        "defaultMessage": "Draft successfully deleted!"
+        "defaultMessage": "Черновик удален!"
     },
     {
         "id": "app.notification.linkCopiedToClipboard",
         "description": "notification to show when user copies profile link",
-        "defaultMessage": "Link copied to clipboard"
+        "defaultMessage": "Ссылка скопирована в буфер обмена"
     },
     {
         "id": "app.notification.sendingTip",
         "description": "Notification to be displayed when tip transaction is sent",
-        "defaultMessage": "Sending tip to {displayName} ..."
+        "defaultMessage": "Отправка чаевых {displayName}..."
     },
     {
         "id": "app.notification.sendTipSuccess",
         "description": "Notification to be displayed when tip transaction was successfully mined",
-        "defaultMessage": "You have successfully tipped {displayName}"
+        "defaultMessage": "Вы отправили чаевые {displayName}"
     },
     {
         "id": "app.notification.notificationsEnabledSuccess",
         "description": "message to be displayed when notifications were enabled for a specific user",
-        "defaultMessage": "Notifications enabled for {displayName}"
+        "defaultMessage": "Уведомления для {displayName} включены"
     },
     {
         "id": "app.notification.notificationsDisabledSuccess",
         "description": "message to be displayed when notifications were disabled for a specific user",
-        "defaultMessage": "Notifications disabled for {displayName}"
+        "defaultMessage": "Уведомления для {displayName} отключены"
     },
     {
         "id": "app.notification.backupSuccess",
         "description": "message to display when the keystore backup was generated successfully",
-        "defaultMessage": "Backup was generated at {path}"
+        "defaultMessage": "Резервная копия была создана в {path}"
     },
     {
         "id": "app.notification.saveGethSettingsSuccess",
         "description": "Geth settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the geth\n                        service for your changes to be applied."
+        "defaultMessage": "Настройки успешно сохранены. Необходимо перезапустить службу geth,\n                        чтобы изменения вступили в силу."
     },
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
