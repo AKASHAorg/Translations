@@ -202,12 +202,12 @@
     {
         "id": "app.notification.saveIpfsSettingsSuccess",
         "description": "IPFS settings successfully saved",
-        "defaultMessage": "You have successfully saved your settings. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Настройки успешно сохранены. Чтобы изменения вступили в силу,\n                        перезапустите службу IPFS."
     },
     {
         "id": "app.notification.setIpfsPortsSuccess",
         "description": "IPFS ports successfully set",
-        "defaultMessage": "You have successfully set the IPFS ports. You need to restart the IPFS\n                        service for your changes to be applied."
+        "defaultMessage": "Настройки IPFS-портов созданы. Чтобы изменения вступили в силу,\n                        перезапустите службу IPFS."
     },
     {
         "id": "app.settings.themeTips",
