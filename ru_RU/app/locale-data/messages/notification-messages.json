@@ -212,91 +212,91 @@
     {
         "id": "app.settings.themeTips",
         "description": "theme tips",
-        "defaultMessage": "Your theme will change after refreshing the app."
+        "defaultMessage": "Тема будет изменена после перезапуска приложения."
     },
     {
         "id": "app.notification.toggleDonationsSuccess",
         "description": "toggle accepting donations/tips transaction was succesfully mined",
-        "defaultMessage": "You succesfully changed your tips settings"
+        "defaultMessage": "Настройки чаевых изменены."
     },
     {
         "id": "app.notification.transferAethSuccess",
         "description": "transfer AETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {tokenAmount} AETH to {displayName}"
+        "defaultMessage": "Отправлено {tokenAmount} AETH пользователю {displayName}."
     },
     {
         "id": "app.notification.transferEthSuccess",
         "description": "transfer ETH transaction was successfully mined",
-        "defaultMessage": "You successfully transfered {value} ETH to {displayName}"
+        "defaultMessage": "Отправлено {value} ETH пользователю {displayName}."
     },
     {
         "id": "app.notification.userSettingsSaveSuccess",
         "description": "User settings successfully saved",
-        "defaultMessage": "You have successfully saved your personal settings"
+        "defaultMessage": "Личные настройки сохранены."
     },
     {
         "id": "app.notification.faucetRequestSuccess",
         "description": "message to show when faucet tx successful",
-        "defaultMessage": "You have successfully received test ETH and some AETH"
+        "defaultMessage": "Получен тестовый ETH и AETH."
     },
     {
         "id": "app.settings.notifFollow",
         "description": "text for notification",
-        "defaultMessage": "followed you"
+        "defaultMessage": "подписался (-ась) на вас"
     },
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "прокомментировал (-а)"
     },
     {
         "id": "app.settings.notifDonationAeth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {aeth} AETH"
+        "defaultMessage": "отправил (-а) вам в качестве чаевых {aeth} AETH"
     },
     {
         "id": "app.settings.notifDonationBoth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH and {aeth} AETH"
+        "defaultMessage": "отправил (-а) вам в качестве чаевых {eth} ETH и {aeth} AETH"
     },
     {
         "id": "app.settings.notifDonationEth",
         "description": "text for notification",
-        "defaultMessage": "tipped you {eth} ETH"
+        "defaultMessage": "отправил (-а) вам в качестве чаевых {eth} ETH"
     },
     {
         "id": "app.settings.notifVote",
         "description": "text for notification",
-        "defaultMessage": "voted on"
+        "defaultMessage": "проголосовал (-а) за"
     },
     {
         "id": "app.settings.notifBlockNr",
         "description": "text for notification block number",
-        "defaultMessage": "at block number {blockNr}"
+        "defaultMessage": "в блоке номер {blockNr}"
     },
     {
         "id": "app.notification.errorCopiedToClipboard",
         "description": "notification to show when user copies error info",
-        "defaultMessage": "Error copied to clipboard"
+        "defaultMessage": "Ошибка скопирована в буфер обмена"
     },
     {
         "id": "app.notification.welcomeTitle",
         "description": "title for welcome/faucet notification",
-        "defaultMessage": "Welcome to AKASHA"
+        "defaultMessage": "Добро пожаловать в AKASHA"
     },
     {
         "id": "app.notification.welcomeMessage",
         "description": "welcome/faucet notification message",
-        "defaultMessage": "To claim your test ETH gift, please click"
+        "defaultMessage": "Чтобы получить тестовый ETH, нажмите"
     },
     {
         "id": "app.notification.noFunds",
         "description": "title for faucet notification",
-        "defaultMessage": "No more funds"
+        "defaultMessage": "Средства исчерпаны"
     },
     {
         "id": "app.notification.renewBalance",
         "description": "description for faucet notification",
-        "defaultMessage": "To renew your balance, please click"
+        "defaultMessage": "Чтобы пополнить ваш баланс, нажмите"
     }
 ]
