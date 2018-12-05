@@ -302,17 +302,17 @@
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "プロフィールを検索"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "タグ検索"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "表示する"
     },
     {
         "id": "app.entry.showLess",
@@ -322,7 +322,7 @@
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "コメント全文を表示"
     },
     {
         "id": "app.entry.startComment",
@@ -332,7 +332,7 @@
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "今すぐ下書きを作成"
     },
     {
         "id": "app.entry.title",
@@ -342,7 +342,7 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "タイトルは入力必須です"
     },
     {
         "id": "app.entry.tooltipAuthor",
