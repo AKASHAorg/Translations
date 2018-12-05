@@ -122,7 +122,7 @@
     {
         "id": "app.dashboard.list",
         "description": "label for list column",
-        "defaultMessage": "List"
+        "defaultMessage": "リスト"
     },
     {
         "id": "app.dashboard.listDeleted",
@@ -162,7 +162,7 @@
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "ユーザー"
     },
     {
         "id": "app.dashboard.searchForBoard",
@@ -182,7 +182,7 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "タグ"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
