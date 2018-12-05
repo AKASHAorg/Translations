@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "編集を続行する"
     },
     {
         "id": "app.entry.downvote",
@@ -297,7 +297,7 @@
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "スコア"
     },
     {
         "id": "app.entry.searchProfile",
