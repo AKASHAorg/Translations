@@ -47,72 +47,72 @@
     {
         "id": "app.settings.passphraseOptionsDescription",
         "description": "description for profile passphrase options",
-        "defaultMessage": "Choose when your password is requested"
+        "defaultMessage": "Выберите, когда запрашивать пароль."
     },
     {
         "id": "app.settings.licenseOptions",
         "description": "title for profile default license options",
-        "defaultMessage": "Publish Options"
+        "defaultMessage": "Параметры публикации"
     },
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "Choose the default license for articles you publish"
+        "defaultMessage": "Выберите лицензию по умолчанию для публикуемых вами статей."
     },
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "Язык"
     },
     {
         "id": "app.settings.lightTheme",
         "description": "theme switch",
-        "defaultMessage": "Light Theme"
+        "defaultMessage": "Светлая тема"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Русский"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "SELECT LANGUAGE"
+        "defaultMessage": "ВЫБЕРИТЕ ЯЗЫК"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "Испанский"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "App Theme"
+        "defaultMessage": "Тема приложения"
     },
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "Customize the look of the Akasha workspace"
+        "defaultMessage": "Настройте внешний вид рабочего пространства Akasha."
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
+        "defaultMessage": "Выберите настройки чаевых."
     },
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "Перед изменением этой настройки вам нужно зарегистрировать свой профиль."
     },
     {
         "id": "app.settings.tipsOptions",
         "description": "title for profile tips options",
-        "defaultMessage": "Tips options"
+        "defaultMessage": "Параметры чаевых"
     },
     {
         "id": "app.settings.tipsInfo",
         "description": "info for profile tips options",
-        "defaultMessage": "Changing this option will involve sending a transaction"
+        "defaultMessage": "Для изменения этого параметра понадобится отправка транзакции."
     },
     {
         "id": "app.settings.tipsAccept",
@@ -122,7 +122,7 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "Не принимать чаевые"
     },
     {
         "id": "app.settings.title",
@@ -137,106 +137,106 @@
     {
         "id": "app.settings.notificationsPreference",
         "description": "title for notification settings",
-        "defaultMessage": "Notifications Settings"
+        "defaultMessage": "Параметры уведомлений"
     },
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "Чаевые"
     },
     {
         "id": "app.settings.votes",
         "description": "Title for votes",
-        "defaultMessage": "Votes"
+        "defaultMessage": "Голоса"
     },
     {
         "id": "app.settings.notificationsInfo",
         "description": "description for notification preferences",
-        "defaultMessage": "Your notification preferences for Akasha"
+        "defaultMessage": "Настройки уведомлений для Akasha"
     },
     {
         "id": "app.settings.trustedDomainsOptions",
         "description": "Title for trusted domains user settings",
-        "defaultMessage": "Trusted Domains"
+        "defaultMessage": "Доверенные домены"
     },
     {
         "id": "app.settings.trustedDomainsManage",
         "description": "manage trusted domains",
-        "defaultMessage": "Manage your trusted domains here"
+        "defaultMessage": "Управление доверенными доменами."
     },
     {
         "id": "app.settings.trustedDomainsOptionsDescription",
         "description": "description for trusted domains user settings",
-        "defaultMessage": "External links to which you can navigate without being prompted"
+        "defaultMessage": "Внешние ссылки, по которым можно переходить без подтверждения."
     },
     {
         "id": "app.settings.arabic",
         "description": "arabic language",
-        "defaultMessage": "Arabic"
+        "defaultMessage": "Арабский"
     },
     {
         "id": "app.settings.chineseSimplified",
         "description": "chinese simplified language",
-        "defaultMessage": "Chinese (Simplified)"
+        "defaultMessage": "Китайский (упрощенный)"
     },
     {
         "id": "app.settings.filipino",
         "description": "filipino language",
-        "defaultMessage": "Filipino"
+        "defaultMessage": "Филиппинский"
     },
     {
         "id": "app.settings.finnish",
         "description": "Finnish language",
-        "defaultMessage": "Finnish"
+        "defaultMessage": "Финский"
     },
     {
         "id": "app.settings.french",
         "description": "french language",
-        "defaultMessage": "French"
+        "defaultMessage": "Французский"
     },
     {
         "id": "app.settings.german",
         "description": "german language",
-        "defaultMessage": "German"
+        "defaultMessage": "Немецкий"
     },
     {
         "id": "app.settings.indonesian",
         "description": "indonesian language",
-        "defaultMessage": "Indonesian"
+        "defaultMessage": "Индонезийский"
     },
     {
         "id": "app.settings.italian",
         "description": "italian language",
-        "defaultMessage": "Italian"
+        "defaultMessage": "Итальянский"
     },
     {
         "id": "app.settings.japanese",
         "description": "japanese language",
-        "defaultMessage": "Japanese"
+        "defaultMessage": "Японский"
     },
     {
         "id": "app.settings.korean",
         "description": "korean language",
-        "defaultMessage": "Korean"
+        "defaultMessage": "Корейский"
     },
     {
         "id": "app.settings.portuguese",
         "description": "portuguese language",
-        "defaultMessage": "Portuguese"
+        "defaultMessage": "Португальский"
     },
     {
         "id": "app.settings.portugueseBrazilian",
         "description": "portuguese brazilian language",
-        "defaultMessage": "Portuguese, Brazilian"
+        "defaultMessage": "Португальский (Бразилия)"
     },
     {
         "id": "app.settings.turkish",
         "description": "turkish language",
-        "defaultMessage": "Turkish"
+        "defaultMessage": "Турецкий"
     },
     {
         "id": "app.settings.ukrainian",
         "description": "ukrainian language",
-        "defaultMessage": "Ukrainian"
+        "defaultMessage": "Украинский"
     }
 ]
