@@ -2,47 +2,47 @@
     {
         "id": "app.settings.chinese",
         "description": "app language",
-        "defaultMessage": "Chinese"
+        "defaultMessage": "Китайский"
     },
     {
         "id": "app.settings.darkTheme",
         "description": "theme switch",
-        "defaultMessage": "Dark Theme"
+        "defaultMessage": "Темная тема"
     },
     {
         "id": "app.settings.description",
         "description": "Description for app settings",
-        "defaultMessage": "Customize your app preferences"
+        "defaultMessage": "Настройте вид приложения"
     },
     {
         "id": "app.settings.english",
         "description": "app language",
-        "defaultMessage": "English"
+        "defaultMessage": "Английский"
     },
     {
         "id": "app.settings.hideContent",
         "description": "title for \"hide content\" settings",
-        "defaultMessage": "Hide content"
+        "defaultMessage": "Скрываемый контент"
     },
     {
         "id": "app.settings.hideContentDescription",
         "description": "description for \"hide content\" settings",
-        "defaultMessage": "Choose if you don't want to see content with a score lower than a specific value"
+        "defaultMessage": "Выберите, если вы не хотите видеть контент с рейтингом ниже определенного значения."
     },
     {
         "id": "app.settings.hideCommentsLabel",
         "description": "label for \"hide comments content\" checkbox",
-        "defaultMessage": "Hide comments with a score lower than"
+        "defaultMessage": "Скрыть комментарии с рейтингом ниже"
     },
     {
         "id": "app.settings.hideEntriesLabel",
         "description": "label for \"hide entries content\" checkbox",
-        "defaultMessage": "Hide entries with a score lower than"
+        "defaultMessage": "Скрыть публикации с рейтингом ниже"
     },
     {
         "id": "app.settings.passphraseOptions",
         "description": "title for profile passphrase options",
-        "defaultMessage": "Passphrase Options"
+        "defaultMessage": "Параметры парольной фразы"
     },
     {
         "id": "app.settings.passphraseOptionsDescription",
