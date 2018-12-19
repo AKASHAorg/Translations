@@ -497,6 +497,6 @@
     {
         "id": "app.entry.loadComments",
         "description": "label for load comments button",
-        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
+        "defaultMessage": "Charger {commentsCount, number} {commentsCount, plural, one {commentaire} few {commentaires} many {commentaires} other {commentaires}}"
     }
 ]
