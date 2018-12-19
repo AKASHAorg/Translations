@@ -52,7 +52,7 @@
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Créer une nouvelle tableau"
+        "defaultMessage": "Créer un nouveau tableau"
     },
     {
         "id": "app.dashboard.collection",
@@ -112,7 +112,7 @@
     {
         "id": "app.dashboard.large",
         "description": "large column width",
-        "defaultMessage": "Mode agrandi"
+        "defaultMessage": "Aggrandi"
     },
     {
         "id": "app.dashboard.latest",
