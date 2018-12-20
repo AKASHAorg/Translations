@@ -167,7 +167,7 @@
     {
         "id": "app.profile.highlights",
         "description": "title for highlights card",
-        "defaultMessage": "Highlights"
+        "defaultMessage": "Выделения"
     },
     {
         "id": "app.profile.lists",
@@ -312,17 +312,17 @@
     {
         "id": "app.profile.yourEthAddress",
         "description": "label for ethereum address input",
-        "defaultMessage": "Your ethereum address"
+        "defaultMessage": "Ваш ETH-адрес"
     },
     {
         "id": "app.profile.noNotifications",
         "description": "placeholder message for empty notifcations panel log",
-        "defaultMessage": "You have not received any new notifications"
+        "defaultMessage": "У вас нет новых уведомлений"
     },
     {
         "id": "app.profile.profiles",
         "description": "plural form of profile :)",
-        "defaultMessage": "profiles"
+        "defaultMessage": "профили"
     },
     {
         "id": "app.profile.comments",
