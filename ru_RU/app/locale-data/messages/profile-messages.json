@@ -277,32 +277,32 @@
     {
         "id": "app.profile.supported",
         "description": "supported by someone",
-        "defaultMessage": "Supported"
+        "defaultMessage": "Поддержанные"
     },
     {
         "id": "app.profile.supporting",
         "description": "supporting someone",
-        "defaultMessage": "Supporting"
+        "defaultMessage": "Поддерживаемые"
     },
     {
         "id": "app.profile.tipAmount",
         "description": "placeholder for tip amount input",
-        "defaultMessage": "Tip amount"
+        "defaultMessage": "Сумма чаевых"
     },
     {
         "id": "app.profile.totalBalance",
         "description": "total ETH balance",
-        "defaultMessage": "Total balance"
+        "defaultMessage": "Общий баланс"
     },
     {
         "id": "app.profile.transactionsLog",
         "description": "title for transactions log panel",
-        "defaultMessage": "Transactions log"
+        "defaultMessage": "Журнал транзакций"
     },
     {
         "id": "app.profile.transactionsLogSubtitle",
         "description": "subtitle for transactions log panel",
-        "defaultMessage": "Your interactions with the blockchain"
+        "defaultMessage": "Ваше взаимодействие с блокчейном"
     },
     {
         "id": "app.profile.unfollow",
