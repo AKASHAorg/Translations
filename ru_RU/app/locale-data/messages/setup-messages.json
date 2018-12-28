@@ -2,7 +2,7 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "Это ваш новый образ"
+        "defaultMessage": "Это ваша новая сетевая личность"
     },
     {
         "id": "app.setup.backup",
