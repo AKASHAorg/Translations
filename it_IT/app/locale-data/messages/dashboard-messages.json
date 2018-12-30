@@ -6,127 +6,127 @@
     },
     {
         "id": "app.dashboard.addNewColumn",
-        "description": "panel title for adding a new column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Aggiungi colonna"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
-        "description": "panel subtitle for adding a new column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Si prega di selezionare un tipo di colonna"
     },
     {
         "id": "app.dashboard.addNewListColumn",
-        "description": "panel title for adding a new list column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Elenco colonna"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
-        "description": "panel subtitle for adding a new list column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Per favore scegli un elenco"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
-        "description": "panel title for adding a new user column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Colonna utente"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
-        "description": "panel subtitle for adding a new user column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Si prega di scegliere un utente"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
-        "description": "panel title for adding a new tag column",
+        "description": "titolo del pannello per l'aggiunta di una nuova colonna",
         "defaultMessage": "Colonna tag"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
-        "description": "panel subtitle for adding a new tag column",
+        "description": "sottotitolo del pannello per aggiungere una nuova colonna di tag",
         "defaultMessage": "Per favore scegli un tag"
     },
     {
         "id": "app.dashboard.addToBoard",
-        "description": "button label for adding a tag/profile column to a board",
+        "description": "etichetta del pulsante per aggiungere una colonna tag/profilo a una tavola",
         "defaultMessage": "Aggiungi alla dashboard"
     },
     {
         "id": "app.list.addToNewDashboard",
-        "description": "popover title for creating a new dashboard",
+        "description": "titolo popover per la creazione di una nuova dashboard",
         "defaultMessage": "Crea una nuova scheda"
     },
     {
         "id": "app.dashboard.collection",
-        "description": "label for collection column",
+        "description": "etichetta per la colonna di raccolta",
         "defaultMessage": "Collezione"
     },
     {
         "id": "app.dashboard.columnStream",
-        "description": "column title for \"following feed\" (entries published by the users that you are following)",
+        "description": "titolo della colonna per \"seguente feed\" (voci pubblicate dagli utenti che stai seguendo)",
         "defaultMessage": "Seguendo il feed"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
-        "description": "Tooltip message for add column button when there is no board created",
+        "description": "Messaggio di suggerimento per il pulsante Aggiungi colonna quando non è stata creata alcuna scheda",
         "defaultMessage": "Devi prima creare un tabellone"
     },
     {
         "id": "app.dashboard.createOneNow",
-        "description": "button label for creating a new board",
+        "description": "etichetta del pulsante per la creazione di una nuova scheda",
         "defaultMessage": "Creane uno ora"
     },
     {
         "id": "app.dashboard.createNew",
-        "description": "button label/tooltip for creating a new board",
+        "description": "etichetta del pulsante per la creazione di una nuova scheda",
         "defaultMessage": "Crea una nuova scheda"
     },
     {
         "id": "app.dashboard.dashboardName",
-        "description": "input label for board name field",
+        "description": "etichetta di input per il campo del nome della scheda",
         "defaultMessage": "Nome scheda"
     },
     {
         "id": "app.list.dashboardNameRequired",
-        "description": "required error message for board name input field",
+        "description": "richiesto messaggio di errore per il campo di inserimento del nome della scheda",
         "defaultMessage": "Il nome della scheda è obbligatorio"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
-        "description": "unique name error message for board name input field",
+        "description": "richiesto messaggio di errore per il campo di inserimento del nome della scheda",
         "defaultMessage": "Questa scheda esiste già"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
-        "description": "confirmation message for deleting a column",
+        "description": "messaggio di conferma per l'eliminazione di una colonna",
         "defaultMessage": "Sei sicuro di voler eliminare questa colonna?"
     },
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
-        "description": "confirmation message for deleting a board",
+        "description": "messaggio di conferma per l'eliminazione di una scheda",
         "defaultMessage": "Sei sicuro di voler eliminare {name}?"
     },
     {
         "id": "app.dashboard.firstDashboard",
-        "description": "the name for the first board",
+        "description": "il nome per la prima scheda",
         "defaultMessage": "Il mio consiglio"
     },
     {
         "id": "app.dashboard.large",
-        "description": "large column width",
+        "description": "grande larghezza della colonna",
         "defaultMessage": "Grande"
     },
     {
         "id": "app.dashboard.latest",
-        "description": "column title for \"latest entries\" (newest entries published on Akasha)",
+        "description": "titolo della colonna per \"ultime voci\" (le voci più recenti pubblicate su Akasha)",
         "defaultMessage": "Ultime voci"
     },
     {
         "id": "app.dashboard.list",
-        "description": "label for list column",
+        "description": "etichetta per la colonna elenco",
         "defaultMessage": "Elenchi"
     },
     {
         "id": "app.dashboard.listDeleted",
-        "description": "message displayed when the list used in a list column was deleted",
+        "description": "messaggio visualizzato quando l'elenco utilizzato in una colonna elenco è stato cancellato",
         "defaultMessage": "Questo elenco è stato cancellato. Si prega di rimuovere questa colonna"
     },
     {
