@@ -17,7 +17,7 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Articolo"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -37,22 +37,22 @@
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Impossibile recuperare le informazioni sulla licenza."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "aggiungere una didascalia"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Raccolta di Essenze"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Raccogli Essenza"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Continua a modificare"
     },
     {
         "id": "app.entry.downvote",
