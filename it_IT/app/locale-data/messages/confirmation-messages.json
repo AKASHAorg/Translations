@@ -1,8 +1,8 @@
 [
     {
         "id": "app.confirmations.bondAeth",
-        "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Conferma che vuoi manafy {amount} AETH"
+        "description": "messaggio di conferma per bond/manafy AETH",
+        "defaultMessage": "Conferma che desideri eseguire il ciclo {amount} AETH"
     },
     {
         "id": "app.confirmations.bondAethTitle",
@@ -16,12 +16,12 @@
     },
     {
         "id": "app.confirmations.claimTitle",
-        "description": "title for confirmation dialog for collecting Essence from an entry",
+        "description": "titolo per la finestra di conferma per la raccolta di essenza da una voce",
         "defaultMessage": "Raccogliere"
     },
     {
         "id": "app.confirmations.claimVote",
-        "description": "confirmation message for collecting Essence from a vote",
+        "description": "messaggio di conferma per la raccolta di essenza da un voto",
         "defaultMessage": "Si prega di confermare che si desidera raccogliere l'essenza."
     },
     {
@@ -157,7 +157,7 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Conferma di voler inviare un suggerimento a {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
@@ -227,11 +227,11 @@
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Conferma che vuoi inviare {txCount} transazioni."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Più transazioni"
     }
 ]
