@@ -247,7 +247,7 @@
     {
         "id": "app.settings.notifComment",
         "description": "text for notification",
-        "defaultMessage": "commented on"
+        "defaultMessage": "commentare"
     },
     {
         "id": "app.settings.notifDonationAeth",
