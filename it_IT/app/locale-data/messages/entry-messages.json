@@ -91,37 +91,37 @@
     },
     {
         "id": "app.entry.draftDelete",
-        "description": "delete draft button label",
+        "description": "elimina l'etichetta del pulsante bozza",
         "defaultMessage": "Elimina bozza"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
-        "description": "message to show when user wants to delete a draft",
+        "description": "messaggio da mostrare quando l'utente vuole eliminare una bozza",
         "defaultMessage": "Sei sicuro di voler eliminare questa bozza?"
     },
     {
         "id": "app.entry.draftEdit",
-        "description": "edit draft button label",
+        "description": "modifica etichetta pulsante bozza",
         "defaultMessage": "Modifica bozza"
     },
     {
         "id": "app.entry.draftSaved",
-        "description": "draft saved status message",
+        "description": "bozza di messaggio di stato salvato",
         "defaultMessage": "Bozza salvata"
     },
     {
         "id": "app.entry.draftSaving",
-        "description": "saving draft status message",
+        "description": "salvataggio del messaggio di stato della bozza",
         "defaultMessage": "Salvataggio della bozza"
     },
     {
         "id": "app.entry.draftSharePreview",
-        "description": "share preview link button label",
+        "description": "condividi l'etichetta del pulsante di collegamento di anteprima",
         "defaultMessage": "Condividi il link di anteprima"
     },
     {
         "id": "app.entry.edited",
-        "description": "edited label for an entry",
+        "description": "etichetta modificata per una voce",
         "defaultMessage": "Modificato"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "id": "app.entry.originalVersion",
-        "description": "label for original version",
+        "description": "etichetta per la versione originale",
         "defaultMessage": "Originale"
     },
     {
@@ -287,52 +287,52 @@
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Sei sicuro di voler ripristinare questa bozza?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Salva il punto evidenziato"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Punteggio"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Cerca un profilo"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Cerca un tag"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Visualizza comunque"
     },
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Comprimi commento"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Mostra il commento completo"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Inizia a commentare"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Crea una bozza ora!"
     },
     {
         "id": "app.entry.title",
