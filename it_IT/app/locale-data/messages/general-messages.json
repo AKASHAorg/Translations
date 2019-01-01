@@ -181,7 +181,7 @@
     },
     {
         "id": "app.general.entries",
-        "description": "entries",
+        "description": "voci",
         "defaultMessage": "Voci"
     },
     {
@@ -842,7 +842,7 @@
     {
         "id": "app.general.loadingImage",
         "description": "message to display when an image is in loading state",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Caricamento dell'immagine"
     },
     {
         "id": "app.general.loadingImageFailed",
@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "versione",
         "defaultMessage": "Version"
     },
     {
