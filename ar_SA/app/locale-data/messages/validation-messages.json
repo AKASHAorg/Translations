@@ -2,7 +2,7 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "field is required"
+        "defaultMessage": "معلومة مطلوبة"
     },
     {
         "id": "app.validator.min",
@@ -17,36 +17,36 @@
     {
         "id": "app.validator.invalidCharacters",
         "description": "When a field does not start with a letter or contains invalid characters",
-        "defaultMessage": "must start with a letter and only contain valid characters"
+        "defaultMessage": "يجب أن تبدأ بحرف وتحتوي فقط على أحرف صالحة"
     },
     {
         "id": "app.validator.passphraseNotMatching",
         "description": "When the passphrases fields are different (when confirming the passphrase)",
-        "defaultMessage": "Oups! Passphrase verification is different than first one!"
+        "defaultMessage": "معذرة! التحقق من كلمة المرور يختلف عن أول واحد!"
     },
     {
         "id": "app.validator.lowercase",
         "description": "only lowercase letters",
-        "defaultMessage": "should contain only lowercase letters"
+        "defaultMessage": "ينبغي أن تحتوي على أحرف صغيرة فقط"
     },
     {
         "id": "app.validator.akashaIdExists",
         "description": "When the chosen username was already registered",
-        "defaultMessage": "Username already registered!"
+        "defaultMessage": "اسم المستخدم سجل سابقا!"
     },
     {
         "id": "app.validator.akashaIdNotValid",
         "description": "When the akashaId is not valid",
-        "defaultMessage": "Only lowercase alphanumeric characters allowed"
+        "defaultMessage": "يسمح فقط بأحرف أبجدية رقمية صغيرة"
     },
     {
         "id": "app.validator.validAddress",
         "description": "A valid address (URL) is required",
-        "defaultMessage": "must be a valid address"
+        "defaultMessage": "يجب أن يكون عنوان صالح"
     },
     {
         "id": "app.validator.maxExcerptLength",
         "description": "Info message about maximum length of an excerpt",
-        "defaultMessage": "The excerpts can have max. 120 characters"
+        "defaultMessage": "المقتطفات يمكن أن يكون الحد الأقصى. 120 حرفا"
     }
 ]
