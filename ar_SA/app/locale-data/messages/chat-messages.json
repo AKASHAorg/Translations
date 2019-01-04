@@ -27,22 +27,22 @@
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "اسم القناة لا يجب أن يكون فارغة"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "اسم القناة يجب أن يبدأ بأحرف أبجدية رقمية صغيرة"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "فقط أحرف صغيرة أحرف أبجدية رقمية، يسمح بشرطات (-) وشرطات سفلية (_)"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "اسم القناة يجب أن لا يتعدى أكثر من 32 حرفاً"
     },
     {
         "id": "app.chat.channelDisclaimer",
