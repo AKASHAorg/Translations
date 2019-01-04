@@ -2,11 +2,11 @@
     {
         "id": "app.search.noResults",
         "description": "message displayed when no results are found",
-        "defaultMessage": "No results found"
+        "defaultMessage": "لم يتم العثور على نتائج"
     },
     {
         "id": "app.search.searchSomething",
         "description": "placeholder for search input",
-        "defaultMessage": "Search something..."
+        "defaultMessage": "البحث عن شيء ما..."
     }
 ]
