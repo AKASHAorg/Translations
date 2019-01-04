@@ -17,21 +17,21 @@
     {
         "id": "app.tag.tagNotCreated",
         "description": "Message to display when the tag was not created before",
-        "defaultMessage": "This is a new tag that wasn`t created by anyone before!"
+        "defaultMessage": "هذه علامة جديدة لم يتم إنشاؤها من طرف أحد من قبل!"
     },
     {
         "id": "app.tag.tagsLeft",
         "description": "How many tags you can add",
-        "defaultMessage": "({value} remaining)"
+        "defaultMessage": "({value} متبقية)"
     },
     {
         "id": "app.tag.tags",
         "description": "plural of tag",
-        "defaultMessage": "tags"
+        "defaultMessage": "علامات"
     },
     {
         "id": "app.tag.cannotEditTags",
         "description": "",
-        "defaultMessage": "Cannot edit tags when updating an entry"
+        "defaultMessage": "لا يمكن تصحيح العلامات عند تحديث مشاركة"
     }
 ]
