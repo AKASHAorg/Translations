@@ -2,17 +2,17 @@
     {
         "id": "app.tag.addTag",
         "description": "placeholder for tag editor field",
-        "defaultMessage": "#category..."
+        "defaultMessage": "#فئة..."
     },
     {
         "id": "app.tag.notEnoughKarma",
         "description": "message to display when user does not have enough karma to create a tag",
-        "defaultMessage": "Sorry! You don't have enough karma to create tags."
+        "defaultMessage": "معذرة! ليس لديك ما يكفي من الكرما لإنشاء العلامات."
     },
     {
         "id": "app.tag.tagDoesntExist",
         "description": "placeholder message for entry list when tag does not exist",
-        "defaultMessage": "This tag doesn't exist"
+        "defaultMessage": "هذه العلامة غير موجودة"
     },
     {
         "id": "app.tag.tagNotCreated",
