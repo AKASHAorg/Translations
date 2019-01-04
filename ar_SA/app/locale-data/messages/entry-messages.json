@@ -22,12 +22,12 @@
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "يمكنك جمع Essence فقط إذا كانت نتيجة نقاط مشاركاتك إيجابية"
     },
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "يمكنك جمع Essence فقط إذا كان صوتك يتماشى مع الأغلبية (على سبيل المثال ، صوت ّ إجابيا وكانت نتيجة المشاركة إيجابية)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
