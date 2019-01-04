@@ -12,21 +12,21 @@
     {
         "id": "app.highlight.delete",
         "description": "content for delete highlight modal",
-        "defaultMessage": "Do you want to delete this highlight?"
+        "defaultMessage": "هل تريد حذف تسليط الضوء هذا ؟"
     },
     {
         "id": "app.highlight.deleteHighlight",
         "description": "label for delete highlight button",
-        "defaultMessage": "Delete highlight"
+        "defaultMessage": "حذف تسليط الضوء"
     },
     {
         "id": "app.highlight.editNote",
         "description": "label for edit note button",
-        "defaultMessage": "Edit note"
+        "defaultMessage": "تصحيح ملاحظة"
     },
     {
         "id": "app.highlight.startEntry",
         "description": "label for start an entry button",
-        "defaultMessage": "Start an entry"
+        "defaultMessage": "بدء مشاركة"
     }
 ]
