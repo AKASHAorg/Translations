@@ -132,7 +132,7 @@
     {
         "id": "app.profile.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "تتبع"
     },
     {
         "id": "app.profile.updateProfile",
@@ -247,7 +247,7 @@
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "إرسال tip"
     },
     {
         "id": "app.profile.sendingTip",
