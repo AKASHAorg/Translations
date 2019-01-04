@@ -32,27 +32,27 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "لا يمكن استخراج المعلومات من الموقع! الرجاء محاولة عنوان آخر"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "لا يمكن استرداد معلومات الترخيص."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "إضافة تسمية توضيحية"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Essence مجمعة"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "جمع Essence"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "الاستمرار في التعديل"
     },
     {
         "id": "app.entry.downvote",
@@ -72,12 +72,12 @@
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Draft"
+        "defaultMessage": "مسودة"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "مسودات"
     },
     {
         "id": "app.entry.draftsCount",
@@ -87,47 +87,47 @@
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "You can't create an article without content!"
+        "defaultMessage": "لا يمكنك إنشاء مقال دون محتوى!"
     },
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "حذف المسودة"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "هل أنت متأكد من أنك تريد حذف هذه المسودة؟"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "تصحيح المسودة"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "المسودة حفّضت"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "تحفيض المسودة"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "شارك رابط المعاينة"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "صحّحت"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "تصحيح المشاركة"
     },
     {
         "id": "app.entry.entriesCount",
@@ -137,72 +137,72 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "أدخل عنوانا. مثل. www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "يجب إضافة علامة واحدة على الأقل"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "المقتطفات يجب أن لا تكون أطول من 120 حرفا"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "مقتطفات"
     },
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Featured image"
+        "defaultMessage": "صورة مميزة"
     },
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "هذا المحتوى له درجة أقل من {score}."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "يمكنك تغيير هذه القيمة من"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "إعدادات شخصية"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "الترخيص"
     },
     {
         "id": "app.entry.linkEntryType",
         "description": "entry of type link",
-        "defaultMessage": "Link"
+        "defaultMessage": "رابط"
     },
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "تحميل المزيد من الردود"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "تحميل المسودات..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "إصدار محلي"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "تأكد من فتح dApp أكاشا على الكمبيوتر الذي قمت بالنشر منه."
     },
     {
         "id": "app.entry.newComments",
@@ -212,7 +212,7 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "لا توجد تعليقات حتى الآن."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
