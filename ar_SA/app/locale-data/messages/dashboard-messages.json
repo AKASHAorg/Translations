@@ -2,67 +2,67 @@
     {
         "id": "app.dashboard.addColumn",
         "description": "button label for adding a column to the board",
-        "defaultMessage": "Add column"
+        "defaultMessage": "إضافة عمود"
     },
     {
         "id": "app.dashboard.addNewColumn",
         "description": "panel title for adding a new column",
-        "defaultMessage": "Add column"
+        "defaultMessage": "إضافة عمود"
     },
     {
         "id": "app.dashboard.addNewColumnSubtitle",
         "description": "panel subtitle for adding a new column",
-        "defaultMessage": "Please select a column type"
+        "defaultMessage": "الرجاء تحديد نوع العمود"
     },
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "List column"
+        "defaultMessage": "قائمة الأعمدة"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
         "description": "panel subtitle for adding a new list column",
-        "defaultMessage": "Please choose a list"
+        "defaultMessage": "الرجاء اختيار قائمة"
     },
     {
         "id": "app.dashboard.addNewProfileColumn",
         "description": "panel title for adding a new user column",
-        "defaultMessage": "User column"
+        "defaultMessage": "عمود المستخدم"
     },
     {
         "id": "app.dashboard.addNewProfileColumnSubtitle",
         "description": "panel subtitle for adding a new user column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "الرجاء اختيار مستخدم"
     },
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag column"
+        "defaultMessage": "عمود العلامة"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Please choose a tag"
+        "defaultMessage": "الرجاء اختيار علامة"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "إضافة إلى اللوح"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "إنشاء لوح جديد"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "مجموعة"
     },
     {
         "id": "app.dashboard.columnStream",
         "description": "column title for \"following feed\" (entries published by the users that you are following)",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "تتبع التدفق"
     },
     {
         "id": "app.dashboard.createDashboardFirst",
@@ -77,7 +77,7 @@
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "إنشاء لوح جديد"
     },
     {
         "id": "app.dashboard.dashboardName",
@@ -177,7 +177,7 @@
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "تتبع التدفق"
     },
     {
         "id": "app.dashboard.tag",
@@ -242,6 +242,6 @@
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
         "description": "panel subtitle for adding a new comments column",
-        "defaultMessage": "Please choose a user"
+        "defaultMessage": "الرجاء اختيار مستخدم"
     }
 ]
