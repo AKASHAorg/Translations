@@ -67,7 +67,7 @@
     {
         "id": "app.entry.downvote",
         "description": "downvote button tooltip",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "تصويت سلبي"
     },
     {
         "id": "app.entry.draft",
