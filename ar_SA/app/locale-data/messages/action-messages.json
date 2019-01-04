@@ -32,37 +32,37 @@
     {
         "id": "app.action.cycleAeth",
         "description": "cycle manafied AETH",
-        "defaultMessage": "Cycle {amount} AETH"
+        "defaultMessage": "دورة {amount} (أكاشاإثير) AETH"
     },
     {
         "id": "app.action.draftPublish",
         "description": "publish an entry",
-        "defaultMessage": "Publish"
+        "defaultMessage": "نشر"
     },
     {
         "id": "app.action.draftPublishUpdate",
         "description": "update/edit an entry",
-        "defaultMessage": "Update"
+        "defaultMessage": "تحديث"
     },
     {
         "id": "app.action.entryDownvote",
         "description": "downvote an entry",
-        "defaultMessage": "Downvote {weight} on"
+        "defaultMessage": "التصويت سلبي {weight} ل"
     },
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Upvote {weight} on"
+        "defaultMessage": "التصويت إجابي {weight} ل"
     },
     {
         "id": "app.action.faucet",
         "description": "make faucet request for funds",
-        "defaultMessage": "Request funds from faucet"
+        "defaultMessage": "طلب التمويل من الصنبور"
     },
     {
         "id": "app.action.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "يتبع"
     },
     {
         "id": "app.action.freeAeth",
