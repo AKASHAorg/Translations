@@ -162,17 +162,17 @@
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "المستخدم"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "البحث عن لوحة..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "صغير"
     },
     {
         "id": "app.dashboard.stream",
@@ -182,52 +182,52 @@
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "علامة"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
         "description": "Column placeholder title",
-        "defaultMessage": "A new world awaits you!"
+        "defaultMessage": "عالم جديد ينتظركم!"
     },
     {
         "id": "app.dashboard.noColumns",
         "description": "Column placeholder message",
-        "defaultMessage": "Your favorite topics and users at your fingertips."
+        "defaultMessage": "مواضيعك المفضلة و مستخدمين في متناول يدك."
     },
     {
         "id": "app.dashboard.addFirstColumn",
         "description": "add first column button label",
-        "defaultMessage": "Add first column"
+        "defaultMessage": "أضف العمود الأول"
     },
     {
         "id": "app.dashboard.createNewListColumnSubtitle",
         "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
+        "defaultMessage": "الرجاء إنشاء قائمة"
     },
     {
         "id": "app.dashboard.akashaBoard",
         "description": "label for dashboard top bar popover",
-        "defaultMessage": "Akasha Board"
+        "defaultMessage": "لوحة أكاشا"
     },
     {
         "id": "app.dashboard.newBoard",
         "description": "label for dashboard popover new board button",
-        "defaultMessage": "New board"
+        "defaultMessage": "لوحة جديدة"
     },
     {
         "id": "app.dashboard.createNewSubtitle",
         "description": "subtitle for creating a new board modal",
-        "defaultMessage": "Please insert the name of your board"
+        "defaultMessage": "الرجاء إدخال اسم لوحتك"
     },
     {
         "id": "app.dashboard.modalInputPlaceholder",
         "description": "placeholder for new dashboard modal input",
-        "defaultMessage": "Type the name of your board here"
+        "defaultMessage": "اكتب اسم لوحتك هنا"
     },
     {
         "id": "app.dashboard.comments",
         "description": "label for user comments column",
-        "defaultMessage": "User comments"
+        "defaultMessage": "تعليقات المستخدم"
     },
     {
         "id": "app.dashboard.previewComments",
@@ -237,7 +237,7 @@
     {
         "id": "app.dashboard.addNewCommentsColumn",
         "description": "panel title for adding a new comments column",
-        "defaultMessage": "User comments column"
+        "defaultMessage": "عمود تعليقات المستخدم"
     },
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
