@@ -2,27 +2,27 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "قنوات نجمة"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "قنوات حديثة"
     },
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "إنضمام إلى القناة"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "اسم القناة"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "أكتب شيء لطيف واضغط \"Enter\" لإرساله"
     },
     {
         "id": "app.chat.emptyChannelInputError",
