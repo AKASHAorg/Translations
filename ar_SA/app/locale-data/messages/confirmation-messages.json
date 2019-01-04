@@ -102,7 +102,7 @@
     {
         "id": "app.confirmations.entryUpvote",
         "description": "confirmation message for upvoting an entry",
-        "defaultMessage": "Please confirm that you want to upvote this entry."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تصويت إيجابي على هذا التدخل."
     },
     {
         "id": "app.confirmations.entryUpvoteTitle",
@@ -112,17 +112,17 @@
     {
         "id": "app.confirmations.follow",
         "description": "confirmation message for following a user",
-        "defaultMessage": "Please confirm that you want to follow {displayName}."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تتبع {displayName}."
     },
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "تتبع"
     },
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "الرجاء التأكيد أنك تريد جمع AETH المدورة و الخاصة بك"
     },
     {
         "id": "app.confirmations.freeAethTitle",
@@ -132,67 +132,67 @@
     {
         "id": "app.confirmations.passphrase",
         "description": "request passphrase for reauthentication if login token has expired",
-        "defaultMessage": "Please insert your passphrase to proceed with the process."
+        "defaultMessage": "يرجى إدخال كلمة السر الخاصة بك لمتابعة العملية."
     },
     {
         "id": "app.confirmations.profileRegister",
         "description": "confirmation message for registering a profile",
-        "defaultMessage": "Please confirm that you want to register your profile."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تسجيل البيانات الخاص بك."
     },
     {
         "id": "app.confirmations.profileRegisterTitle",
         "description": "title for confirmation dialog for registering a profile",
-        "defaultMessage": "Register profile"
+        "defaultMessage": "سجل البيانات الخاص بك"
     },
     {
         "id": "app.confirmations.profileUpdate",
         "description": "confirmation message for updating your profile",
-        "defaultMessage": "Please confirm that you want to update your profile."
+        "defaultMessage": "الرجاء التأكد من أنك تريد تحديث البيانات الخاص بك."
     },
     {
         "id": "app.confirmations.profileUpdateTitle",
         "description": "title for confirmation dialog for updating your profile",
-        "defaultMessage": "Update profile"
+        "defaultMessage": "تحديث البيانات"
     },
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "الرجاء تأكيد رغبتك بإرسال tip إلى {displayName}."
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "إرسال tip"
     },
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "الرجاء التأكيد أنك تريد صنع #{value}."
     },
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Create tag"
+        "defaultMessage": "إنشاء علامة"
     },
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "يرجى تأكيد أنك تريد تغيير إعدادات tip الخاصة بك."
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "تغيير الإعدادات tip"
     },
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تحويل {tokenAmount} (أكاشاإثير) AETH إلى {displayName}."
     },
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "تحويل AETH"
     },
     {
         "id": "app.confirmation.transferEth",
