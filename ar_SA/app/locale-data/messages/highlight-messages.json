@@ -2,12 +2,12 @@
     {
         "id": "app.highlight.addYourNotes",
         "description": "placeholder for highlight notes textarea",
-        "defaultMessage": "Add your notes here"
+        "defaultMessage": "أضف ملاحظاتك هنا"
     },
     {
         "id": "app.highlight.addNote",
         "description": "label for add note button",
-        "defaultMessage": "Add note"
+        "defaultMessage": "إضافة ملاحظة"
     },
     {
         "id": "app.highlight.delete",
