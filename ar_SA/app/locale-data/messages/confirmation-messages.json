@@ -2,57 +2,57 @@
     {
         "id": "app.confirmations.bondAeth",
         "description": "confirmation message for bond/manafy AETH",
-        "defaultMessage": "Please confirm that you want to manafy {amount} AETH"
+        "defaultMessage": "الرجاء التأكد من أنك تريد أن تحول إلى مانا {amount} (أكاشاإثير) AETH"
     },
     {
         "id": "app.confirmations.bondAethTitle",
         "description": "title for confirmation dialog for bond/manafy AETH",
-        "defaultMessage": "Manafy"
+        "defaultMessage": "تحول لمانا"
     },
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "الرجاء التأكيد أنك تريد جمع Essence."
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "جمع"
     },
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "الرجاء التأكيد أنك تريد جمع Essence."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "جمع"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "الرجاء التأكيد إن كنت تريد أن تنشر هذا التعليق."
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تصويت سلبي على هذا التعليق."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "تصويت سلبي"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "تعليق"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تصويت إيجابي على هذا التعليق."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
@@ -97,7 +97,7 @@
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "تصويت سلبي"
     },
     {
         "id": "app.confirmations.entryUpvote",
@@ -127,7 +127,7 @@
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "جمع"
     },
     {
         "id": "app.confirmations.passphrase",
