@@ -67,46 +67,46 @@
     {
         "id": "app.action.freeAeth",
         "description": "collect/free cycled AETH",
-        "defaultMessage": "Collect {amount} Cycled AETH"
+        "defaultMessage": "جمع {amount} (أكاشاإثير) AETH مدورة"
     },
     {
         "id": "app.action.profileRegister",
         "description": "register your profile",
-        "defaultMessage": "Register your profile"
+        "defaultMessage": "تسجيل البيانات الخاص بك"
     },
     {
         "id": "app.action.profileUpdate",
         "description": "update your profile",
-        "defaultMessage": "Update your profile"
+        "defaultMessage": "تحديث البيانات الخاص بك"
     },
     {
         "id": "app.action.sendTip",
         "description": "send tip to someone",
-        "defaultMessage": "Send tip to"
+        "defaultMessage": "إرسال tip إلى"
     },
     {
         "id": "app.action.toggleDonations",
         "description": "change tip options (from personal settings)",
-        "defaultMessage": "Change tip options"
+        "defaultMessage": "تغيير خيارات tip"
     },
     {
         "id": "app.action.transferAeth",
         "description": "transfer AETH to someone",
-        "defaultMessage": "Transfer {tokenAmount} AETH to"
+        "defaultMessage": "تحويل {tokenAmount} (أكاشاإثير) AETH إلى"
     },
     {
         "id": "app.action.transferEth",
         "description": "transfer ETH to someone",
-        "defaultMessage": "Transfer {value} ETH to"
+        "defaultMessage": "تحويل {value} (إثير) ETH إلى"
     },
     {
         "id": "app.action.transformEssence",
         "description": "transform Essence into new AETH (forge AETH)",
-        "defaultMessage": "Transform {amount} Essence"
+        "defaultMessage": "تحويل {amount} من Essence"
     },
     {
         "id": "app.action.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "الغاء المتابعة"
     }
 ]
