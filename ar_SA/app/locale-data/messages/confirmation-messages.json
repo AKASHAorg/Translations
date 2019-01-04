@@ -57,42 +57,42 @@
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "تصويت إيجابي"
     },
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "الرجاء تأكيد رغبتك في دورة {amount} (أكاشاإثير) AETH"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "دورة"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Please confirm that you want to publish this draft."
+        "defaultMessage": "الرجاء تأكيد رغبتك في نشر هذه المسودة."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
         "description": "title for confirmation dialog for publishing a draft",
-        "defaultMessage": "Publish draft"
+        "defaultMessage": "نشر المسودة"
     },
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Please confirm that you want to update this entry."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تحديث هذا الإدخال."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Update entry"
+        "defaultMessage": "تحديث الإدخال"
     },
     {
         "id": "app.confirmations.entryDownvote",
         "description": "confirmation message for downvoting an entry",
-        "defaultMessage": "Please confirm that you want to downvote this entry."
+        "defaultMessage": "الرجاء التأكيد أنك تريد تصويت سلبي على هذا التدخل."
     },
     {
         "id": "app.confirmations.entryDownvoteTitle",
@@ -107,7 +107,7 @@
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "تصويت إيجابي"
     },
     {
         "id": "app.confirmations.follow",
