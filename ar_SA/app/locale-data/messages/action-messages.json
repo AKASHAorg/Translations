@@ -2,32 +2,32 @@
     {
         "id": "app.action.bondAeth",
         "description": "bond/manafy AETH",
-        "defaultMessage": "Manafy {amount} AETH"
+        "defaultMessage": "تحويل لمانا {amount} (اكاشاإثير) AETH"
     },
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Collect Essence for"
+        "defaultMessage": "جمع Essence ل"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Collect Essence for vote on"
+        "defaultMessage": "جمع Essence للتصويت على"
     },
     {
         "id": "app.action.comment",
         "description": "publish comment on an entry",
-        "defaultMessage": "Comment on"
+        "defaultMessage": "تعليق على"
     },
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "Downvote comment on"
+        "defaultMessage": "التصويت سلبي التعليق على"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "Upvote comment on"
+        "defaultMessage": "التصويت إجابي التعليق على"
     },
     {
         "id": "app.action.cycleAeth",
