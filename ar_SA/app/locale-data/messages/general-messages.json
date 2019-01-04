@@ -402,7 +402,7 @@
     {
         "id": "app.general.publish",
         "description": "button label for publish action",
-        "defaultMessage": "Publish"
+        "defaultMessage": "نشر"
     },
     {
         "id": "app.general.publishing",
@@ -632,7 +632,7 @@
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "تحديث"
     },
     {
         "id": "app.general.updating",
