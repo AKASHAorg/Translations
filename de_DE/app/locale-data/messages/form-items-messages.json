@@ -82,7 +82,7 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Essence umwandeln"
+        "defaultMessage": "Essenz umwandeln"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
