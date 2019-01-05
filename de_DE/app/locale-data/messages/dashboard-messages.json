@@ -17,7 +17,7 @@
     {
         "id": "app.dashboard.addNewListColumn",
         "description": "panel title for adding a new list column",
-        "defaultMessage": "Listen-Spalte"
+        "defaultMessage": "Spalte auflisten"
     },
     {
         "id": "app.dashboard.addNewListColumnSubtitle",
@@ -37,17 +37,17 @@
     {
         "id": "app.dashboard.addNewTagColumn",
         "description": "panel title for adding a new tag column",
-        "defaultMessage": "Tag-Spalte"
+        "defaultMessage": "Schlagwort-Spalte"
     },
     {
         "id": "app.dashboard.addNewTagColumnSubtitle",
         "description": "panel subtitle for adding a new tag column",
-        "defaultMessage": "Bitte wähle einen Tag"
+        "defaultMessage": "Bitte wähle ein Schlagwort"
     },
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Zu Tafel hinzufügen"
+        "defaultMessage": "Zur Tafel hinzufügen"
     },
     {
         "id": "app.list.addToNewDashboard",
@@ -67,12 +67,12 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Du musst zuerst eine Tafel erstellen"
     },
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Jetzt eines erstellen"
+        "defaultMessage": "Jetzt eine erstellen"
     },
     {
         "id": "app.dashboard.createNew",
@@ -82,17 +82,17 @@
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Tafel Name"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board Name ist erforderlich"
+        "defaultMessage": "Tafel Name ist erforderlich"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "Dieses Board ist bereits vorhanden"
+        "defaultMessage": "Diese Tafel ist bereits vorhanden"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
@@ -107,7 +107,7 @@
     {
         "id": "app.dashboard.firstDashboard",
         "description": "the name for the first board",
-        "defaultMessage": "Mein Board"
+        "defaultMessage": "Meine Tafel"
     },
     {
         "id": "app.dashboard.large",
@@ -132,17 +132,17 @@
     {
         "id": "app.dashboard.myBoards",
         "description": "header for boards page secondary sidebar",
-        "defaultMessage": "Meine Boards"
+        "defaultMessage": "Meine Tafeln"
     },
     {
         "id": "app.dashboard.namePlaceholder",
         "description": "placeholder for dashboard name input field",
-        "defaultMessage": "Board Namen eingeben"
+        "defaultMessage": "Tafelnamen eingeben"
     },
     {
         "id": "app.dashboard.noDashboard",
         "description": "placeholder message displayed when no boards were found",
-        "defaultMessage": "Keine Boards gefunden"
+        "defaultMessage": "Keine Tafeln gefunden"
     },
     {
         "id": "app.dashboard.previewList",
@@ -167,7 +167,7 @@
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Nach Board suchen..."
+        "defaultMessage": "Nach Tafel suchen..."
     },
     {
         "id": "app.dashboard.small",
@@ -192,42 +192,42 @@
     {
         "id": "app.dashboard.noColumns",
         "description": "Column placeholder message",
-        "defaultMessage": "Your favorite topics and users at your fingertips."
+        "defaultMessage": "Deine Lieblingsthemen and Benutzer direkt greifbar."
     },
     {
         "id": "app.dashboard.addFirstColumn",
         "description": "add first column button label",
-        "defaultMessage": "Add first column"
+        "defaultMessage": "Erste Spalte hinzufügen"
     },
     {
         "id": "app.dashboard.createNewListColumnSubtitle",
         "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
+        "defaultMessage": "Bitte erstelle eine Liste"
     },
     {
         "id": "app.dashboard.akashaBoard",
         "description": "label for dashboard top bar popover",
-        "defaultMessage": "Akasha Board"
+        "defaultMessage": "Akasha Tafel"
     },
     {
         "id": "app.dashboard.newBoard",
         "description": "label for dashboard popover new board button",
-        "defaultMessage": "New board"
+        "defaultMessage": "Neue Tafel"
     },
     {
         "id": "app.dashboard.createNewSubtitle",
         "description": "subtitle for creating a new board modal",
-        "defaultMessage": "Please insert the name of your board"
+        "defaultMessage": "Bitte den Namen der Tafel eingeben"
     },
     {
         "id": "app.dashboard.modalInputPlaceholder",
         "description": "placeholder for new dashboard modal input",
-        "defaultMessage": "Type the name of your board here"
+        "defaultMessage": "Gib den Namen der Tafel hier ein"
     },
     {
         "id": "app.dashboard.comments",
         "description": "label for user comments column",
-        "defaultMessage": "User comments"
+        "defaultMessage": "Benutzer Kommentare"
     },
     {
         "id": "app.dashboard.previewComments",
@@ -237,7 +237,7 @@
     {
         "id": "app.dashboard.addNewCommentsColumn",
         "description": "panel title for adding a new comments column",
-        "defaultMessage": "User comments column"
+        "defaultMessage": "Spalte Benutzer Kommentare"
     },
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
