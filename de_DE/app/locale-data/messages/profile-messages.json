@@ -247,7 +247,7 @@
     {
         "id": "app.profile.sendTip",
         "description": "tooltip for send tip button",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Sende Trinkgeld"
     },
     {
         "id": "app.profile.sendingTip",
