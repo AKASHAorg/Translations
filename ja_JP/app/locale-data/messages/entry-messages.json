@@ -357,12 +357,12 @@
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "バージョン"
     },
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "バージョン履歴"
     },
     {
         "id": "app.entry.versionNumber",
@@ -417,7 +417,7 @@
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "下書きがありません"
     },
     {
         "id": "app.entry.draftAll",
