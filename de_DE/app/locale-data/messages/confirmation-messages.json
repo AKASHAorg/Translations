@@ -212,7 +212,7 @@
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Essence umwandeln"
+        "defaultMessage": "Essenz umwandeln"
     },
     {
         "id": "app.confirmations.unfollow",
