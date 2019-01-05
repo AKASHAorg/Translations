@@ -17,7 +17,7 @@
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "新しいIDを作成"
+        "defaultMessage": "新しいIDを作成する"
     },
     {
         "id": "app.setup.getStarted",
@@ -142,7 +142,7 @@
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "新しいIDを作成"
+        "defaultMessage": "新しいIDを作成する"
     },
     {
         "id": "app.setup.interestedIn",
@@ -197,12 +197,12 @@
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Geth clientをダウンロード中..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "IPFS clientをダウンロード中..."
     },
     {
         "id": "app.setup.startingGeth",
@@ -212,22 +212,22 @@
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Geth clientをアップグレード中..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "IPFS clientをアップグレード中..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "処理中"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "同期中"
     },
     {
         "id": "app.setup.syncStopped",
@@ -237,12 +237,12 @@
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization completed"
+        "defaultMessage": "同期が完了しました"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization is paused"
+        "defaultMessage": "同期が一時停止中です"
     },
     {
         "id": "app.setup.onSyncStart",
