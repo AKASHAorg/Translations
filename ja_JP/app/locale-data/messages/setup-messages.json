@@ -127,17 +127,17 @@
     {
         "id": "app.setup.login",
         "description": "title for login page",
-        "defaultMessage": "Login"
+        "defaultMessage": "ログイン"
     },
     {
         "id": "app.setup.welcome",
         "description": "auth page title",
-        "defaultMessage": "Welcome!"
+        "defaultMessage": "ようこそ！"
     },
     {
         "id": "app.setup.chooseIdentity",
         "description": "subtitle for login page",
-        "defaultMessage": "Please select one identity to login"
+        "defaultMessage": "ログインするIDを１つ選択してください"
     },
     {
         "id": "app.setup.newIdentity",
@@ -147,7 +147,7 @@
     {
         "id": "app.setup.interestedIn",
         "description": "title for new identity interests page",
-        "defaultMessage": "What are you interested in?"
+        "defaultMessage": "何に興味がありますか。"
     },
     {
         "id": "app.setup.interestSuggestion",
@@ -162,7 +162,7 @@
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "プレイしてくれてありがとう！"
     },
     {
         "id": "app.setup.faucetPending1",
@@ -172,12 +172,12 @@
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "エラーが発生!!!"
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "再試行するにはここをクリック"
     },
     {
         "id": "app.setup.faucetSuccess",
