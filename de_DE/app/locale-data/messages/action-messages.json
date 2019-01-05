@@ -22,12 +22,12 @@
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "Kommentar abwerten"
+        "defaultMessage": "Kommentar negativ bewerten"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "Kommentar aufwerten"
+        "defaultMessage": "Kommentar positiv bewerten"
     },
     {
         "id": "app.action.cycleAeth",
@@ -47,12 +47,12 @@
     {
         "id": "app.action.entryDownvote",
         "description": "downvote an entry",
-        "defaultMessage": "Abwerten {weight} von"
+        "defaultMessage": "Negativ bewerten {weight} von"
     },
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Aufwerten {weight} von"
+        "defaultMessage": "Positiv bewerten {weight} von"
     },
     {
         "id": "app.action.faucet",
