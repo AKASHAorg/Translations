@@ -72,7 +72,7 @@
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "今すぐ作成する"
     },
     {
         "id": "app.dashboard.createNew",
@@ -202,7 +202,7 @@
     {
         "id": "app.dashboard.createNewListColumnSubtitle",
         "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
+        "defaultMessage": "リストを作成してください"
     },
     {
         "id": "app.dashboard.akashaBoard",
@@ -227,7 +227,7 @@
     {
         "id": "app.dashboard.comments",
         "description": "label for user comments column",
-        "defaultMessage": "User comments"
+        "defaultMessage": "ユーザーのコメント"
     },
     {
         "id": "app.dashboard.previewComments",
