@@ -107,7 +107,7 @@
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "保存済み下書き"
+        "defaultMessage": "下書きを保存しました"
     },
     {
         "id": "app.entry.draftSaving",
@@ -407,7 +407,7 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "コメントする"
     },
     {
         "id": "app.entry.writeReplyTo",
