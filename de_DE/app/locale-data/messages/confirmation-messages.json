@@ -12,7 +12,7 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Bitte bestätige, dass du Essence einsammeln möchtest."
+        "defaultMessage": "Bitte bestätige, dass du Essenz einsammeln möchtest."
     },
     {
         "id": "app.confirmations.claimTitle",
@@ -22,7 +22,7 @@
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Bitte bestätige, dass du Essence einsammeln möchtest."
+        "defaultMessage": "Bitte bestätige, dass du Essenz einsammeln möchtest."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
@@ -67,12 +67,12 @@
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Zyklus"
+        "defaultMessage": "Kreislauf"
     },
     {
         "id": "app.confirmations.draftPublish",
         "description": "confirmation for publishing a draft/entry",
-        "defaultMessage": "Bitte bestätige, dass du diesen Entwurft veröffentlichen möchtest."
+        "defaultMessage": "Bitte bestätige, dass du diesen Entwurf veröffentlichen möchtest."
     },
     {
         "id": "app.confirmations.draftPublishTitle",
@@ -82,12 +82,12 @@
     {
         "id": "app.confirmations.draftPublishUpdate",
         "description": "confirmation message for updating an entry",
-        "defaultMessage": "Bitte bestätige, dass du diesen Beitrag updaten möchtest."
+        "defaultMessage": "Bitte bestätige, dass du diesen Eintrag aktualisieren möchtest."
     },
     {
         "id": "app.confirmations.draftPublishUpdateTitle",
         "description": "title for confirmation dialog for updating an entry",
-        "defaultMessage": "Eintrag updaten"
+        "defaultMessage": "Eintrag aktualisieren"
     },
     {
         "id": "app.confirmations.entryDownvote",
@@ -172,7 +172,7 @@
     {
         "id": "app.confirmations.tagCreateTitle",
         "description": "title for confirmation dialog for creating a tag",
-        "defaultMessage": "Tag erstellen"
+        "defaultMessage": "Schlagwort erstellen"
     },
     {
         "id": "app.confirmation.toggleDonations",
@@ -182,7 +182,7 @@
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Ändere die Einstellungen für Trinkgeld"
+        "defaultMessage": "Ändere die Trinkgeld Einstellungen"
     },
     {
         "id": "app.confirmation.transferAeth",
@@ -197,17 +197,17 @@
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "Bitte bestätige, dass du {value} ETH an {displayName} senden möchtest."
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "Sende ETH"
     },
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "Bitte bestätige, dass du {amount} Essenz umwandeln möchtest"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
@@ -227,11 +227,11 @@
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Bitte bestätige, dass du {txCount} Transaktionen senden möchtest."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Mehrere Transaktionen"
     }
 ]
