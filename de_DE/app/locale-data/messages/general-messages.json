@@ -632,7 +632,7 @@
     {
         "id": "app.general.update",
         "description": "Update data",
-        "defaultMessage": "Update"
+        "defaultMessage": "Aktualisieren"
     },
     {
         "id": "app.general.updating",
