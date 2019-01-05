@@ -252,7 +252,7 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Le poids de vote doit être un nombre entier"
+        "defaultMessage": "Le poids du vote doit être un nombre entier"
     },
     {
         "id": "app.form.voteWeightRangeError",
