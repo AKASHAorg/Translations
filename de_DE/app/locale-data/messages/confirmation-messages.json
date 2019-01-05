@@ -62,7 +62,7 @@
     {
         "id": "app.confirmations.cycleAeth",
         "description": "confirmation message for cycling AETH",
-        "defaultMessage": "Please confirm that you want to cycle {amount} AETH"
+        "defaultMessage": "Bitte bestätige, dass du {amount} AETH an den Kreislauf geben möchtest"
     },
     {
         "id": "app.confirmations.cycleAethTitle",
@@ -122,7 +122,7 @@
     {
         "id": "app.confirmations.freeAeth",
         "description": "confirmation message for freeing/collecting AETH",
-        "defaultMessage": "Please confirm that you want to collect your cycled AETH"
+        "defaultMessage": "Bitte bestätige, dass du deine AETH aus dem Kreislauf einsammeln möchtest"
     },
     {
         "id": "app.confirmations.freeAethTitle",
@@ -157,17 +157,17 @@
     {
         "id": "app.confirmations.sendTip",
         "description": "confirmation message for sending a tip",
-        "defaultMessage": "Please confirm that you want to send a tip to {displayName}."
+        "defaultMessage": "Bitte bestätige, dass du ein Trinkgeld an {displayName} senden möchtest."
     },
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Sende Trinkgeld"
     },
     {
         "id": "app.confirmations.createTag",
         "description": "confirmation message for creating a tag",
-        "defaultMessage": "Please confirm that you want to create #{value}."
+        "defaultMessage": "Bitte bestätige, dass du #{value} erschaffen möchtest."
     },
     {
         "id": "app.confirmations.tagCreateTitle",
@@ -177,22 +177,22 @@
     {
         "id": "app.confirmation.toggleDonations",
         "description": "confirmation message for changing your settings for accepting tips",
-        "defaultMessage": "Please confirm that you want to change your tips settings."
+        "defaultMessage": "Bitte bestätige, dass du deine Einstellungen für Trinkgeld ändern möchtest."
     },
     {
         "id": "app.confirmation.toggleDonationsTitle",
         "description": "title for confirmation dialog for changing your settings for accepting tips",
-        "defaultMessage": "Change tips settings"
+        "defaultMessage": "Ändere die Einstellungen für Trinkgeld"
     },
     {
         "id": "app.confirmation.transferAeth",
         "description": "confirmation message for transfering AETH",
-        "defaultMessage": "Please confirm that you want to transfer {tokenAmount} AETH to {displayName}."
+        "defaultMessage": "Bitte bestätige, dass du {tokenAmount} AETH an {displayName} senden möchtest."
     },
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "AETH senden"
     },
     {
         "id": "app.confirmation.transferEth",
