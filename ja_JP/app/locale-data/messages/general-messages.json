@@ -891,7 +891,7 @@
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "バージョン",
         "defaultMessage": "Version"
     },
     {
