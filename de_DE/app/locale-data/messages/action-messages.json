@@ -32,7 +32,7 @@
     {
         "id": "app.action.cycleAeth",
         "description": "cycle manafied AETH",
-        "defaultMessage": "Cycle {amount} AETH"
+        "defaultMessage": "AETH {amount} in Kreislauf geben"
     },
     {
         "id": "app.action.draftPublish",
@@ -57,7 +57,7 @@
     {
         "id": "app.action.faucet",
         "description": "make faucet request for funds",
-        "defaultMessage": "Request funds from faucet"
+        "defaultMessage": "Geld aus Faucet abfragen"
     },
     {
         "id": "app.action.follow",
@@ -67,7 +67,7 @@
     {
         "id": "app.action.freeAeth",
         "description": "collect/free cycled AETH",
-        "defaultMessage": "Collect {amount} Cycled AETH"
+        "defaultMessage": "Sammle {amount} AETH aus Kreislauf"
     },
     {
         "id": "app.action.profileRegister",
@@ -82,12 +82,12 @@
     {
         "id": "app.action.sendTip",
         "description": "send tip to someone",
-        "defaultMessage": "Send tip to"
+        "defaultMessage": "Sende Trinkgeld an"
     },
     {
         "id": "app.action.toggleDonations",
         "description": "change tip options (from personal settings)",
-        "defaultMessage": "Change tip options"
+        "defaultMessage": "Ändere Trinkgeld Optionen"
     },
     {
         "id": "app.action.transferAeth",
