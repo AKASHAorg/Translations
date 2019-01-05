@@ -7,12 +7,12 @@
     {
         "id": "app.action.claim",
         "description": "claim/collect Essence from entry",
-        "defaultMessage": "Essence einsammeln für"
+        "defaultMessage": "Essenz einsammeln für"
     },
     {
         "id": "app.action.claimVote",
         "description": "claim/collect Essence from vote on entry",
-        "defaultMessage": "Essence einsammeln für Kommentar bei"
+        "defaultMessage": "Essenz einsammeln für Kommentar bei"
     },
     {
         "id": "app.action.comment",
@@ -22,12 +22,12 @@
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "Downvote comment on"
+        "defaultMessage": "Kommentar abwerten"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "Upvote comment on"
+        "defaultMessage": "Kommentar aufwerten"
     },
     {
         "id": "app.action.cycleAeth",
@@ -42,17 +42,17 @@
     {
         "id": "app.action.draftPublishUpdate",
         "description": "update/edit an entry",
-        "defaultMessage": "Update"
+        "defaultMessage": "Aktualisieren"
     },
     {
         "id": "app.action.entryDownvote",
         "description": "downvote an entry",
-        "defaultMessage": "Downvote {weight} on"
+        "defaultMessage": "Abwerten {weight} von"
     },
     {
         "id": "app.action.entryUpvote",
         "description": "upvote an entry",
-        "defaultMessage": "Upvote {weight} on"
+        "defaultMessage": "Aufwerten {weight} von"
     },
     {
         "id": "app.action.faucet",
@@ -77,7 +77,7 @@
     {
         "id": "app.action.profileUpdate",
         "description": "update your profile",
-        "defaultMessage": "Update dein Profil"
+        "defaultMessage": "Aktualisiere dein Profil"
     },
     {
         "id": "app.action.sendTip",
@@ -102,7 +102,7 @@
     {
         "id": "app.action.transformEssence",
         "description": "transform Essence into new AETH (forge AETH)",
-        "defaultMessage": "{amount} Essence umwandeln"
+        "defaultMessage": "{amount} Essenz umwandeln"
     },
     {
         "id": "app.action.unfollow",
