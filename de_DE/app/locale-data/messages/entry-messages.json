@@ -317,22 +317,22 @@
     {
         "id": "app.entry.showLess",
         "description": "label for comment collapse button",
-        "defaultMessage": "Collapse comment"
+        "defaultMessage": "Kommentar einklappen"
     },
     {
         "id": "app.entry.showMore",
         "description": "label for comment expand button",
-        "defaultMessage": "Show full comment"
+        "defaultMessage": "Vollständigen Kommentar zeigen"
     },
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "Kommentar beginnen"
     },
     {
         "id": "app.entry.startANewDraft",
         "description": "message to start a new draft",
-        "defaultMessage": "Create a draft now!"
+        "defaultMessage": "Erstelle jetzt einen Entwurf!"
     },
     {
         "id": "app.entry.title",
@@ -342,12 +342,12 @@
     {
         "id": "app.entry.titleRequired",
         "description": "validation message in case of missing title field",
-        "defaultMessage": "Title must not be empty"
+        "defaultMessage": "Titel darf nicht leer sein"
     },
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Kann nicht den Autor des Eintrags auflösen"
     },
     {
         "id": "app.entry.upvote",
@@ -362,7 +362,7 @@
     {
         "id": "app.entry.versionHistory",
         "description": "version history dialog title",
-        "defaultMessage": "Version history"
+        "defaultMessage": "Versionsgeschichte"
     },
     {
         "id": "app.entry.versionNumber",
@@ -372,32 +372,32 @@
     {
         "id": "app.entry.votePending",
         "description": "tooltip for vote button in pending state (waiting for vote transaction to be mined)",
-        "defaultMessage": "Your vote is pending"
+        "defaultMessage": "Deine Wertung wird verarbeitet"
     },
     {
         "id": "app.entry.votePercentage",
         "description": "vote percentage distribution between downvotes and upvotes",
-        "defaultMessage": "Upvotes - {upvote}% · Downvotes - {downvote}%"
+        "defaultMessage": "Positive Wertungen - {upvote}% · Negative Wertungen - {downvote}%"
     },
     {
         "id": "app.entry.votingOwnComment",
         "description": "tooltip for vote button for your own comment",
-        "defaultMessage": "You cannot vote your own comment"
+        "defaultMessage": "Du kannst deinen eigenen Kommentar nicht bewerten"
     },
     {
         "id": "app.entry.votingPeriod",
         "description": "voting period for an entry has ended",
-        "defaultMessage": "The voting period has ended"
+        "defaultMessage": "Die Bewertungszeit ist abgelaufen"
     },
     {
         "id": "app.entry.votingPeriodDisclaimer",
         "description": "disclaimer message for votes when voting period has ended",
-        "defaultMessage": "Users can still vote on the entry but the mana burned for these votes can't be collected by the author or the voters."
+        "defaultMessage": "Nutzer können noch immer für den Eintrag stimmen, aber das genutzte Mana für diese Stimmen kann von den Autoren oder Bewertern nicht mehr eingesammelt werden."
     },
     {
         "id": "app.entry.websiteInfoFetchingError",
         "description": "error shown when fetching website info failed",
-        "defaultMessage": "An error occured while trying to fetch website info"
+        "defaultMessage": "Fehler bei Abholen der Webseiten-Info aufgetreten"
     },
     {
         "id": "app.entry.wordsCount",
@@ -407,62 +407,62 @@
     {
         "id": "app.entry.writeComment",
         "description": "input placeholder for writing a comment",
-        "defaultMessage": "Write a comment"
+        "defaultMessage": "Schreibe einen Kommentar"
     },
     {
         "id": "app.entry.writeReplyTo",
         "description": "placeholder for writing a reply to someone {name}",
-        "defaultMessage": "Write a reply to {name}"
+        "defaultMessage": "Schreibe eine Antwort an {name}"
     },
     {
         "id": "app.entry.youHaveNoDrafts",
         "description": "Message shown when all drafts are deleted",
-        "defaultMessage": "You have no drafts."
+        "defaultMessage": "Du hast keine Entwürfe."
     },
     {
         "id": "app.entry.draftAll",
         "description": "all drafts",
-        "defaultMessage": "All Drafts"
+        "defaultMessage": "Alle Entwürfe"
     },
     {
         "id": "app.entry.entriesAll",
         "description": "",
-        "defaultMessage": "All Entries"
+        "defaultMessage": "Alle Einträge"
     },
     {
         "id": "app.entry.publishedAll",
         "description": "all published entries",
-        "defaultMessage": "All entries"
+        "defaultMessage": "Alle Einträge"
     },
     {
         "id": "app.entry.draftEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "drafts"
+        "defaultMessage": "Entwürfe"
     },
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "entries"
+        "defaultMessage": "Einträge"
     },
     {
         "id": "app.entry.gotoMyDrafts",
         "description": "go to my drafts button label",
-        "defaultMessage": "Go to my drafts"
+        "defaultMessage": "Gehe zu meinen Entwürfen"
     },
     {
         "id": "app.entry.myEntries",
         "description": "my entries label title",
-        "defaultMessage": "My Entries"
+        "defaultMessage": "Meine Einträge"
     },
     {
         "id": "app.entry.draftRevert",
         "description": "button label to revert changes",
-        "defaultMessage": "Revert changes"
+        "defaultMessage": "Veränderungen rückgängig machen"
     },
     {
         "id": "app.entry.linkDisabled",
         "description": "tooltip for link button in comment editor",
-        "defaultMessage": "You must select some text first"
+        "defaultMessage": "Du musst zuerst einen Text auswählen"
     },
     {
         "id": "app.entry.linkPlaceholder",
@@ -477,7 +477,7 @@
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "Einträge"
     },
     {
         "id": "app.leaveAComment",
