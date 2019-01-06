@@ -287,7 +287,7 @@
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Erreur de copie dans le presse-papiers"
+        "defaultMessage": "Copiez l'erreur dans le presse-papiers"
     },
     {
         "id": "app.error.profileFaucet",
