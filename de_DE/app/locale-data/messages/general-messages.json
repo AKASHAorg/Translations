@@ -181,7 +181,7 @@
     },
     {
         "id": "app.general.entries",
-        "description": "entries",
+        "description": "Einträge",
         "defaultMessage": "Einträge"
     },
     {
@@ -842,7 +842,7 @@
     {
         "id": "app.general.loadingImage",
         "description": "message to display when an image is in loading state",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Lade Bild"
     },
     {
         "id": "app.general.loadingImageFailed",
