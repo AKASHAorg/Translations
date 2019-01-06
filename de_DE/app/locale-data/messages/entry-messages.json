@@ -467,12 +467,12 @@
     {
         "id": "app.entry.linkPlaceholder",
         "description": "placeholder for the link input in editors",
-        "defaultMessage": "Type the link and press enter"
+        "defaultMessage": "Trage den Link ein und drücke Enter"
     },
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Lade Bild"
     },
     {
         "id": "app.entry.entries",
@@ -482,21 +482,21 @@
     {
         "id": "app.leaveAComment",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Be the first one to write a comment!"
+        "defaultMessage": "Schreibe als Erster einen Kommentar!"
     },
     {
         "id": "app.entry.commentedOn",
         "description": "commented on",
-        "defaultMessage": "commented on"
+        "defaultMessage": "kommentiert am"
     },
     {
         "id": "app.entry.repliedOn",
         "description": "replied on",
-        "defaultMessage": "replied on a comment on"
+        "defaultMessage": "geantwortet auf einen Kommentar am"
     },
     {
         "id": "app.entry.loadComments",
         "description": "label for load comments button",
-        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "Lade {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
     }
 ]
