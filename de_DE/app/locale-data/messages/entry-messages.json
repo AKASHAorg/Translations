@@ -32,27 +32,27 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Informationssammlung von Webseite ist fehlgeschlagen! Bitte versuche eine andere Adresse"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Kann Lizenzinformationen nicht abrufen."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "füge eine Beschriftung hinzu"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Essenzen gesammelt"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Essenz einsammeln"
     },
     {
         "id": "app.entry.commentsCount",
@@ -62,7 +62,7 @@
     {
         "id": "app.entry.continueEditing",
         "description": "label for continue editing button",
-        "defaultMessage": "Continue editing"
+        "defaultMessage": "Weiter bearbeiten"
     },
     {
         "id": "app.entry.downvote",
@@ -72,12 +72,12 @@
     {
         "id": "app.entry.draft",
         "description": "a draft is an entry that wasn't published yet (the data is only kept locally)",
-        "defaultMessage": "Draft"
+        "defaultMessage": "Entwurf"
     },
     {
         "id": "app.entry.drafts",
         "description": "drafts section title",
-        "defaultMessage": "Drafts"
+        "defaultMessage": "Entwürfe"
     },
     {
         "id": "app.entry.draftsCount",
@@ -87,47 +87,47 @@
     {
         "id": "app.entry.draftContentRequired",
         "description": "validation message for entry with no content",
-        "defaultMessage": "You can't create an article without content!"
+        "defaultMessage": "Du kannst keinen Artikel ohne Inhalt erstellen!"
     },
     {
         "id": "app.entry.draftDelete",
         "description": "delete draft button label",
-        "defaultMessage": "Delete draft"
+        "defaultMessage": "Entwurf löschen"
     },
     {
         "id": "app.entry.draftDeleteConfirm",
         "description": "message to show when user wants to delete a draft",
-        "defaultMessage": "Are you sure you want to delete this draft?"
+        "defaultMessage": "Bist du sicher, dass du diesen Entwurf löschen möchtest?"
     },
     {
         "id": "app.entry.draftEdit",
         "description": "edit draft button label",
-        "defaultMessage": "Edit draft"
+        "defaultMessage": "Entwurf bearbeiten"
     },
     {
         "id": "app.entry.draftSaved",
         "description": "draft saved status message",
-        "defaultMessage": "Draft saved"
+        "defaultMessage": "Entwurf gespeichert"
     },
     {
         "id": "app.entry.draftSaving",
         "description": "saving draft status message",
-        "defaultMessage": "Saving draft"
+        "defaultMessage": "Entwurf speichern"
     },
     {
         "id": "app.entry.draftSharePreview",
         "description": "share preview link button label",
-        "defaultMessage": "Share preview link"
+        "defaultMessage": "Vorschau-Link teilen"
     },
     {
         "id": "app.entry.edited",
         "description": "edited label for an entry",
-        "defaultMessage": "Edited"
+        "defaultMessage": "Bearbeitet"
     },
     {
         "id": "app.entry.editEntry",
         "description": "tooltip for Edit entry button",
-        "defaultMessage": "Edit entry"
+        "defaultMessage": "Eintrag bearbeiten"
     },
     {
         "id": "app.entry.entriesCount",
@@ -137,47 +137,47 @@
     {
         "id": "app.entry.enterWebAddress",
         "description": "placeholder for link entry address field",
-        "defaultMessage": "Enter an address. eg. www.akasha.world"
+        "defaultMessage": "Geben Sie eine Adresse ein, z.B. www.akasha.world"
     },
     {
         "id": "app.entry.oneTagRequired",
         "description": "Error message requiring at least one tag",
-        "defaultMessage": "You must add at least one tag"
+        "defaultMessage": "Sie müssen mindestens ein Schlagwort hinzufügen"
     },
     {
         "id": "app.entry.errorExcerptTooLong",
         "description": "Error message shown when excerpt is too long",
-        "defaultMessage": "Excerpt must not be longer than 120 characters"
+        "defaultMessage": "Auszug darf nicht länger als 120 Zeichen lang sein"
     },
     {
         "id": "app.entry.excerpt",
         "description": "excerpts section title",
-        "defaultMessage": "excerpt"
+        "defaultMessage": "auszug"
     },
     {
         "id": "app.entry.featuredImage",
         "description": "featured image section title",
-        "defaultMessage": "Featured image"
+        "defaultMessage": "Artikelbild"
     },
     {
         "id": "app.entry.hiddenContent",
         "description": "message for hidden content due to score lower than user's preferences",
-        "defaultMessage": "This content has a score lower than {score}."
+        "defaultMessage": "Dieser Inhalt hat eine Punktzahl niedriger als {score}."
     },
     {
         "id": "app.entry.hiddenContent2",
         "description": "message for hidden content due to score lower than user's preferences (part 2)",
-        "defaultMessage": "You can change this value from your"
+        "defaultMessage": "Du kannst diesen Wert ändern aus deinem"
     },
     {
         "id": "app.entry.hiddenContent3",
         "description": "message for hidden content due to score lower than user's preferences (part 3)",
-        "defaultMessage": "personal settings"
+        "defaultMessage": "persönliche Einstellungen"
     },
     {
         "id": "app.entry.license",
         "description": "License label",
-        "defaultMessage": "License"
+        "defaultMessage": "Lizenz"
     },
     {
         "id": "app.entry.linkEntryType",
@@ -187,22 +187,22 @@
     {
         "id": "app.entry.loadMoreReplies",
         "description": "label for load more replies button",
-        "defaultMessage": "Load more replies"
+        "defaultMessage": "Mehr Antworten laden"
     },
     {
         "id": "app.entry.loadingDrafts",
         "description": "message to show when drafts are loading",
-        "defaultMessage": "Loading drafts..."
+        "defaultMessage": "Lade Entwürfe..."
     },
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Lokale Version"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Stelle sicher, dass du die AKASHA dApp auf dem Computer öffnest, von dem aus du veröffentlicht hast."
     },
     {
         "id": "app.entry.newComments",
@@ -212,42 +212,42 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "Noch keine Kommentare."
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Keine Entwürfe gefunden, die deinen Suchkriterien entsprechen."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries yet"
+        "defaultMessage": "Noch keine Einträge"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Keine neuen Einträge"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Es gibt keine Essenz aus diesem Eintrag zu sammeln"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Neuer Entwurf"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Keine Wertungen"
     },
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "Du siehst dir jetzt einen älteren"
     },
     {
         "id": "app.entry.originalVersion",
@@ -257,62 +257,62 @@
     {
         "id": "app.entry.oneOfTheTagsCannotBeUsed",
         "description": "cannot use a tag",
-        "defaultMessage": "One of the tags cannot be used!"
+        "defaultMessage": "Eines der Schlagworte kann nicht verwendet werden!"
     },
     {
         "id": "app.entry.publicDiscussion",
         "description": "entry comments section title",
-        "defaultMessage": "Public discussion"
+        "defaultMessage": "Öffentliche Diskussion"
     },
     {
         "id": "app.entry.published",
         "description": "published entry",
-        "defaultMessage": "Published"
+        "defaultMessage": "Veröffentlicht"
     },
     {
         "id": "app.entry.publishOptions",
         "description": "publish options panel title",
-        "defaultMessage": "Publish options"
+        "defaultMessage": "Veröffentlichungsoptionen"
     },
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "lesen"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
         "description": "message to show when an ipfs hash is in resolving state",
-        "defaultMessage": "Resolving ipfs hash..."
+        "defaultMessage": "Löse ipfs Hashwert..."
     },
     {
         "id": "app.entry.revertConfirmTitle",
         "description": "confirmation message when reverting a draft",
-        "defaultMessage": "Are you sure you want to revert this draft?"
+        "defaultMessage": "Bist du sicher, dass du diesen Entwurf rückgängig machen möchtest?"
     },
     {
         "id": "app.entry.saveHighlight",
         "description": "save highlight button label",
-        "defaultMessage": "Save highlight"
+        "defaultMessage": "Highlight speichern"
     },
     {
         "id": "app.entry.score",
         "description": "entry score",
-        "defaultMessage": "Score"
+        "defaultMessage": "Ergebnis"
     },
     {
         "id": "app.entry.searchProfile",
         "description": "placeholder for profile column",
-        "defaultMessage": "Search for a profile"
+        "defaultMessage": "Nach Profil suchen"
     },
     {
         "id": "app.entry.searchTag",
         "description": "placeholder for tag column",
-        "defaultMessage": "Search for a tag"
+        "defaultMessage": "Nach Schlagwort suchen"
     },
     {
         "id": "app.entry.showAnyway",
         "description": "button label for showing hidded content",
-        "defaultMessage": "Show anyway"
+        "defaultMessage": "Trotzdem zeigen"
     },
     {
         "id": "app.entry.showLess",
