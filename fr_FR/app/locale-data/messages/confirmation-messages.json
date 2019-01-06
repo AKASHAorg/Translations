@@ -12,7 +12,7 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer de l'Essence."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer l'Essence."
     },
     {
         "id": "app.confirmations.claimTitle",
@@ -22,7 +22,7 @@
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer de l'Essence."
+        "defaultMessage": "Veuillez confirmer que vous souhaitez récupérer l'Essence."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
