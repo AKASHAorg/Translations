@@ -7,17 +7,17 @@
     {
         "id": "app.entry.alreadyDownvoted",
         "description": "tooltip for vote buttons when the entry/comment was already downvoted",
-        "defaultMessage": "You downvoted with weight {weight}"
+        "defaultMessage": "Du wertetest negativ mit Punkten {weight}"
     },
     {
         "id": "app.entry.alreadyUpvoted",
         "description": "tooltip for vote buttons when the entry/comment was already upvoted",
-        "defaultMessage": "You upvoted with weight {weight}"
+        "defaultMessage": "Du wertetest positiv mit Punkten {weight}"
     },
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Artikel"
     },
     {
         "id": "app.entry.cannotClaimEntry",
@@ -27,7 +27,7 @@
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Du kannst nur Essenzen sammeln, wenn deine Wertung mit der Mehrheit übereinstimmt (z. B. positiv bewerten und das Ergebnis der Eintragungen ist positiv)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
