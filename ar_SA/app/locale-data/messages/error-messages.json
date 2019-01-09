@@ -27,27 +27,27 @@
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "حدث خطأ أثناء التصويت السلبي للتعليق"
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "حدث خطأ أثناء نشر التعليق"
     },
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "حدث خطأ أثناء التصويت الإجابي للتعليق"
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "حدث خطأ أثناء حفظ اللوحة الجديدة"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "حدث خطأ أثناء حفظ العمود الجديد"
     },
     {
         "id": "app.error.dashboardDelete",
