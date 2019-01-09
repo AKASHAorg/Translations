@@ -7,7 +7,7 @@
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "شكرا على ملاحظاتك!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
@@ -22,7 +22,7 @@
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "لقد فشل توليد النسخ الاحتياطي. حاول مرة أخرى"
     },
     {
         "id": "app.error.commentsDownvote",
