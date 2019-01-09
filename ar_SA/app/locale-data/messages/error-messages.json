@@ -52,42 +52,42 @@
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "حدث خطأ أثناء حذف لوحتك"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "حدث خطأ أثناء حذف عمودك"
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "حدث خطأ أثناء الحصول على اللوحة النشطة"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "حدث خطأ أثناء الحصول على لوحاتك"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "حدث خطأ أثناء حفظ لوحتك النشطة"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "حدث خطأ أثناء تحديث عمودك"
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "لا يمكن تحفظ التغييرات الأخيرة على هذه المسودة"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "حدث خطأ أثناء نشر مسودتك"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
