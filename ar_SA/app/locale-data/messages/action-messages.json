@@ -22,12 +22,12 @@
     {
         "id": "app.action.commentDownvote",
         "description": "downvote comment on an entry",
-        "defaultMessage": "التصويت سلبي التعليق على"
+        "defaultMessage": "تصويت سلبي للتعليق على"
     },
     {
         "id": "app.action.commentUpvote",
         "description": "upvote comment on an entry",
-        "defaultMessage": "التصويت إجابي التعليق على"
+        "defaultMessage": "تصويت إجابي للتعليق على"
     },
     {
         "id": "app.action.cycleAeth",
