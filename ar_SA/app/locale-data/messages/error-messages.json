@@ -137,176 +137,176 @@
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "حدث خطأ أثناء الحصول على إعداداتك العامة"
     },
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "حدث خطأ أثناء الحصول على خيارات خدمة geth"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "حدث خطأ أثناء الحصول على حالة و وضع خدمة geth"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "حدث خطأ أثناء الحصول على حالة تزامن"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "حدث خطأ أثناء حفظ إعدادات geth"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "حدث خطأ أثناء الحصول على إعدادات geth الخاصة بك"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "لا يمكن بدء خدمة Geth"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "لا يمكن إيقاف خدمة Geth"
     },
     {
         "id": "app.error.ipfsGetConfig",
         "description": "error message for fetching IPFS service configuration",
-        "defaultMessage": "An error occurred while getting IPFS service config"
+        "defaultMessage": "حدث خطأ أثناء الحصول على تهيئة خدمة IPFS"
     },
     {
         "id": "app.error.ipfsGetPorts",
         "description": "error message for fetching IPFS ports",
-        "defaultMessage": "An error occurred while getting IPFS service ports"
+        "defaultMessage": "حدث خطأ أثناء الحصول على منافذ خدمة IPFS"
     },
     {
         "id": "app.error.ipfsSaveSettings",
         "description": "error message for saving IPFS settings",
-        "defaultMessage": "An error occurred while saving your IPFS settings"
+        "defaultMessage": "حدث خطأ أثناء حفظ إعدادات IPFS الخاصة بك"
     },
     {
         "id": "app.error.ipfsSetPorts",
         "description": "ipfs set ports error message",
-        "defaultMessage": "An error occurred while setting ipfs service ports"
+        "defaultMessage": "حدث خطأ أثناء ضبط منافذ خدمة ipfs"
     },
     {
         "id": "app.error.ipfsSettings",
         "description": "error message for fetching IPFS settings",
-        "defaultMessage": "An error occurred while getting your IPFS settings"
+        "defaultMessage": "حدث خطأ أثناء الحصول على إعدادات IPFS الخاصة بك"
     },
     {
         "id": "app.error.ipfsStart",
         "description": "error message for starting IPFS service",
-        "defaultMessage": "IPFS service could not be started"
+        "defaultMessage": "تعذر بدء خدمة IPFS"
     },
     {
         "id": "app.error.ipfsGetStatus",
         "description": "error message for fetching IPFS service status",
-        "defaultMessage": "An error occurred while getting IPFS service status"
+        "defaultMessage": "حدث خطأ أثناء الحصول على حالة و وضع خدمة IPFS"
     },
     {
         "id": "app.error.ipfsStop",
         "description": "error message for stopping IPFS service",
-        "defaultMessage": "IPFS service could not be stopped"
+        "defaultMessage": "تعذر إيقاف خدمة IPFS"
     },
     {
         "id": "app.error.unexpectedError",
         "description": "a general error (with no error code)",
-        "defaultMessage": "Unexpected error"
+        "defaultMessage": "خطأ غير متوقع"
     },
     {
         "id": "app.error.profileBondAeth",
         "description": "error message for bonding (manafying) AETH",
-        "defaultMessage": "An error occured while manafying {amount} AETH"
+        "defaultMessage": "حدث خطأ أثناء تحويل {amount} (أكاشاإثير) AETH إلى مانا"
     },
     {
         "id": "app.error.profileCycleAeth",
         "description": "error message for cycling AETH",
-        "defaultMessage": "An error occured while cycling {amount} AETH"
+        "defaultMessage": "حدث خطأ أثناء تدوير {amount} (أكاشاإثير) AETH"
     },
     {
         "id": "app.error.profileFreeAeth",
         "description": "error message for freeing AETH that was cycled",
-        "defaultMessage": "An error occured while collecting your cycled AETH"
+        "defaultMessage": "حدث خطأ أثناء جمع (أكاشاإثير) AETH المدورة و الخاصة بك"
     },
     {
         "id": "app.error.profileGetLocal",
         "description": "error message for fetching local profiles",
-        "defaultMessage": "An error occured while fetching local profiles"
+        "defaultMessage": "حدث خطأ أثناء جلب ملفات التشكيلات المحلية"
     },
     {
         "id": "app.error.profileGetList",
         "description": "error message for fetching a list of profiles",
-        "defaultMessage": "An error occured while getting the list of profiles"
+        "defaultMessage": "حدث خطأ أثناء الحصول على قائمة ملفات التعريف"
     },
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "حدث خطأ أثناء تغيير إعدادات tips الخاصة بك"
     },
     {
         "id": "app.error.profileTransferAeth",
         "description": "error message for transferring AETH",
-        "defaultMessage": "An error occured while transferring {tokenAmount} AETH"
+        "defaultMessage": "حدث خطأ أثناء نقل {tokenAmount} (أكاشاإثير) AETH"
     },
     {
         "id": "app.error.profileTransferEth",
         "description": "error message for transferring ETH",
-        "defaultMessage": "An error occured while transferring {value} ETH"
+        "defaultMessage": "حدث خطأ أثناء نقل {value} (إثير) ETH"
     },
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "حدث خطأ أثناء تحويل {amount} من Essence"
     },
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "حدث خطأ أثناء تحديث ملف التعريف الخاص بك"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "حدث خطأ أثناء حفظ الإعدادات الخاصة بك"
     },
     {
         "id": "app.error.appErrorTitle",
         "description": "Title message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Ah snap!"
+        "defaultMessage": "آه مفاجئة!"
     },
     {
         "id": "app.error.appErrorSubtitle",
         "description": "Subtitle message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Something went terribly wrong."
+        "defaultMessage": "حدث خطأ فظيع."
     },
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Copy error to clipboard"
+        "defaultMessage": "نسخ الخطأ في الحافظة"
     },
     {
         "id": "app.error.profileFaucet",
         "description": "error message for faucet request",
-        "defaultMessage": "An error occurred while requesting funds from faucet"
+        "defaultMessage": "حدث خطأ أثناء طلب أموال من الحنفية"
     },
     {
         "id": "app.error.profileRegister",
         "description": "error message for registering your profile",
-        "defaultMessage": "An error occured while registering your profile"
+        "defaultMessage": "حدث خطأ أثناء تسجيل ملف التعريف الخاص بك"
     },
     {
         "id": "app.error.profileFollow",
         "description": "error message for profile follow",
-        "defaultMessage": "An error occurred while following {ethAddress}"
+        "defaultMessage": "حدث خطأ أثناء متابعة {ethAddress}"
     },
     {
         "id": "app.error.profileUnfollow",
         "description": "error message for profile unfollow",
-        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
+        "defaultMessage": "حدث خطأ أثناء إلغاء متابعة {ethAddress}"
     }
 ]
