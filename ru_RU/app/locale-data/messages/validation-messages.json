@@ -2,7 +2,7 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "является обязательным"
+        "defaultMessage": "обязательное поле"
     },
     {
         "id": "app.validator.min",
