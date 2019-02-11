@@ -57,17 +57,17 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Изменение данного параметра приведет к сбросу конфигурации и данных IPFS, хранящихся на вашей машине"
     },
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "Порт API IPFS"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "Порт шлюза IPFS"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
