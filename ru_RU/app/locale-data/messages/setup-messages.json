@@ -7,52 +7,52 @@
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Резервное копирование ключей"
     },
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Чтобы воспользоваться всеми функциями, завершите создание профиля."
     },
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Создать новую личность"
     },
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "Начните с создания новой сетевой личности!"
     },
     {
         "id": "app.setup.gethDataDirPath",
         "description": "geth datadir path field label",
-        "defaultMessage": "Geth Datadir path"
+        "defaultMessage": "Путь к Geth Datadir"
     },
     {
         "id": "app.setup.gethIPCPath",
         "description": "geth IPC path input placeholder",
-        "defaultMessage": "Geth IPC path"
+        "defaultMessage": "Путь к Geth IPC"
     },
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Размер кэша Geth"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Идентификатор сети Geth"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Импорт ключей"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "Путь к хранилищу IPFS"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
@@ -142,7 +142,7 @@
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Создать новую личность"
     },
     {
         "id": "app.setup.interestedIn",
