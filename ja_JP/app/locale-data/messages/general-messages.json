@@ -372,7 +372,7 @@
     {
         "id": "app.general.pending",
         "description": "an action is pending",
-        "defaultMessage": "Pending"
+        "defaultMessage": "保留中"
     },
     {
         "id": "app.general.pendingConfirmation",
@@ -617,7 +617,7 @@
     {
         "id": "app.general.translate",
         "description": "translate",
-        "defaultMessage": "Translate"
+        "defaultMessage": "翻訳"
     },
     {
         "id": "app.general.usernameFirst",
@@ -657,17 +657,17 @@
     {
         "id": "app.general.wallet",
         "description": "wallet",
-        "defaultMessage": "Wallet"
+        "defaultMessage": "ウォレット"
     },
     {
         "id": "app.general.wailting",
         "description": "",
-        "defaultMessage": "Waiting"
+        "defaultMessage": "待機中"
     },
     {
         "id": "app.general.yes",
         "description": "yes (as a confirmation)",
-        "defaultMessage": "Yes"
+        "defaultMessage": "はい"
     },
     {
         "id": "app.general.comment",
@@ -687,7 +687,7 @@
     {
         "id": "app.general.createTags",
         "description": "Create tags action title",
-        "defaultMessage": "Create Tags"
+        "defaultMessage": "タグを作成"
     },
     {
         "id": "app.general.karmaLeaderboard",
@@ -697,7 +697,7 @@
     {
         "id": "app.general.karmaLevel",
         "description": "karma level",
-        "defaultMessage": "Level {karmaLevel}"
+        "defaultMessage": "レベル{karmaLevel}"
     },
     {
         "id": "app.general.karmaLevelInfo",
@@ -732,12 +732,12 @@
     {
         "id": "app.general.sidebarEntryTypeImage",
         "description": "",
-        "defaultMessage": "Image"
+        "defaultMessage": "イメージ"
     },
     {
         "id": "app.general.you",
         "description": "",
-        "defaultMessage": "You"
+        "defaultMessage": "あなた"
     },
     {
         "id": "app.general.waitASecond",
@@ -877,7 +877,7 @@
     {
         "id": "app.general.thanks",
         "description": "thanks",
-        "defaultMessage": "Thanks!"
+        "defaultMessage": "ありがとう!"
     },
     {
         "id": "app.general.loginUnlock",
@@ -892,7 +892,7 @@
     {
         "id": "app.general.version",
         "description": "バージョン",
-        "defaultMessage": "Version"
+        "defaultMessage": "バージョン"
     },
     {
         "id": "app.general.and",
