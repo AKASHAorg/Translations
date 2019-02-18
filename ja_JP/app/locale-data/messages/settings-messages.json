@@ -102,7 +102,7 @@
     {
         "id": "app.settings.tipsDisabled",
         "description": "tooltip info for profile tips options when it is disabled",
-        "defaultMessage": "You need to register your profile before changing this option"
+        "defaultMessage": "このオプションを変更する前にあなたのプロフィールを登録する必要があります"
     },
     {
         "id": "app.settings.tipsOptions",
@@ -122,7 +122,7 @@
     {
         "id": "app.settings.tipsDoNotAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Do not accept tips"
+        "defaultMessage": "チップを拒否する"
     },
     {
         "id": "app.settings.title",
@@ -182,7 +182,7 @@
     {
         "id": "app.settings.filipino",
         "description": "filipino language",
-        "defaultMessage": "Filipino"
+        "defaultMessage": "タガログ語"
     },
     {
         "id": "app.settings.finnish",
@@ -222,21 +222,21 @@
     {
         "id": "app.settings.portuguese",
         "description": "portuguese language",
-        "defaultMessage": "Portuguese"
+        "defaultMessage": "ポルトガル語"
     },
     {
         "id": "app.settings.portugueseBrazilian",
         "description": "portuguese brazilian language",
-        "defaultMessage": "Portuguese, Brazilian"
+        "defaultMessage": "ポルトガル語, ブラジル"
     },
     {
         "id": "app.settings.turkish",
         "description": "turkish language",
-        "defaultMessage": "Turkish"
+        "defaultMessage": "トルコ語"
     },
     {
         "id": "app.settings.ukrainian",
         "description": "ukrainian language",
-        "defaultMessage": "Ukrainian"
+        "defaultMessage": "ウクライナ語"
     }
 ]
