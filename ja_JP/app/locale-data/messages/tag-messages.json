@@ -27,7 +27,7 @@
     {
         "id": "app.tag.tags",
         "description": "plural of tag",
-        "defaultMessage": "tags"
+        "defaultMessage": "タグ"
     },
     {
         "id": "app.tag.cannotEditTags",
