@@ -142,7 +142,7 @@
     {
         "id": "app.settings.tips",
         "description": "Title for tips",
-        "defaultMessage": "Tips"
+        "defaultMessage": "チップ"
     },
     {
         "id": "app.settings.votes",
@@ -172,12 +172,12 @@
     {
         "id": "app.settings.arabic",
         "description": "arabic language",
-        "defaultMessage": "Arabic"
+        "defaultMessage": "アラビア語"
     },
     {
         "id": "app.settings.chineseSimplified",
         "description": "chinese simplified language",
-        "defaultMessage": "Chinese (Simplified)"
+        "defaultMessage": "中国語"
     },
     {
         "id": "app.settings.filipino",
@@ -187,37 +187,37 @@
     {
         "id": "app.settings.finnish",
         "description": "Finnish language",
-        "defaultMessage": "Finnish"
+        "defaultMessage": "フィンランド語"
     },
     {
         "id": "app.settings.french",
         "description": "french language",
-        "defaultMessage": "French"
+        "defaultMessage": "フランス語"
     },
     {
         "id": "app.settings.german",
         "description": "german language",
-        "defaultMessage": "German"
+        "defaultMessage": "ドイツ語"
     },
     {
         "id": "app.settings.indonesian",
         "description": "indonesian language",
-        "defaultMessage": "Indonesian"
+        "defaultMessage": "インドネシア語"
     },
     {
         "id": "app.settings.italian",
         "description": "italian language",
-        "defaultMessage": "Italian"
+        "defaultMessage": "イタリア語"
     },
     {
         "id": "app.settings.japanese",
         "description": "japanese language",
-        "defaultMessage": "Japanese"
+        "defaultMessage": "日本語"
     },
     {
         "id": "app.settings.korean",
         "description": "korean language",
-        "defaultMessage": "Korean"
+        "defaultMessage": "韓国語"
     },
     {
         "id": "app.settings.portuguese",
