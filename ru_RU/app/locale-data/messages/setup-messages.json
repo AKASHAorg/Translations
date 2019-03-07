@@ -102,12 +102,12 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Поздравляем, вы одним из первых синхронизировали программу с тестовой сетью Ethereum! Рекомендуем выбрать быструю обычную синхронизацию. Самые отважные могут выбрать работающую в экспериментальном режиме легкую синхронизацию :)"
+        "defaultMessage": "Поздравляем, вы одним из первых синхронизировали программу с тестовой сетью Ethereum! Рекомендуем выбрать обычную синхронизацию с быстрой настройкой. Самые отважные могут выбрать работающую в экспериментальном режиме легкую синхронизацию :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
         "description": "more info",
-        "defaultMessage": "We recommend Normal Sync with the Express setup. The brave ones can also choose the experimental Light Sync."
+        "defaultMessage": "Рекомендуем выбрать обычную синхронизацию с быстрой настройкой. Самые отважные могут выбрать работающую в экспериментальном режиме легкую синхронизацию."
     },
     {
         "id": "app.setup.synchronization",
