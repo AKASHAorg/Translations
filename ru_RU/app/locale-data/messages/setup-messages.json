@@ -92,7 +92,7 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "Введите свою парольную фразу ниже"
     },
     {
         "id": "app.setup.normalSync",
@@ -102,7 +102,7 @@
     {
         "id": "app.setup.normalSyncDescription",
         "description": "info when user selects normal sync mode",
-        "defaultMessage": "Congratulations, you are a pioneer synchronizing with the Ethereum test network! We recommend Normal Sync with the Express setup but the brave ones can also choose the (very) experimental Light Sync! :)"
+        "defaultMessage": "Поздравляем, вы одним из первых синхронизировали программу с тестовой сетью Ethereum! Рекомендуем выбрать быструю обычную синхронизацию. Самые отважные могут выбрать работающую в экспериментальном режиме легкую синхронизацию :)"
     },
     {
         "id": "app.setup.normalSyncDescriptionAlt",
