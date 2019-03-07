@@ -152,47 +152,47 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Мы предложим вам невероятный контент на основе ваших интересов."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Быстрая настройка"
     },
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "Спасибо, что сыграли!"
     },
     {
         "id": "app.setup.faucetPending1",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Here are some test ETH :)"
+        "defaultMessage": "Вот вам немного тестового ETH :)"
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "Что-то пошло не так :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Нажмите здесь, чтобы повторить попытку"
     },
     {
         "id": "app.setup.faucetSuccess",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "HoHoHoHo!"
+        "defaultMessage": "Хо-хо-хо-хо!"
     },
     {
         "id": "app.setup.faucetSuccess1",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You received test ETH!"
+        "defaultMessage": "Вы получили тестовый ETH!"
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Расширенные"
     },
     {
         "id": "app.setup.downloadingGeth",
