@@ -317,21 +317,21 @@
     {
         "id": "app.setup.tutorialManaAlt",
         "description": "text for tutorial Modal",
-        "defaultMessage": "Alternatively, you can click the sidebar Mana indicator next to your avatar photo and choose Shift up."
+        "defaultMessage": "Вы также можете нажать на индикатор маны на боковой панели (рядом с вашим аватаром) и выбрать «Увеличить»."
     },
     {
         "id": "app.setup.gethDescription",
         "description": "geth service description",
-        "defaultMessage": "You are using a third party web3 provider."
+        "defaultMessage": "Вы используете стороннего поставщика web3."
     },
     {
         "id": "app.setup.ipfsDescription",
         "description": "ipfs service description",
-        "defaultMessage": "You are using the JavaScript implementation of IPFS."
+        "defaultMessage": "Вы используете файловую систему IPFS, реализованную на JavaScript."
     },
     {
         "id": "app.setup.ipfsStorageName",
         "description": "IPFS storage name input field label",
-        "defaultMessage": "IPFS storage name"
+        "defaultMessage": "Имя хранилища IPFS"
     }
 ]
