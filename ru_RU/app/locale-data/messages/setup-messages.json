@@ -292,27 +292,27 @@
     {
         "id": "app.setup.gethStopped",
         "description": "message to be displayed when geth is stopped and profiles cannot be loaded",
-        "defaultMessage": "Geth service is not working. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Служба Geth не работает. Запустите ее вручную, чтобы загрузить\n                        свои профили."
     },
     {
         "id": "app.setup.ipfsStopped",
         "description": "message to be displayed when ipfs is stopped and profiles cannot be loaded",
-        "defaultMessage": "IPFS service is stopped. Please start it manually in order to fetch\n                        your profiles."
+        "defaultMessage": "Служба IPFS не работает. Запустите ее вручную, чтобы загрузить\n                        свои профили."
     },
     {
         "id": "app.setup.tutorialTitle",
         "description": "title for tutorial Modal",
-        "defaultMessage": "A few tips before you get started"
+        "defaultMessage": "Несколько советов перед началом работы"
     },
     {
         "id": "app.setup.tutorialEth",
         "description": "text for tutorial Modal",
-        "defaultMessage": "This dapp uses test ETH (Ether) so please DO NOT send real ETH to in-dapp addresses."
+        "defaultMessage": "Это приложение использует тестовый эфир (ETH). НЕ отправляйте настоящий эфир на адреса в приложении."
     },
     {
         "id": "app.setup.tutorialMana",
         "description": "text for tutorial Modal",
-        "defaultMessage": "The dapp requires Manafied AETH (Mana) for interactions. You can obtain Mana by clicking your AETH balance in the upper right side, selecting Manafy in the Transform tab."
+        "defaultMessage": "Для использования приложения требуется мана (манафицированный AETH). Ее можно получить, перейдя на страницу баланса AETH и нажав «Манафицировать» на вкладке «Преобразовать»."
     },
     {
         "id": "app.setup.tutorialManaAlt",
