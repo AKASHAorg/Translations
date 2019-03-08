@@ -17,12 +17,12 @@
     {
         "id": "app.tutorial.ethereumContent",
         "description": "ethereum slide content",
-        "defaultMessage": "Ethereum allowed us to build a new kind of application that removes the need\n                to blindly trust server administrators. Thanks to its transparent properties we\n                have strong authentication, identity, verifiability, voting and\n                micro-transactions."
+        "defaultMessage": "Благодаря Ethereum мы смогли создать новый вид приложения, которое\n                устраняет необходимость слепо доверять администраторам серверов.\n                Его прозрачные функции обеспечивают строгую аутентификацию, защиту\n                личности и верифицируемость, а также возможность голосования и осуществления микротранзакций."
     },
     {
         "id": "app.tutorial.ipfsTitle",
         "description": "ipfs slide title",
-        "defaultMessage": "Enhanced By The Inter-Planetary File System"
+        "defaultMessage": "Улучшено с помощью межпланетной файловой системы (IPFS)"
     },
     {
         "id": "app.tutorial.ipfsContent",
