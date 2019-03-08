@@ -7,12 +7,12 @@
     {
         "id": "app.tutorial.akashaContent",
         "description": "akasha slide content",
-        "defaultMessage": "With AKASHA your thoughts and ideas will echo throughout humanity's existence,\n                thanks to a planetary-scale network immune to censorship by design. The information\n                lives and spreads across the network without relying on a particular entity,\n                not even us."
+        "defaultMessage": "Благодаря цензуроустойчивой сети планетарного масштаба AKASHA ваши мысли и идеи\n                откликнутся эхом в самом человеческом существовании. Информация живет\n                и распространяется в этой сети, независимо от какого-либо централизованного\n                образования и даже нас самих."
     },
     {
         "id": "app.tutorial.ethereumTitle",
         "description": "ethereum slide title",
-        "defaultMessage": "Powered By Ethereum"
+        "defaultMessage": "Основано на технологии Ethereum"
     },
     {
         "id": "app.tutorial.ethereumContent",
