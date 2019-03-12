@@ -287,7 +287,7 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "Подробности"
     },
     {
         "id": "app.setup.gethStopped",
