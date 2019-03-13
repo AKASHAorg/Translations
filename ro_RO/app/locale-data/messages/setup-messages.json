@@ -37,32 +37,32 @@
     {
         "id": "app.setup.gethCacheSize",
         "description": "geth cache size input placeholder",
-        "defaultMessage": "Geth cache size"
+        "defaultMessage": "Obţine dimensiunea cache"
     },
     {
         "id": "app.setup.gethNetworkId",
         "description": "geth network id placeholder",
-        "defaultMessage": "Geth network id"
+        "defaultMessage": "Obţine Id-ul de reţea"
     },
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Importă cheile"
     },
     {
         "id": "app.setup.ipfsStoragePath",
         "description": "IPFS input field label",
-        "defaultMessage": "IPFS storage path"
+        "defaultMessage": "Destinaţia de stocare IPFS"
     },
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "Modificarea acesteia va reseta configurarea ta şi conţinutul local IPFS"
     },
     {
         "id": "app.setup.ipfsApiPort",
         "description": "IPFS API port input field label",
-        "defaultMessage": "IPFS API port"
+        "defaultMessage": "Portul API IPFS"
     },
     {
         "id": "app.setup.ipfsGatewayPort",
@@ -77,7 +77,7 @@
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "Configurare"
     },
     {
         "id": "app.setup.lightSync",
