@@ -57,47 +57,47 @@
     {
         "id": "app.settings.licenseOptionsDescription",
         "description": "description for default license options",
-        "defaultMessage": "Choose the default license for articles you publish"
+        "defaultMessage": "Alege licenţa implicită pentru articolele pe care le publici"
     },
     {
         "id": "app.settings.language",
         "description": "title for language form item",
-        "defaultMessage": "Language"
+        "defaultMessage": "Limba"
     },
     {
         "id": "app.settings.lightTheme",
         "description": "theme switch",
-        "defaultMessage": "Light Theme"
+        "defaultMessage": "Şablon alb"
     },
     {
         "id": "app.settings.russian",
         "description": "app language",
-        "defaultMessage": "Russian"
+        "defaultMessage": "Rusă"
     },
     {
         "id": "app.settings.selectLanguage",
         "description": "title for language selector",
-        "defaultMessage": "SELECT LANGUAGE"
+        "defaultMessage": "Selectează limba"
     },
     {
         "id": "app.settings.spanish",
         "description": "app language",
-        "defaultMessage": "Spanish"
+        "defaultMessage": "Spaniolă"
     },
     {
         "id": "app.settings.theme",
         "description": "theme switch title",
-        "defaultMessage": "App Theme"
+        "defaultMessage": "Sablonul app-ului"
     },
     {
         "id": "app.settings.themeLabel",
         "description": "theme switch label",
-        "defaultMessage": "Customize the look of the Akasha workspace"
+        "defaultMessage": "Personalizează spaţiul de lucru din Akasha"
     },
     {
         "id": "app.settings.tipsDescription",
         "description": "description for profile tips options",
-        "defaultMessage": "Select your option for tips"
+        "defaultMessage": "Selectează opţiunea ta pentru sugestii"
     },
     {
         "id": "app.settings.tipsDisabled",
