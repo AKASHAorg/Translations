@@ -157,37 +157,37 @@
     {
         "id": "app.dashboard.previewTag",
         "description": "label for tag column preview",
-        "defaultMessage": "Preview for #{tagName}"
+        "defaultMessage": "Previzualizare pentru #{tagName}"
     },
     {
         "id": "app.dashboard.profile",
         "description": "label for user column",
-        "defaultMessage": "User"
+        "defaultMessage": "Utilizator"
     },
     {
         "id": "app.dashboard.searchForBoard",
         "description": "placeholder for board search input field",
-        "defaultMessage": "Search for a board..."
+        "defaultMessage": "Caută un bord..."
     },
     {
         "id": "app.dashboard.small",
         "description": "small column width",
-        "defaultMessage": "Small"
+        "defaultMessage": "Mic"
     },
     {
         "id": "app.dashboard.stream",
         "description": "label for following feed column",
-        "defaultMessage": "Following feed"
+        "defaultMessage": "Conţinut urmărit"
     },
     {
         "id": "app.dashboard.tag",
         "description": "label for tag column",
-        "defaultMessage": "Tag"
+        "defaultMessage": "Etichetă"
     },
     {
         "id": "app.dashboard.noColumnsTitle",
         "description": "Column placeholder title",
-        "defaultMessage": "A new world awaits you!"
+        "defaultMessage": "O nouă lume te aşteaptă!"
     },
     {
         "id": "app.dashboard.noColumns",
