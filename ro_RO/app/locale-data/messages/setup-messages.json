@@ -2,27 +2,27 @@
     {
         "id": "app.setup.authComplete",
         "description": "title for complete profile setup page",
-        "defaultMessage": "This is your new identity"
+        "defaultMessage": "Aceasta este noua ta identitate"
     },
     {
         "id": "app.setup.backup",
         "description": "backup button label",
-        "defaultMessage": "Backup keys"
+        "defaultMessage": "Chei pentru backup"
     },
     {
         "id": "app.setup.completeProfile",
         "description": "description for profile complete setup page",
-        "defaultMessage": "To enjoy the full experience, complete your profile now!"
+        "defaultMessage": "Pentru a beneficia de o experientă completă, completează profilul tău acum!"
     },
     {
         "id": "app.setup.createIdentity",
         "description": "Create identity button label",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Crează o nouă identitate"
     },
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "Începe prin crearea unei noi identităţi!"
     },
     {
         "id": "app.setup.gethDataDirPath",
@@ -142,7 +142,7 @@
     {
         "id": "app.setup.newIdentity",
         "description": "panel header for new identity page",
-        "defaultMessage": "Create new identity"
+        "defaultMessage": "Crează o nouă identitate"
     },
     {
         "id": "app.setup.interestedIn",
