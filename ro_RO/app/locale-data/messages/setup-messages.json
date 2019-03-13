@@ -152,32 +152,32 @@
     {
         "id": "app.setup.interestSuggestion",
         "description": "description for new identity interests page",
-        "defaultMessage": "We'll suggest incredible stuff to read based on your interests."
+        "defaultMessage": "Vom face sugestii incredibile bazate pe lucrurile de care eşti interesat."
     },
     {
         "id": "app.setup.expressSetup",
         "description": "Express setup option checkbox",
-        "defaultMessage": "Express setup"
+        "defaultMessage": "Configurare Expresă"
     },
     {
         "id": "app.setup.faucetPending",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Thank you for playing!"
+        "defaultMessage": "Îţi mulţumim pentru ca te-ai jucat!"
     },
     {
         "id": "app.setup.faucetPending1",
         "description": "message shown while faucet tx is pending",
-        "defaultMessage": "Here are some test ETH :)"
+        "defaultMessage": "Aici ai caţiva ETH de test :)"
     },
     {
         "id": "app.setup.faucetError",
         "description": "message shown when faucet tx fails",
-        "defaultMessage": "Something went wrong :("
+        "defaultMessage": "Ceva nu a mers bine :("
     },
     {
         "id": "app.setup.faucetRetry",
         "description": "message shown when faucet tx fails to allow user to retry the tx",
-        "defaultMessage": "Click here to retry"
+        "defaultMessage": "Click aici pentru a încerca din nou"
     },
     {
         "id": "app.setup.faucetSuccess",
@@ -187,62 +187,62 @@
     {
         "id": "app.setup.faucetSuccess1",
         "description": "message shown on faucet tx success",
-        "defaultMessage": "You received test ETH!"
+        "defaultMessage": "Ai primit ETH de test!"
     },
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "Avansat"
     },
     {
         "id": "app.setup.downloadingGeth",
         "description": "message shown when geth is downloading",
-        "defaultMessage": "Downloading Geth client..."
+        "defaultMessage": "Se descarcă clientul Geth..."
     },
     {
         "id": "app.setup.downloadingIpfs",
         "description": "message shown when IPFS is downloading",
-        "defaultMessage": "Downloading IPFS client..."
+        "defaultMessage": "Se descarcă clientul IPFS..."
     },
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Se initiază clientul Geth..."
     },
     {
         "id": "app.setup.upgradingGeth",
         "description": "message shown when Geth is upgrading",
-        "defaultMessage": "Upgrading Geth client..."
+        "defaultMessage": "Clientul Geth se reactualizează..."
     },
     {
         "id": "app.setup.upgradingIpfs",
         "description": "message shown when IPFS is upgrading",
-        "defaultMessage": "Upgrading IPFS client..."
+        "defaultMessage": "Se reactualizează clientul IPFS..."
     },
     {
         "id": "app.setup.processing",
         "description": "message shown when processing blocks",
-        "defaultMessage": "Processing"
+        "defaultMessage": "Se procesează"
     },
     {
         "id": "app.setup.synchronizing",
         "description": "message shown when synchronizing with the blockchain",
-        "defaultMessage": "Synchronizing"
+        "defaultMessage": "Sincronizare"
     },
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Synchronization was stopped"
+        "defaultMessage": "Sincronizarea a fost oprită"
     },
     {
         "id": "app.setup.syncCompleted",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization completed"
+        "defaultMessage": "Sincronizarea este completă"
     },
     {
         "id": "app.setup.syncPaused",
         "description": "message shown when synchronization is completed",
-        "defaultMessage": "Synchronization is paused"
+        "defaultMessage": "Sincronizarea este oprită"
     },
     {
         "id": "app.setup.onSyncStart",
