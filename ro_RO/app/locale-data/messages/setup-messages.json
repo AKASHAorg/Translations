@@ -247,7 +247,7 @@
     {
         "id": "app.setup.onSyncStart",
         "description": "Message to show when synchronizing",
-        "defaultMessage": "You will be able to log in and enjoy the full experience as soon as the sync is complete! We are waiting for you on the other side! o/"
+        "defaultMessage": "Vei putea să te loghezi şi să beneficiezi de o experienţă completă de îndată ce sincronizarea este completă! Te aşteptăm pe partea cealaltă! o/"
     },
     {
         "id": "app.setup.afterSyncFinish",
