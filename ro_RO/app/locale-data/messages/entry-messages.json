@@ -32,27 +32,27 @@
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
         "description": "error shown when we cannot extract wesite info",
-        "defaultMessage": "Cannot extract information from website! Please try another address"
+        "defaultMessage": "Nu se pot extrage informaţii din website! Te rugăm să încerci cu o altă adresă"
     },
     {
         "id": "app.entry.cannotRetrieveLicense",
         "description": "message to show when a licence cannot be retrieved or it was not saved correctly",
-        "defaultMessage": "Cannot retrieve licence info."
+        "defaultMessage": "Nu se pot extrage informaţii despre licenţă."
     },
     {
         "id": "app.entry.imageCaptionPlaceholder",
         "description": "text for caption input placeholder",
-        "defaultMessage": "add a caption"
+        "defaultMessage": "adaugă o captură"
     },
     {
         "id": "app.entry.collected",
         "description": "Essence was collected for an entry/vote",
-        "defaultMessage": "Essence collected"
+        "defaultMessage": "Esenţă colectată"
     },
     {
         "id": "app.entry.collectEssence",
         "description": "collect essence from a published entry or vote",
-        "defaultMessage": "Collect Essence"
+        "defaultMessage": "Colectează esenţă"
     },
     {
         "id": "app.entry.commentsCount",
