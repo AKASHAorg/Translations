@@ -142,37 +142,37 @@
     {
         "id": "app.error.gethGetOptions",
         "description": "error message for fetching geth options",
-        "defaultMessage": "An error occurred while getting geth service options"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii opţiunilor Geth"
     },
     {
         "id": "app.error.gethGetStatus",
         "description": "error message for fetching geth status",
-        "defaultMessage": "An error occurred while getting geth service status"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii statusului serviciilor Geth"
     },
     {
         "id": "app.error.gethGetSyncStatus",
         "description": "error message for fetching geth synchronization status",
-        "defaultMessage": "An error occurred while getting synchronization status"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii situaţiei de sincronizare"
     },
     {
         "id": "app.error.gethSaveSettings",
         "description": "error message for saving geth settings",
-        "defaultMessage": "An error occurred while saving your geth settings"
+        "defaultMessage": "A intervenit o eroare în timpul salvării setarilor Geth"
     },
     {
         "id": "app.error.gethSettings",
         "description": "error message for fetching geth settings",
-        "defaultMessage": "An error occurred while getting your geth settings"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii setărilor Geth"
     },
     {
         "id": "app.error.gethStart",
         "description": "error message for starting geth service",
-        "defaultMessage": "Geth service could not be started"
+        "defaultMessage": "Serviciul Geth nu s-a putut porni"
     },
     {
         "id": "app.error.gethStop",
         "description": "error message for stopping geth service",
-        "defaultMessage": "Geth service could not be stopped"
+        "defaultMessage": "Serviciul Geth nu s-a putut opri"
     },
     {
         "id": "app.error.ipfsGetConfig",
