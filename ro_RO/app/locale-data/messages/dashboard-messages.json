@@ -192,42 +192,42 @@
     {
         "id": "app.dashboard.noColumns",
         "description": "Column placeholder message",
-        "defaultMessage": "Your favorite topics and users at your fingertips."
+        "defaultMessage": "Subiectele şi utilizatorii tăi preferaţi la un click distanţă."
     },
     {
         "id": "app.dashboard.addFirstColumn",
         "description": "add first column button label",
-        "defaultMessage": "Add first column"
+        "defaultMessage": "Adaugă prima coloană"
     },
     {
         "id": "app.dashboard.createNewListColumnSubtitle",
         "description": "panel subtitle for creating a new list and adding it to a column",
-        "defaultMessage": "Please create a list"
+        "defaultMessage": "Te rugăm să creezi o listă"
     },
     {
         "id": "app.dashboard.akashaBoard",
         "description": "label for dashboard top bar popover",
-        "defaultMessage": "Akasha Board"
+        "defaultMessage": "Bordul Akasha "
     },
     {
         "id": "app.dashboard.newBoard",
         "description": "label for dashboard popover new board button",
-        "defaultMessage": "New board"
+        "defaultMessage": "Bord nou"
     },
     {
         "id": "app.dashboard.createNewSubtitle",
         "description": "subtitle for creating a new board modal",
-        "defaultMessage": "Please insert the name of your board"
+        "defaultMessage": "Te rugăm să adaugi numele bordului tău"
     },
     {
         "id": "app.dashboard.modalInputPlaceholder",
         "description": "placeholder for new dashboard modal input",
-        "defaultMessage": "Type the name of your board here"
+        "defaultMessage": "Scrie numele bordului tău aici"
     },
     {
         "id": "app.dashboard.comments",
         "description": "label for user comments column",
-        "defaultMessage": "User comments"
+        "defaultMessage": "Comentariile utilizatorilor"
     },
     {
         "id": "app.dashboard.previewComments",
@@ -237,7 +237,7 @@
     {
         "id": "app.dashboard.addNewCommentsColumn",
         "description": "panel title for adding a new comments column",
-        "defaultMessage": "User comments column"
+        "defaultMessage": "Coloana de comentarii a utilizatorului"
     },
     {
         "id": "app.dashboard.addNewCommentsColumnSubtitle",
