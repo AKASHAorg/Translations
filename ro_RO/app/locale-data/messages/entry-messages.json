@@ -202,7 +202,7 @@
     {
         "id": "app.entry.makeSureToOpenDApp",
         "description": "Message",
-        "defaultMessage": "Make sure to open AKASHA dApp on the computer you have published from."
+        "defaultMessage": "Asigură-te că deschizi DAPP-ul AKASHA de pe computer-ul de pe care ai publicat."
     },
     {
         "id": "app.entry.newComments",
@@ -212,42 +212,42 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "Nici un comentariu în acest moment"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "No drafts matching your search criteria were found."
+        "defaultMessage": "Nici o schiţă nu a fost găsită care să corespundă căutărilor tale."
     },
     {
         "id": "app.entry.noEntries",
         "description": "placeholder for empty entry list",
-        "defaultMessage": "No entries yet"
+        "defaultMessage": "Nici o intrare în acest moment"
     },
     {
         "id": "app.entry.noNewEntries",
         "description": "placeholder for empty latest entries list",
-        "defaultMessage": "No new entries"
+        "defaultMessage": "Nici o intrare nouă"
     },
     {
         "id": "app.entry.nothingToCollect",
         "description": "explainer message for not being able to collect when balance is 0 Essence",
-        "defaultMessage": "There is no Essence to collect from this entry"
+        "defaultMessage": "Nu este esenţă pentru a colecta de la această intrare"
     },
     {
         "id": "app.entry.noTitle",
         "description": "when a draft has no title",
-        "defaultMessage": "New draft"
+        "defaultMessage": "Schiţă nouă"
     },
     {
         "id": "app.entry.noVotes",
         "description": "Placeholder for empty votes list",
-        "defaultMessage": "No votes"
+        "defaultMessage": "Nici un vot"
     },
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "Acum vizualizezi o comandă"
     },
     {
         "id": "app.entry.originalVersion",
@@ -472,27 +472,27 @@
     {
         "id": "app.entry.loadingImage",
         "description": "placeholder when an image is loading",
-        "defaultMessage": "Loading image"
+        "defaultMessage": "Se încarcă imaginea"
     },
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "entries"
+        "defaultMessage": "intrări"
     },
     {
         "id": "app.leaveAComment",
         "description": "when user searches for a draft and nothing found",
-        "defaultMessage": "Be the first one to write a comment!"
+        "defaultMessage": "Fi primul care scrie un comentariu!"
     },
     {
         "id": "app.entry.commentedOn",
         "description": "commented on",
-        "defaultMessage": "commented on"
+        "defaultMessage": "comentat la"
     },
     {
         "id": "app.entry.repliedOn",
         "description": "replied on",
-        "defaultMessage": "replied on a comment on"
+        "defaultMessage": "răspuns la un comentariu la"
     },
     {
         "id": "app.entry.loadComments",
