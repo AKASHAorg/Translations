@@ -2,37 +2,37 @@
     {
         "id": "app.error.reportErrorTitle",
         "description": "title for report error modal",
-        "defaultMessage": "Report error"
+        "defaultMessage": "Raportează eroarea"
     },
     {
         "id": "app.error.thankYouForYourFeedback",
         "description": "thank you for feedback",
-        "defaultMessage": "Thank you for your feedback!"
+        "defaultMessage": "Iţi mulţumim pentru feedback!"
     },
     {
         "id": "app.error.copyTheFollowingLines",
         "description": "text explaining what to do to report an issue on GH",
-        "defaultMessage": "Please copy the following lines and create a new issue on {githubLink}."
+        "defaultMessage": "Te rugăm să copiezi următoarele linii şi să adaugi o nouă problemă de rezolvat pe githubLink}."
     },
     {
         "id": "app.error.alsoCheckForOpenedIssues",
         "description": "text suggesting to check for existing issues",
-        "defaultMessage": "Also check if there are no already opened issues regarding this error!"
+        "defaultMessage": "De asemenea, verifică dacă nu mai există alte intrări deschise cu privire la această eroare!"
     },
     {
         "id": "app.error.backupKeys",
         "description": "error message for backup keys action",
-        "defaultMessage": "Generating backup has failed. Try again"
+        "defaultMessage": "Generarea backup-ului a eşuat. Încearcă din nou"
     },
     {
         "id": "app.error.commentsDownvote",
         "description": "error message for downvoting a comment",
-        "defaultMessage": "An error occurred while downvoting a comment"
+        "defaultMessage": "O eroare a intervenit în timp ce s-a oferit un vot negativ la un comentariu"
     },
     {
         "id": "app.error.commentsPublish",
         "description": "error message for publishing a comment",
-        "defaultMessage": "An error occured while publishing a comment"
+        "defaultMessage": "A intervenit o eroare în timpul publicării unui comentariu"
     },
     {
         "id": "app.error.commentsUpvote",
