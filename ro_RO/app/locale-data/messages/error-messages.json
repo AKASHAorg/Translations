@@ -37,107 +37,107 @@
     {
         "id": "app.error.commentsUpvote",
         "description": "error message for upvoting a comment",
-        "defaultMessage": "An error occurred while upvoting a comment"
+        "defaultMessage": "A intervenit o eroare în timp ce s-a votat pozitiv un comentariu"
     },
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "A intervenit o eroare în timpul salvării bordului nou"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "A intervenit o eroare în timpul salvării unei noi coloane"
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "A intervenit o eroare în timpul ştergerii bordului"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "A intervenit o eroare în timpul ştergerii coloanei tale"
     },
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii bordului activ"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii bordurilor tale"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "A intervenit o eroare în timpul salvării bordului activ"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "A intervenit o eroare în timpul reactualizării coloanei tale"
     },
     {
         "id": "app.error.draftAutosave",
         "description": "error message for autosaving a draft",
-        "defaultMessage": "Cannot save latest changes of this draft"
+        "defaultMessage": "Nu s-au putut salva ultimele modificări ale acestei schiţe"
     },
     {
         "id": "app.error.draftPublish",
         "description": "error message for publishing a draft",
-        "defaultMessage": "An error occured while publishing your draft"
+        "defaultMessage": "A intervenit o eroare în timpul publicării schiţei tale"
     },
     {
         "id": "app.error.entriesGetAsDrafts",
         "description": "error message for fetching your own entries",
-        "defaultMessage": "An error occured while trying to fetch your entries. Showing local drafts only"
+        "defaultMessage": "A intervenit o eroare în timpul retragerii intrarilor tale. Se afişează doar schiţele locale"
     },
     {
         "id": "app.error.entryClaim",
         "description": "error message for collecting Essence for an entry",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "A intervenit o eroare în timpul colectării esenţei pentru {entryTitle}"
     },
     {
         "id": "app.error.entryClaimVote",
         "description": "error message for collecting Essence for a vote",
-        "defaultMessage": "An error occurred while collecting Essence for {entryTitle}"
+        "defaultMessage": "A intervenit o eroare în timpul colectării esenţei pentru {entryTitle}"
     },
     {
         "id": "app.error.entryDownvote",
         "description": "error message for downvoting an entry",
-        "defaultMessage": "An error occurred while downvoting {entryTitle}"
+        "defaultMessage": "A intervenit o eroare în timpul votării negative a titlului"
     },
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "A intervenit o eroare în timpul obţinerii datelor de intrare"
     },
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "A intervenit o eroare în timpul obţinerii listei de intrări"
     },
     {
         "id": "app.error.entryUpvote",
         "description": "error message for upvoting an entry",
-        "defaultMessage": "An error occurred while upvoting {entryTitle}"
+        "defaultMessage": "A intervenit o eroare în timpul votului pozitiv a titlului"
     },
     {
         "id": "app.error.errorNotificationTitle",
         "description": "title for error notifcations",
-        "defaultMessage": "Error code {errorCode}"
+        "defaultMessage": "Cod de eroare {errorCode}"
     },
     {
         "id": "app.error.fatalError",
         "description": "title for fatal error modal",
-        "defaultMessage": "Fatal error"
+        "defaultMessage": "Eroare fatală"
     },
     {
         "id": "app.error.generalSettings",
         "description": "error message for fetching general settings",
-        "defaultMessage": "An error occurred while getting your general settings"
+        "defaultMessage": "A intervenit o eroare în timpul obţinerii setărilor generale"
     },
     {
         "id": "app.error.gethGetOptions",
