@@ -2,7 +2,7 @@
     {
         "id": "app.entry.allowedImageTypes",
         "description": "types of images allowed for upload",
-        "defaultMessage": "JPG, GIF or PNG images"
+        "defaultMessage": "Imagini JPG, GIF sau PNG"
     },
     {
         "id": "app.entry.alreadyDownvoted",
@@ -17,17 +17,17 @@
     {
         "id": "app.entry.articleEntryType",
         "description": "entry of type article",
-        "defaultMessage": "Article"
+        "defaultMessage": "Articol"
     },
     {
         "id": "app.entry.cannotClaimEntry",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his entry",
-        "defaultMessage": "You can only collect Essence if your entry's score is positive"
+        "defaultMessage": "Poţi să colectezi esenţă doar dacă intrările de scor sunt pozitive"
     },
     {
         "id": "app.entry.cannotClaimVote",
         "description": "tooltip for collect button for the situation when a user cannot collect Essence for his vote",
-        "defaultMessage": "You can only collect Essence if your vote is aligned with the majority (e.g. you upvoted and entry score is positive)"
+        "defaultMessage": "Poţi să colectezi esenţă doar dacă votul tău este alineat cu majoritatea (ex. ai oferit un vot negativ pentru o intrare pozitivă)"
     },
     {
         "id": "app.entry.cannotExtractWebsiteInfo",
