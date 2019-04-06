@@ -47,17 +47,17 @@
     {
         "id": "app.dashboard.addToBoard",
         "description": "button label for adding a tag/profile column to a board",
-        "defaultMessage": "Add to board"
+        "defaultMessage": "Adaugă la bord"
     },
     {
         "id": "app.list.addToNewDashboard",
         "description": "popover title for creating a new dashboard",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Crează un nou bord"
     },
     {
         "id": "app.dashboard.collection",
         "description": "label for collection column",
-        "defaultMessage": "Collection"
+        "defaultMessage": "Colecţie"
     },
     {
         "id": "app.dashboard.columnStream",
@@ -67,32 +67,32 @@
     {
         "id": "app.dashboard.createDashboardFirst",
         "description": "Tooltip message for add column button when there is no board created",
-        "defaultMessage": "You must create a board first"
+        "defaultMessage": "Trebuie să creezi un bord"
     },
     {
         "id": "app.dashboard.createOneNow",
         "description": "button label for creating a new board",
-        "defaultMessage": "Create one now"
+        "defaultMessage": "Crează unul acum"
     },
     {
         "id": "app.dashboard.createNew",
         "description": "button label/tooltip for creating a new board",
-        "defaultMessage": "Create a new board"
+        "defaultMessage": "Crează un bord nou"
     },
     {
         "id": "app.dashboard.dashboardName",
         "description": "input label for board name field",
-        "defaultMessage": "Board name"
+        "defaultMessage": "Numele bordului"
     },
     {
         "id": "app.list.dashboardNameRequired",
         "description": "required error message for board name input field",
-        "defaultMessage": "Board name is required"
+        "defaultMessage": "Numele bordului este necesar"
     },
     {
         "id": "app.dashboard.dashboardNameUnique",
         "description": "unique name error message for board name input field",
-        "defaultMessage": "This board already exists"
+        "defaultMessage": "Acest bord există deja"
     },
     {
         "id": "app.dashboard.deleteColumnConfirmation",
