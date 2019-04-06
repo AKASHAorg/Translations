@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Colectează"
     },
     {
         "id": "app.general.collected",
@@ -672,7 +672,7 @@
     {
         "id": "app.general.comment",
         "description": "entry comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Comentariu"
     },
     {
         "id": "app.general.publishEntries",
