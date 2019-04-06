@@ -12,52 +12,52 @@
     {
         "id": "app.confirmations.claim",
         "description": "confirmation message for collecting Essence from an entry",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Confirmă că doreşti să colectezi esenţă."
     },
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Colectează"
     },
     {
         "id": "app.confirmations.claimVote",
         "description": "confirmation message for collecting Essence from a vote",
-        "defaultMessage": "Please confirm that you want to collect Essence."
+        "defaultMessage": "Confirmă că doreşti să colectezi esenţă."
     },
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Colectează"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Te rugăm să confirmi că doreşti publicarea acestui comentariu."
     },
     {
         "id": "app.confirmations.commentDownvote",
         "description": "confirmation message for downvoting a comment",
-        "defaultMessage": "Please confirm that you want to downvote this comment."
+        "defaultMessage": "Te rugăm să confirmi că doreşti să oferi un vot negativ acestui comentariu."
     },
     {
         "id": "app.confirmations.commentDownvoteTitle",
         "description": "title for confirmation dialog for downvoting a comment",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Vot negativ"
     },
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Comentariu"
     },
     {
         "id": "app.confirmations.commentUpvote",
         "description": "confirmation message for upvoting a comment",
-        "defaultMessage": "Please confirm that you want to upvote this comment."
+        "defaultMessage": "Te rugăm să confirmi că doresti să oferi un vot pozitiv acestui comentariu."
     },
     {
         "id": "app.confirmations.commentUpvoteTitle",
         "description": "title for confirmation dialog for upvoting a comment",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Vot pozitiv"
     },
     {
         "id": "app.confirmations.cycleAeth",
@@ -67,7 +67,7 @@
     {
         "id": "app.confirmations.cycleAethTitle",
         "description": "title for confirmation dialog for cycling AETH",
-        "defaultMessage": "Cycle"
+        "defaultMessage": "Ciclu"
     },
     {
         "id": "app.confirmations.draftPublish",
@@ -97,7 +97,7 @@
     {
         "id": "app.confirmations.entryDownvoteTitle",
         "description": "title for confirmation message for downvoting an entry",
-        "defaultMessage": "Downvote"
+        "defaultMessage": "Vot negativ"
     },
     {
         "id": "app.confirmations.entryUpvote",
@@ -107,7 +107,7 @@
     {
         "id": "app.confirmations.entryUpvoteTitle",
         "description": "title for confirmation message for upvoting an entry",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Vot pozitiv"
     },
     {
         "id": "app.confirmations.follow",
@@ -127,7 +127,7 @@
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Colectează"
     },
     {
         "id": "app.confirmations.passphrase",
@@ -192,7 +192,7 @@
     {
         "id": "app.confirmation.transferAethTitle",
         "description": "title for confirmation dialog for transfering AETH",
-        "defaultMessage": "Transfer AETH"
+        "defaultMessage": "Transferă AETH"
     },
     {
         "id": "app.confirmation.transferEth",
