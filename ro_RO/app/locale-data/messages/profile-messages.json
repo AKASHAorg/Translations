@@ -307,7 +307,7 @@
     {
         "id": "app.profile.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Nu mai urmări"
     },
     {
         "id": "app.profile.yourEthAddress",
