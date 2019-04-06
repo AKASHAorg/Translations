@@ -82,7 +82,7 @@
     {
         "id": "app.form.transformEssence",
         "description": "title for transform essence form",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Transformă Esenţa"
     },
     {
         "id": "app.form.transformEssenceDisclaimer",
