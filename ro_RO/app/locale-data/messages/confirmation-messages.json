@@ -197,41 +197,41 @@
     {
         "id": "app.confirmation.transferEth",
         "description": "confirmation message for transfering ETH",
-        "defaultMessage": "Please confirm that you want to transfer {value} ETH to {displayName}."
+        "defaultMessage": "Confirmă că doreşti să transferi {value} ETH către {displayName}."
     },
     {
         "id": "app.confirmation.transferEthTitle",
         "description": "title for confirmation dialog for transfering ETH",
-        "defaultMessage": "Transfer ETH"
+        "defaultMessage": "Transferă ETH"
     },
     {
         "id": "app.confirmations.transformEssence",
         "description": "confirmation message for transforming Essence into AETH",
-        "defaultMessage": "Please confirm that you want to transform {amount} Essence"
+        "defaultMessage": "Confirmă că doreşti să transformi {amount} de Esenţă"
     },
     {
         "id": "app.confirmations.transformEssenceTitle",
         "description": "title for confirmation diialog for transforming Essence into AETH",
-        "defaultMessage": "Transform Essence"
+        "defaultMessage": "Transformă Esenţa"
     },
     {
         "id": "app.confirmations.unfollow",
         "description": "confirmation message for unfollowing a user",
-        "defaultMessage": "Please confirm that you want to unfollow {displayName}."
+        "defaultMessage": "Confirmă că doreşti să nu mai urmăreşti pe {displayName}."
     },
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Nu mai urmări"
     },
     {
         "id": "app.confirmations.batch",
         "description": "confirmation message for a batch of transactions",
-        "defaultMessage": "Please confirm that you want to send {txCount} transactions."
+        "defaultMessage": "Confirmă că doreşti să trimiţi{tranzacţiile txCount}."
     },
     {
         "id": "app.confirmations.batchTitle",
         "description": "title for confirmation dialog for a batch of transations",
-        "defaultMessage": "Multiple transactions"
+        "defaultMessage": "Tranzacţii multiple"
     }
 ]
