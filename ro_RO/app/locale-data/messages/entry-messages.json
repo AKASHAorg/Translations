@@ -352,7 +352,7 @@
     {
         "id": "app.entry.upvote",
         "description": "upvote button tooltip",
-        "defaultMessage": "Upvote"
+        "defaultMessage": "Vot pozitiv"
     },
     {
         "id": "app.entry.version",
