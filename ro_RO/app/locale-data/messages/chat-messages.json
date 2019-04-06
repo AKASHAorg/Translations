@@ -12,7 +12,7 @@
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Aderă la canal"
     },
     {
         "id": "app.chat.channelName",
