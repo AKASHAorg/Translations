@@ -2,12 +2,12 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Canale marcate"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "Canale recente"
     },
     {
         "id": "app.chat.joinChannel",
@@ -17,36 +17,36 @@
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "Numele canalului"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Scrie ceva frumos şi apasă \"enter\" ca să trimiţi"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "Spaţiul pentru numele canalului nu ar trebui să fie gol"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Numele canalului trebuie să înceapă cu un caracter fără majusculă"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Sunt permise caractere alfanumerice fără majusculă, liniute (-) şi sublinieri (_)"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Numele canalului nu trebuie să aibe mai mult de 32 caractere"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Acest canal este efemer, mesajele vor dispărea la 24 de ore după publicare"
     }
 ]
