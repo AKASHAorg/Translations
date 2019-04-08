@@ -357,7 +357,7 @@
     {
         "id": "app.entry.version",
         "description": "entry version",
-        "defaultMessage": "version"
+        "defaultMessage": "версия"
     },
     {
         "id": "app.entry.versionHistory",
