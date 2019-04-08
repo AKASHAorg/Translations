@@ -17,7 +17,7 @@
     {
         "id": "app.action.comment",
         "description": "publish comment on an entry",
-        "defaultMessage": "Comment on"
+        "defaultMessage": "Комментировать:"
     },
     {
         "id": "app.action.commentDownvote",
