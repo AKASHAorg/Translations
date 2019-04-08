@@ -472,7 +472,7 @@
     {
         "id": "app.general.running",
         "description": "service status",
-        "defaultMessage": "Running"
+        "defaultMessage": "работает"
     },
     {
         "id": "app.general.save",
@@ -567,12 +567,12 @@
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "остановлен"
     },
     {
         "id": "app.general.stream",
         "description": "tooltip for sidebar stream button",
-        "defaultMessage": "Stream"
+        "defaultMessage": "Поток данных"
     },
     {
         "id": "app.general.submit",
@@ -887,11 +887,11 @@
     {
         "id": "app.general.here",
         "description": "here",
-        "defaultMessage": "here"
+        "defaultMessage": "здесь"
     },
     {
         "id": "app.general.version",
-        "description": "version",
+        "description": "версия",
         "defaultMessage": "Версия"
     },
     {
