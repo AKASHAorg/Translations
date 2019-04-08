@@ -22,7 +22,7 @@
     {
         "id": "app.tag.tagsLeft",
         "description": "How many tags you can add",
-        "defaultMessage": "({value} remaining)"
+        "defaultMessage": "(осталось {value})"
     },
     {
         "id": "app.tag.tags",
