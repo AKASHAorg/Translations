@@ -347,7 +347,7 @@
     {
         "id": "app.entry.tooltipAuthor",
         "description": "error message in case author cannot be resolved",
-        "defaultMessage": "Cannot resolve entry author"
+        "defaultMessage": "Невозможно найти автора"
     },
     {
         "id": "app.entry.upvote",
