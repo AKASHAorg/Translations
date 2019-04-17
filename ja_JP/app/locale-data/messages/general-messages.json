@@ -37,7 +37,7 @@
     {
         "id": "app.general.addTo",
         "description": "add to",
-        "defaultMessage": "Add To"
+        "defaultMessage": "に追加"
     },
     {
         "id": "app.general.aeth",
@@ -412,7 +412,7 @@
     {
         "id": "app.general.received",
         "description": "received",
-        "defaultMessage": "received"
+        "defaultMessage": "受取り済み"
     },
     {
         "id": "app.general.receivedAmount",
