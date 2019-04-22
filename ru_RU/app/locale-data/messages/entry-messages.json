@@ -57,7 +57,7 @@
     {
         "id": "app.entry.commentsCount",
         "description": "Number of comments",
-        "defaultMessage": "{count, number} {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} {count, plural, one {комментарий} few {комментариев} many {комментариев} other {комментарии}}"
     },
     {
         "id": "app.entry.continueEditing",
@@ -442,7 +442,7 @@
     {
         "id": "app.entry.publishedEntryCategory",
         "description": "entry type suffix by category",
-        "defaultMessage": "публикации"
+        "defaultMessage": "публикаций"
     },
     {
         "id": "app.entry.gotoMyDrafts",
@@ -477,7 +477,7 @@
     {
         "id": "app.entry.entries",
         "description": "plural form of entry! :)",
-        "defaultMessage": "публикации"
+        "defaultMessage": "публикаций"
     },
     {
         "id": "app.leaveAComment",
