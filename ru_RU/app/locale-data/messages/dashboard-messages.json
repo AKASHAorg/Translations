@@ -207,7 +207,7 @@
     {
         "id": "app.dashboard.akashaBoard",
         "description": "label for dashboard top bar popover",
-        "defaultMessage": "Akasha Board"
+        "defaultMessage": "Панель управления Akasha"
     },
     {
         "id": "app.dashboard.newBoard",
