@@ -252,7 +252,7 @@
     {
         "id": "app.general.hoursCount",
         "description": "hours count",
-        "defaultMessage": "{hours, number} {hours, plural, one {hour} other {hours}}"
+        "defaultMessage": "{hours, number} {hours, plural, one {час} few {часа} many {часов} other {часы}}"
     },
     {
         "id": "app.general.ipfsServiceOff",
