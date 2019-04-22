@@ -322,7 +322,7 @@
     {
         "id": "app.profile.profiles",
         "description": "plural form of profile :)",
-        "defaultMessage": "профили"
+        "defaultMessage": "профилей"
     },
     {
         "id": "app.profile.comments",
