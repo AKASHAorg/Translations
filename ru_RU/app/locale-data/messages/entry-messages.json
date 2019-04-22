@@ -82,7 +82,7 @@
     {
         "id": "app.entry.draftsCount",
         "description": "number of drafts",
-        "defaultMessage": "{count, number} {count, plural, one {draft} few {drafts} many {drafts} other {drafts}}"
+        "defaultMessage": "{count, number} {count, plural, one {черновик} few {черновика} many {черновиков} other {черновики}}"
     },
     {
         "id": "app.entry.draftContentRequired",
@@ -132,7 +132,7 @@
     {
         "id": "app.entry.entriesCount",
         "description": "number of entries",
-        "defaultMessage": "{count, number} {count, plural, one {entry} other {entries}}"
+        "defaultMessage": "{count, number} {count, plural, one {публикация} few {публикации} many {публикаций} other {публикации}}"
     },
     {
         "id": "app.entry.enterWebAddress",
@@ -207,7 +207,7 @@
     {
         "id": "app.entry.newComments",
         "description": "Message to show when new comments were published",
-        "defaultMessage": "{count, number} new {count, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "{count, number} новый (-х) {count, plural, one {комментарий} few {комментария} many {комментариев} other {комментарии}}"
     },
     {
         "id": "app.entry.noCommentsFound",
@@ -402,7 +402,7 @@
     {
         "id": "app.entry.wordsCount",
         "description": "number of words in an entry",
-        "defaultMessage": "{words, number} {words, plural, one {word} few {words} many {words} other {words}}"
+        "defaultMessage": "{words, number} {words, plural, one {слово} few {слова} many {слов} other {слова}}"
     },
     {
         "id": "app.entry.writeComment",
@@ -497,6 +497,6 @@
     {
         "id": "app.entry.loadComments",
         "description": "label for load comments button",
-        "defaultMessage": "Load {commentsCount, number} {commentsCount, plural, one {comment} few {comments} many {comments} other {comments}}"
+        "defaultMessage": "Загрузить {commentsCount, number} {commentsCount, plural, one {комментарий} few {комментария} many {комментариев} other {комментарии}}"
     }
 ]
