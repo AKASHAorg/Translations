@@ -181,7 +181,7 @@
     },
     {
         "id": "app.general.entries",
-        "description": "публикации",
+        "description": "публикаций",
         "defaultMessage": "Публикации"
     },
     {
@@ -792,7 +792,7 @@
     {
         "id": "app.entry.searchingNoResults",
         "description": "searching for a term returned no results message",
-        "defaultMessage": "Searching for \"{searchTerm}\" returned 0 {resource}. Please try another word!"
+        "defaultMessage": "Поиск по слову «{searchTerm}» вернул 0 {resource}. Попробуйте ввести другое слово!"
     },
     {
         "id": "app.general.go",
