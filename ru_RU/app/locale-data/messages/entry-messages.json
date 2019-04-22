@@ -197,7 +197,7 @@
     {
         "id": "app.entry.localVersion",
         "description": "label for local version of an entry",
-        "defaultMessage": "Local version"
+        "defaultMessage": "Локальная версия"
     },
     {
         "id": "app.entry.makeSureToOpenDApp",
@@ -247,7 +247,7 @@
     {
         "id": "app.entry.olderVersion",
         "description": "entry subtitle for reading older versions",
-        "defaultMessage": "You are now viewing an older"
+        "defaultMessage": "Вы просматриваете старую"
     },
     {
         "id": "app.entry.originalVersion",
@@ -277,7 +277,7 @@
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "на прочтение"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
