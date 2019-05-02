@@ -182,12 +182,12 @@
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "名前"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "パスフレーズが一致しません。もう一度パスフレーズを確認して入力してください。"
     },
     {
         "id": "app.form.passphraseVerify",
