@@ -102,7 +102,7 @@
     {
         "id": "app.dashboard.deleteDashboardConfirmation",
         "description": "confirmation message for deleting a board",
-        "defaultMessage": "Are you sure you want to delete {name}?"
+        "defaultMessage": "{name} を削除してもよろしいですか。"
     },
     {
         "id": "app.dashboard.firstDashboard",
@@ -117,7 +117,7 @@
     {
         "id": "app.dashboard.latest",
         "description": "column title for \"latest entries\" (newest entries published on Akasha)",
-        "defaultMessage": "Latest entries"
+        "defaultMessage": "最新の投稿"
     },
     {
         "id": "app.dashboard.list",
