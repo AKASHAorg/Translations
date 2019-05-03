@@ -22,7 +22,7 @@
     {
         "id": "app.setup.getStarted",
         "description": "welcome subtitle when there are no profiles",
-        "defaultMessage": "Get started by creating a new identity!"
+        "defaultMessage": "新しいIDを作成して始める"
     },
     {
         "id": "app.setup.gethDataDirPath",
@@ -47,7 +47,7 @@
     {
         "id": "app.setup.importKeys",
         "description": "Label for import keys button",
-        "defaultMessage": "Import keys"
+        "defaultMessage": "Keyをインポートする"
     },
     {
         "id": "app.setup.ipfsStoragePath",
