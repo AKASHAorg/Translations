@@ -282,7 +282,7 @@
     {
         "id": "app.form.selectOneOption",
         "description": "Label for simple select field",
-        "defaultMessage": "Select one option"
+        "defaultMessage": "オプションを１つ選択してください"
     },
     {
         "id": "app.form.tooLongError",
