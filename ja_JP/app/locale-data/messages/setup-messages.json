@@ -57,7 +57,7 @@
     {
         "id": "app.setup.ipfsStoragePathInfo",
         "description": "tooltip with extra information about the IPFS storage path",
-        "defaultMessage": "Changing this will reset your configuration and your local IPFS content"
+        "defaultMessage": "この変更を行うとあなたのコンフィギュレーションとローカル IPFS コンテンツがリセットされます"
     },
     {
         "id": "app.setup.ipfsApiPort",
@@ -67,7 +67,7 @@
     {
         "id": "app.setup.ipfsGatewayPort",
         "description": "IPFS gateway port input field label",
-        "defaultMessage": "IPFS gateway port"
+        "defaultMessage": "IPF ゲートウェイ ポート"
     },
     {
         "id": "app.setup.ipfsSwarmPort",
@@ -77,7 +77,7 @@
     {
         "id": "app.setup.configuration",
         "description": "panel header for configuration page",
-        "defaultMessage": "Configuration"
+        "defaultMessage": "コンフィギュレーション"
     },
     {
         "id": "app.setup.lightSync",
@@ -92,12 +92,12 @@
     {
         "id": "app.setup.newIdentitySubtitle",
         "description": "subtitle for new identity page",
-        "defaultMessage": "Please enter your passphrase below"
+        "defaultMessage": "あなたのパスフレーズを下に入力してください"
     },
     {
         "id": "app.setup.normalSync",
         "description": "geth normal sync option",
-        "defaultMessage": "Normal sync"
+        "defaultMessage": "通常の同期"
     },
     {
         "id": "app.setup.normalSyncDescription",
@@ -112,17 +112,17 @@
     {
         "id": "app.setup.synchronization",
         "description": "panel header for synchronization page",
-        "defaultMessage": "Synchronization"
+        "defaultMessage": "同期"
     },
     {
         "id": "app.setup.syncOptions",
         "description": "title for synchronization options",
-        "defaultMessage": "Sync options"
+        "defaultMessage": "同期オプション"
     },
     {
         "id": "app.setup.logDetails",
         "description": "panel header for log details page",
-        "defaultMessage": "Log details"
+        "defaultMessage": "ログの詳細"
     },
     {
         "id": "app.setup.login",
@@ -207,7 +207,7 @@
     {
         "id": "app.setup.startingGeth",
         "description": "message shown when Geth is starting",
-        "defaultMessage": "Starting Geth client..."
+        "defaultMessage": "Geth clientを開始中..."
     },
     {
         "id": "app.setup.upgradingGeth",
@@ -232,7 +232,7 @@
     {
         "id": "app.setup.syncStopped",
         "description": "message shown when synchronization was stopped",
-        "defaultMessage": "Synchronization was stopped"
+        "defaultMessage": "同期が停止しました"
     },
     {
         "id": "app.setup.syncCompleted",
@@ -287,7 +287,7 @@
     {
         "id": "app.setup.details",
         "description": "details button label",
-        "defaultMessage": "details"
+        "defaultMessage": "詳細"
     },
     {
         "id": "app.setup.gethStopped",
