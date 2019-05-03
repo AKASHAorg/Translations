@@ -2,7 +2,7 @@
     {
         "id": "app.validator.required",
         "description": "When some field is required to be filled.",
-        "defaultMessage": "入力必須項目です。"
+        "defaultMessage": "入力必須項目です"
     },
     {
         "id": "app.validator.min",
