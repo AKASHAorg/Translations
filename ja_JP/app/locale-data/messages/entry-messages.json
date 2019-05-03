@@ -212,7 +212,7 @@
     {
         "id": "app.entry.noCommentsFound",
         "description": "placeholder for empty comments list",
-        "defaultMessage": "No comments yet."
+        "defaultMessage": "コメントがありません"
     },
     {
         "id": "app.noDraftsFoundOnSearch",
@@ -277,7 +277,7 @@
     {
         "id": "app.entry.readTime",
         "description": "estimated time to read an entry (e.g. 10 min read)",
-        "defaultMessage": "read"
+        "defaultMessage": "既読"
     },
     {
         "id": "app.entry.resolvingIpfsHash",
@@ -327,7 +327,7 @@
     {
         "id": "app.entry.startComment",
         "description": "button label for starting a comment from a highlight",
-        "defaultMessage": "Start comment"
+        "defaultMessage": "コメントを始める"
     },
     {
         "id": "app.entry.startANewDraft",
@@ -367,7 +367,7 @@
     {
         "id": "app.entry.versionNumber",
         "description": "label for version number",
-        "defaultMessage": "Version {index}"
+        "defaultMessage": "バージョン{index}"
     },
     {
         "id": "app.entry.votePending",
