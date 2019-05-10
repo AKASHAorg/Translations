@@ -107,7 +107,7 @@
     {
         "id": "app.general.collect",
         "description": "collect",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Zbierz"
     },
     {
         "id": "app.general.collected",
@@ -672,7 +672,7 @@
     {
         "id": "app.general.comment",
         "description": "entry comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Komentarz"
     },
     {
         "id": "app.general.publishEntries",
