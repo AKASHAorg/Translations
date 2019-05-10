@@ -2,32 +2,32 @@
     {
         "id": "app.chat.joinedChannels",
         "description": "header for joined channels list",
-        "defaultMessage": "Starred channels"
+        "defaultMessage": "Kanały ogwiazdkowane"
     },
     {
         "id": "app.chat.recentChannels",
         "description": "header for recent channels list",
-        "defaultMessage": "Recent channels"
+        "defaultMessage": "Ostatnie kanały"
     },
     {
         "id": "app.chat.joinChannel",
         "description": "title for join channel dialog",
-        "defaultMessage": "Join channel"
+        "defaultMessage": "Dołącz do kanału"
     },
     {
         "id": "app.chat.channelName",
         "description": "label for channel input field",
-        "defaultMessage": "Channel name"
+        "defaultMessage": "Nazwa kanału"
     },
     {
         "id": "app.chat.inputPlaceholder",
         "description": "placeholder for chat input",
-        "defaultMessage": "Write something nice and press \"Enter\" to send it"
+        "defaultMessage": "Napisz coś miłego i wciśnij \"Enter\" aby wysłać"
     },
     {
         "id": "app.chat.emptyChannelInputError",
         "description": "error message displayed when the channel input field is empty",
-        "defaultMessage": "Channel name should not be empty"
+        "defaultMessage": "Nazwa kanału nie może być pusta"
     },
     {
         "id": "app.chat.startWithAlphanumericError",
