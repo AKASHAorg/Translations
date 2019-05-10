@@ -32,21 +32,21 @@
     {
         "id": "app.chat.startWithAlphanumericError",
         "description": "error message displayed when the channel name does not begin with alphanumeric character",
-        "defaultMessage": "Channel name must begin with lowercase alphanumeric character"
+        "defaultMessage": "Nazwa kanału musi zaczynać się od małych liter alfanumerycznego znaku"
     },
     {
         "id": "app.chat.illegalCharactersFormat",
         "description": "error message displayed when the channel name does not respect the requested format",
-        "defaultMessage": "Only lowercase alphanumeric characters, dashes (-) and underscores (_) allowed"
+        "defaultMessage": "Dozwolone są tylko małe litery alfanumeryczne, myślniki (-) i podkreślenia (_)"
     },
     {
         "id": "app.chat.channelTooLongError",
         "description": "error message displayed when the channel name is too long",
-        "defaultMessage": "Channel name must not have more than 32 characters"
+        "defaultMessage": "Nazwa kanału nie może mieć więcej niż 32 znaki"
     },
     {
         "id": "app.chat.channelDisclaimer",
         "description": "disclaimer for custom chat channels",
-        "defaultMessage": "This channel is ephemeral, messages will disappear in 24h since publishing"
+        "defaultMessage": "Ten kanał jest efemeryczny, wiadomości znikną w ciągu 24 godzin od momentu opublikowania"
     }
 ]
