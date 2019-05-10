@@ -17,7 +17,7 @@
     {
         "id": "app.confirmations.claimTitle",
         "description": "title for confirmation dialog for collecting Essence from an entry",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Zbierz"
     },
     {
         "id": "app.confirmations.claimVote",
@@ -27,12 +27,12 @@
     {
         "id": "app.confirmations.claimVoteTitle",
         "description": "title for confirmation dialog for collecting Essence from a vote",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Zbierz"
     },
     {
         "id": "app.confirmations.comment",
         "description": "confirmation message for publishing a comment",
-        "defaultMessage": "Please confirm that you want to publish this comment."
+        "defaultMessage": "Proszę potwierdzić, czy chcesz opublikować ten komentarz."
     },
     {
         "id": "app.confirmations.commentDownvote",
@@ -47,7 +47,7 @@
     {
         "id": "app.confirmations.commentTitle",
         "description": "title for confirmation dialog for publishing comment",
-        "defaultMessage": "Comment"
+        "defaultMessage": "Komentarz"
     },
     {
         "id": "app.confirmations.commentUpvote",
@@ -117,7 +117,7 @@
     {
         "id": "app.confirmations.followTitle",
         "description": "title for confirmation dialog for following a user",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Śledź"
     },
     {
         "id": "app.confirmations.freeAeth",
@@ -127,7 +127,7 @@
     {
         "id": "app.confirmations.freeAethTitle",
         "description": "title for confirmation dialog for freeing/collecting AETH",
-        "defaultMessage": "Collect"
+        "defaultMessage": "Zbierz"
     },
     {
         "id": "app.confirmations.passphrase",
@@ -162,7 +162,7 @@
     {
         "id": "app.confirmations.sendTipTitle",
         "description": "title for confirmation dialog for sending a tip",
-        "defaultMessage": "Send tip"
+        "defaultMessage": "Wyślij napiwek"
     },
     {
         "id": "app.confirmations.createTag",
@@ -222,7 +222,7 @@
     {
         "id": "app.confirmations.unfollowTitle",
         "description": "title for confirmation dialog for unfollowing a user",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Nie śledź"
     },
     {
         "id": "app.confirmations.batch",
