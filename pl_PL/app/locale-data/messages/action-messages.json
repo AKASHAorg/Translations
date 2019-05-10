@@ -17,7 +17,7 @@
     {
         "id": "app.action.comment",
         "description": "publish comment on an entry",
-        "defaultMessage": "Comment on"
+        "defaultMessage": "Skomentowano"
     },
     {
         "id": "app.action.commentDownvote",
@@ -37,12 +37,12 @@
     {
         "id": "app.action.draftPublish",
         "description": "publish an entry",
-        "defaultMessage": "Publish"
+        "defaultMessage": "Opublikuj"
     },
     {
         "id": "app.action.draftPublishUpdate",
         "description": "update/edit an entry",
-        "defaultMessage": "Update"
+        "defaultMessage": "Aktualizuj"
     },
     {
         "id": "app.action.entryDownvote",
@@ -62,7 +62,7 @@
     {
         "id": "app.action.follow",
         "description": "follow a profile",
-        "defaultMessage": "Follow"
+        "defaultMessage": "Śledź"
     },
     {
         "id": "app.action.freeAeth",
@@ -72,32 +72,32 @@
     {
         "id": "app.action.profileRegister",
         "description": "register your profile",
-        "defaultMessage": "Register your profile"
+        "defaultMessage": "Zarejestruj swój profil"
     },
     {
         "id": "app.action.profileUpdate",
         "description": "update your profile",
-        "defaultMessage": "Update your profile"
+        "defaultMessage": "Uaktualnij swój profil"
     },
     {
         "id": "app.action.sendTip",
         "description": "send tip to someone",
-        "defaultMessage": "Send tip to"
+        "defaultMessage": "Wyślij napiwek do"
     },
     {
         "id": "app.action.toggleDonations",
         "description": "change tip options (from personal settings)",
-        "defaultMessage": "Change tip options"
+        "defaultMessage": "Zmień opcje napiwku"
     },
     {
         "id": "app.action.transferAeth",
         "description": "transfer AETH to someone",
-        "defaultMessage": "Transfer {tokenAmount} AETH to"
+        "defaultMessage": "Wyślij {tokenAmount} AETH do"
     },
     {
         "id": "app.action.transferEth",
         "description": "transfer ETH to someone",
-        "defaultMessage": "Transfer {value} ETH to"
+        "defaultMessage": "Wyślij {value} ETH do"
     },
     {
         "id": "app.action.transformEssence",
@@ -107,6 +107,6 @@
     {
         "id": "app.action.unfollow",
         "description": "unfollow a profile",
-        "defaultMessage": "Unfollow"
+        "defaultMessage": "Nie śledź"
     }
 ]
