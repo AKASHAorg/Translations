@@ -62,22 +62,22 @@
     {
         "id": "app.error.dashboardGetActive",
         "description": "error message for fetching the active board",
-        "defaultMessage": "An error occurred while getting the active board"
+        "defaultMessage": "Si è verificato un errore durante la richiesta della board attiva"
     },
     {
         "id": "app.error.dashboardGetAll",
         "description": "error message for fetching all boards",
-        "defaultMessage": "An error occurred while getting your boards"
+        "defaultMessage": "Si è verificato un errore durante la richiesta della tua board"
     },
     {
         "id": "app.error.dashboardSetActive",
         "description": "error message for setting the active board",
-        "defaultMessage": "An error occurred while saving your active board"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio della board attiva"
     },
     {
         "id": "app.error.dashboardUpdateColumn",
         "description": "error message for updating a column",
-        "defaultMessage": "An error occurred while updating your column"
+        "defaultMessage": "Si è verificato un errore durante l'aggiornamente della tua colonna"
     },
     {
         "id": "app.error.draftAutosave",
@@ -112,12 +112,12 @@
     {
         "id": "app.error.entryGetFull",
         "description": "error message for fetching a full entry",
-        "defaultMessage": "An error occurred while getting entry data"
+        "defaultMessage": "Si è verificato un errore durante la richiesta dei dati in ingresso"
     },
     {
         "id": "app.error.entryListIterator",
         "description": "error message for fetching entries in a list",
-        "defaultMessage": "An error occurred while getting entries in a list"
+        "defaultMessage": "Si è verificato un errore durante la richiesta delle voci in una lista"
     },
     {
         "id": "app.error.entryUpvote",
@@ -282,12 +282,12 @@
     {
         "id": "app.error.appErrorSubtitle",
         "description": "Subtitle message to display when the app crashes because of an unexpected error",
-        "defaultMessage": "Something went terribly wrong."
+        "defaultMessage": "Qualcosa è andato terribilmente storto."
     },
     {
         "id": "app.error.copyError",
         "description": "label for copy to clipboard button",
-        "defaultMessage": "Copy error to clipboard"
+        "defaultMessage": "Errore di copia sulla clipboard"
     },
     {
         "id": "app.error.profileFaucet",
