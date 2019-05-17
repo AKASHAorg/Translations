@@ -102,7 +102,7 @@
     {
         "id": "app.general.close",
         "description": "close",
-        "defaultMessage": "Close"
+        "defaultMessage": "Chiudi"
     },
     {
         "id": "app.general.collect",
@@ -117,37 +117,37 @@
     {
         "id": "app.general.comments",
         "description": "entry comments",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Commenti"
     },
     {
         "id": "app.general.confirm",
         "description": "confirm button label",
-        "defaultMessage": "Confirm"
+        "defaultMessage": "Conferma"
     },
     {
         "id": "app.general.confirmedAtBlock",
         "description": "transaction/action confirmed at block number x",
-        "defaultMessage": "Confirmed at block #{blockNr}"
+        "defaultMessage": "Confermato al blocco #{blockNr}"
     },
     {
         "id": "app.general.copy",
         "description": "copy",
-        "defaultMessage": "Copy"
+        "defaultMessage": "Copia"
     },
     {
         "id": "app.general.counter",
         "description": "counter",
-        "defaultMessage": "Counter"
+        "defaultMessage": "Contatore"
     },
     {
         "id": "app.general.create",
         "description": "Create button label",
-        "defaultMessage": "Create"
+        "defaultMessage": "Crea"
     },
     {
         "id": "app.general.created",
         "description": "created",
-        "defaultMessage": "Created"
+        "defaultMessage": "Creato"
     },
     {
         "id": "app.general.cycling",
@@ -157,27 +157,27 @@
     {
         "id": "app.general.delete",
         "description": "Delete something button label",
-        "defaultMessage": "Delete"
+        "defaultMessage": "Cancella"
     },
     {
         "id": "app.general.done",
         "description": "",
-        "defaultMessage": "Done"
+        "defaultMessage": "Fatto"
     },
     {
         "id": "app.general.downloading",
         "description": "downloading geth/IPFS service",
-        "defaultMessage": "Downloading"
+        "defaultMessage": "Scaricando"
     },
     {
         "id": "app.general.edit",
         "description": "Edit button label",
-        "defaultMessage": "Edit"
+        "defaultMessage": "Modifica"
     },
     {
         "id": "app.general.editProfile",
         "description": "Edit profile button label",
-        "defaultMessage": "Edit profile"
+        "defaultMessage": "Mofidica profilo"
     },
     {
         "id": "app.general.entries",
@@ -227,7 +227,7 @@
     {
         "id": "app.general.generatingPreview",
         "description": "placeholder to show while an image preview is being generated",
-        "defaultMessage": "Generating preview"
+        "defaultMessage": "Genera anteprima"
     },
     {
         "id": "app.general.gethServiceOff",
@@ -242,12 +242,12 @@
     {
         "id": "app.general.help",
         "description": "Help button label",
-        "defaultMessage": "Help"
+        "defaultMessage": "Aiuto"
     },
     {
         "id": "app.general.history",
         "description": "transactions history",
-        "defaultMessage": "History"
+        "defaultMessage": "Storia"
     },
     {
         "id": "app.general.hoursCount",
@@ -257,17 +257,17 @@
     {
         "id": "app.general.ipfsServiceOff",
         "description": "IPFS service is stopped",
-        "defaultMessage": "IPFS service OFF"
+        "defaultMessage": "Servizio IPFS spento"
     },
     {
         "id": "app.general.ipfsServiceOn",
         "description": "IPFS service is started",
-        "defaultMessage": "IPFS service ON"
+        "defaultMessage": "Servizio IPFS acceso"
     },
     {
         "id": "app.general.join",
         "description": "join button label",
-        "defaultMessage": "Join"
+        "defaultMessage": "Entra"
     },
     {
         "id": "app.general.karma",
@@ -282,7 +282,7 @@
     {
         "id": "app.general.learnMore",
         "description": "",
-        "defaultMessage": "Learn More"
+        "defaultMessage": "Scopri di più"
     },
     {
         "id": "app.general.leave",
@@ -477,22 +477,22 @@
     {
         "id": "app.general.save",
         "description": "Save changes in a form",
-        "defaultMessage": "Save"
+        "defaultMessage": "Salva"
     },
     {
         "id": "app.general.saveForLater",
         "description": "Save for later (button label)",
-        "defaultMessage": "save for later"
+        "defaultMessage": "salva per dopo"
     },
     {
         "id": "app.general.search",
         "description": "tooltip for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Cerca"
     },
     {
         "id": "app.general.seeOnEtherscan",
         "description": "tooltip for link to etherscan for transaction details",
-        "defaultMessage": "See on Etherscan"
+        "defaultMessage": "Visualizza su Etherscan"
     },
     {
         "id": "app.general.send",
@@ -502,7 +502,7 @@
     {
         "id": "app.general.sent",
         "description": "sent (past for send)",
-        "defaultMessage": "Sent"
+        "defaultMessage": "Invitato"
     },
     {
         "id": "app.general.settings",
@@ -512,27 +512,27 @@
     {
         "id": "app.general.sidebarTooltipDashboard",
         "description": "tooltip text for sidebar dashboard button",
-        "defaultMessage": "Dashboard"
+        "defaultMessage": "Bacheca"
     },
     {
         "id": "app.general.sidebarTooltipProfile",
         "description": "tooltip text for sidebar profile button",
-        "defaultMessage": "My Profile"
+        "defaultMessage": "Il mio profilo"
     },
     {
         "id": "app.general.sidebarTooltipCommunity",
         "description": "tooltip text for sidebar community button",
-        "defaultMessage": "Community: coming soon"
+        "defaultMessage": "Community: in arrivo"
     },
     {
         "id": "app.general.sidebarTooltipSearch",
         "description": "tooltip text for sidebar search button",
-        "defaultMessage": "Search"
+        "defaultMessage": "Cerca"
     },
     {
         "id": "app.general.sidebarTooltipChat",
         "description": "tooltip text for sidebar chat button",
-        "defaultMessage": "Chat (coming soon)"
+        "defaultMessage": "Chat (in arrivo)"
     },
     {
         "id": "app.general.sidebarTooltipDraftText",
@@ -552,22 +552,22 @@
     {
         "id": "app.general.skipStep",
         "description": "label for skip button",
-        "defaultMessage": "Skip this step"
+        "defaultMessage": "Salta questo passaggio"
     },
     {
         "id": "app.general.start",
         "description": "start button label",
-        "defaultMessage": "Start"
+        "defaultMessage": "Inizia"
     },
     {
         "id": "app.general.starting",
         "description": "service status",
-        "defaultMessage": "Starting"
+        "defaultMessage": "Iniziare"
     },
     {
         "id": "app.general.stopped",
         "description": "service status",
-        "defaultMessage": "Stopped"
+        "defaultMessage": "Fermato"
     },
     {
         "id": "app.general.stream",
@@ -577,7 +577,7 @@
     {
         "id": "app.general.submit",
         "description": "submit button label",
-        "defaultMessage": "Submit"
+        "defaultMessage": "Invia"
     },
     {
         "id": "app.general.tags",
@@ -592,17 +592,17 @@
     {
         "id": "app.general.termsOfService",
         "description": "Terms of Service and Privacy Policy",
-        "defaultMessage": "Terms of Service and Privacy Policy"
+        "defaultMessage": "Termini di Servizio e Privacy Policy"
     },
     {
         "id": "app.general.transactionFailed",
         "description": "transaction has failed",
-        "defaultMessage": "Transaction has failed"
+        "defaultMessage": "Transazione fallita"
     },
     {
         "id": "app.general.transferable",
         "description": "AETH transferable/free state",
-        "defaultMessage": "Transferable"
+        "defaultMessage": "Trasferibile"
     },
     {
         "id": "app.general.transform",
