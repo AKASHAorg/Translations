@@ -117,7 +117,7 @@
     {
         "id": "app.settings.tipsAccept",
         "description": "label for profile tips option",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Accetta tips"
     },
     {
         "id": "app.settings.tipsDoNotAccept",
