@@ -207,7 +207,7 @@
     {
         "id": "app.general.ethereumAddress",
         "description": "Placeholder for ethereum address field.",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Indirizzo Ethereum"
     },
     {
         "id": "app.general.failedAtBlock",
