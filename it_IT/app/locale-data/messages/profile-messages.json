@@ -327,6 +327,6 @@
     {
         "id": "app.profile.comments",
         "description": "label for profile comments column",
-        "defaultMessage": "Comments"
+        "defaultMessage": "Commenti"
     }
 ]
