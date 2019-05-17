@@ -2,62 +2,62 @@
     {
         "id": "app.form.about",
         "description": "label for about me validation",
-        "defaultMessage": "About Me"
+        "defaultMessage": "Su di me"
     },
     {
         "id": "app.form.addressRequired",
         "description": "error message for empty receiver input field",
-        "defaultMessage": "You must specify a username or an ethereum address"
+        "defaultMessage": "Devi specificare un nome utente o un indirizzo Ethereum"
     },
     {
         "id": "app.form.acceptTips",
         "description": "label for accept tips switch (personal settings)",
-        "defaultMessage": "Accept tips"
+        "defaultMessage": "Accetta tips"
     },
     {
         "id": "app.form.akashaIdPlaceholder",
         "description": "placeholder for username input field",
-        "defaultMessage": "Type your username"
+        "defaultMessage": "Digita il tuo nome utente"
     },
     {
         "id": "app.form.insufficientEth",
         "description": "title for insufficient funds card",
-        "defaultMessage": "Sorry, you don't have enough test ether!"
+        "defaultMessage": "Mi spiace, non hai abbastanza Ether di prova!"
     },
     {
         "id": "app.form.depositEth",
         "description": "description for insufficient funds card",
-        "defaultMessage": "You need to deposit test ether to publish your profile."
+        "defaultMessage": "Devi depositare Ether di prova per pubblicare il tuo profilo."
     },
     {
         "id": "app.form.aethAmount",
         "description": "aeth amount input label",
-        "defaultMessage": "AETH amount"
+        "defaultMessage": "Quantità di AETH"
     },
     {
         "id": "app.form.amountRequired",
         "description": "error message for empty amount input field",
-        "defaultMessage": "Amount is required"
+        "defaultMessage": "Devi inserire un importo"
     },
     {
         "id": "app.form.ethAmount",
         "description": "eth amount input label",
-        "defaultMessage": "ETH amount"
+        "defaultMessage": "Quantità di ETH"
     },
     {
         "id": "app.form.firstNamePlaceholder",
         "description": "placeholder for first name input field",
-        "defaultMessage": "Type your first name"
+        "defaultMessage": "Digita il tuo nome"
     },
     {
         "id": "app.form.lastNamePlaceholder",
         "description": "placeholder for last name input field",
-        "defaultMessage": "Type your last name"
+        "defaultMessage": "Digita il tuo cognome"
     },
     {
         "id": "app.form.maxAethAmount",
         "description": "maximum amount of AETH transferable",
-        "defaultMessage": "{aeth} Transferable AETH"
+        "defaultMessage": "{aeth} AETH trasferibile"
     },
     {
         "id": "app.form.maxAethAmountLabel",
@@ -67,12 +67,12 @@
     {
         "id": "app.form.maxEssenceAmount",
         "description": "maximum amount of Essence transformable",
-        "defaultMessage": "{essence} Essence available"
+        "defaultMessage": "{essence} Essenza disponibile"
     },
     {
         "id": "app.form.maxEthAmount",
         "description": "maximum amount of ETH transferable",
-        "defaultMessage": "{eth} ETH transferable"
+        "defaultMessage": "{eth} ETH trasferibile"
     },
     {
         "id": "app.form.maxManafiedAethAmount",
@@ -107,12 +107,12 @@
     {
         "id": "app.form.firstName",
         "description": "Placeholder for first name input",
-        "defaultMessage": "First name"
+        "defaultMessage": "Nome"
     },
     {
         "id": "app.form.lastName",
         "description": "Placeholder for last name input",
-        "defaultMessage": "Last Name"
+        "defaultMessage": "Cognome"
     },
     {
         "id": "app.form.akashaId",
@@ -122,32 +122,32 @@
     {
         "id": "app.form.ethereumAddress",
         "description": "Placeholder for ethereum address input",
-        "defaultMessage": "Ethereum address"
+        "defaultMessage": "Indirizzo Ethereum"
     },
     {
         "id": "app.form.from",
         "description": "from",
-        "defaultMessage": "From"
+        "defaultMessage": "Da"
     },
     {
         "id": "app.form.passphrase",
         "description": "label for passphrase input",
-        "defaultMessage": "Passphrase"
+        "defaultMessage": "Frase di accesso"
     },
     {
         "id": "app.form.passphrasePlaceholder",
         "description": "placeholder for passphrase input",
-        "defaultMessage": "Type your passphrase"
+        "defaultMessage": "Digita la tua frase di accesso"
     },
     {
         "id": "app.form.amountToForge",
         "description": "label for forge AETH amount slider",
-        "defaultMessage": "Select the amount of Essence to be transformed"
+        "defaultMessage": "Seleziona l'importo di Essenza da convertire"
     },
     {
         "id": "app.form.amountToShift",
         "description": "label for shift amount slider",
-        "defaultMessage": "Please select an amount to shift"
+        "defaultMessage": "Per favore seleziona l'improto da cambiare"
     },
     {
         "id": "app.form.fromManafiedToCycling",
@@ -162,7 +162,7 @@
     {
         "id": "app.form.confirmPassphrase",
         "description": "label for passphrase confirmation input",
-        "defaultMessage": "Confirm passphrase"
+        "defaultMessage": "Conferma la frase d'accesso"
     },
     {
         "id": "app.form.forgeAeth",
@@ -182,32 +182,32 @@
     {
         "id": "app.form.name",
         "description": "Placeholder for name input field",
-        "defaultMessage": "Name"
+        "defaultMessage": "Nome"
     },
     {
         "id": "app.form.passphraseConfirmError",
         "description": "Error message displayed when the given passphrases don't match",
-        "defaultMessage": "Passphrases don't match. Please type the passphrases again"
+        "defaultMessage": "Le frasi d'accesso non coincidono. Per favore immettile di nuovo"
     },
     {
         "id": "app.form.passphraseVerify",
         "description": "Placeholder for passphrase verify input",
-        "defaultMessage": "Verify passphrase"
+        "defaultMessage": "Verifica la frase d'accesso"
     },
     {
         "id": "app.form.requiredError",
         "description": "error message for required fields",
-        "defaultMessage": "This field is required"
+        "defaultMessage": "Questo campo è obbligatorio"
     },
     {
         "id": "app.form.shiftDown",
         "description": "shift down",
-        "defaultMessage": "Decrease"
+        "defaultMessage": "Riduci"
     },
     {
         "id": "app.form.shiftDownMana",
         "description": "title for shift down Mana form",
-        "defaultMessage": "Decrease Mana Pool"
+        "defaultMessage": "Diminuisci la riserva di Mana"
     },
     {
         "id": "app.form.shiftDownManaHelp",
@@ -217,17 +217,17 @@
     {
         "id": "app.form.shiftUp",
         "description": "shift up",
-        "defaultMessage": "Increase"
+        "defaultMessage": "Aumenta"
     },
     {
         "id": "app.form.shiftUpMana",
         "description": "title for shift up Mana form",
-        "defaultMessage": "Increase Mana Pool"
+        "defaultMessage": "Aumenta la riserva di Mana"
     },
     {
         "id": "app.form.shiftUpManaHelp",
         "description": "label for shift up mana slider",
-        "defaultMessage": "{value} AETH will generate {value} Mana"
+        "defaultMessage": "{value} AETH genererà {value} Mana"
     },
     {
         "id": "app.form.tips",
@@ -242,7 +242,7 @@
     {
         "id": "app.form.totalAethBalance",
         "description": "label for total AETH balance",
-        "defaultMessage": "Total AETH balance"
+        "defaultMessage": "Saldo totale di AETH"
     },
     {
         "id": "app.form.url",
@@ -252,12 +252,12 @@
     {
         "id": "app.form.voteWeightIntegerError",
         "description": "Error displayed when vote weight is not an integer",
-        "defaultMessage": "Vote weight must be an integer"
+        "defaultMessage": "Il peso del voto deve essere un numero intero"
     },
     {
         "id": "app.form.voteWeightRangeError",
         "description": "Error displayed when vote weight is not between limits",
-        "defaultMessage": "Vote weight must be between {min} and {max}"
+        "defaultMessage": "Il peso del voto deve essere fra {min} e {max}"
     },
     {
         "id": "app.form.voteWeightRequired",
