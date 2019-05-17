@@ -262,7 +262,7 @@
     {
         "id": "app.error.profileTransformEssence",
         "description": "error message for transforming Essence in AETH",
-        "defaultMessage": "An error occured while transforming {amount} Essence"
+        "defaultMessage": "Si è verificato un errore durante la conversione di {amount} Essence"
     },
     {
         "id": "app.error.profileUpdate",
@@ -292,21 +292,21 @@
     {
         "id": "app.error.profileFaucet",
         "description": "error message for faucet request",
-        "defaultMessage": "An error occurred while requesting funds from faucet"
+        "defaultMessage": "Si è verificato un errore durante la richiesta di fondi da faucet"
     },
     {
         "id": "app.error.profileRegister",
         "description": "error message for registering your profile",
-        "defaultMessage": "An error occured while registering your profile"
+        "defaultMessage": "Si è verificato un errore durante la registrazione del tuo profilo"
     },
     {
         "id": "app.error.profileFollow",
         "description": "error message for profile follow",
-        "defaultMessage": "An error occurred while following {ethAddress}"
+        "defaultMessage": "Si è verificato un errore durante il completamento di {ethAddress}"
     },
     {
         "id": "app.error.profileUnfollow",
         "description": "error message for profile unfollow",
-        "defaultMessage": "An error occurred while unfollowing {ethAddress}"
+        "defaultMessage": "Si è verificato un errore durante l'annullamento di {ethAddress}"
     }
 ]
