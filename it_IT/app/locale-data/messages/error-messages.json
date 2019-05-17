@@ -247,7 +247,7 @@
     {
         "id": "app.error.profileToggleDonations",
         "description": "error message for changing the settings for accepting tips",
-        "defaultMessage": "An error occured while changing your tips settings"
+        "defaultMessage": "Si è verificato un errore durante il cambiamento delle tue impostazioni tips"
     },
     {
         "id": "app.error.profileTransferAeth",
@@ -267,12 +267,12 @@
     {
         "id": "app.error.profileUpdate",
         "description": "error message for updating your profile",
-        "defaultMessage": "An error occured while updating your profile"
+        "defaultMessage": "Si è verificato un errore durante l'aggiornamente del tuo profilo"
     },
     {
         "id": "app.error.saveGeneralSettings",
         "description": "error message for saving general settings",
-        "defaultMessage": "An error occurred while saving your settings"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio del tuo profilo"
     },
     {
         "id": "app.error.appErrorTitle",
