@@ -42,22 +42,22 @@
     {
         "id": "app.error.dashboardAdd",
         "description": "error message for creating a new board",
-        "defaultMessage": "An error occurred while saving the new board"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio della nuova board"
     },
     {
         "id": "app.error.dashboardAddColumn",
         "description": "error message for adding a column to a board",
-        "defaultMessage": "An error occurred while saving the new column"
+        "defaultMessage": "Si è verificato un errore durante il salvataggio della nuova colonna"
     },
     {
         "id": "app.error.dashboardDelete",
         "description": "error message for deleting a board",
-        "defaultMessage": "An error occurred while deleting your board"
+        "defaultMessage": "Si è verificato un errore durante la cancellazione della tua board"
     },
     {
         "id": "app.error.dashboardDeleteColumn",
         "description": "error message for removing a column from a board",
-        "defaultMessage": "An error occurred while deleting your column"
+        "defaultMessage": "Si è verificato un errore durante la cancellazione della tua colonna"
     },
     {
         "id": "app.error.dashboardGetActive",
