@@ -192,7 +192,7 @@
     {
         "id": "app.setup.advancedSetup",
         "description": "Advanced setup option checkbox",
-        "defaultMessage": "Advanced"
+        "defaultMessage": "アドバンス"
     },
     {
         "id": "app.setup.downloadingGeth",
